@@ -24,6 +24,10 @@ class DbAccessLayer:
     def overwrite_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
         df.to_sql(table_name, con=self._conn, if_exists="replace", index=False)
 
+    def load_table(self, table_name: str) -> pd.DataFrame:
+        df = pd.read_sql(table_name, con=self._conn)
+        return df
+
 
 class RawDataAccessLayer:
     def __init__(self):
