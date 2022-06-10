@@ -52,11 +52,6 @@ class RawDataAccessLayer:
         for file in all_files:
             file_path = f"{self.dir}/prepared/{file}"
             df = pd.read_csv(file_path)
-
-            unnamed_cols = [col for col in df.columns if col[:7] == "Unnamed"]
-            if len(unnamed_cols) > 0:
-                print(file)
-
             all_prepared = pd.concat([all_prepared, df])
         return all_prepared
 
