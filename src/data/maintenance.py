@@ -164,11 +164,20 @@ class RawData:
             for file in all_files:
                 df = access_layer.load_df(country_dir, file)
                 dates = pd.to_datetime(df['Date'], infer_datetime_format=True)
-                min_year = dates.dt.year.min()
-                max_year = dates.dt.year.max()
-                div = df['Div'].values[0]
+                min_year = int(dates.dt.year.min())
+                max_year = int(dates.dt.year.max())
+                div: str = df['Div'].values[0]
+                if country_dir.upper() == "EN":
+                    div_num = int(''.join([e for e in div if e.isnumeric()])) + 1
+                    div = ''.join([e for e in div if e.isalpha()]) + str(div_num)
+                    df['Div'] = div
                 new_file_name = f"{country_dir.upper()}_{div}_{str(int(min_year))[-2:]}-{str(int(max_year))[-2:]}.csv"
                 df['Country'] = country_dir.upper()
+                df['HomeTeam'] = df['HomeTeam'].apply(lambda n: str(n).strip())
+                df['AwayTeam'] = df['AwayTeam'].apply(lambda n: str(n).strip())
+                df['Date'] = pd.to_datetime(df['Date'], infer_datetime_format=True)
+                df['Season'] = f"{min_year}/{max_year}"
                 valid_cols = [col for col in df.columns if col[:7] != "Unnamed"]
                 df_valid = df[valid_cols]
+                df_valid.dropna(subset=['HomeTeam', 'AwayTeam', 'Div', 'Country'], inplace=True)
                 access_layer.save_prepared(df_valid, new_file_name)
