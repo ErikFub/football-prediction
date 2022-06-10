@@ -13,7 +13,7 @@ def get_main_dir_path() -> str:
 
 class DbAccessLayer:
     def __init__(self):
-        self._conn = create_engine("sqlite:///C://Users//erikf//Desktop//football-prediction//data//database")
+        self._conn = create_engine(f"sqlite:///{get_main_dir_path()}//data//database")
 
     def create_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
         df.to_sql(table_name, con=self._conn, if_exists="fail", index=False)
