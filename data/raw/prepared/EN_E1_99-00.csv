@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Country,Season
+E1,1999-07-08,Arsenal,Leicester,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Chelsea,Sunderland,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-07-08,Coventry,Southampton,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Leeds,Derby,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Middlesbrough,Bradford,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Newcastle,Aston Villa,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Sheffield Weds,Liverpool,1.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-07-08,Watford,Wimbledon,2.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,1999-07-08,West Ham,Tottenham,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-08,Everton,Man United,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-09-08,Tottenham,Newcastle,3.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-10-08,Derby,Arsenal,1.0,2.0,A,1.0,1.0,D,EN,1999/2000
+E1,1999-10-08,Sunderland,Watford,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-08,Wimbledon,Middlesbrough,2.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,1999-11-08,Aston Villa,Everton,3.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-08,Leicester,Coventry,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-08,Man United,Sheffield Weds,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-11-08,Southampton,Leeds,0.0,3.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-08-14,Bradford,Sheffield Weds,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-08-14,Derby,Middlesbrough,1.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,1999-08-14,Leicester,Chelsea,2.0,2.0,D,1.0,0.0,H,EN,1999/2000
+E1,1999-08-14,Liverpool,Watford,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-08-14,Man United,Leeds,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-14,Sunderland,Arsenal,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-08-14,Tottenham,Everton,3.0,2.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-08-14,Wimbledon,Coventry,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-08-15,Southampton,Newcastle,4.0,2.0,H,0.0,1.0,A,EN,1999/2000
+E1,1999-08-16,Aston Villa,West Ham,2.0,2.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-08-21,Chelsea,Aston Villa,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-21,Coventry,Derby,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-21,Everton,Southampton,4.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-08-21,Leeds,Sunderland,2.0,1.0,H,0.0,1.0,A,EN,1999/2000
+E1,1999-08-21,Middlesbrough,Liverpool,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-21,Newcastle,Wimbledon,3.0,3.0,D,2.0,1.0,H,EN,1999/2000
+E1,1999-08-21,Sheffield Weds,Tottenham,1.0,2.0,A,1.0,2.0,A,EN,1999/2000
+E1,1999-08-21,Watford,Bradford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-21,West Ham,Leicester,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-08-22,Arsenal,Man United,1.0,2.0,A,1.0,0.0,H,EN,1999/2000
+E1,1999-08-23,Leeds,Liverpool,1.0,2.0,A,1.0,1.0,D,EN,1999/2000
+E1,1999-08-24,Middlesbrough,Leicester,0.0,3.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-08-24,Watford,Aston Villa,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-08-25,Arsenal,Bradford,2.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-08-25,Coventry,Man United,1.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-08-25,Everton,Wimbledon,4.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-25,Newcastle,Sunderland,1.0,2.0,A,1.0,0.0,H,EN,1999/2000
+E1,1999-08-25,Sheffield Weds,Derby,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-08-28,Aston Villa,Middlesbrough,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-28,Bradford,West Ham,0.0,3.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-08-28,Derby,Everton,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-28,Liverpool,Arsenal,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-28,Southampton,Sheffield Weds,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-08-28,Tottenham,Leeds,1.0,2.0,A,1.0,0.0,H,EN,1999/2000
+E1,1999-08-28,Wimbledon,Chelsea,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-08-29,Sunderland,Coventry,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-08-30,Leicester,Watford,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-08-30,Man United,Newcastle,5.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-09,Arsenal,Aston Villa,3.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-09,Chelsea,Newcastle,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-09,Coventry,Leeds,3.0,4.0,A,2.0,3.0,A,EN,1999/2000
+E1,1999-11-09,Liverpool,Man United,2.0,3.0,A,1.0,3.0,A,EN,1999/2000
+E1,1999-11-09,Middlesbrough,Southampton,3.0,2.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-09,Sheffield Weds,Everton,0.0,2.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-11-09,Sunderland,Leicester,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-09,West Ham,Watford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-11-09,Wimbledon,Derby,2.0,2.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-12-09,Bradford,Tottenham,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-09-18,Aston Villa,Bradford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-09-18,Derby,Sunderland,0.0,5.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-09-18,Leicester,Liverpool,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,1999-09-18,Man United,Wimbledon,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-09-18,Southampton,Arsenal,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-09-18,Watford,Chelsea,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-09-19,Everton,West Ham,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-09-19,Leeds,Middlesbrough,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-09-19,Newcastle,Sheffield Weds,8.0,0.0,H,4.0,0.0,H,EN,1999/2000
+E1,1999-09-19,Tottenham,Coventry,3.0,2.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-09-25,Arsenal,Watford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-09-25,Coventry,West Ham,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-09-25,Derby,Bradford,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-09-25,Leeds,Newcastle,3.0,2.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-09-25,Leicester,Aston Villa,3.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-09-25,Man United,Southampton,3.0,3.0,D,2.0,1.0,H,EN,1999/2000
+E1,1999-09-25,Middlesbrough,Chelsea,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-09-25,Sunderland,Sheffield Weds,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-09-26,Wimbledon,Tottenham,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-09-27,Liverpool,Everton,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-02-10,Aston Villa,Liverpool,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-02-10,Bradford,Sunderland,0.0,4.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-02-10,Everton,Coventry,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-02-10,Sheffield Weds,Wimbledon,5.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-03-10,Chelsea,Man United,5.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-03-10,Newcastle,Middlesbrough,2.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-03-10,Tottenham,Leicester,2.0,3.0,A,2.0,1.0,H,EN,1999/2000
+E1,1999-03-10,Watford,Leeds,1.0,2.0,A,1.0,1.0,D,EN,1999/2000
+E1,1999-03-10,West Ham,Arsenal,2.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-04-10,Southampton,Derby,3.0,3.0,D,2.0,1.0,H,EN,1999/2000
+E1,1999-10-16,Arsenal,Everton,4.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-10-16,Coventry,Newcastle,4.0,1.0,H,3.0,0.0,H,EN,1999/2000
+E1,1999-10-16,Derby,Tottenham,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-10-16,Leeds,Sheffield Weds,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-16,Leicester,Southampton,2.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-10-16,Liverpool,Chelsea,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-16,Man United,Watford,4.0,1.0,H,3.0,0.0,H,EN,1999/2000
+E1,1999-10-16,Wimbledon,Bradford,3.0,2.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-10-17,Middlesbrough,West Ham,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-18,Sunderland,Aston Villa,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-23,Aston Villa,Wimbledon,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-10-23,Bradford,Leicester,3.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-10-23,Chelsea,Arsenal,2.0,3.0,A,1.0,0.0,H,EN,1999/2000
+E1,1999-10-23,Sheffield Weds,Coventry,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-10-23,Southampton,Liverpool,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,1999-10-23,Tottenham,Man United,3.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-10-24,Everton,Leeds,4.0,4.0,D,3.0,2.0,H,EN,1999/2000
+E1,1999-10-24,Watford,Middlesbrough,1.0,3.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-10-24,West Ham,Sunderland,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-10-25,Newcastle,Derby,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-10-27,Liverpool,West Ham,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-10-30,Arsenal,Newcastle,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-10-30,Derby,Chelsea,3.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-10-30,Leeds,West Ham,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-10-30,Leicester,Sheffield Weds,3.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-10-30,Man United,Aston Villa,3.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-10-30,Middlesbrough,Everton,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-10-30,Wimbledon,Southampton,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-10-31,Coventry,Watford,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-10-31,Sunderland,Tottenham,2.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-01-11,Liverpool,Bradford,3.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-06-11,Aston Villa,Southampton,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-06-11,Bradford,Coventry,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-06-11,Liverpool,Derby,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-06-11,Man United,Leicester,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-06-11,Middlesbrough,Sunderland,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-06-11,Sheffield Weds,Watford,2.0,2.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-07-11,Chelsea,West Ham,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-07-11,Newcastle,Everton,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-07-11,Tottenham,Arsenal,2.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-07-11,Wimbledon,Leeds,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-20,Arsenal,Middlesbrough,5.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-11-20,Derby,Man United,1.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-11-20,Everton,Chelsea,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,1999-11-20,Leeds,Bradford,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-11-20,Leicester,Wimbledon,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-20,Southampton,Tottenham,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-11-20,Sunderland,Liverpool,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-11-20,Watford,Newcastle,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-11-21,West Ham,Sheffield Weds,4.0,3.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-22,Coventry,Aston Villa,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-27,Coventry,Leicester,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-11-27,Everton,Aston Villa,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-11-27,Middlesbrough,Wimbledon,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-11-27,Watford,Sunderland,2.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,1999-11-27,West Ham,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-28,Arsenal,Derby,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-11-28,Chelsea,Bradford,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-11-28,Leeds,Southampton,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-11-28,Newcastle,Tottenham,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-04-12,Aston Villa,Newcastle,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-04-12,Bradford,Middlesbrough,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-04-12,Leicester,Arsenal,0.0,3.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-04-12,Man United,Everton,5.0,1.0,H,3.0,1.0,H,EN,1999/2000
+E1,1999-04-12,Southampton,Coventry,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-04-12,Sunderland,Chelsea,4.0,1.0,H,4.0,0.0,H,EN,1999/2000
+E1,1999-04-12,Wimbledon,Watford,5.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-05-12,Derby,Leeds,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-05-12,Liverpool,Sheffield Weds,4.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-06-12,Tottenham,West Ham,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-12-18,Arsenal,Wimbledon,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-12-18,Aston Villa,Sheffield Weds,2.0,1.0,H,0.0,1.0,A,EN,1999/2000
+E1,1999-12-18,Bradford,Newcastle,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-12-18,Leicester,Derby,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-12-18,Liverpool,Coventry,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-12-18,Middlesbrough,Tottenham,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,1999-12-18,Sunderland,Southampton,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-12-18,Watford,Everton,1.0,3.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-12-18,West Ham,Man United,2.0,4.0,A,1.0,3.0,A,EN,1999/2000
+E1,1999-12-19,Chelsea,Leeds,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-12-26,Coventry,Arsenal,3.0,2.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-12-26,Derby,Aston Villa,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,1999-12-26,Everton,Sunderland,5.0,0.0,H,3.0,0.0,H,EN,1999/2000
+E1,1999-12-26,Leeds,Leicester,2.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,1999-12-26,Man United,Bradford,4.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-12-26,Newcastle,Liverpool,2.0,2.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-12-26,Sheffield Weds,Middlesbrough,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-12-26,Southampton,Chelsea,1.0,2.0,A,0.0,2.0,A,EN,1999/2000
+E1,1999-12-26,Tottenham,Watford,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-12-26,Wimbledon,West Ham,2.0,2.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-12-28,Arsenal,Leeds,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,1999-12-28,Bradford,Everton,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,1999-12-28,Leicester,Newcastle,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,1999-12-28,Liverpool,Wimbledon,3.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,1999-12-28,Sunderland,Man United,2.0,2.0,D,2.0,1.0,H,EN,1999/2000
+E1,1999-12-28,Watford,Southampton,3.0,2.0,H,2.0,0.0,H,EN,1999/2000
+E1,1999-12-28,West Ham,Derby,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,1999-12-29,Aston Villa,Tottenham,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,1999-12-29,Chelsea,Sheffield Weds,3.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-03-01,Derby,Watford,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-03-01,Everton,Leicester,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,2000-03-01,Leeds,Aston Villa,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-03-01,Newcastle,West Ham,2.0,2.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-03-01,Sheffield Weds,Arsenal,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-03-01,Southampton,Bradford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-01,Tottenham,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-03-01,Wimbledon,Sunderland,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-04-01,Coventry,Chelsea,2.0,2.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-08-01,Bradford,Chelsea,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-12-01,Chelsea,Tottenham,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-01-15,Arsenal,Sunderland,4.0,1.0,H,3.0,0.0,H,EN,1999/2000
+E1,2000-01-15,Chelsea,Leicester,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-01-15,Coventry,Wimbledon,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-01-15,Everton,Tottenham,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,2000-01-15,Middlesbrough,Derby,1.0,4.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-01-15,Sheffield Weds,Bradford,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-01-15,Watford,Liverpool,2.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,2000-01-15,West Ham,Aston Villa,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-01-16,Newcastle,Southampton,5.0,0.0,H,4.0,0.0,H,EN,1999/2000
+E1,2000-01-22,Aston Villa,Chelsea,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-01-22,Bradford,Watford,3.0,2.0,H,2.0,1.0,H,EN,1999/2000
+E1,2000-01-22,Derby,Coventry,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-01-22,Leicester,West Ham,1.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,2000-01-22,Liverpool,Middlesbrough,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-01-22,Southampton,Everton,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-01-22,Tottenham,Sheffield Weds,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-01-22,Wimbledon,Newcastle,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-01-23,Sunderland,Leeds,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-01-24,Man United,Arsenal,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-01-29,Man United,Middlesbrough,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-02-02,Sheffield Weds,Man United,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-05-02,Aston Villa,Watford,4.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-05-02,Bradford,Arsenal,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,2000-05-02,Derby,Sheffield Weds,3.0,3.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-05-02,Leicester,Middlesbrough,2.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-05-02,Liverpool,Leeds,3.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-05-02,Man United,Coventry,3.0,2.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-05-02,Southampton,West Ham,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-05-02,Sunderland,Newcastle,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,2000-05-02,Tottenham,Chelsea,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-06-02,Wimbledon,Everton,0.0,3.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-12-02,Chelsea,Wimbledon,3.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-12-02,Coventry,Sunderland,3.0,2.0,H,3.0,0.0,H,EN,1999/2000
+E1,2000-12-02,Everton,Derby,2.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-12-02,Leeds,Tottenham,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-12-02,Newcastle,Man United,3.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-12-02,Sheffield Weds,Southampton,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-12-02,Watford,Leicester,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-12-02,West Ham,Bradford,5.0,4.0,H,2.0,2.0,D,EN,1999/2000
+E1,2000-02-13,Arsenal,Liverpool,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-02-14,Middlesbrough,Aston Villa,0.0,4.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-02-19,Middlesbrough,Coventry,2.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-02-20,Leeds,Man United,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-02-26,Arsenal,Southampton,3.0,1.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-02-26,Bradford,Aston Villa,1.0,1.0,D,0.0,1.0,A,EN,1999/2000
+E1,2000-02-26,Chelsea,Watford,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,2000-02-26,Coventry,Tottenham,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-02-26,Middlesbrough,Leeds,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-02-26,Sheffield Weds,Newcastle,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-02-26,Sunderland,Derby,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-02-26,West Ham,Everton,0.0,4.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-02-26,Wimbledon,Man United,2.0,2.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-03,Derby,Wimbledon,4.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-04-03,Everton,Sheffield Weds,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-04-03,Man United,Liverpool,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-03,Newcastle,Chelsea,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-03,Southampton,Middlesbrough,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-03,Tottenham,Bradford,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-03,Watford,West Ham,1.0,2.0,A,0.0,2.0,A,EN,1999/2000
+E1,2000-05-03,Aston Villa,Arsenal,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-05-03,Leeds,Coventry,3.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-05-03,Leicester,Sunderland,5.0,2.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-08-03,West Ham,Southampton,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-11-03,Aston Villa,Coventry,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-11-03,Chelsea,Everton,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-11-03,Liverpool,Sunderland,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-11-03,Man United,Derby,3.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-11-03,Newcastle,Watford,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-11-03,Sheffield Weds,West Ham,3.0,1.0,H,0.0,1.0,A,EN,1999/2000
+E1,2000-11-03,Tottenham,Southampton,7.0,2.0,H,4.0,2.0,H,EN,1999/2000
+E1,2000-11-03,Wimbledon,Leicester,2.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-12-03,Bradford,Leeds,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-12-03,Middlesbrough,Arsenal,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-15,Coventry,Everton,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-15,Liverpool,Aston Villa,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-03-18,Coventry,Bradford,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-03-18,Derby,Liverpool,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-03-18,Leicester,Man United,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-03-18,Southampton,Aston Villa,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-03-18,Sunderland,Middlesbrough,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-03-18,Watford,Sheffield Weds,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-18,West Ham,Chelsea,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-03-19,Arsenal,Tottenham,2.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,2000-03-19,Everton,Newcastle,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-03-19,Leeds,Wimbledon,4.0,1.0,H,3.0,1.0,H,EN,1999/2000
+E1,2000-03-25,Aston Villa,Derby,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-03-25,Bradford,Man United,0.0,4.0,A,0.0,2.0,A,EN,1999/2000
+E1,2000-03-25,Chelsea,Southampton,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-03-25,Liverpool,Newcastle,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-25,Middlesbrough,Sheffield Weds,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-03-25,Sunderland,Everton,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,2000-03-25,Watford,Tottenham,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-03-26,Arsenal,Coventry,3.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-03-26,Leicester,Leeds,2.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,2000-03-26,West Ham,Wimbledon,2.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-01-04,Coventry,Liverpool,0.0,3.0,A,0.0,2.0,A,EN,1999/2000
+E1,2000-01-04,Everton,Watford,4.0,2.0,H,3.0,1.0,H,EN,1999/2000
+E1,2000-01-04,Leeds,Chelsea,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-01-04,Man United,West Ham,7.0,1.0,H,3.0,1.0,H,EN,1999/2000
+E1,2000-01-04,Newcastle,Bradford,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-01-04,Southampton,Sunderland,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-01-04,Wimbledon,Arsenal,1.0,3.0,A,1.0,2.0,A,EN,1999/2000
+E1,2000-02-04,Derby,Leicester,3.0,0.0,H,3.0,0.0,H,EN,1999/2000
+E1,2000-03-04,Tottenham,Middlesbrough,2.0,3.0,A,1.0,1.0,D,EN,1999/2000
+E1,2000-05-04,Sheffield Weds,Aston Villa,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-08-04,Bradford,Southampton,1.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-08-04,Leicester,Everton,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-08-04,Sunderland,Wimbledon,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-08-04,Watford,Derby,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-09-04,Aston Villa,Leeds,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-09-04,Liverpool,Tottenham,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-10-04,Middlesbrough,Man United,3.0,4.0,A,1.0,0.0,H,EN,1999/2000
+E1,2000-12-04,Chelsea,Coventry,2.0,1.0,H,0.0,1.0,A,EN,1999/2000
+E1,2000-12-04,West Ham,Newcastle,2.0,1.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-12-04,Wimbledon,Sheffield Weds,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-15,Coventry,Middlesbrough,2.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-04-15,Derby,West Ham,1.0,2.0,A,0.0,2.0,A,EN,1999/2000
+E1,2000-04-15,Everton,Bradford,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-04-15,Man United,Sunderland,4.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-04-15,Newcastle,Leicester,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-15,Sheffield Weds,Chelsea,1.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-04-15,Southampton,Watford,2.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-04-15,Tottenham,Aston Villa,2.0,4.0,A,1.0,0.0,H,EN,1999/2000
+E1,2000-04-16,Leeds,Arsenal,0.0,4.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-16,Wimbledon,Liverpool,1.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-19,Leicester,Tottenham,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-04-21,Bradford,Derby,4.0,4.0,D,4.0,3.0,H,EN,1999/2000
+E1,2000-04-21,Everton,Liverpool,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-04-22,Aston Villa,Leicester,2.0,2.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-22,Chelsea,Middlesbrough,1.0,1.0,D,1.0,1.0,D,EN,1999/2000
+E1,2000-04-22,Sheffield Weds,Sunderland,0.0,2.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-04-22,Southampton,Man United,1.0,3.0,A,0.0,3.0,A,EN,1999/2000
+E1,2000-04-22,Tottenham,Wimbledon,2.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-04-22,West Ham,Coventry,5.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-04-23,Newcastle,Leeds,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,2000-04-23,Watford,Arsenal,2.0,3.0,A,0.0,3.0,A,EN,1999/2000
+E1,2000-04-24,Derby,Southampton,2.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-04-24,Man United,Chelsea,3.0,2.0,H,2.0,2.0,D,EN,1999/2000
+E1,2000-04-24,Sunderland,Bradford,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-04-29,Aston Villa,Sunderland,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-04-29,Chelsea,Liverpool,2.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-04-29,Everton,Arsenal,0.0,1.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-04-29,Newcastle,Coventry,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-04-29,Southampton,Leicester,1.0,2.0,A,1.0,1.0,D,EN,1999/2000
+E1,2000-04-29,Tottenham,Derby,1.0,1.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-04-29,Watford,Man United,2.0,3.0,A,1.0,0.0,H,EN,1999/2000
+E1,2000-04-29,West Ham,Middlesbrough,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-04-30,Bradford,Wimbledon,3.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-04-30,Sheffield Weds,Leeds,0.0,3.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-02-05,Arsenal,West Ham,2.0,1.0,H,0.0,1.0,A,EN,1999/2000
+E1,2000-02-05,Middlesbrough,Newcastle,2.0,2.0,D,1.0,2.0,A,EN,1999/2000
+E1,2000-03-05,Leeds,Watford,3.0,1.0,H,2.0,1.0,H,EN,1999/2000
+E1,2000-03-05,Liverpool,Leicester,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-06-05,Arsenal,Chelsea,2.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-06-05,Coventry,Sheffield Weds,4.0,1.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-06-05,Derby,Newcastle,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-06-05,Leicester,Bradford,3.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-06-05,Man United,Tottenham,3.0,1.0,H,3.0,1.0,H,EN,1999/2000
+E1,2000-06-05,Middlesbrough,Watford,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-06-05,Sunderland,West Ham,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-06-05,Wimbledon,Aston Villa,2.0,2.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-07-05,Liverpool,Southampton,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,2000-08-05,Leeds,Everton,1.0,1.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-09-05,Arsenal,Sheffield Weds,3.0,3.0,D,1.0,0.0,H,EN,1999/2000
+E1,2000-05-14,Aston Villa,Man United,0.0,1.0,A,0.0,0.0,D,EN,1999/2000
+E1,2000-05-14,Bradford,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-05-14,Chelsea,Derby,4.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-05-14,Everton,Middlesbrough,0.0,2.0,A,0.0,1.0,A,EN,1999/2000
+E1,2000-05-14,Newcastle,Arsenal,4.0,2.0,H,2.0,1.0,H,EN,1999/2000
+E1,2000-05-14,Sheffield Weds,Leicester,4.0,0.0,H,2.0,0.0,H,EN,1999/2000
+E1,2000-05-14,Southampton,Wimbledon,2.0,0.0,H,0.0,0.0,D,EN,1999/2000
+E1,2000-05-14,Tottenham,Sunderland,3.0,1.0,H,1.0,1.0,D,EN,1999/2000
+E1,2000-05-14,Watford,Coventry,1.0,0.0,H,1.0,0.0,H,EN,1999/2000
+E1,2000-05-14,West Ham,Leeds,0.0,0.0,D,0.0,0.0,D,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000
+E1,,nan,nan,,,,,,,EN,1999/2000

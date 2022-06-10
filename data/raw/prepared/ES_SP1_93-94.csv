@@ -1,0 +1,381 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
+SP1,1993-05-09,Ath Bilbao,Albacete,4.0,1.0,H,ES,1993/1994
+SP1,1993-05-09,Ath Madrid,Logrones,1.0,0.0,H,ES,1993/1994
+SP1,1993-05-09,Barcelona,Sociedad,3.0,0.0,H,ES,1993/1994
+SP1,1993-05-09,La Coruna,Celta,0.0,0.0,D,ES,1993/1994
+SP1,1993-05-09,Osasuna,Real Madrid,1.0,4.0,A,ES,1993/1994
+SP1,1993-05-09,Oviedo,Valencia,0.0,3.0,A,ES,1993/1994
+SP1,1993-05-09,Santander,Vallecano,1.0,0.0,H,ES,1993/1994
+SP1,1993-05-09,Tenerife,Lerida,1.0,0.0,H,ES,1993/1994
+SP1,1993-05-09,Valladolid,Sp Gijon,0.0,1.0,A,ES,1993/1994
+SP1,1993-05-09,Zaragoza,Sevilla,1.0,2.0,A,ES,1993/1994
+SP1,1993-12-09,Albacete,Barcelona,0.0,0.0,D,ES,1993/1994
+SP1,1993-12-09,Celta,Oviedo,1.0,1.0,D,ES,1993/1994
+SP1,1993-12-09,Lerida,Ath Bilbao,1.0,2.0,A,ES,1993/1994
+SP1,1993-12-09,Logrones,Santander,0.0,1.0,A,ES,1993/1994
+SP1,1993-12-09,Real Madrid,Valladolid,1.0,3.0,A,ES,1993/1994
+SP1,1993-12-09,Sevilla,Osasuna,1.0,1.0,D,ES,1993/1994
+SP1,1993-12-09,Sociedad,Zaragoza,2.0,2.0,D,ES,1993/1994
+SP1,1993-12-09,Sp Gijon,La Coruna,0.0,2.0,A,ES,1993/1994
+SP1,1993-12-09,Valencia,Ath Madrid,2.0,2.0,D,ES,1993/1994
+SP1,1993-12-09,Vallecano,Tenerife,4.0,3.0,H,ES,1993/1994
+SP1,1993-09-19,Ath Bilbao,Barcelona,0.0,0.0,D,ES,1993/1994
+SP1,1993-09-19,Ath Madrid,Celta,3.0,2.0,H,ES,1993/1994
+SP1,1993-09-19,La Coruna,Real Madrid,4.0,0.0,H,ES,1993/1994
+SP1,1993-09-19,Lerida,Vallecano,0.0,1.0,A,ES,1993/1994
+SP1,1993-09-19,Osasuna,Sociedad,0.0,2.0,A,ES,1993/1994
+SP1,1993-09-19,Oviedo,Sp Gijon,0.0,1.0,A,ES,1993/1994
+SP1,1993-09-19,Santander,Valencia,0.0,1.0,A,ES,1993/1994
+SP1,1993-09-19,Tenerife,Logrones,2.0,0.0,H,ES,1993/1994
+SP1,1993-09-19,Valladolid,Sevilla,2.0,2.0,D,ES,1993/1994
+SP1,1993-09-19,Zaragoza,Albacete,1.0,1.0,D,ES,1993/1994
+SP1,1993-09-26,Albacete,Osasuna,2.0,1.0,H,ES,1993/1994
+SP1,1993-09-26,Barcelona,Zaragoza,4.0,1.0,H,ES,1993/1994
+SP1,1993-09-26,Celta,Santander,0.0,0.0,D,ES,1993/1994
+SP1,1993-09-26,Logrones,Lerida,2.0,1.0,H,ES,1993/1994
+SP1,1993-09-26,Real Madrid,Oviedo,0.0,1.0,A,ES,1993/1994
+SP1,1993-09-26,Sevilla,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1993-09-26,Sociedad,Valladolid,1.0,0.0,H,ES,1993/1994
+SP1,1993-09-26,Sp Gijon,Ath Madrid,1.0,1.0,D,ES,1993/1994
+SP1,1993-09-26,Valencia,Tenerife,3.0,2.0,H,ES,1993/1994
+SP1,1993-09-26,Vallecano,Ath Bilbao,1.0,2.0,A,ES,1993/1994
+SP1,1993-03-10,Ath Bilbao,Zaragoza,2.0,1.0,H,ES,1993/1994
+SP1,1993-03-10,Ath Madrid,Real Madrid,0.0,0.0,D,ES,1993/1994
+SP1,1993-03-10,La Coruna,Sociedad,0.0,1.0,A,ES,1993/1994
+SP1,1993-03-10,Lerida,Valencia,1.0,1.0,D,ES,1993/1994
+SP1,1993-03-10,Osasuna,Barcelona,2.0,3.0,A,ES,1993/1994
+SP1,1993-03-10,Oviedo,Sevilla,0.0,2.0,A,ES,1993/1994
+SP1,1993-03-10,Santander,Sp Gijon,2.0,0.0,H,ES,1993/1994
+SP1,1993-03-10,Tenerife,Celta,0.0,0.0,D,ES,1993/1994
+SP1,1993-03-10,Valladolid,Albacete,1.0,0.0,H,ES,1993/1994
+SP1,1993-03-10,Vallecano,Logrones,3.0,1.0,H,ES,1993/1994
+SP1,1993-06-10,Albacete,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1993-06-10,Barcelona,Valladolid,3.0,0.0,H,ES,1993/1994
+SP1,1993-06-10,Celta,Lerida,1.0,0.0,H,ES,1993/1994
+SP1,1993-06-10,Logrones,Ath Bilbao,4.0,2.0,H,ES,1993/1994
+SP1,1993-06-10,Real Madrid,Santander,2.0,1.0,H,ES,1993/1994
+SP1,1993-06-10,Sevilla,Ath Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1993-06-10,Sociedad,Oviedo,2.0,2.0,D,ES,1993/1994
+SP1,1993-06-10,Sp Gijon,Tenerife,1.0,2.0,A,ES,1993/1994
+SP1,1993-06-10,Valencia,Vallecano,3.0,1.0,H,ES,1993/1994
+SP1,1993-06-10,Zaragoza,Osasuna,2.0,1.0,H,ES,1993/1994
+SP1,1993-10-17,Ath Bilbao,Osasuna,1.0,2.0,A,ES,1993/1994
+SP1,1993-10-17,Ath Madrid,Sociedad,1.0,2.0,A,ES,1993/1994
+SP1,1993-10-17,La Coruna,Barcelona,1.0,0.0,H,ES,1993/1994
+SP1,1993-10-17,Lerida,Sp Gijon,1.0,1.0,D,ES,1993/1994
+SP1,1993-10-17,Logrones,Valencia,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-17,Oviedo,Albacete,1.0,1.0,D,ES,1993/1994
+SP1,1993-10-17,Santander,Sevilla,1.0,0.0,H,ES,1993/1994
+SP1,1993-10-17,Tenerife,Real Madrid,0.0,0.0,D,ES,1993/1994
+SP1,1993-10-17,Valladolid,Zaragoza,0.0,0.0,D,ES,1993/1994
+SP1,1993-10-17,Vallecano,Celta,1.0,1.0,D,ES,1993/1994
+SP1,1993-10-24,Albacete,Ath Madrid,2.0,2.0,D,ES,1993/1994
+SP1,1993-10-24,Barcelona,Oviedo,1.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Celta,Logrones,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Osasuna,Valladolid,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Real Madrid,Lerida,5.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Sevilla,Tenerife,4.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Sociedad,Santander,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Sp Gijon,Vallecano,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Valencia,Ath Bilbao,1.0,0.0,H,ES,1993/1994
+SP1,1993-10-24,Zaragoza,La Coruna,0.0,1.0,A,ES,1993/1994
+SP1,1993-10-31,Ath Bilbao,Valladolid,3.0,0.0,H,ES,1993/1994
+SP1,1993-10-31,Ath Madrid,Barcelona,4.0,3.0,H,ES,1993/1994
+SP1,1993-10-31,La Coruna,Osasuna,3.0,1.0,H,ES,1993/1994
+SP1,1993-10-31,Lerida,Sevilla,0.0,3.0,A,ES,1993/1994
+SP1,1993-10-31,Logrones,Sp Gijon,1.0,2.0,A,ES,1993/1994
+SP1,1993-10-31,Oviedo,Zaragoza,2.0,1.0,H,ES,1993/1994
+SP1,1993-10-31,Santander,Albacete,1.0,1.0,D,ES,1993/1994
+SP1,1993-10-31,Tenerife,Sociedad,2.0,1.0,H,ES,1993/1994
+SP1,1993-10-31,Valencia,Celta,3.0,0.0,H,ES,1993/1994
+SP1,1993-10-31,Vallecano,Real Madrid,0.0,2.0,A,ES,1993/1994
+SP1,1993-07-11,Albacete,Tenerife,2.0,3.0,A,ES,1993/1994
+SP1,1993-07-11,Barcelona,Santander,2.0,1.0,H,ES,1993/1994
+SP1,1993-07-11,Celta,Ath Bilbao,1.0,1.0,D,ES,1993/1994
+SP1,1993-07-11,Osasuna,Oviedo,2.0,0.0,H,ES,1993/1994
+SP1,1993-07-11,Real Madrid,Logrones,2.0,1.0,H,ES,1993/1994
+SP1,1993-07-11,Sevilla,Vallecano,3.0,1.0,H,ES,1993/1994
+SP1,1993-07-11,Sociedad,Lerida,1.0,3.0,A,ES,1993/1994
+SP1,1993-07-11,Sp Gijon,Valencia,2.0,0.0,H,ES,1993/1994
+SP1,1993-07-11,Valladolid,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1993-07-11,Zaragoza,Ath Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1993-10-11,Ath Bilbao,La Coruna,3.0,1.0,H,ES,1993/1994
+SP1,1993-10-11,Ath Madrid,Osasuna,3.0,0.0,H,ES,1993/1994
+SP1,1993-10-11,Celta,Sp Gijon,0.0,2.0,A,ES,1993/1994
+SP1,1993-10-11,Lerida,Albacete,0.0,1.0,A,ES,1993/1994
+SP1,1993-10-11,Logrones,Sevilla,1.0,1.0,D,ES,1993/1994
+SP1,1993-10-11,Oviedo,Valladolid,1.0,0.0,H,ES,1993/1994
+SP1,1993-10-11,Santander,Zaragoza,2.0,0.0,H,ES,1993/1994
+SP1,1993-10-11,Tenerife,Barcelona,2.0,3.0,A,ES,1993/1994
+SP1,1993-10-11,Valencia,Real Madrid,0.0,3.0,A,ES,1993/1994
+SP1,1993-10-11,Vallecano,Sociedad,4.0,1.0,H,ES,1993/1994
+SP1,1993-11-21,Albacete,Vallecano,1.0,1.0,D,ES,1993/1994
+SP1,1993-11-21,Barcelona,Lerida,0.0,1.0,A,ES,1993/1994
+SP1,1993-11-21,La Coruna,Oviedo,4.0,0.0,H,ES,1993/1994
+SP1,1993-11-21,Osasuna,Santander,0.0,0.0,D,ES,1993/1994
+SP1,1993-11-21,Real Madrid,Celta,2.0,1.0,H,ES,1993/1994
+SP1,1993-11-21,Sevilla,Valencia,0.0,1.0,A,ES,1993/1994
+SP1,1993-11-21,Sociedad,Logrones,2.0,2.0,D,ES,1993/1994
+SP1,1993-11-21,Sp Gijon,Ath Bilbao,0.0,1.0,A,ES,1993/1994
+SP1,1993-11-21,Valladolid,Ath Madrid,1.0,1.0,D,ES,1993/1994
+SP1,1993-11-21,Zaragoza,Tenerife,6.0,2.0,H,ES,1993/1994
+SP1,1993-11-28,Ath Bilbao,Oviedo,1.0,1.0,D,ES,1993/1994
+SP1,1993-11-28,Ath Madrid,La Coruna,0.0,1.0,A,ES,1993/1994
+SP1,1993-11-28,Celta,Sevilla,2.0,1.0,H,ES,1993/1994
+SP1,1993-11-28,Lerida,Zaragoza,0.0,1.0,A,ES,1993/1994
+SP1,1993-11-28,Logrones,Albacete,2.0,2.0,D,ES,1993/1994
+SP1,1993-11-28,Santander,Valladolid,5.0,1.0,H,ES,1993/1994
+SP1,1993-11-28,Sp Gijon,Real Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1993-11-28,Tenerife,Osasuna,1.0,0.0,H,ES,1993/1994
+SP1,1993-11-28,Valencia,Sociedad,0.0,0.0,D,ES,1993/1994
+SP1,1993-11-28,Vallecano,Barcelona,2.0,4.0,A,ES,1993/1994
+SP1,1993-05-12,Albacete,Valencia,3.0,1.0,H,ES,1993/1994
+SP1,1993-05-12,Barcelona,Logrones,2.0,2.0,D,ES,1993/1994
+SP1,1993-05-12,La Coruna,Santander,1.0,0.0,H,ES,1993/1994
+SP1,1993-05-12,Osasuna,Lerida,1.0,0.0,H,ES,1993/1994
+SP1,1993-05-12,Oviedo,Ath Madrid,1.0,1.0,D,ES,1993/1994
+SP1,1993-05-12,Real Madrid,Ath Bilbao,2.0,1.0,H,ES,1993/1994
+SP1,1993-05-12,Sevilla,Sp Gijon,1.0,2.0,A,ES,1993/1994
+SP1,1993-05-12,Sociedad,Celta,2.0,1.0,H,ES,1993/1994
+SP1,1993-05-12,Valladolid,Tenerife,2.0,0.0,H,ES,1993/1994
+SP1,1993-05-12,Zaragoza,Vallecano,4.0,1.0,H,ES,1993/1994
+SP1,1993-12-12,Ath Bilbao,Ath Madrid,3.0,2.0,H,ES,1993/1994
+SP1,1993-12-12,Celta,Albacete,1.0,4.0,A,ES,1993/1994
+SP1,1993-12-12,Lerida,Valladolid,1.0,0.0,H,ES,1993/1994
+SP1,1993-12-12,Logrones,Zaragoza,2.0,2.0,D,ES,1993/1994
+SP1,1993-12-12,Real Madrid,Sevilla,0.0,0.0,D,ES,1993/1994
+SP1,1993-12-12,Santander,Oviedo,1.0,2.0,A,ES,1993/1994
+SP1,1993-12-12,Sp Gijon,Sociedad,3.0,2.0,H,ES,1993/1994
+SP1,1993-12-12,Tenerife,La Coruna,0.0,1.0,A,ES,1993/1994
+SP1,1993-12-12,Valencia,Barcelona,0.0,4.0,A,ES,1993/1994
+SP1,1993-12-12,Vallecano,Osasuna,1.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,Albacete,Sp Gijon,3.0,1.0,H,ES,1993/1994
+SP1,1993-12-19,Ath Madrid,Santander,4.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,Barcelona,Celta,1.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,La Coruna,Lerida,2.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,Osasuna,Logrones,1.0,3.0,A,ES,1993/1994
+SP1,1993-12-19,Oviedo,Tenerife,1.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,Sevilla,Ath Bilbao,1.0,3.0,A,ES,1993/1994
+SP1,1993-12-19,Sociedad,Real Madrid,2.0,0.0,H,ES,1993/1994
+SP1,1993-12-19,Valladolid,Vallecano,1.0,3.0,A,ES,1993/1994
+SP1,1993-12-19,Zaragoza,Valencia,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-01,Ath Bilbao,Santander,1.0,2.0,A,ES,1993/1994
+SP1,1994-02-01,Celta,Zaragoza,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-01,Lerida,Oviedo,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-01,Logrones,Valladolid,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-01,Real Madrid,Albacete,2.0,0.0,H,ES,1993/1994
+SP1,1994-02-01,Sevilla,Sociedad,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-01,Sp Gijon,Barcelona,2.0,0.0,H,ES,1993/1994
+SP1,1994-02-01,Tenerife,Ath Madrid,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-01,Valencia,Osasuna,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-01,Vallecano,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1994-09-01,Albacete,Sevilla,2.0,2.0,D,ES,1993/1994
+SP1,1994-09-01,Ath Bilbao,Sociedad,0.0,0.0,D,ES,1993/1994
+SP1,1994-09-01,Ath Madrid,Lerida,0.0,0.0,D,ES,1993/1994
+SP1,1994-09-01,Barcelona,Real Madrid,5.0,0.0,H,ES,1993/1994
+SP1,1994-09-01,La Coruna,Logrones,3.0,0.0,H,ES,1993/1994
+SP1,1994-09-01,Osasuna,Celta,0.0,1.0,A,ES,1993/1994
+SP1,1994-09-01,Oviedo,Vallecano,5.0,0.0,H,ES,1993/1994
+SP1,1994-09-01,Santander,Tenerife,1.0,0.0,H,ES,1993/1994
+SP1,1994-09-01,Valladolid,Valencia,1.0,1.0,D,ES,1993/1994
+SP1,1994-09-01,Zaragoza,Sp Gijon,3.0,0.0,H,ES,1993/1994
+SP1,1994-01-16,Celta,Valladolid,1.0,2.0,A,ES,1993/1994
+SP1,1994-01-16,Lerida,Santander,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-16,Logrones,Oviedo,2.0,2.0,D,ES,1993/1994
+SP1,1994-01-16,Real Madrid,Zaragoza,3.0,2.0,H,ES,1993/1994
+SP1,1994-01-16,Sevilla,Barcelona,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-16,Sociedad,Albacete,1.0,1.0,D,ES,1993/1994
+SP1,1994-01-16,Sp Gijon,Osasuna,7.0,1.0,H,ES,1993/1994
+SP1,1994-01-16,Tenerife,Ath Bilbao,2.0,1.0,H,ES,1993/1994
+SP1,1994-01-16,Valencia,La Coruna,1.0,3.0,A,ES,1993/1994
+SP1,1994-01-16,Vallecano,Ath Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1994-01-23,Albacete,Ath Bilbao,1.0,0.0,H,ES,1993/1994
+SP1,1994-01-23,Celta,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-23,Lerida,Tenerife,1.0,1.0,D,ES,1993/1994
+SP1,1994-01-23,Logrones,Ath Madrid,1.0,0.0,H,ES,1993/1994
+SP1,1994-01-23,Real Madrid,Osasuna,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-23,Sevilla,Zaragoza,0.0,1.0,A,ES,1993/1994
+SP1,1994-01-23,Sociedad,Barcelona,2.0,1.0,H,ES,1993/1994
+SP1,1994-01-23,Sp Gijon,Valladolid,2.0,0.0,H,ES,1993/1994
+SP1,1994-01-23,Valencia,Oviedo,2.0,2.0,D,ES,1993/1994
+SP1,1994-01-23,Vallecano,Santander,1.0,1.0,D,ES,1993/1994
+SP1,1994-01-30,Ath Bilbao,Lerida,4.0,0.0,H,ES,1993/1994
+SP1,1994-01-30,Ath Madrid,Valencia,2.0,0.0,H,ES,1993/1994
+SP1,1994-01-30,Barcelona,Albacete,2.0,1.0,H,ES,1993/1994
+SP1,1994-01-30,La Coruna,Sp Gijon,2.0,1.0,H,ES,1993/1994
+SP1,1994-01-30,Osasuna,Sevilla,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-30,Oviedo,Celta,1.0,0.0,H,ES,1993/1994
+SP1,1994-01-30,Santander,Logrones,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-30,Tenerife,Vallecano,3.0,1.0,H,ES,1993/1994
+SP1,1994-01-30,Valladolid,Real Madrid,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-30,Zaragoza,Sociedad,3.0,0.0,H,ES,1993/1994
+SP1,1994-06-02,Albacete,Zaragoza,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-02,Barcelona,Ath Bilbao,2.0,3.0,A,ES,1993/1994
+SP1,1994-06-02,Celta,Ath Madrid,3.0,2.0,H,ES,1993/1994
+SP1,1994-06-02,Logrones,Tenerife,1.0,2.0,A,ES,1993/1994
+SP1,1994-06-02,Real Madrid,La Coruna,2.0,0.0,H,ES,1993/1994
+SP1,1994-06-02,Sevilla,Valladolid,3.0,3.0,D,ES,1993/1994
+SP1,1994-06-02,Sociedad,Osasuna,1.0,0.0,H,ES,1993/1994
+SP1,1994-06-02,Sp Gijon,Oviedo,0.0,0.0,D,ES,1993/1994
+SP1,1994-06-02,Valencia,Santander,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-02,Vallecano,Lerida,1.0,2.0,A,ES,1993/1994
+SP1,1994-02-13,Ath Bilbao,Vallecano,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-13,Ath Madrid,Sp Gijon,2.0,0.0,H,ES,1993/1994
+SP1,1994-02-13,La Coruna,Sevilla,2.0,0.0,H,ES,1993/1994
+SP1,1994-02-13,Lerida,Logrones,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-13,Osasuna,Albacete,3.0,1.0,H,ES,1993/1994
+SP1,1994-02-13,Oviedo,Real Madrid,0.0,1.0,A,ES,1993/1994
+SP1,1994-02-13,Santander,Celta,2.0,1.0,H,ES,1993/1994
+SP1,1994-02-13,Tenerife,Valencia,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-13,Valladolid,Sociedad,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-13,Zaragoza,Barcelona,6.0,3.0,H,ES,1993/1994
+SP1,1994-02-20,Albacete,Valladolid,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-20,Barcelona,Osasuna,8.0,1.0,H,ES,1993/1994
+SP1,1994-02-20,Celta,Tenerife,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-20,Logrones,Vallecano,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-20,Real Madrid,Ath Madrid,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-20,Sevilla,Oviedo,2.0,0.0,H,ES,1993/1994
+SP1,1994-02-20,Sociedad,La Coruna,0.0,1.0,A,ES,1993/1994
+SP1,1994-02-20,Sp Gijon,Santander,0.0,2.0,A,ES,1993/1994
+SP1,1994-02-20,Valencia,Lerida,3.0,3.0,D,ES,1993/1994
+SP1,1994-02-20,Zaragoza,Ath Bilbao,1.0,0.0,H,ES,1993/1994
+SP1,1994-02-23,Ath Bilbao,Logrones,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-23,Ath Madrid,Sevilla,2.0,4.0,A,ES,1993/1994
+SP1,1994-02-23,La Coruna,Albacete,5.0,1.0,H,ES,1993/1994
+SP1,1994-02-23,Lerida,Celta,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-23,Osasuna,Zaragoza,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-23,Oviedo,Sociedad,2.0,1.0,H,ES,1993/1994
+SP1,1994-02-23,Santander,Real Madrid,1.0,3.0,A,ES,1993/1994
+SP1,1994-02-23,Tenerife,Sp Gijon,3.0,0.0,H,ES,1993/1994
+SP1,1994-02-23,Valladolid,Barcelona,1.0,3.0,A,ES,1993/1994
+SP1,1994-02-23,Vallecano,Valencia,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-27,Albacete,Oviedo,5.0,0.0,H,ES,1993/1994
+SP1,1994-02-27,Barcelona,La Coruna,3.0,0.0,H,ES,1993/1994
+SP1,1994-02-27,Celta,Vallecano,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-27,Osasuna,Ath Bilbao,0.0,0.0,D,ES,1993/1994
+SP1,1994-02-27,Real Madrid,Tenerife,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-27,Sevilla,Santander,2.0,1.0,H,ES,1993/1994
+SP1,1994-02-27,Sociedad,Ath Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1994-02-27,Sp Gijon,Lerida,1.0,1.0,D,ES,1993/1994
+SP1,1994-02-27,Valencia,Logrones,3.0,1.0,H,ES,1993/1994
+SP1,1994-02-27,Zaragoza,Valladolid,2.0,0.0,H,ES,1993/1994
+SP1,1994-06-03,Ath Bilbao,Valencia,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-03,Ath Madrid,Albacete,0.0,0.0,D,ES,1993/1994
+SP1,1994-06-03,La Coruna,Zaragoza,1.0,1.0,D,ES,1993/1994
+SP1,1994-06-03,Lerida,Real Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-03,Logrones,Celta,1.0,1.0,D,ES,1993/1994
+SP1,1994-06-03,Oviedo,Barcelona,1.0,3.0,A,ES,1993/1994
+SP1,1994-06-03,Santander,Sociedad,4.0,1.0,H,ES,1993/1994
+SP1,1994-06-03,Tenerife,Sevilla,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-03,Valladolid,Osasuna,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-03,Vallecano,Sp Gijon,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-13,Albacete,Santander,3.0,0.0,H,ES,1993/1994
+SP1,1994-03-13,Barcelona,Ath Madrid,5.0,3.0,H,ES,1993/1994
+SP1,1994-03-13,Celta,Valencia,1.0,2.0,A,ES,1993/1994
+SP1,1994-03-13,Osasuna,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1994-03-13,Real Madrid,Vallecano,5.0,2.0,H,ES,1993/1994
+SP1,1994-03-13,Sevilla,Lerida,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-13,Sociedad,Tenerife,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-13,Sp Gijon,Logrones,1.0,2.0,A,ES,1993/1994
+SP1,1994-03-13,Valladolid,Ath Bilbao,1.0,1.0,D,ES,1993/1994
+SP1,1994-03-13,Zaragoza,Oviedo,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-20,Ath Bilbao,Celta,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-20,Ath Madrid,Zaragoza,0.0,4.0,A,ES,1993/1994
+SP1,1994-03-20,La Coruna,Valladolid,0.0,0.0,D,ES,1993/1994
+SP1,1994-03-20,Lerida,Sociedad,1.0,0.0,H,ES,1993/1994
+SP1,1994-03-20,Logrones,Real Madrid,3.0,4.0,A,ES,1993/1994
+SP1,1994-03-20,Oviedo,Osasuna,1.0,0.0,H,ES,1993/1994
+SP1,1994-03-20,Santander,Barcelona,1.0,1.0,D,ES,1993/1994
+SP1,1994-03-20,Tenerife,Albacete,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-20,Valencia,Sp Gijon,1.0,0.0,H,ES,1993/1994
+SP1,1994-03-20,Vallecano,Sevilla,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,Albacete,Lerida,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,Barcelona,Tenerife,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,La Coruna,Ath Bilbao,4.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,Osasuna,Ath Madrid,0.0,1.0,A,ES,1993/1994
+SP1,1994-03-27,Real Madrid,Valencia,3.0,2.0,H,ES,1993/1994
+SP1,1994-03-27,Sevilla,Logrones,4.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,Sociedad,Vallecano,1.0,1.0,D,ES,1993/1994
+SP1,1994-03-27,Sp Gijon,Celta,2.0,1.0,H,ES,1993/1994
+SP1,1994-03-27,Valladolid,Oviedo,0.0,0.0,D,ES,1993/1994
+SP1,1994-03-27,Zaragoza,Santander,2.0,0.0,H,ES,1993/1994
+SP1,1994-03-04,Ath Bilbao,Sp Gijon,7.0,0.0,H,ES,1993/1994
+SP1,1994-03-04,Ath Madrid,Valladolid,2.0,0.0,H,ES,1993/1994
+SP1,1994-03-04,Celta,Real Madrid,3.0,2.0,H,ES,1993/1994
+SP1,1994-03-04,Lerida,Barcelona,1.0,2.0,A,ES,1993/1994
+SP1,1994-03-04,Logrones,Sociedad,2.0,0.0,H,ES,1993/1994
+SP1,1994-03-04,Oviedo,La Coruna,2.0,5.0,A,ES,1993/1994
+SP1,1994-03-04,Santander,Osasuna,3.0,1.0,H,ES,1993/1994
+SP1,1994-03-04,Tenerife,Zaragoza,5.0,3.0,H,ES,1993/1994
+SP1,1994-03-04,Valencia,Sevilla,1.0,1.0,D,ES,1993/1994
+SP1,1994-03-04,Vallecano,Albacete,0.0,0.0,D,ES,1993/1994
+SP1,1994-06-04,Albacete,Logrones,2.0,2.0,D,ES,1993/1994
+SP1,1994-06-04,Barcelona,Vallecano,1.0,0.0,H,ES,1993/1994
+SP1,1994-06-04,La Coruna,Ath Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1994-06-04,Osasuna,Tenerife,1.0,0.0,H,ES,1993/1994
+SP1,1994-06-04,Oviedo,Ath Bilbao,3.0,0.0,H,ES,1993/1994
+SP1,1994-06-04,Real Madrid,Sp Gijon,2.0,2.0,D,ES,1993/1994
+SP1,1994-06-04,Sevilla,Celta,4.0,1.0,H,ES,1993/1994
+SP1,1994-06-04,Sociedad,Valencia,0.0,0.0,D,ES,1993/1994
+SP1,1994-06-04,Valladolid,Santander,0.0,3.0,A,ES,1993/1994
+SP1,1994-06-04,Zaragoza,Lerida,1.0,1.0,D,ES,1993/1994
+SP1,1994-10-04,Ath Bilbao,Real Madrid,2.0,1.0,H,ES,1993/1994
+SP1,1994-10-04,Ath Madrid,Oviedo,0.0,3.0,A,ES,1993/1994
+SP1,1994-10-04,Celta,Sociedad,3.0,2.0,H,ES,1993/1994
+SP1,1994-10-04,Lerida,Osasuna,1.0,2.0,A,ES,1993/1994
+SP1,1994-10-04,Logrones,Barcelona,0.0,0.0,D,ES,1993/1994
+SP1,1994-10-04,Santander,La Coruna,0.0,1.0,A,ES,1993/1994
+SP1,1994-10-04,Sp Gijon,Sevilla,0.0,1.0,A,ES,1993/1994
+SP1,1994-10-04,Tenerife,Valladolid,0.0,2.0,A,ES,1993/1994
+SP1,1994-10-04,Valencia,Albacete,4.0,0.0,H,ES,1993/1994
+SP1,1994-10-04,Vallecano,Zaragoza,1.0,2.0,A,ES,1993/1994
+SP1,1994-04-17,Albacete,Celta,0.0,4.0,A,ES,1993/1994
+SP1,1994-04-17,Ath Madrid,Ath Bilbao,4.0,2.0,H,ES,1993/1994
+SP1,1994-04-17,Barcelona,Valencia,3.0,1.0,H,ES,1993/1994
+SP1,1994-04-17,La Coruna,Tenerife,2.0,0.0,H,ES,1993/1994
+SP1,1994-04-17,Osasuna,Vallecano,1.0,1.0,D,ES,1993/1994
+SP1,1994-04-17,Oviedo,Santander,3.0,0.0,H,ES,1993/1994
+SP1,1994-04-17,Sevilla,Real Madrid,0.0,1.0,A,ES,1993/1994
+SP1,1994-04-17,Sociedad,Sp Gijon,0.0,1.0,A,ES,1993/1994
+SP1,1994-04-17,Valladolid,Lerida,0.0,2.0,A,ES,1993/1994
+SP1,1994-04-17,Zaragoza,Logrones,1.0,1.0,D,ES,1993/1994
+SP1,1994-04-24,Ath Bilbao,Sevilla,1.0,1.0,D,ES,1993/1994
+SP1,1994-04-24,Celta,Barcelona,0.0,4.0,A,ES,1993/1994
+SP1,1994-04-24,Lerida,La Coruna,0.0,0.0,D,ES,1993/1994
+SP1,1994-04-24,Logrones,Osasuna,3.0,2.0,H,ES,1993/1994
+SP1,1994-04-24,Real Madrid,Sociedad,0.0,1.0,A,ES,1993/1994
+SP1,1994-04-24,Santander,Ath Madrid,2.0,0.0,H,ES,1993/1994
+SP1,1994-04-24,Sp Gijon,Albacete,1.0,0.0,H,ES,1993/1994
+SP1,1994-04-24,Tenerife,Oviedo,2.0,2.0,D,ES,1993/1994
+SP1,1994-04-24,Valencia,Zaragoza,3.0,0.0,H,ES,1993/1994
+SP1,1994-04-24,Vallecano,Valladolid,0.0,1.0,A,ES,1993/1994
+SP1,1994-01-05,Albacete,Real Madrid,1.0,4.0,A,ES,1993/1994
+SP1,1994-01-05,Ath Madrid,Tenerife,2.0,0.0,H,ES,1993/1994
+SP1,1994-01-05,Barcelona,Sp Gijon,4.0,0.0,H,ES,1993/1994
+SP1,1994-01-05,La Coruna,Vallecano,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-05,Osasuna,Valencia,3.0,3.0,D,ES,1993/1994
+SP1,1994-01-05,Oviedo,Lerida,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-05,Santander,Ath Bilbao,2.0,2.0,D,ES,1993/1994
+SP1,1994-01-05,Sociedad,Sevilla,0.0,0.0,D,ES,1993/1994
+SP1,1994-01-05,Valladolid,Logrones,2.0,0.0,H,ES,1993/1994
+SP1,1994-01-05,Zaragoza,Celta,4.0,1.0,H,ES,1993/1994
+SP1,1994-08-05,Celta,Osasuna,4.0,0.0,H,ES,1993/1994
+SP1,1994-08-05,Lerida,Ath Madrid,0.0,1.0,A,ES,1993/1994
+SP1,1994-08-05,Logrones,La Coruna,0.0,2.0,A,ES,1993/1994
+SP1,1994-08-05,Real Madrid,Barcelona,0.0,1.0,A,ES,1993/1994
+SP1,1994-08-05,Sevilla,Albacete,2.0,0.0,H,ES,1993/1994
+SP1,1994-08-05,Sociedad,Ath Bilbao,0.0,0.0,D,ES,1993/1994
+SP1,1994-08-05,Sp Gijon,Zaragoza,0.0,3.0,A,ES,1993/1994
+SP1,1994-08-05,Tenerife,Santander,1.0,0.0,H,ES,1993/1994
+SP1,1994-08-05,Valencia,Valladolid,5.0,1.0,H,ES,1993/1994
+SP1,1994-08-05,Vallecano,Oviedo,0.0,0.0,D,ES,1993/1994
+SP1,1994-05-15,Albacete,Sociedad,1.0,1.0,D,ES,1993/1994
+SP1,1994-05-15,Ath Bilbao,Tenerife,3.0,2.0,H,ES,1993/1994
+SP1,1994-05-15,Ath Madrid,Vallecano,2.0,0.0,H,ES,1993/1994
+SP1,1994-05-15,Barcelona,Sevilla,5.0,2.0,H,ES,1993/1994
+SP1,1994-05-15,La Coruna,Valencia,0.0,0.0,D,ES,1993/1994
+SP1,1994-05-15,Osasuna,Sp Gijon,3.0,0.0,H,ES,1993/1994
+SP1,1994-05-15,Oviedo,Logrones,1.0,2.0,A,ES,1993/1994
+SP1,1994-05-15,Santander,Lerida,2.0,1.0,H,ES,1993/1994
+SP1,1994-05-15,Valladolid,Celta,0.0,0.0,D,ES,1993/1994
+SP1,1994-05-15,Zaragoza,Real Madrid,4.0,1.0,H,ES,1993/1994

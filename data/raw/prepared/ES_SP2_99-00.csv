@@ -1,0 +1,463 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Country,Season
+SP2,1999-08-22,Albacete,Eibar,3.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-08-22,Badajoz,Getafe,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,1999-08-22,Compostela,Recreativo,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-22,Cordoba,Sp Gijon,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-08-22,Extremadura,Ath Madrid B,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-22,Las Palmas,Tenerife,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-08-22,Leganes,Merida,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-22,Lleida,Villarreal,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-08-22,Logrones,Levante,3.0,3.0,D,2.0,0.0,H,ES,1999/2000
+SP2,1999-08-22,Osasuna,Toledo,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-08-22,Salamanca,Elche,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,1999-08-29,Ath Madrid B,Leganes,4.0,3.0,H,1.0,2.0,A,ES,1999/2000
+SP2,1999-08-29,Eibar,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-29,Elche,Albacete,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-08-29,Getafe,Extremadura,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-29,Levante,Lleida,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-08-29,Merida,Osasuna,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-08-29,Recreativo,Cordoba,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-29,Sp Gijon,Las Palmas,1.0,2.0,A,1.0,2.0,A,ES,1999/2000
+SP2,1999-08-29,Tenerife,Logrones,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-08-29,Toledo,Compostela,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-08-29,Villarreal,Salamanca,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-04-09,Badajoz,Elche,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-04-09,Compostela,Merida,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-04-09,Extremadura,Leganes,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-04-09,Osasuna,Ath Madrid B,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-09,Albacete,Villarreal,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-05-09,Cordoba,Toledo,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-05-09,Getafe,Eibar,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-05-09,Las Palmas,Recreativo,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-05-09,Lleida,Tenerife,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-09,Logrones,Sp Gijon,2.0,3.0,A,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-09,Salamanca,Levante,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-09,Ath Madrid B,Compostela,1.0,3.0,A,0.0,2.0,A,ES,1999/2000
+SP2,1999-11-09,Eibar,Extremadura,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-09,Elche,Getafe,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-09,Toledo,Las Palmas,1.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-12-09,Leganes,Osasuna,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-12-09,Levante,Albacete,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-09,Merida,Cordoba,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-12-09,Recreativo,Logrones,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-09,Sp Gijon,Lleida,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,1999-12-09,Tenerife,Salamanca,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,1999-12-09,Villarreal,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-18,Albacete,Tenerife,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-18,Eibar,Elche,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-18,Las Palmas,Merida,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-18,Lleida,Recreativo,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-18,Salamanca,Sp Gijon,3.0,2.0,H,3.0,0.0,H,ES,1999/2000
+SP2,1999-09-19,Badajoz,Levante,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-19,Compostela,Leganes,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-19,Cordoba,Ath Madrid B,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-19,Extremadura,Osasuna,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-19,Getafe,Villarreal,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-19,Logrones,Toledo,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-09-25,Ath Madrid B,Las Palmas,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-25,Levante,Getafe,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-26,Elche,Extremadura,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-26,Leganes,Cordoba,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-26,Merida,Logrones,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
+SP2,1999-09-26,Osasuna,Compostela,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
+SP2,1999-09-26,Recreativo,Salamanca,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-26,Sp Gijon,Albacete,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-26,Tenerife,Badajoz,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-26,Toledo,Lleida,0.0,3.0,A,0.0,3.0,A,ES,1999/2000
+SP2,1999-09-26,Villarreal,Eibar,1.0,5.0,A,0.0,3.0,A,ES,1999/2000
+SP2,1999-02-10,Cordoba,Osasuna,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-02-10,Getafe,Tenerife,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-02-10,Las Palmas,Leganes,7.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-03-10,Albacete,Recreativo,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-03-10,Badajoz,Sp Gijon,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-03-10,Eibar,Levante,4.0,2.0,H,2.0,2.0,D,ES,1999/2000
+SP2,1999-03-10,Elche,Villarreal,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-03-10,Extremadura,Compostela,3.0,1.0,H,3.0,0.0,H,ES,1999/2000
+SP2,1999-03-10,Lleida,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-03-10,Logrones,Ath Madrid B,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-03-10,Salamanca,Toledo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-09-10,Ath Madrid B,Lleida,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-09-10,Compostela,Cordoba,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-10,Levante,Elche,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-09-10,Osasuna,Las Palmas,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-10,Recreativo,Badajoz,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-10,Sp Gijon,Getafe,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-09-10,Tenerife,Eibar,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-09-10,Toledo,Albacete,0.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP2,1999-09-10,Villarreal,Extremadura,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-10,Leganes,Logrones,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-10,Merida,Salamanca,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-12-10,Badajoz,Toledo,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-12-10,Elche,Tenerife,1.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-12-10,Extremadura,Cordoba,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-12-10,Getafe,Recreativo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-10,Logrones,Osasuna,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-10,Salamanca,Ath Madrid B,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-10,Villarreal,Levante,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,1999-10-13,Albacete,Merida,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-13,Eibar,Sp Gijon,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,1999-10-13,Las Palmas,Compostela,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-13,Lleida,Leganes,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-16,Leganes,Salamanca,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-16,Recreativo,Eibar,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-17,Ath Madrid B,Albacete,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-17,Compostela,Logrones,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-17,Cordoba,Las Palmas,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-17,Levante,Extremadura,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-17,Merida,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-17,Osasuna,Lleida,3.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-17,Sp Gijon,Elche,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-17,Tenerife,Villarreal,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-17,Toledo,Getafe,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-23,Extremadura,Las Palmas,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-24,Albacete,Leganes,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-24,Badajoz,Ath Madrid B,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-24,Eibar,Toledo,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-24,Elche,Recreativo,3.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-24,Getafe,Merida,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-24,Levante,Tenerife,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-24,Lleida,Compostela,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-24,Logrones,Cordoba,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-24,Salamanca,Osasuna,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-24,Villarreal,Sp Gijon,1.0,2.0,A,1.0,2.0,A,ES,1999/2000
+SP2,1999-10-30,Cordoba,Lleida,1.0,4.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-10-30,Las Palmas,Logrones,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-31,Compostela,Salamanca,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-31,Leganes,Badajoz,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-31,Merida,Eibar,3.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-10-31,Osasuna,Albacete,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-10-31,Recreativo,Villarreal,0.0,4.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-10-31,Sp Gijon,Levante,4.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-10-31,Tenerife,Extremadura,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-10-31,Toledo,Elche,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-01-11,Ath Madrid B,Getafe,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-06-11,Getafe,Leganes,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-06-11,Salamanca,Cordoba,4.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,1999-07-11,Albacete,Compostela,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Badajoz,Osasuna,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Eibar,Ath Madrid B,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Elche,Merida,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,1999-07-11,Extremadura,Logrones,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-07-11,Levante,Recreativo,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Lleida,Las Palmas,4.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Tenerife,Sp Gijon,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-07-11,Villarreal,Toledo,4.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,1999-11-13,Leganes,Eibar,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-11-13,Logrones,Lleida,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-13,Recreativo,Tenerife,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-14,Ath Madrid B,Elche,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-11-14,Compostela,Badajoz,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-14,Cordoba,Albacete,3.0,2.0,H,3.0,1.0,H,ES,1999/2000
+SP2,1999-11-14,Las Palmas,Salamanca,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-14,Merida,Villarreal,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-14,Osasuna,Getafe,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-14,Sp Gijon,Extremadura,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-14,Toledo,Levante,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-20,Albacete,Las Palmas,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,1999-11-21,Badajoz,Cordoba,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-21,Eibar,Osasuna,4.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,1999-11-21,Elche,Leganes,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-21,Extremadura,Lleida,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-21,Getafe,Compostela,4.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-21,Levante,Merida,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-11-21,Salamanca,Logrones,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-21,Sp Gijon,Recreativo,3.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-11-21,Tenerife,Toledo,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-21,Villarreal,Ath Madrid B,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-27,Compostela,Eibar,4.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,1999-11-27,Las Palmas,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-27,Lleida,Salamanca,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-28,Ath Madrid B,Levante,2.0,4.0,A,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-28,Cordoba,Getafe,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-28,Leganes,Villarreal,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-28,Logrones,Albacete,4.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-11-28,Merida,Tenerife,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-28,Osasuna,Elche,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-11-28,Recreativo,Extremadura,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-28,Toledo,Sp Gijon,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-04-12,Albacete,Lleida,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-04-12,Tenerife,Ath Madrid B,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-12,Badajoz,Logrones,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-05-12,Eibar,Cordoba,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,1999-05-12,Elche,Compostela,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-12,Extremadura,Salamanca,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-12,Getafe,Las Palmas,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-05-12,Levante,Leganes,5.0,2.0,H,2.0,1.0,H,ES,1999/2000
+SP2,1999-05-12,Recreativo,Toledo,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-05-12,Sp Gijon,Merida,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-05-12,Villarreal,Osasuna,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-12,Ath Madrid B,Sp Gijon,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-12,Compostela,Villarreal,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-12,Las Palmas,Eibar,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-11-12,Logrones,Getafe,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-11-12,Osasuna,Levante,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-11-12,Salamanca,Albacete,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,1999-12-12,Cordoba,Elche,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,1999-12-12,Leganes,Tenerife,0.0,4.0,A,0.0,2.0,A,ES,1999/2000
+SP2,1999-12-12,Lleida,Badajoz,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-12-12,Merida,Recreativo,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-12,Toledo,Extremadura,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-18,Badajoz,Salamanca,2.0,2.0,D,2.0,0.0,H,ES,1999/2000
+SP2,1999-12-18,Eibar,Logrones,2.0,5.0,A,0.0,2.0,A,ES,1999/2000
+SP2,1999-12-18,Extremadura,Albacete,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-19,Elche,Las Palmas,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP2,1999-12-19,Getafe,Lleida,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-19,Levante,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,1999-12-19,Recreativo,Ath Madrid B,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP2,1999-12-19,Sp Gijon,Leganes,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-12-19,Tenerife,Osasuna,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,1999-12-19,Toledo,Merida,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,1999-12-19,Villarreal,Cordoba,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-01,Cordoba,Levante,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-01,Extremadura,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-01,Las Palmas,Villarreal,2.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,2000-04-01,Lleida,Eibar,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-01,Logrones,Elche,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-01,Osasuna,Sp Gijon,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-01,Salamanca,Getafe,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-05-01,Albacete,Badajoz,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-05-01,Ath Madrid B,Toledo,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-01,Compostela,Tenerife,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-05-01,Leganes,Recreativo,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-08-01,Eibar,Salamanca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-08-01,Elche,Lleida,1.0,3.0,A,1.0,0.0,H,ES,1999/2000
+SP2,2000-08-01,Recreativo,Osasuna,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-08-01,Toledo,Leganes,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-08-01,Villarreal,Logrones,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-09-01,Badajoz,Extremadura,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-09-01,Getafe,Albacete,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-09-01,Levante,Las Palmas,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-01,Merida,Ath Madrid B,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-09-01,Sp Gijon,Compostela,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-09-01,Tenerife,Cordoba,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-15,Ath Madrid B,Extremadura,4.0,2.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-16,Eibar,Albacete,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-16,Elche,Salamanca,2.0,2.0,D,1.0,2.0,A,ES,1999/2000
+SP2,2000-01-16,Getafe,Badajoz,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-01-16,Levante,Logrones,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-16,Merida,Leganes,0.0,4.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-01-16,Recreativo,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-16,Sp Gijon,Cordoba,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-16,Tenerife,Las Palmas,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-16,Toledo,Osasuna,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-16,Villarreal,Lleida,2.0,3.0,A,2.0,2.0,D,ES,1999/2000
+SP2,2000-01-22,Cordoba,Recreativo,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-01-22,Las Palmas,Sp Gijon,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-22,Leganes,Ath Madrid B,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-22,Lleida,Levante,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-01-23,Albacete,Elche,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-01-23,Badajoz,Eibar,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-23,Compostela,Toledo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-23,Extremadura,Getafe,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-23,Logrones,Tenerife,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-23,Osasuna,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-23,Salamanca,Villarreal,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-01-29,Merida,Compostela,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-29,Recreativo,Las Palmas,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-01-29,Villarreal,Albacete,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-30,Ath Madrid B,Osasuna,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-30,Eibar,Getafe,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-30,Elche,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-30,Leganes,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-30,Levante,Salamanca,2.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP2,2000-01-30,Sp Gijon,Logrones,1.0,4.0,A,1.0,1.0,D,ES,1999/2000
+SP2,2000-01-30,Tenerife,Lleida,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-30,Toledo,Cordoba,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-05-02,Getafe,Elche,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP2,2000-05-02,Las Palmas,Toledo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-06-02,Albacete,Levante,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-06-02,Badajoz,Villarreal,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-06-02,Compostela,Ath Madrid B,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-06-02,Cordoba,Merida,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-06-02,Extremadura,Eibar,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-06-02,Lleida,Sp Gijon,4.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-06-02,Logrones,Recreativo,0.0,3.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-06-02,Osasuna,Leganes,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-06-02,Salamanca,Tenerife,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-12-02,Levante,Badajoz,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-12-02,Tenerife,Albacete,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Ath Madrid B,Cordoba,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-13,Elche,Eibar,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Leganes,Compostela,3.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,2000-02-13,Merida,Las Palmas,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Osasuna,Extremadura,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Recreativo,Lleida,4.0,0.0,H,3.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Sp Gijon,Salamanca,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Toledo,Logrones,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-13,Villarreal,Getafe,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-19,Getafe,Levante,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-19,Las Palmas,Ath Madrid B,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-20,Albacete,Sp Gijon,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-02-20,Badajoz,Tenerife,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-20,Compostela,Osasuna,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-02-20,Cordoba,Leganes,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-20,Eibar,Villarreal,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-02-20,Extremadura,Elche,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-02-20,Lleida,Toledo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-20,Logrones,Merida,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-02-20,Salamanca,Recreativo,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-26,Sp Gijon,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Ath Madrid B,Logrones,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Compostela,Extremadura,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-27,Leganes,Las Palmas,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Levante,Eibar,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Merida,Lleida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Osasuna,Cordoba,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-02-27,Recreativo,Albacete,3.0,3.0,D,2.0,2.0,D,ES,1999/2000
+SP2,2000-02-27,Tenerife,Getafe,4.0,0.0,H,3.0,0.0,H,ES,1999/2000
+SP2,2000-02-27,Toledo,Salamanca,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-27,Villarreal,Elche,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-03,Badajoz,Recreativo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-03,Eibar,Tenerife,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-03,Elche,Levante,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-03,Albacete,Toledo,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-03,Cordoba,Compostela,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-03,Extremadura,Villarreal,4.0,1.0,H,3.0,0.0,H,ES,1999/2000
+SP2,2000-05-03,Getafe,Sp Gijon,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-03,Las Palmas,Osasuna,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-03,Lleida,Ath Madrid B,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-03,Logrones,Leganes,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-03,Salamanca,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-11-03,Ath Madrid B,Salamanca,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-11-03,Compostela,Las Palmas,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-11-03,Cordoba,Extremadura,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-11-03,Merida,Albacete,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-11-03,Osasuna,Logrones,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-11-03,Recreativo,Getafe,2.0,4.0,A,0.0,3.0,A,ES,1999/2000
+SP2,2000-11-03,Tenerife,Elche,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-12-03,Leganes,Lleida,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-12-03,Levante,Villarreal,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-12-03,Sp Gijon,Eibar,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-12-03,Toledo,Badajoz,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-18,Las Palmas,Cordoba,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-19,Albacete,Ath Madrid B,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-19,Badajoz,Merida,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-03-19,Eibar,Recreativo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-19,Elche,Sp Gijon,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-03-19,Extremadura,Levante,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-03-19,Getafe,Toledo,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-19,Lleida,Osasuna,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-19,Logrones,Compostela,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-03-19,Salamanca,Leganes,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-19,Villarreal,Tenerife,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-25,Cordoba,Logrones,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Ath Madrid B,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Compostela,Lleida,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Las Palmas,Extremadura,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-03-26,Leganes,Albacete,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Merida,Getafe,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Osasuna,Salamanca,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-26,Recreativo,Elche,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-03-26,Sp Gijon,Villarreal,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-26,Tenerife,Levante,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-26,Toledo,Eibar,1.0,2.0,A,1.0,2.0,A,ES,1999/2000
+SP2,2000-01-04,Elche,Toledo,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-01-04,Getafe,Ath Madrid B,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-01-04,Logrones,Las Palmas,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-02-04,Albacete,Osasuna,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-04,Badajoz,Leganes,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-04,Eibar,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-04,Extremadura,Tenerife,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-04,Levante,Sp Gijon,0.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-02-04,Lleida,Cordoba,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-02-04,Salamanca,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-02-04,Villarreal,Recreativo,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-08-04,Las Palmas,Lleida,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-08-04,Leganes,Getafe,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-08-04,Logrones,Extremadura,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-08-04,Sp Gijon,Tenerife,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-09-04,Ath Madrid B,Eibar,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-09-04,Compostela,Albacete,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-04,Cordoba,Salamanca,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-04,Merida,Elche,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-04,Osasuna,Badajoz,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-04,Recreativo,Levante,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-09-04,Toledo,Villarreal,1.0,3.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-04-15,Eibar,Leganes,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-15,Lleida,Logrones,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-16,Albacete,Cordoba,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-16,Badajoz,Compostela,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-04-16,Elche,Ath Madrid B,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-16,Extremadura,Sp Gijon,2.0,2.0,D,2.0,0.0,H,ES,1999/2000
+SP2,2000-04-16,Getafe,Osasuna,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-16,Levante,Toledo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-16,Salamanca,Las Palmas,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-16,Tenerife,Recreativo,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-16,Villarreal,Merida,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-22,Cordoba,Badajoz,0.0,4.0,A,0.0,3.0,A,ES,1999/2000
+SP2,2000-04-22,Las Palmas,Albacete,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-22,Leganes,Elche,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-22,Merida,Levante,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-22,Osasuna,Eibar,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-22,Toledo,Tenerife,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-23,Ath Madrid B,Villarreal,1.0,4.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-04-23,Compostela,Getafe,3.0,2.0,H,2.0,1.0,H,ES,1999/2000
+SP2,2000-04-23,Lleida,Extremadura,2.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP2,2000-04-23,Logrones,Salamanca,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-23,Recreativo,Sp Gijon,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-29,Badajoz,Las Palmas,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-29,Extremadura,Recreativo,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-29,Levante,Ath Madrid B,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-30,Albacete,Logrones,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-30,Eibar,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-30,Elche,Osasuna,1.0,3.0,A,1.0,2.0,A,ES,1999/2000
+SP2,2000-04-30,Getafe,Cordoba,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-30,Salamanca,Lleida,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-30,Sp Gijon,Toledo,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-30,Tenerife,Merida,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-30,Villarreal,Leganes,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-06-05,Ath Madrid B,Tenerife,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-06-05,Cordoba,Eibar,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-06-05,Las Palmas,Getafe,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-06-05,Lleida,Albacete,2.0,2.0,D,1.0,2.0,A,ES,1999/2000
+SP2,2000-07-05,Compostela,Elche,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-07-05,Leganes,Levante,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-07-05,Logrones,Badajoz,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-07-05,Merida,Sp Gijon,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-07-05,Osasuna,Villarreal,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP2,2000-07-05,Salamanca,Extremadura,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-07-05,Toledo,Recreativo,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP2,2000-05-13,Albacete,Salamanca,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-13,Badajoz,Lleida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-13,Eibar,Las Palmas,4.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-13,Elche,Cordoba,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-13,Villarreal,Compostela,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-14,Extremadura,Toledo,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-05-14,Getafe,Logrones,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
+SP2,2000-05-14,Levante,Osasuna,2.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,2000-05-14,Recreativo,Merida,0.0,3.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-05-14,Sp Gijon,Ath Madrid B,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-14,Tenerife,Leganes,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-21,Albacete,Extremadura,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-21,Ath Madrid B,Recreativo,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-21,Compostela,Levante,4.0,1.0,H,2.0,1.0,H,ES,1999/2000
+SP2,2000-05-21,Cordoba,Villarreal,2.0,4.0,A,1.0,2.0,A,ES,1999/2000
+SP2,2000-05-21,Las Palmas,Elche,4.0,1.0,H,3.0,0.0,H,ES,1999/2000
+SP2,2000-05-21,Leganes,Sp Gijon,2.0,1.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-21,Lleida,Getafe,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-21,Logrones,Eibar,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-21,Merida,Toledo,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-21,Osasuna,Tenerife,5.0,0.0,H,3.0,0.0,H,ES,1999/2000
+SP2,2000-05-21,Salamanca,Badajoz,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
+SP2,2000-05-27,Badajoz,Albacete,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-05-28,Eibar,Lleida,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-28,Elche,Logrones,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-28,Getafe,Salamanca,1.0,3.0,A,0.0,2.0,A,ES,1999/2000
+SP2,2000-05-28,Levante,Cordoba,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-28,Merida,Extremadura,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-28,Recreativo,Leganes,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-28,Sp Gijon,Osasuna,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-28,Tenerife,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-05-28,Toledo,Ath Madrid B,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-05-28,Villarreal,Las Palmas,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-03-06,Leganes,Toledo,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-03-06,Lleida,Elche,5.0,2.0,H,3.0,2.0,H,ES,1999/2000
+SP2,2000-04-06,Albacete,Getafe,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-06,Ath Madrid B,Merida,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP2,2000-04-06,Compostela,Sp Gijon,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-06,Cordoba,Tenerife,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP2,2000-04-06,Extremadura,Badajoz,2.0,2.0,D,2.0,2.0,D,ES,1999/2000
+SP2,2000-04-06,Las Palmas,Levante,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-06,Logrones,Villarreal,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP2,2000-04-06,Osasuna,Recreativo,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP2,2000-04-06,Salamanca,Eibar,2.0,1.0,H,1.0,0.0,H,ES,1999/2000

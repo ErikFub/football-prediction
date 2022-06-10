@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
+E3,1993-08-14,Barnet,Hull,1,2,A,EN,1993/1994
+E3,1993-08-14,Bradford,Brighton,2,0,H,EN,1993/1994
+E3,1993-08-14,Brentford,Exeter,2,1,H,EN,1993/1994
+E3,1993-08-14,Bristol Rvs,Bournemouth,0,1,A,EN,1993/1994
+E3,1993-08-14,Burnley,Port Vale,2,1,H,EN,1993/1994
+E3,1993-08-14,Cambridge,Blackpool,3,2,H,EN,1993/1994
+E3,1993-08-14,Cardiff,Leyton Orient,2,0,H,EN,1993/1994
+E3,1993-08-14,Hartlepool,Fulham,0,1,A,EN,1993/1994
+E3,1993-08-14,Huddersfield,Reading,0,3,A,EN,1993/1994
+E3,1993-08-14,Plymouth,Stockport,2,3,A,EN,1993/1994
+E3,1993-08-14,Wrexham,Rotherham,3,3,D,EN,1993/1994
+E3,1993-08-14,York,Swansea,2,1,H,EN,1993/1994
+E3,1993-08-21,Blackpool,Brentford,1,1,D,EN,1993/1994
+E3,1993-08-21,Bournemouth,Bradford,1,1,D,EN,1993/1994
+E3,1993-08-21,Brighton,Hartlepool,1,1,D,EN,1993/1994
+E3,1993-08-21,Exeter,York,1,2,A,EN,1993/1994
+E3,1993-08-21,Fulham,Cardiff,1,3,A,EN,1993/1994
+E3,1993-08-21,Hull,Plymouth,2,2,D,EN,1993/1994
+E3,1993-08-21,Leyton Orient,Bristol Rvs,1,0,H,EN,1993/1994
+E3,1993-08-21,Port Vale,Barnet,6,0,H,EN,1993/1994
+E3,1993-08-21,Reading,Burnley,2,1,H,EN,1993/1994
+E3,1993-08-21,Rotherham,Huddersfield,2,3,A,EN,1993/1994
+E3,1993-08-21,Stockport,Cambridge,3,1,H,EN,1993/1994
+E3,1993-08-21,Swansea,Wrexham,3,1,H,EN,1993/1994
+E3,1993-08-28,Barnet,Swansea,0,1,A,EN,1993/1994
+E3,1993-08-28,Bradford,Exeter,6,0,H,EN,1993/1994
+E3,1993-08-28,Brentford,Reading,1,0,H,EN,1993/1994
+E3,1993-08-28,Bristol Rvs,Fulham,2,1,H,EN,1993/1994
+E3,1993-08-28,Burnley,Leyton Orient,4,1,H,EN,1993/1994
+E3,1993-08-28,Cambridge,Hull,3,4,A,EN,1993/1994
+E3,1993-08-28,Cardiff,Brighton,2,2,D,EN,1993/1994
+E3,1993-08-28,Hartlepool,Bournemouth,1,1,D,EN,1993/1994
+E3,1993-08-28,Huddersfield,Stockport,1,1,D,EN,1993/1994
+E3,1993-08-28,Plymouth,Port Vale,2,0,H,EN,1993/1994
+E3,1993-08-28,Wrexham,Blackpool,2,3,A,EN,1993/1994
+E3,1993-08-28,York,Rotherham,0,0,D,EN,1993/1994
+E3,1993-08-31,Blackpool,Plymouth,2,1,H,EN,1993/1994
+E3,1993-08-31,Bournemouth,York,3,1,H,EN,1993/1994
+E3,1993-08-31,Exeter,Cardiff,2,2,D,EN,1993/1994
+E3,1993-08-31,Fulham,Wrexham,0,0,D,EN,1993/1994
+E3,1993-08-31,Hull,Brentford,1,0,H,EN,1993/1994
+E3,1993-08-31,Leyton Orient,Hartlepool,1,2,A,EN,1993/1994
+E3,1993-08-31,Port Vale,Cambridge,2,2,D,EN,1993/1994
+E3,1993-08-31,Rotherham,Burnley,3,2,H,EN,1993/1994
+E3,1993-08-31,Stockport,Bradford,4,1,H,EN,1993/1994
+E3,1993-08-31,Swansea,Huddersfield,1,0,H,EN,1993/1994
+E3,1993-01-09,Brighton,Bristol Rvs,0,2,A,EN,1993/1994
+E3,1993-01-09,Reading,Barnet,4,1,H,EN,1993/1994
+E3,1993-04-09,Blackpool,Barnet,3,1,H,EN,1993/1994
+E3,1993-04-09,Bournemouth,Burnley,1,0,H,EN,1993/1994
+E3,1993-04-09,Brighton,Huddersfield,2,2,D,EN,1993/1994
+E3,1993-04-09,Exeter,Hartlepool,2,1,H,EN,1993/1994
+E3,1993-04-09,Fulham,Bradford,1,1,D,EN,1993/1994
+E3,1993-04-09,Hull,Bristol Rvs,3,0,H,EN,1993/1994
+E3,1993-04-09,Leyton Orient,York,2,0,H,EN,1993/1994
+E3,1993-04-09,Port Vale,Cardiff,2,2,D,EN,1993/1994
+E3,1993-04-09,Reading,Cambridge,3,1,H,EN,1993/1994
+E3,1993-04-09,Rotherham,Brentford,2,0,H,EN,1993/1994
+E3,1993-04-09,Stockport,Wrexham,1,0,H,EN,1993/1994
+E3,1993-04-09,Swansea,Plymouth,0,1,A,EN,1993/1994
+E3,1993-11-09,Barnet,Bournemouth,1,2,A,EN,1993/1994
+E3,1993-11-09,Bradford,Blackpool,2,1,H,EN,1993/1994
+E3,1993-11-09,Brentford,Swansea,1,1,D,EN,1993/1994
+E3,1993-11-09,Bristol Rvs,Port Vale,2,0,H,EN,1993/1994
+E3,1993-11-09,Burnley,Fulham,3,1,H,EN,1993/1994
+E3,1993-11-09,Cambridge,Rotherham,0,1,A,EN,1993/1994
+E3,1993-11-09,Cardiff,Hull,3,4,A,EN,1993/1994
+E3,1993-11-09,Hartlepool,Stockport,1,0,H,EN,1993/1994
+E3,1993-11-09,Huddersfield,Exeter,0,1,A,EN,1993/1994
+E3,1993-11-09,Plymouth,Leyton Orient,3,1,H,EN,1993/1994
+E3,1993-11-09,Wrexham,Reading,3,2,H,EN,1993/1994
+E3,1993-11-09,York,Brighton,3,1,H,EN,1993/1994
+E3,1993-09-14,Barnet,Fulham,0,2,A,EN,1993/1994
+E3,1993-09-14,Brentford,Leyton Orient,0,1,A,EN,1993/1994
+E3,1993-09-14,Burnley,Brighton,3,0,H,EN,1993/1994
+E3,1993-09-14,Cambridge,Swansea,2,0,H,EN,1993/1994
+E3,1993-09-14,Hartlepool,Blackpool,2,0,H,EN,1993/1994
+E3,1993-09-14,Huddersfield,Port Vale,1,1,D,EN,1993/1994
+E3,1993-09-14,Plymouth,Rotherham,4,2,H,EN,1993/1994
+E3,1993-09-14,Wrexham,Hull,3,0,H,EN,1993/1994
+E3,1993-09-14,York,Stockport,1,2,A,EN,1993/1994
+E3,1993-09-15,Bradford,Reading,2,4,A,EN,1993/1994
+E3,1993-09-15,Bristol Rvs,Exeter,1,1,D,EN,1993/1994
+E3,1993-09-18,Blackpool,Cardiff,1,0,H,EN,1993/1994
+E3,1993-09-18,Bournemouth,Cambridge,1,2,A,EN,1993/1994
+E3,1993-09-18,Brighton,Brentford,2,1,H,EN,1993/1994
+E3,1993-09-18,Exeter,Wrexham,5,0,H,EN,1993/1994
+E3,1993-09-18,Fulham,York,0,1,A,EN,1993/1994
+E3,1993-09-18,Hull,Huddersfield,2,1,H,EN,1993/1994
+E3,1993-09-18,Leyton Orient,Barnet,4,2,H,EN,1993/1994
+E3,1993-09-18,Port Vale,Hartlepool,1,0,H,EN,1993/1994
+E3,1993-09-18,Reading,Plymouth,3,2,H,EN,1993/1994
+E3,1993-09-18,Rotherham,Bristol Rvs,1,1,D,EN,1993/1994
+E3,1993-09-18,Stockport,Burnley,2,1,H,EN,1993/1994
+E3,1993-09-18,Swansea,Bradford,2,0,H,EN,1993/1994
+E3,1993-09-25,Blackpool,Bournemouth,2,1,H,EN,1993/1994
+E3,1993-09-25,Bradford,Cambridge,2,0,H,EN,1993/1994
+E3,1993-09-25,Brentford,Port Vale,1,2,A,EN,1993/1994
+E3,1993-09-25,Bristol Rvs,Burnley,3,1,H,EN,1993/1994
+E3,1993-09-25,Cardiff,Plymouth,2,3,A,EN,1993/1994
+E3,1993-09-25,Exeter,Swansea,1,0,H,EN,1993/1994
+E3,1993-09-25,Hartlepool,York,0,2,A,EN,1993/1994
+E3,1993-09-25,Huddersfield,Fulham,1,0,H,EN,1993/1994
+E3,1993-09-25,Leyton Orient,Brighton,1,3,A,EN,1993/1994
+E3,1993-09-25,Reading,Hull,1,1,D,EN,1993/1994
+E3,1993-09-25,Stockport,Rotherham,2,0,H,EN,1993/1994
+E3,1993-09-25,Wrexham,Barnet,4,0,H,EN,1993/1994
+E3,1993-01-10,Swansea,Reading,1,1,D,EN,1993/1994
+E3,1993-02-10,Barnet,Bristol Rvs,1,2,A,EN,1993/1994
+E3,1993-02-10,Bournemouth,Stockport,1,1,D,EN,1993/1994
+E3,1993-02-10,Brighton,Exeter,0,0,D,EN,1993/1994
+E3,1993-02-10,Burnley,Hartlepool,2,0,H,EN,1993/1994
+E3,1993-02-10,Cambridge,Brentford,1,1,D,EN,1993/1994
+E3,1993-02-10,Fulham,Leyton Orient,2,3,A,EN,1993/1994
+E3,1993-02-10,Hull,Bradford,3,1,H,EN,1993/1994
+E3,1993-02-10,Plymouth,Huddersfield,2,0,H,EN,1993/1994
+E3,1993-02-10,Port Vale,Wrexham,3,0,H,EN,1993/1994
+E3,1993-02-10,Rotherham,Blackpool,0,2,A,EN,1993/1994
+E3,1993-02-10,York,Cardiff,5,0,H,EN,1993/1994
+E3,1993-09-10,Brighton,Stockport,1,1,D,EN,1993/1994
+E3,1993-09-10,Bristol Rvs,Bradford,4,3,H,EN,1993/1994
+E3,1993-09-10,Burnley,Plymouth,4,2,H,EN,1993/1994
+E3,1993-09-10,Exeter,Reading,4,6,A,EN,1993/1994
+E3,1993-09-10,Fulham,Bournemouth,0,2,A,EN,1993/1994
+E3,1993-09-10,Hartlepool,Brentford,0,1,A,EN,1993/1994
+E3,1993-09-10,Leyton Orient,Rotherham,1,1,D,EN,1993/1994
+E3,1993-09-10,Port Vale,Hull,2,1,H,EN,1993/1994
+E3,1993-09-10,Swansea,Blackpool,4,4,D,EN,1993/1994
+E3,1993-09-10,Wrexham,Cambridge,1,1,D,EN,1993/1994
+E3,1993-09-10,York,Huddersfield,0,2,A,EN,1993/1994
+E3,1993-10-10,Barnet,Cardiff,0,0,D,EN,1993/1994
+E3,1993-10-16,Blackpool,Port Vale,1,3,A,EN,1993/1994
+E3,1993-10-16,Bournemouth,Brighton,2,1,H,EN,1993/1994
+E3,1993-10-16,Bradford,Burnley,0,1,A,EN,1993/1994
+E3,1993-10-16,Brentford,Wrexham,2,1,H,EN,1993/1994
+E3,1993-10-16,Cambridge,Hartlepool,1,0,H,EN,1993/1994
+E3,1993-10-16,Cardiff,Bristol Rvs,1,2,A,EN,1993/1994
+E3,1993-10-16,Huddersfield,Barnet,1,2,A,EN,1993/1994
+E3,1993-10-16,Hull,Fulham,1,1,D,EN,1993/1994
+E3,1993-10-16,Plymouth,York,2,1,H,EN,1993/1994
+E3,1993-10-16,Reading,Leyton Orient,2,1,H,EN,1993/1994
+E3,1993-10-16,Rotherham,Swansea,1,1,D,EN,1993/1994
+E3,1993-10-16,Stockport,Exeter,4,0,H,EN,1993/1994
+E3,1993-10-23,Barnet,Cambridge,2,3,A,EN,1993/1994
+E3,1993-10-23,Brighton,Rotherham,0,2,A,EN,1993/1994
+E3,1993-10-23,Bristol Rvs,Plymouth,0,0,D,EN,1993/1994
+E3,1993-10-23,Burnley,Huddersfield,1,1,D,EN,1993/1994
+E3,1993-10-23,Exeter,Blackpool,1,0,H,EN,1993/1994
+E3,1993-10-23,Fulham,Stockport,0,1,A,EN,1993/1994
+E3,1993-10-23,Hartlepool,Bradford,1,2,A,EN,1993/1994
+E3,1993-10-23,Leyton Orient,Bournemouth,0,0,D,EN,1993/1994
+E3,1993-10-23,Port Vale,Reading,0,4,A,EN,1993/1994
+E3,1993-10-23,Swansea,Hull,1,0,H,EN,1993/1994
+E3,1993-10-23,Wrexham,Cardiff,3,1,H,EN,1993/1994
+E3,1993-10-23,York,Brentford,0,2,A,EN,1993/1994
+E3,1993-10-30,Blackpool,Brighton,2,0,H,EN,1993/1994
+E3,1993-10-30,Bournemouth,Exeter,1,1,D,EN,1993/1994
+E3,1993-10-30,Bradford,York,0,0,D,EN,1993/1994
+E3,1993-10-30,Brentford,Barnet,1,0,H,EN,1993/1994
+E3,1993-10-30,Cambridge,Burnley,0,1,A,EN,1993/1994
+E3,1993-10-30,Cardiff,Hartlepool,2,2,D,EN,1993/1994
+E3,1993-10-30,Huddersfield,Bristol Rvs,1,0,H,EN,1993/1994
+E3,1993-10-30,Hull,Leyton Orient,0,1,A,EN,1993/1994
+E3,1993-10-30,Plymouth,Wrexham,1,1,D,EN,1993/1994
+E3,1993-10-30,Reading,Fulham,1,0,H,EN,1993/1994
+E3,1993-10-30,Rotherham,Port Vale,0,2,A,EN,1993/1994
+E3,1993-10-30,Stockport,Swansea,4,0,H,EN,1993/1994
+E3,1993-02-11,Blackpool,Hull,6,2,H,EN,1993/1994
+E3,1993-02-11,Bradford,Huddersfield,3,0,H,EN,1993/1994
+E3,1993-02-11,Brentford,Cardiff,1,1,D,EN,1993/1994
+E3,1993-02-11,Brighton,Wrexham,1,1,D,EN,1993/1994
+E3,1993-02-11,Cambridge,Plymouth,2,0,H,EN,1993/1994
+E3,1993-02-11,Exeter,Fulham,6,4,H,EN,1993/1994
+E3,1993-02-11,Hartlepool,Barnet,2,1,H,EN,1993/1994
+E3,1993-02-11,Rotherham,Reading,2,2,D,EN,1993/1994
+E3,1993-02-11,Stockport,Leyton Orient,3,0,H,EN,1993/1994
+E3,1993-02-11,Swansea,Burnley,3,1,H,EN,1993/1994
+E3,1993-02-11,York,Bristol Rvs,0,1,A,EN,1993/1994
+E3,1993-06-11,Barnet,Bradford,1,2,A,EN,1993/1994
+E3,1993-06-11,Bristol Rvs,Hartlepool,1,1,D,EN,1993/1994
+E3,1993-06-11,Burnley,York,2,1,H,EN,1993/1994
+E3,1993-06-11,Cardiff,Stockport,3,1,H,EN,1993/1994
+E3,1993-06-11,Fulham,Brighton,0,1,A,EN,1993/1994
+E3,1993-06-11,Huddersfield,Cambridge,1,1,D,EN,1993/1994
+E3,1993-06-11,Hull,Rotherham,4,1,H,EN,1993/1994
+E3,1993-06-11,Leyton Orient,Exeter,1,1,D,EN,1993/1994
+E3,1993-06-11,Plymouth,Brentford,1,1,D,EN,1993/1994
+E3,1993-06-11,Port Vale,Swansea,3,0,H,EN,1993/1994
+E3,1993-06-11,Reading,Blackpool,1,1,D,EN,1993/1994
+E3,1993-06-11,Wrexham,Bournemouth,2,1,H,EN,1993/1994
+E3,1993-11-19,Cambridge,Cardiff,1,1,D,EN,1993/1994
+E3,1993-11-20,Blackpool,Huddersfield,2,1,H,EN,1993/1994
+E3,1993-11-20,Bournemouth,Hull,0,2,A,EN,1993/1994
+E3,1993-11-20,Bradford,Plymouth,1,5,A,EN,1993/1994
+E3,1993-11-20,Brentford,Burnley,0,0,D,EN,1993/1994
+E3,1993-11-20,Brighton,Reading,0,1,A,EN,1993/1994
+E3,1993-11-20,Exeter,Port Vale,1,1,D,EN,1993/1994
+E3,1993-11-20,Hartlepool,Wrexham,1,2,A,EN,1993/1994
+E3,1993-11-20,Rotherham,Fulham,1,2,A,EN,1993/1994
+E3,1993-11-20,Stockport,Bristol Rvs,0,2,A,EN,1993/1994
+E3,1993-11-20,Swansea,Leyton Orient,1,1,D,EN,1993/1994
+E3,1993-11-20,York,Barnet,1,1,D,EN,1993/1994
+E3,1993-11-27,Barnet,Rotherham,2,1,H,EN,1993/1994
+E3,1993-11-27,Bristol Rvs,Cambridge,2,1,H,EN,1993/1994
+E3,1993-11-27,Burnley,Exeter,3,2,H,EN,1993/1994
+E3,1993-11-27,Cardiff,Bradford,1,1,D,EN,1993/1994
+E3,1993-11-27,Fulham,Swansea,3,1,H,EN,1993/1994
+E3,1993-11-27,Huddersfield,Brentford,1,3,A,EN,1993/1994
+E3,1993-11-27,Hull,Stockport,0,1,A,EN,1993/1994
+E3,1993-11-27,Leyton Orient,Blackpool,2,0,H,EN,1993/1994
+E3,1993-11-27,Plymouth,Hartlepool,2,0,H,EN,1993/1994
+E3,1993-11-27,Port Vale,Brighton,4,0,H,EN,1993/1994
+E3,1993-11-27,Reading,Bournemouth,3,0,H,EN,1993/1994
+E3,1993-11-27,Wrexham,York,1,1,D,EN,1993/1994
+E3,1993-04-12,Blackpool,Hartlepool,2,1,H,EN,1993/1994
+E3,1993-07-12,Bournemouth,Port Vale,2,1,H,EN,1993/1994
+E3,1993-11-12,Barnet,Port Vale,2,3,A,EN,1993/1994
+E3,1993-11-12,Bradford,Bournemouth,0,0,D,EN,1993/1994
+E3,1993-11-12,Brentford,Blackpool,3,0,H,EN,1993/1994
+E3,1993-11-12,Bristol Rvs,Leyton Orient,1,1,D,EN,1993/1994
+E3,1993-11-12,Burnley,Reading,0,1,A,EN,1993/1994
+E3,1993-11-12,Cambridge,Stockport,0,0,D,EN,1993/1994
+E3,1993-11-12,Cardiff,Fulham,1,0,H,EN,1993/1994
+E3,1993-11-12,Hartlepool,Brighton,2,2,D,EN,1993/1994
+E3,1993-11-12,Huddersfield,Rotherham,2,1,H,EN,1993/1994
+E3,1993-11-12,Plymouth,Hull,2,1,H,EN,1993/1994
+E3,1993-11-12,Wrexham,Swansea,3,2,H,EN,1993/1994
+E3,1993-11-12,York,Exeter,3,0,H,EN,1993/1994
+E3,1993-12-17,Fulham,Hartlepool,2,0,H,EN,1993/1994
+E3,1993-12-17,Rotherham,Wrexham,2,1,H,EN,1993/1994
+E3,1993-12-17,Stockport,Plymouth,2,3,A,EN,1993/1994
+E3,1993-12-18,Bournemouth,Bristol Rvs,3,0,H,EN,1993/1994
+E3,1993-12-18,Brighton,Bradford,0,1,A,EN,1993/1994
+E3,1993-12-18,Exeter,Brentford,2,2,D,EN,1993/1994
+E3,1993-12-18,Hull,Barnet,4,4,D,EN,1993/1994
+E3,1993-12-18,Leyton Orient,Cardiff,2,2,D,EN,1993/1994
+E3,1993-12-18,Port Vale,Burnley,1,1,D,EN,1993/1994
+E3,1993-12-18,Reading,Huddersfield,0,0,D,EN,1993/1994
+E3,1993-12-18,Swansea,York,1,2,A,EN,1993/1994
+E3,1993-12-19,Blackpool,Cambridge,2,3,A,EN,1993/1994
+E3,1993-12-22,Cardiff,Swansea,1,0,H,EN,1993/1994
+E3,1993-12-27,Bournemouth,Brentford,0,3,A,EN,1993/1994
+E3,1993-12-27,Bradford,Rotherham,2,1,H,EN,1993/1994
+E3,1993-12-27,Brighton,Barnet,1,0,H,EN,1993/1994
+E3,1993-12-27,Burnley,Wrexham,2,1,H,EN,1993/1994
+E3,1993-12-27,Fulham,Port Vale,0,0,D,EN,1993/1994
+E3,1993-12-27,Hartlepool,Huddersfield,1,4,A,EN,1993/1994
+E3,1993-12-27,Leyton Orient,Cambridge,2,1,H,EN,1993/1994
+E3,1993-12-27,York,Hull,0,0,D,EN,1993/1994
+E3,1993-12-28,Blackpool,York,0,5,A,EN,1993/1994
+E3,1993-12-28,Hull,Hartlepool,1,0,H,EN,1993/1994
+E3,1993-12-28,Plymouth,Fulham,3,1,H,EN,1993/1994
+E3,1993-12-28,Reading,Stockport,2,0,H,EN,1993/1994
+E3,1993-12-29,Barnet,Burnley,1,1,D,EN,1993/1994
+E3,1993-12-29,Brentford,Bradford,2,0,H,EN,1993/1994
+E3,1993-12-29,Cambridge,Exeter,3,0,H,EN,1993/1994
+E3,1993-12-29,Port Vale,Leyton Orient,2,1,H,EN,1993/1994
+E3,1994-01-01,Bournemouth,Plymouth,0,1,A,EN,1993/1994
+E3,1994-01-01,Bradford,Wrexham,1,0,H,EN,1993/1994
+E3,1994-01-01,Brighton,Cambridge,4,1,H,EN,1993/1994
+E3,1994-01-01,Bristol Rvs,Swansea,1,2,A,EN,1993/1994
+E3,1994-01-01,Burnley,Blackpool,3,1,H,EN,1993/1994
+E3,1994-01-01,Cardiff,Reading,3,0,H,EN,1993/1994
+E3,1994-01-01,Exeter,Hull,0,1,A,EN,1993/1994
+E3,1994-01-01,Fulham,Brentford,0,0,D,EN,1993/1994
+E3,1994-01-01,Hartlepool,Rotherham,2,0,H,EN,1993/1994
+E3,1994-01-01,Leyton Orient,Huddersfield,1,0,H,EN,1993/1994
+E3,1994-01-01,Stockport,Barnet,2,1,H,EN,1993/1994
+E3,1994-01-01,York,Port Vale,1,0,H,EN,1993/1994
+E3,1994-03-01,Blackpool,Bristol Rvs,0,1,A,EN,1993/1994
+E3,1994-03-01,Brentford,Stockport,1,1,D,EN,1993/1994
+E3,1994-03-01,Cambridge,Fulham,3,0,H,EN,1993/1994
+E3,1994-03-01,Huddersfield,Bournemouth,1,1,D,EN,1993/1994
+E3,1994-03-01,Hull,Burnley,1,2,A,EN,1993/1994
+E3,1994-03-01,Plymouth,Brighton,1,1,D,EN,1993/1994
+E3,1994-03-01,Reading,York,2,1,H,EN,1993/1994
+E3,1994-03-01,Rotherham,Cardiff,5,2,H,EN,1993/1994
+E3,1994-03-01,Wrexham,Leyton Orient,4,2,H,EN,1993/1994
+E3,1994-08-01,Blackpool,Fulham,2,3,A,EN,1993/1994
+E3,1994-08-01,Bradford,Leyton Orient,0,0,D,EN,1993/1994
+E3,1994-08-01,Brentford,Bristol Rvs,3,4,A,EN,1993/1994
+E3,1994-08-01,Cambridge,York,0,2,A,EN,1993/1994
+E3,1994-08-01,Hull,Brighton,0,0,D,EN,1993/1994
+E3,1994-08-01,Reading,Hartlepool,4,0,H,EN,1993/1994
+E3,1994-01-14,Swansea,Rotherham,0,0,D,EN,1993/1994
+E3,1994-01-15,Barnet,Huddersfield,0,1,A,EN,1993/1994
+E3,1994-01-15,Brighton,Bournemouth,3,3,D,EN,1993/1994
+E3,1994-01-15,Bristol Rvs,Cardiff,2,1,H,EN,1993/1994
+E3,1994-01-15,Burnley,Bradford,0,1,A,EN,1993/1994
+E3,1994-01-15,Fulham,Hull,0,1,A,EN,1993/1994
+E3,1994-01-15,Hartlepool,Cambridge,0,2,A,EN,1993/1994
+E3,1994-01-15,Leyton Orient,Reading,1,1,D,EN,1993/1994
+E3,1994-01-15,Port Vale,Blackpool,2,0,H,EN,1993/1994
+E3,1994-01-15,Wrexham,Brentford,1,2,A,EN,1993/1994
+E3,1994-01-15,York,Plymouth,0,0,D,EN,1993/1994
+E3,1994-01-22,Blackpool,Swansea,1,1,D,EN,1993/1994
+E3,1994-01-22,Bournemouth,Fulham,1,3,A,EN,1993/1994
+E3,1994-01-22,Bradford,Bristol Rvs,0,1,A,EN,1993/1994
+E3,1994-01-22,Brentford,Hartlepool,1,0,H,EN,1993/1994
+E3,1994-01-22,Cambridge,Wrexham,2,2,D,EN,1993/1994
+E3,1994-01-22,Cardiff,Barnet,0,0,D,EN,1993/1994
+E3,1994-01-22,Huddersfield,York,3,2,H,EN,1993/1994
+E3,1994-01-22,Hull,Port Vale,0,0,D,EN,1993/1994
+E3,1994-01-22,Plymouth,Burnley,3,2,H,EN,1993/1994
+E3,1994-01-22,Reading,Exeter,1,0,H,EN,1993/1994
+E3,1994-01-22,Rotherham,Leyton Orient,2,1,H,EN,1993/1994
+E3,1994-01-22,Stockport,Brighton,3,0,H,EN,1993/1994
+E3,1994-01-26,Bristol Rvs,Reading,1,1,D,EN,1993/1994
+E3,1994-01-28,Swansea,Hartlepool,1,1,D,EN,1993/1994
+E3,1994-01-29,Barnet,Brentford,0,0,D,EN,1993/1994
+E3,1994-01-29,Brighton,Blackpool,3,2,H,EN,1993/1994
+E3,1994-01-29,Bristol Rvs,Huddersfield,0,0,D,EN,1993/1994
+E3,1994-01-29,Burnley,Cambridge,3,0,H,EN,1993/1994
+E3,1994-01-29,Exeter,Bournemouth,0,2,A,EN,1993/1994
+E3,1994-01-29,Leyton Orient,Hull,3,1,H,EN,1993/1994
+E3,1994-01-29,York,Bradford,1,1,D,EN,1993/1994
+E3,1994-01-30,Fulham,Reading,1,0,H,EN,1993/1994
+E3,1994-01-02,Stockport,Blackpool,1,0,H,EN,1993/1994
+E3,1994-05-02,Blackpool,Exeter,1,0,H,EN,1993/1994
+E3,1994-05-02,Bournemouth,Leyton Orient,1,1,D,EN,1993/1994
+E3,1994-05-02,Bradford,Hartlepool,2,1,H,EN,1993/1994
+E3,1994-05-02,Brentford,York,1,1,D,EN,1993/1994
+E3,1994-05-02,Cambridge,Barnet,1,1,D,EN,1993/1994
+E3,1994-05-02,Cardiff,Wrexham,5,1,H,EN,1993/1994
+E3,1994-05-02,Huddersfield,Burnley,1,1,D,EN,1993/1994
+E3,1994-05-02,Hull,Swansea,0,1,A,EN,1993/1994
+E3,1994-05-02,Plymouth,Bristol Rvs,3,3,D,EN,1993/1994
+E3,1994-05-02,Reading,Port Vale,1,2,A,EN,1993/1994
+E3,1994-05-02,Rotherham,Brighton,0,1,A,EN,1993/1994
+E3,1994-05-02,Stockport,Fulham,2,4,A,EN,1993/1994
+E3,1994-12-02,Barnet,Plymouth,0,0,D,EN,1993/1994
+E3,1994-12-02,Brighton,Hull,3,0,H,EN,1993/1994
+E3,1994-12-02,Bristol Rvs,Brentford,1,4,A,EN,1993/1994
+E3,1994-12-02,Burnley,Cardiff,2,0,H,EN,1993/1994
+E3,1994-12-02,Exeter,Rotherham,1,1,D,EN,1993/1994
+E3,1994-12-02,Fulham,Blackpool,1,0,H,EN,1993/1994
+E3,1994-12-02,Hartlepool,Reading,1,4,A,EN,1993/1994
+E3,1994-12-02,Leyton Orient,Bradford,2,1,H,EN,1993/1994
+E3,1994-12-02,Port Vale,Stockport,1,1,D,EN,1993/1994
+E3,1994-12-02,Swansea,Bournemouth,1,1,D,EN,1993/1994
+E3,1994-12-02,Wrexham,Huddersfield,3,1,H,EN,1993/1994
+E3,1994-12-02,York,Cambridge,2,0,H,EN,1993/1994
+E3,1994-02-18,Swansea,Barnet,2,0,H,EN,1993/1994
+E3,1994-02-19,Blackpool,Wrexham,4,1,H,EN,1993/1994
+E3,1994-02-19,Bournemouth,Hartlepool,0,0,D,EN,1993/1994
+E3,1994-02-19,Exeter,Bradford,0,0,D,EN,1993/1994
+E3,1994-02-19,Fulham,Bristol Rvs,0,1,A,EN,1993/1994
+E3,1994-02-19,Hull,Cambridge,2,0,H,EN,1993/1994
+E3,1994-02-19,Leyton Orient,Burnley,3,1,H,EN,1993/1994
+E3,1994-02-19,Port Vale,Plymouth,2,1,H,EN,1993/1994
+E3,1994-02-19,Reading,Brentford,2,1,H,EN,1993/1994
+E3,1994-02-19,Rotherham,York,2,1,H,EN,1993/1994
+E3,1994-02-19,Stockport,Huddersfield,3,0,H,EN,1993/1994
+E3,1994-02-22,Brentford,Hull,0,3,A,EN,1993/1994
+E3,1994-02-22,Cambridge,Port Vale,1,0,H,EN,1993/1994
+E3,1994-02-22,Huddersfield,Swansea,1,1,D,EN,1993/1994
+E3,1994-02-22,Plymouth,Blackpool,2,1,H,EN,1993/1994
+E3,1994-02-22,Wrexham,Fulham,2,0,H,EN,1993/1994
+E3,1994-02-23,Bristol Rvs,Brighton,1,0,H,EN,1993/1994
+E3,1994-02-26,Barnet,Blackpool,0,1,A,EN,1993/1994
+E3,1994-02-26,Brentford,Rotherham,2,2,D,EN,1993/1994
+E3,1994-02-26,Bristol Rvs,Hull,1,1,D,EN,1993/1994
+E3,1994-02-26,Burnley,Bournemouth,4,0,H,EN,1993/1994
+E3,1994-02-26,Cambridge,Reading,0,1,A,EN,1993/1994
+E3,1994-02-26,Hartlepool,Exeter,1,2,A,EN,1993/1994
+E3,1994-02-26,Huddersfield,Brighton,1,3,A,EN,1993/1994
+E3,1994-02-26,Plymouth,Swansea,2,1,H,EN,1993/1994
+E3,1994-02-26,York,Leyton Orient,3,0,H,EN,1993/1994
+E3,1994-01-03,Cardiff,Burnley,2,1,H,EN,1993/1994
+E3,1994-01-03,Port Vale,Bradford,0,0,D,EN,1993/1994
+E3,1994-02-03,Exeter,Plymouth,2,3,A,EN,1993/1994
+E3,1994-05-03,Blackpool,Bradford,1,3,A,EN,1993/1994
+E3,1994-05-03,Bournemouth,Barnet,1,1,D,EN,1993/1994
+E3,1994-05-03,Brighton,York,2,0,H,EN,1993/1994
+E3,1994-05-03,Exeter,Huddersfield,2,3,A,EN,1993/1994
+E3,1994-05-03,Fulham,Burnley,3,2,H,EN,1993/1994
+E3,1994-05-03,Hull,Cardiff,1,0,H,EN,1993/1994
+E3,1994-05-03,Leyton Orient,Plymouth,2,1,H,EN,1993/1994
+E3,1994-05-03,Port Vale,Bristol Rvs,2,0,H,EN,1993/1994
+E3,1994-05-03,Reading,Wrexham,0,1,A,EN,1993/1994
+E3,1994-05-03,Rotherham,Cambridge,3,0,H,EN,1993/1994
+E3,1994-05-03,Stockport,Hartlepool,5,0,H,EN,1993/1994
+E3,1994-05-03,Swansea,Brentford,1,1,D,EN,1993/1994
+E3,1994-08-03,Hartlepool,Leyton Orient,1,1,D,EN,1993/1994
+E3,1994-08-03,Plymouth,Barnet,1,0,H,EN,1993/1994
+E3,1994-08-03,Rotherham,Bournemouth,1,2,A,EN,1993/1994
+E3,1994-08-03,Swansea,Brighton,3,0,H,EN,1993/1994
+E3,1994-08-03,Wrexham,Stockport,0,1,A,EN,1993/1994
+E3,1994-12-03,Barnet,Leyton Orient,3,1,H,EN,1993/1994
+E3,1994-12-03,Bradford,Swansea,2,1,H,EN,1993/1994
+E3,1994-12-03,Brentford,Brighton,1,1,D,EN,1993/1994
+E3,1994-12-03,Bristol Rvs,Rotherham,0,2,A,EN,1993/1994
+E3,1994-12-03,Burnley,Stockport,1,1,D,EN,1993/1994
+E3,1994-12-03,Cambridge,Bournemouth,3,2,H,EN,1993/1994
+E3,1994-12-03,Cardiff,Blackpool,0,2,A,EN,1993/1994
+E3,1994-12-03,Hartlepool,Port Vale,1,4,A,EN,1993/1994
+E3,1994-12-03,Huddersfield,Hull,0,2,A,EN,1993/1994
+E3,1994-12-03,Plymouth,Reading,3,1,H,EN,1993/1994
+E3,1994-12-03,Wrexham,Exeter,1,1,D,EN,1993/1994
+E3,1994-12-03,York,Fulham,2,0,H,EN,1993/1994
+E3,1994-03-15,Bournemouth,Cardiff,3,2,H,EN,1993/1994
+E3,1994-03-15,Exeter,Bristol Rvs,1,0,H,EN,1993/1994
+E3,1994-03-15,Fulham,Barnet,3,0,H,EN,1993/1994
+E3,1994-03-15,Hull,Wrexham,0,0,D,EN,1993/1994
+E3,1994-03-15,Leyton Orient,Brentford,1,1,D,EN,1993/1994
+E3,1994-03-15,Port Vale,Huddersfield,1,0,H,EN,1993/1994
+E3,1994-03-15,Reading,Bradford,1,1,D,EN,1993/1994
+E3,1994-03-15,Rotherham,Plymouth,0,3,A,EN,1993/1994
+E3,1994-03-15,Stockport,York,1,2,A,EN,1993/1994
+E3,1994-03-15,Swansea,Cambridge,4,2,H,EN,1993/1994
+E3,1994-03-16,Brighton,Burnley,1,1,D,EN,1993/1994
+E3,1994-03-19,Barnet,Wrexham,1,2,A,EN,1993/1994
+E3,1994-03-19,Bournemouth,Blackpool,1,0,H,EN,1993/1994
+E3,1994-03-19,Brighton,Leyton Orient,2,0,H,EN,1993/1994
+E3,1994-03-19,Burnley,Bristol Rvs,3,1,H,EN,1993/1994
+E3,1994-03-19,Cambridge,Bradford,2,1,H,EN,1993/1994
+E3,1994-03-19,Fulham,Huddersfield,1,1,D,EN,1993/1994
+E3,1994-03-19,Hull,Reading,1,2,A,EN,1993/1994
+E3,1994-03-19,Plymouth,Cardiff,1,2,A,EN,1993/1994
+E3,1994-03-19,Port Vale,Brentford,1,0,H,EN,1993/1994
+E3,1994-03-19,Rotherham,Stockport,1,2,A,EN,1993/1994
+E3,1994-03-19,Swansea,Exeter,2,0,H,EN,1993/1994
+E3,1994-03-19,York,Hartlepool,3,0,H,EN,1993/1994
+E3,1994-03-22,Barnet,Exeter,2,1,H,EN,1993/1994
+E3,1994-03-22,Bradford,Stockport,1,2,A,EN,1993/1994
+E3,1994-03-22,Hartlepool,Cardiff,3,0,H,EN,1993/1994
+E3,1994-03-22,Wrexham,Bristol Rvs,3,2,H,EN,1993/1994
+E3,1994-03-22,York,Bournemouth,2,0,H,EN,1993/1994
+E3,1994-03-26,Blackpool,Rotherham,1,2,A,EN,1993/1994
+E3,1994-03-26,Bradford,Hull,1,1,D,EN,1993/1994
+E3,1994-03-26,Brentford,Cambridge,3,3,D,EN,1993/1994
+E3,1994-03-26,Bristol Rvs,Barnet,2,5,A,EN,1993/1994
+E3,1994-03-26,Cardiff,York,0,0,D,EN,1993/1994
+E3,1994-03-26,Exeter,Brighton,1,1,D,EN,1993/1994
+E3,1994-03-26,Hartlepool,Burnley,4,1,H,EN,1993/1994
+E3,1994-03-26,Huddersfield,Plymouth,1,0,H,EN,1993/1994
+E3,1994-03-26,Leyton Orient,Fulham,2,2,D,EN,1993/1994
+E3,1994-03-26,Reading,Swansea,2,1,H,EN,1993/1994
+E3,1994-03-26,Stockport,Bournemouth,0,2,A,EN,1993/1994
+E3,1994-03-26,Wrexham,Port Vale,2,1,H,EN,1993/1994
+E3,1994-03-29,Bournemouth,Huddersfield,1,2,A,EN,1993/1994
+E3,1994-03-29,Bradford,Port Vale,2,1,H,EN,1993/1994
+E3,1994-03-29,Burnley,Hull,3,1,H,EN,1993/1994
+E3,1994-03-29,Cardiff,Rotherham,1,0,H,EN,1993/1994
+E3,1994-03-29,Exeter,Barnet,0,0,D,EN,1993/1994
+E3,1994-03-29,Fulham,Cambridge,0,2,A,EN,1993/1994
+E3,1994-03-29,Hartlepool,Swansea,1,0,H,EN,1993/1994
+E3,1994-03-29,Leyton Orient,Wrexham,2,2,D,EN,1993/1994
+E3,1994-03-29,Stockport,Brentford,3,1,H,EN,1993/1994
+E3,1994-03-29,York,Reading,1,0,H,EN,1993/1994
+E3,1994-03-30,Brighton,Plymouth,2,1,H,EN,1993/1994
+E3,1994-03-30,Bristol Rvs,Blackpool,1,0,H,EN,1993/1994
+E3,1994-02-04,Barnet,Brighton,1,1,D,EN,1993/1994
+E3,1994-02-04,Blackpool,Stockport,2,0,H,EN,1993/1994
+E3,1994-02-04,Brentford,Bournemouth,1,1,D,EN,1993/1994
+E3,1994-02-04,Cambridge,Leyton Orient,3,1,H,EN,1993/1994
+E3,1994-02-04,Huddersfield,Hartlepool,1,1,D,EN,1993/1994
+E3,1994-02-04,Hull,York,1,1,D,EN,1993/1994
+E3,1994-02-04,Plymouth,Exeter,1,0,H,EN,1993/1994
+E3,1994-02-04,Port Vale,Fulham,2,2,D,EN,1993/1994
+E3,1994-02-04,Reading,Bristol Rvs,2,0,H,EN,1993/1994
+E3,1994-02-04,Rotherham,Bradford,2,1,H,EN,1993/1994
+E3,1994-02-04,Swansea,Cardiff,1,0,H,EN,1993/1994
+E3,1994-02-04,Wrexham,Burnley,1,0,H,EN,1993/1994
+E3,1994-04-04,Bradford,Brentford,1,0,H,EN,1993/1994
+E3,1994-04-04,Bristol Rvs,Wrexham,3,1,H,EN,1993/1994
+E3,1994-04-04,Burnley,Barnet,5,0,H,EN,1993/1994
+E3,1994-04-04,Cardiff,Huddersfield,2,2,D,EN,1993/1994
+E3,1994-04-04,Exeter,Cambridge,0,5,A,EN,1993/1994
+E3,1994-04-04,Fulham,Plymouth,1,1,D,EN,1993/1994
+E3,1994-04-04,Hartlepool,Hull,0,1,A,EN,1993/1994
+E3,1994-04-04,Leyton Orient,Port Vale,2,3,A,EN,1993/1994
+E3,1994-04-04,York,Blackpool,2,1,H,EN,1993/1994
+E3,1994-05-04,Bournemouth,Rotherham,0,0,D,EN,1993/1994
+E3,1994-06-04,Brighton,Swansea,4,1,H,EN,1993/1994
+E3,1994-09-04,Barnet,Stockport,0,0,D,EN,1993/1994
+E3,1994-09-04,Blackpool,Burnley,1,2,A,EN,1993/1994
+E3,1994-09-04,Brentford,Fulham,1,2,A,EN,1993/1994
+E3,1994-09-04,Cambridge,Brighton,2,1,H,EN,1993/1994
+E3,1994-09-04,Huddersfield,Leyton Orient,1,0,H,EN,1993/1994
+E3,1994-09-04,Hull,Exeter,5,1,H,EN,1993/1994
+E3,1994-09-04,Plymouth,Bournemouth,2,0,H,EN,1993/1994
+E3,1994-09-04,Reading,Cardiff,1,1,D,EN,1993/1994
+E3,1994-09-04,Rotherham,Hartlepool,7,0,H,EN,1993/1994
+E3,1994-09-04,Swansea,Bristol Rvs,2,0,H,EN,1993/1994
+E3,1994-09-04,Wrexham,Bradford,0,3,A,EN,1993/1994
+E3,1994-12-04,Barnet,Reading,0,1,A,EN,1993/1994
+E3,1994-12-04,Brighton,Cardiff,3,5,A,EN,1993/1994
+E3,1994-12-04,Huddersfield,Wrexham,3,0,H,EN,1993/1994
+E3,1994-12-04,Port Vale,Rotherham,2,1,H,EN,1993/1994
+E3,1994-12-04,Swansea,Stockport,1,2,A,EN,1993/1994
+E3,1994-04-13,Bradford,Fulham,0,0,D,EN,1993/1994
+E3,1994-04-16,Bristol Rvs,York,0,1,A,EN,1993/1994
+E3,1994-04-16,Burnley,Swansea,1,1,D,EN,1993/1994
+E3,1994-04-16,Cardiff,Brentford,1,1,D,EN,1993/1994
+E3,1994-04-16,Fulham,Exeter,0,2,A,EN,1993/1994
+E3,1994-04-16,Hull,Blackpool,0,0,D,EN,1993/1994
+E3,1994-04-16,Leyton Orient,Stockport,0,0,D,EN,1993/1994
+E3,1994-04-16,Plymouth,Cambridge,0,3,A,EN,1993/1994
+E3,1994-04-16,Port Vale,Bournemouth,2,1,H,EN,1993/1994
+E3,1994-04-16,Reading,Rotherham,0,0,D,EN,1993/1994
+E3,1994-04-16,Wrexham,Brighton,1,3,A,EN,1993/1994
+E3,1994-04-17,Huddersfield,Bradford,1,1,D,EN,1993/1994
+E3,1994-04-19,Bournemouth,Swansea,0,1,A,EN,1993/1994
+E3,1994-04-19,Huddersfield,Cardiff,2,0,H,EN,1993/1994
+E3,1994-04-19,Rotherham,Exeter,3,0,H,EN,1993/1994
+E3,1994-04-19,Stockport,Port Vale,2,1,H,EN,1993/1994
+E3,1994-04-21,Cardiff,Bournemouth,2,1,H,EN,1993/1994
+E3,1994-04-21,Port Vale,York,2,1,H,EN,1993/1994
+E3,1994-04-23,Blackpool,Reading,0,4,A,EN,1993/1994
+E3,1994-04-23,Bournemouth,Wrexham,1,2,A,EN,1993/1994
+E3,1994-04-23,Brentford,Plymouth,1,1,D,EN,1993/1994
+E3,1994-04-23,Brighton,Fulham,2,0,H,EN,1993/1994
+E3,1994-04-23,Exeter,Leyton Orient,1,0,H,EN,1993/1994
+E3,1994-04-23,Hartlepool,Bristol Rvs,2,1,H,EN,1993/1994
+E3,1994-04-23,Rotherham,Hull,1,0,H,EN,1993/1994
+E3,1994-04-23,Stockport,Cardiff,2,2,D,EN,1993/1994
+E3,1994-04-23,York,Burnley,0,0,D,EN,1993/1994
+E3,1994-04-26,Barnet,Hartlepool,3,2,H,EN,1993/1994
+E3,1994-04-26,Burnley,Rotherham,0,0,D,EN,1993/1994
+E3,1994-04-26,Cambridge,Huddersfield,4,5,A,EN,1993/1994
+E3,1994-04-26,Cardiff,Exeter,2,0,H,EN,1993/1994
+E3,1994-04-26,Swansea,Port Vale,0,1,A,EN,1993/1994
+E3,1994-04-26,Wrexham,Plymouth,0,3,A,EN,1993/1994
+E3,1994-04-28,Stockport,Reading,1,1,D,EN,1993/1994
+E3,1994-04-30,Barnet,York,1,3,A,EN,1993/1994
+E3,1994-04-30,Bristol Rvs,Stockport,1,1,D,EN,1993/1994
+E3,1994-04-30,Burnley,Brentford,4,1,H,EN,1993/1994
+E3,1994-04-30,Cardiff,Cambridge,2,7,A,EN,1993/1994
+E3,1994-04-30,Fulham,Rotherham,1,0,H,EN,1993/1994
+E3,1994-04-30,Huddersfield,Blackpool,2,1,H,EN,1993/1994
+E3,1994-04-30,Hull,Bournemouth,1,1,D,EN,1993/1994
+E3,1994-04-30,Leyton Orient,Swansea,2,1,H,EN,1993/1994
+E3,1994-04-30,Plymouth,Bradford,3,1,H,EN,1993/1994
+E3,1994-04-30,Port Vale,Exeter,3,0,H,EN,1993/1994
+E3,1994-04-30,Reading,Brighton,2,0,H,EN,1993/1994
+E3,1994-04-30,Wrexham,Hartlepool,2,0,H,EN,1993/1994
+E3,1994-02-05,Exeter,Stockport,1,2,A,EN,1993/1994
+E3,1994-03-05,Bradford,Barnet,2,1,H,EN,1993/1994
+E3,1994-03-05,Cardiff,Port Vale,1,3,A,EN,1993/1994
+E3,1994-05-05,Bournemouth,Reading,2,1,H,EN,1993/1994
+E3,1994-07-05,Blackpool,Leyton Orient,4,1,H,EN,1993/1994
+E3,1994-07-05,Bradford,Cardiff,2,0,H,EN,1993/1994
+E3,1994-07-05,Brentford,Huddersfield,1,2,A,EN,1993/1994
+E3,1994-07-05,Brighton,Port Vale,1,3,A,EN,1993/1994
+E3,1994-07-05,Cambridge,Bristol Rvs,1,3,A,EN,1993/1994
+E3,1994-07-05,Exeter,Burnley,4,1,H,EN,1993/1994
+E3,1994-07-05,Hartlepool,Plymouth,1,8,A,EN,1993/1994
+E3,1994-07-05,Rotherham,Barnet,1,1,D,EN,1993/1994
+E3,1994-07-05,Stockport,Hull,0,0,D,EN,1993/1994
+E3,1994-07-05,Swansea,Fulham,2,1,H,EN,1993/1994
+E3,1994-07-05,York,Wrexham,1,1,D,EN,1993/1994
