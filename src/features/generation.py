@@ -39,3 +39,25 @@ def add_form(df):
     df['HomeForm'] = (df[home_before_cols] * [len(home_before_cols)-i for i in range(len(home_before_cols))]).sum(axis=1)
     df['AwayForm'] = (df[away_before_cols] * [len(away_before_cols) - i for i in range(len(away_before_cols))]).sum(axis=1)
     return df
+
+
+def get_bookmaker_pred(df: pd.DataFrame) -> pd.Series:
+    bookmaker_pred = df[['B365H', 'B365D', 'B365A']].idxmin(axis=1).str[-1:]
+    return bookmaker_pred
+
+
+def get_outcome_counts(df_in: pd.DataFrame) -> pd.DataFrame:
+    df = df_in.copy()
+    sites = ['Home', 'Away']
+    outcome_df = pd.DataFrame()
+    for site in sites:
+        before_cols = [col for col in df.columns if col[:10] == f'{site}Before']
+        wins = (df[before_cols] == 1).sum(axis=1)
+        draws = (df[before_cols] == 0).sum(axis=1)
+        losses = (df[before_cols] == -1).sum(axis=1)
+        outcome_df[f"{site}Wins"] = wins
+        outcome_df[f"{site}Draws"] = draws
+        outcome_df[f"{site}Losses"] = losses
+    return outcome_df
+
+
