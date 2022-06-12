@@ -1,7 +1,8 @@
 import pandas as pd
 from sqlalchemy import create_engine
 import os
-from typing import List
+from typing import List, Union, Dict
+from pandas.io import sql
 
 
 def get_main_dir_path() -> str:
@@ -13,7 +14,7 @@ def get_main_dir_path() -> str:
 
 class DbAccessLayer:
     def __init__(self):
-        self._conn = create_engine(f"sqlite:///{get_main_dir_path()}//data//database")
+        self._conn = create_engine(f"sqlite:///{get_main_dir_path()}//data//database.db")
 
     def create_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
         df.to_sql(table_name, con=self._conn, if_exists="fail", index=False)
@@ -28,32 +29,34 @@ class DbAccessLayer:
         df = pd.read_sql(table_name, con=self._conn)
         return df
 
+    def _update_insert_entry(self, entry: pd.Series, table: str):
+        cols = entry.index.tolist()
+        values = ""
+        for value in entry:
+            if value is None or pd.isna(value):
+                values += "NULL, "
+            else:
+                value = str(value).replace("'", "")
+                values += f"'{value}', "
+        values = values[:-2]  # remove trailing ", "
+        sql.execute(f"""
+        INSERT OR REPLACE INTO {table} ({", ".join(cols)})
+        VALUES ({values});
+        """, self._conn)
 
-class RawDataAccessLayer:
-    def __init__(self):
-        self.dir = f"{get_main_dir_path()}/data/raw"
+    def save_matches(self, matches: Union[pd.Series, pd.DataFrame]):
+        if isinstance(matches, pd.Series):
+            self._update_insert_entry(matches, 'Match')
+        elif isinstance(matches, pd.DataFrame):
+            for idx, row in matches.iterrows():
+                self._update_insert_entry(row, 'Match')
 
-    @property
-    def subdirectories(self) -> list:
-        return os.listdir(self.dir)
-
-    def get_subdir_files(self, subdir: str) -> List[str]:
-        return os.listdir(f"{self.dir}/{subdir}")
-
-    def load_df(self, subdir: str, file_name: str) -> pd.DataFrame:
-        return pd.read_csv(f"{self.dir}/{subdir}/{file_name}", on_bad_lines='skip', encoding='ISO-8859-1')
-
-    def save_prepared(self, df: pd.DataFrame, file_name: str) -> None:
-        df.to_csv(f"{self.dir}/prepared/{file_name}", index=False)
-
-    def load_all_prepared(self) -> pd.DataFrame:
-        all_files = [file for file in os.listdir(f"{self.dir}/prepared") if file[-4:] == ".csv"]
-        all_prepared = pd.DataFrame()
-        for file in all_files:
-            file_path = f"{self.dir}/prepared/{file}"
-            df = pd.read_csv(file_path)
-            all_prepared = pd.concat([all_prepared, df])
-        return all_prepared
+    def save_teams(self, teams: Union[pd.Series, pd.DataFrame]):
+        if isinstance(teams, pd.Series):
+            self._update_insert_entry(teams, 'Team')
+        elif isinstance(teams, pd.DataFrame):
+            for idx, row in teams.iterrows():
+                self._update_insert_entry(row, 'Team')
 
 
 class ExternalDataAccessLayer:
