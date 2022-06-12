@@ -5,6 +5,7 @@ import pandas as pd
 from typing import List, Union, Dict
 from src.data.access import DbAccessLayer
 from time import sleep
+from tqdm import tqdm
 
 
 class Scraper:
@@ -129,3 +130,44 @@ class Scraper:
                     matches_df['matchday'] = matchday
                     self._db_access.save_matches(matches_df)
                     sleep(sleep_time)
+
+    @staticmethod
+    def _get_team_information(soup: BeautifulSoup) -> Dict:
+        team_overview = soup.find("div", class_="dataMain")
+        team_name = team_overview.find(itemprop="name").span.text
+
+        team_details = soup.find("div", class_="dataContent")
+        stadium_capacity = team_details.find(text="Stadium:").parent.parent.find(class_="tabellenplatz").text.replace(
+            " Seats", "").replace(".", "")
+
+        info_table = soup.find(class_="info-table")
+        street = info_table.find(itemprop="streetAddress").text
+        postal_code = info_table.find(itemprop="postalCode").text
+        country = info_table.find(itemprop="addressLocality").text
+        founded = pd.to_datetime(info_table.find(itemprop="foundingDate").text).strftime("%Y-%m-%d")
+        return {
+            'name': team_name,
+            'founded': founded,
+            'stadium_capacity': stadium_capacity,
+            'street': street,
+            'postal_code': postal_code,
+            'country': country
+        }
+
+    def get_team_data(self, teams: List[int], sleep_time: int = 5):
+        for team_id in tqdm(teams, desc="Getting team data"):
+            soup = self._get_page_soup(f"/verein/startseite/verein/{team_id}/saison_id/2021")
+            team_information = self._get_team_information(soup)
+            team_information['team_id'] = team_id
+            team_information_series = pd.Series(team_information)
+            self._db_access.save_teams(team_information_series)
+            sleep(sleep_time)
+
+    def fill_missing_team_data(self):
+        matches_df = self._db_access.load_table("Match")
+        teams_in_matches = list(set(matches_df['home_team_id'].tolist() + matches_df['away_team_id'].tolist()))
+        existing_teams = self._db_access.load_table("Team")['team_id'].tolist()
+        non_existent_teams = [team for team in teams_in_matches if team not in existing_teams]
+        self.get_team_data(non_existent_teams)
+
+
