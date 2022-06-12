@@ -2,21 +2,29 @@ from bs4 import BeautifulSoup
 import requests
 import numpy as np
 import pandas as pd
-from typing import List
+from typing import List, Union, Dict
+from src.data.access import DbAccessLayer
+from time import sleep
 
 
 class Scraper:
+    """Class for the scraping of relevant football data from transfermarkt.de."""
     def __init__(self, tm_url: str = "https://www.transfermarkt.co.uk"):
-        self.user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
-        self.tm_url = tm_url
+        self._user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/" \
+                           "102.0.0.0 Safari/537.36"
+        self._tm_url = tm_url
+        self._db_access = DbAccessLayer()
 
-    def _get_page_soup(self, url_extension: str):
-        url = self.tm_url + url_extension
-        page = requests.get(url, headers={'User-Agent': self.user_agent})
+    def _get_page_soup(self, url_extension: str) -> BeautifulSoup:
+        """Gets the BeautifulSoup content of the weppage specified through the defined URL extension."""
+        url = self._tm_url + url_extension
+        page = requests.get(url, headers={'User-Agent': self._user_agent})
         soup = BeautifulSoup(page.content, 'html.parser')
         return soup
 
-    def _get_match_information(self, match: BeautifulSoup):
+    @staticmethod
+    def _get_match_information(match: BeautifulSoup):
+        """Retrieves relevant information from transfermarkt.com matchday overview table entry."""
         summary = match.find(class_='table-grosse-schrift')
         result_box = summary.find(class_="ergebnis-box")
         match_link: str = result_box.a['href']
@@ -30,7 +38,8 @@ class Scraper:
         tp_away = int(table_positions[2].text[1:-2])
 
         teams = summary.find_all(class_="spieltagsansicht-vereinsname")
-        home_team_link = teams[0].find_all("a")[1]['href']
+        home_team_has_thread = len(teams[0].find_all("a")) > 1
+        home_team_link = teams[0].find_all("a")[1 if home_team_has_thread else 0]['href']
         home_team_id = home_team_link[home_team_link.find("verein/") + 7: home_team_link.find("/saison_id")]
         away_team_link = teams[2].find_all("a")[0]['href']
         away_team_id = away_team_link[away_team_link.find("verein/") + 7: away_team_link.find("/saison_id")]
@@ -42,9 +51,12 @@ class Scraper:
                                                                                                          '').strip()
 
         match_meta = match.find_all("tr")[2].find("td")
-        attendance = int(
-            match_meta.contents[2].replace('\n', '').replace('\xa0', '').replace('·', '').replace('\t', '').replace('.',
-                                                                                                                    '').strip())
+        has_attendance = len(match_meta.find_all(class_='icon-zuschauer-zahl')) > 0
+        if has_attendance:
+            attendance = int(match_meta.contents[2].replace('\n', '').replace('\xa0', '').replace('·', '').
+                             replace('\t', '').replace('.', '').strip())
+        else:
+            attendance = np.NaN
         referee_link = match_meta.find('a')['href']
         referee_id = int(referee_link[referee_link.rfind("/") + 1:])
 
@@ -60,7 +72,6 @@ class Scraper:
             has_icon = action_info.find("span", {'class': 'icons_sprite'}) is not None
             action_description = action_info.find("span", {'class': 'icons_sprite'}).get('title',
                                                                                          '').lower() if has_icon else ''
-            print(action_info)
             is_goal = 'goal' in action_description
             if is_goal:
                 minute = action_description[7: action_description.find(":")]
@@ -84,6 +95,7 @@ class Scraper:
             'match_id': match_id,
             'date': date_formatted,
             'time': time,
+            'attendance': attendance,
             'home_team_id': home_team_id,
             'away_team_id': away_team_id,
             'table_position_home': tp_home,
@@ -99,8 +111,10 @@ class Scraper:
             'motm_id': motm_id
         }
 
-
-    def get_match_data(self, seasons: List[int], leagues: List[str], matchdays: List[int] = None):
+    def get_match_data(self, seasons: List[int], leagues: List[str], matchdays: Union[List[int], int], sleep_time: int = 5):
+        """Scrapes and saves data for matches in specified leagues, seasons, and matchdays."""
+        if isinstance(matchdays, int):
+            matchdays = [i+1 for i in range(matchdays)]
         for league in leagues:
             for season in seasons:
                 for matchday in matchdays:
@@ -110,3 +124,8 @@ class Scraper:
                     matches = all_tables[1:-3]
                     matches_information = [self._get_match_information(match) for match in matches]
                     matches_df = pd.DataFrame(matches_information)
+                    matches_df['season'] = f"{str(season)[-2:]}/{int(str(season)[-2:])+1}"
+                    matches_df['league_id'] = league
+                    matches_df['matchday'] = matchday
+                    self._db_access.save_matches(matches_df)
+                    sleep(sleep_time)
