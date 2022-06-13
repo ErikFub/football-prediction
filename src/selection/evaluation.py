@@ -9,30 +9,32 @@ from typing import List, Union, Dict
 
 _ts_splitter = TimeSeriesSplit(n_splits=7, test_size=70, max_train_size=400)
 
+
 def create_train_test(df_in: pd.DataFrame, split_date: Union[str, datetime], start_date: Union[str, datetime] = None,
-                      features: List[str] = None, leagues: List[int] = None):
+                      features: List[str] = None, leagues: List[str] = None):
     df = df_in.copy()
-    df['Date'] = pd.to_datetime(df['Date'])
-    df = df.sort_values('Date')
+    df['date'] = pd.to_datetime(df['date'])
+    df = df.sort_values('date')
+
     if start_date is not None:
         if not isinstance(start_date, datetime):
             start_date = pd.to_datetime(start_date)
-        df = df[df['Date'] > start_date]
+        df = df[df['date'] > start_date]
     if leagues is not None:
-        df = df[df['LeagueID'].isin(leagues)]
+        df = df[df['league_id'].isin(leagues)]
     if not isinstance(split_date, datetime):
         split_date = pd.to_datetime(split_date)
-    train_df = df[df['Date'] < split_date]
-    test_df = df[df['Date'] >= split_date]
+    train_df = df[df['date'] < split_date]
+    test_df = df[df['date'] >= split_date]
     if features is not None:
-        train_df, test_df = train_df[features + ['FTR']], test_df[features + ['FTR']]
+        train_df, test_df = train_df[features + ['result']], test_df[features + ['result']]
     train_df.dropna(inplace=True)
     test_df.dropna(inplace=True)
     rows_dropped = len(df) - (len(train_df) + len(test_df))
     if rows_dropped > 0:
         print(f"Warning: {rows_dropped} rows dropped because of NA values.")
-    X_train, y_train = train_df.drop(columns=['FTR']), train_df['FTR']
-    X_test, y_test = test_df.drop(columns=['FTR']), test_df['FTR']
+    X_train, y_train = train_df.drop(columns=['result']), train_df['result']
+    X_test, y_test = test_df.drop(columns=['result']), test_df['result']
     return X_train, X_test, y_train, y_test
 
 
@@ -86,9 +88,9 @@ def compare_betting_return(estimators: list, X: pd.DataFrame, y: pd.Series, matc
         y_pred_proba_adj['Pred'] = y_pred_series
         y_pred_proba_adj['PredProba'] = y_pred_proba_df.max(axis=1)
         y_pred_proba_adj['BmProba'] = 1 / match_df.loc[test_indices].apply(
-            lambda r: r['B365H'] if y_pred_series.loc[r.name] == 'H'
-            else r['B365D'] if y_pred_series.loc[r.name] == 'D'
-            else r['B365A'], axis=1)
+            lambda r: r['b365_H'] if y_pred_series.loc[r.name] == 'H'
+            else r['b365_D'] if y_pred_series.loc[r.name] == 'D'
+            else r['b365_A'], axis=1)
 
         pred_proba_dif = y_pred_proba_adj['PredProba'] - y_pred_proba_adj['BmProba']
         biggest_dif = pred_proba_dif.max()
@@ -100,9 +102,9 @@ def compare_betting_return(estimators: list, X: pd.DataFrame, y: pd.Series, matc
 
             bet_correct: pd.Series = (y.loc[y_pred_confident.index] == y_pred_confident).astype(int)
             odds: pd.Series = match_df.loc[y_pred_confident.index].apply(
-                lambda r: r['B365H'] if y_pred_confident.loc[r.name] == 'H' else r['B365D'] if y_pred_confident.loc[
+                lambda r: r['b365_H'] if y_pred_confident.loc[r.name] == 'H' else r['b365_D'] if y_pred_confident.loc[
                                                                                                    r.name] == 'D' else r[
-                    'B365A'], axis=1)
+                    'b365_A'], axis=1)
             return_amt = bet_correct * odds - 1
             returns.append(return_amt)
         estimator_returns[estimator.__class__.__name__] = returns
