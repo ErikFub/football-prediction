@@ -58,6 +58,18 @@ class DbAccessLayer:
             for idx, row in teams.iterrows():
                 self._update_insert_entry(row, 'Team')
 
+    def save_leagues(self, leagues: Union[pd.Series, pd.DataFrame]):
+        if isinstance(leagues, pd.Series):
+            self._update_insert_entry(leagues, 'League')
+        elif isinstance(leagues, pd.DataFrame):
+            for idx, row in leagues.iterrows():
+                self._update_insert_entry(row, 'League')
+
+    def save_team_odds_relation(self, team_id, odds_team_name, odds_team_id):
+        relation = pd.Series(index=['team_id', 'odds_team_name', 'odds_team_id'], data=[team_id, odds_team_name,
+                                                                                        odds_team_id])
+        self._update_insert_entry(relation, "TeamOdds")
+
 
 class ExternalDataAccessLayer:
     def __init__(self):
