@@ -70,6 +70,15 @@ class DbAccessLayer:
                                                                                         odds_team_id])
         self._update_insert_entry(relation, "TeamOdds")
 
+    def save_odds(self, odds_df: pd.DataFrame):
+        for i, row in odds_df.iterrows():
+            db_entry = pd.Series()
+            db_entry['match_id'] = row['match_id']
+            db_entry['b365_H'] = row['B365H']
+            db_entry['b365_D'] = row['B365D']
+            db_entry['b365_A'] = row['B365A']
+            self._update_insert_entry(db_entry, 'Odds')
+
 
 class ExternalDataAccessLayer:
     def __init__(self):
