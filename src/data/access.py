@@ -6,6 +6,8 @@ from pandas.io import sql
 
 
 def get_main_dir_path() -> str:
+    """Gets the path to the main directory of this project. Requires the main directory to be named
+    'football-prediction'."""
     exec_directory = os.getcwd()
     main_directory = "football-prediction"
     main_dir_path = exec_directory[:exec_directory.find(main_directory) + len(main_directory)]
@@ -17,20 +19,28 @@ class DbAccessLayer:
         self._conn = create_engine(f"sqlite:///{get_main_dir_path()}//data//database.db")
 
     def create_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
+        """Create table from dataframe. If the table already exists, raise error."""
         df.to_sql(table_name, con=self._conn, if_exists="fail", index=False)
 
     def append_to_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
+        """Appends to table from dataframe. If the table does not already exist, creates the table."""
         df.to_sql(table_name, con=self._conn, if_exists="append", index=False)
 
     def overwrite_table_from_df(self, df: pd.DataFrame, table_name: str) -> None:
+        """Overwrites existing table with dataframe. If the table does not already exist, creates the table."""
         df.to_sql(table_name, con=self._conn, if_exists="replace", index=False)
 
     def load_table(self, table_name: str) -> pd.DataFrame:
+        """Loads table with given name."""
         df = pd.read_sql(table_name, con=self._conn)
         return df
 
     def _update_insert_entry(self, entry: pd.Series, table: str):
+        """Updates if exists, or inserts an entry into a specified table of the database. All values in index of entry
+        will be attempted to save to the table."""
         cols = entry.index.tolist()
+
+        # Create the 'VALUES' string required in SQL statement
         values = ""
         for value in entry:
             if value is None or pd.isna(value):
@@ -39,9 +49,10 @@ class DbAccessLayer:
                 value = str(value).replace("'", "")
                 values += f"'{value}', "
         values = values[:-2]  # remove trailing ", "
+
         sql.execute(f"""
-        INSERT OR REPLACE INTO {table} ({", ".join(cols)})
-        VALUES ({values});
+            INSERT OR REPLACE INTO {table} ({", ".join(cols)})
+            VALUES ({values});
         """, self._conn)
 
     def save_matches(self, matches: Union[pd.Series, pd.DataFrame]):
@@ -81,6 +92,7 @@ class DbAccessLayer:
 
 
 class ExternalDataAccessLayer:
+    """Class to access and save external data saved in/to folder data/external."""
     def __init__(self):
         self.dir = f"{get_main_dir_path()}/data/external"
 

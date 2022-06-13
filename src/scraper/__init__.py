@@ -9,7 +9,8 @@ from tqdm import tqdm
 
 
 class Scraper:
-    """Class for the scraping of relevant football data from transfermarkt.de."""
+    """Class for the scraping of relevant football data from transfermarkt.com. The locale can be specified by adapting
+    the tm_url (e.g. https://www.transfermarkt.de for German locale)."""
     def __init__(self, tm_url: str = "https://www.transfermarkt.co.uk"):
         self._user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/" \
                            "102.0.0.0 Safari/537.36"
@@ -160,6 +161,7 @@ class Scraper:
 
     @staticmethod
     def _get_team_information(soup: BeautifulSoup) -> Dict:
+        """Returns relevant elements on team information from html soup."""
         team_overview = soup.find("div", class_="dataMain")
         team_name = team_overview.find(itemprop="name").span.text
 
@@ -182,6 +184,7 @@ class Scraper:
         }
 
     def get_team_data(self, teams: List[int], sleep_time: int = 5):
+        """Scrapes and saves data for all specified teams."""
         for team_id in tqdm(teams, desc="Getting team data"):
             soup = self._get_page_soup(f"/verein/startseite/verein/{team_id}/saison_id/2021")
             team_information = self._get_team_information(soup)
@@ -191,6 +194,8 @@ class Scraper:
             sleep(sleep_time)
 
     def fill_missing_team_data(self, n_max: int = None):
+        """Checks for which teams there exist matches but no dedicated entry in table 'Team' and saves the team data to
+        the DB after scraping it."""
         matches_df = self._db_access.load_table("Match")
         teams_in_matches = list(set(matches_df['home_team_id'].tolist() + matches_df['away_team_id'].tolist()))
         existing_teams = self._db_access.load_table("Team")['team_id'].tolist()
@@ -202,6 +207,7 @@ class Scraper:
 
     @staticmethod
     def _get_league_information(league_soup: BeautifulSoup) -> dict:
+        """Returns relevant elements on league information from html soup."""
         name = league_soup.find("h1", class_="spielername-profil").text
         league_information = league_soup.find("div", class_="box-personeninfos")
         tier_information = league_information.find("th", text="League level:").parent.td
@@ -220,6 +226,7 @@ class Scraper:
         }
 
     def get_league_data(self, leagues: List[str], sleep_time: int = 5):
+        """Scrapes and saves data for all specified teams."""
         for league_id in tqdm(leagues, desc="Getting league data"):
             league_soup = self._get_page_soup(f"/wettbewerb/startseite/wettbewerb/{league_id}")
             league_information = self._get_league_information(league_soup)
@@ -229,6 +236,8 @@ class Scraper:
             sleep(sleep_time)
 
     def fill_missing_league_data(self):
+        """Checks for which leagues there exist matches but no dedicated entry in table 'Team' and saves the team data
+        to the DB after scraping it."""
         matches_df = self._db_access.load_table("Match")
         leagues_in_matches = matches_df['league_id'].unique().tolist()
         existing_leagues = self._db_access.load_table("League")['league_id'].tolist()

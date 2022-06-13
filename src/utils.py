@@ -1,3 +1,5 @@
+"""Module for functions that are reused across the src scripts."""
+
 import numpy as np
 
 

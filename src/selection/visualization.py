@@ -10,9 +10,9 @@ plt.style.use('ggplot')
 
 def plot_timeseries_cv(ts_splitter: TimeSeriesSplit, data: pd.DataFrame,
                        metrics: Dict[str, Union[float, List[float]]] = None) -> None:
-    """Plots the RMSE for each split of a given timeseries splitter. The color of each train/test bar corresponds to the
-    achieved RMSE with green indicating lower value and red indicating higher values. If metrics==None, a schematic
-    representation of the timeseries splitter is plotted."""
+    """Plots the accuracy for each split of a given timeseries splitter. The color of each train/test bar corresponds to
+    the achieved accuracy with green indicating lower value and red indicating higher values. If metrics==None, a
+    schematic representation of the timeseries splitter is plotted."""
     plt.figure(figsize=(10, 5))
 
     split_meta: Dict[str, dict] = {}
@@ -60,7 +60,7 @@ def plot_estimator_comparison(scores: Dict[str, float]):
 
 def plot_bet_return_comparison(estimator_thresholds: Dict[str, List[float]],
                                estimator_returns: Dict[str, List[List[float]]], kind: str = 'both'):
-    kinds_accepted = ['mean', 'sum', 'both']
+    kinds_accepted = ['both']#, 'mean', 'sum']
     kind = kind.lower()
     if kind not in kinds_accepted:
         raise ValueError(f"kind '{kind}' not supported. Please use one of {', '.join(kinds_accepted)}.")
