@@ -190,12 +190,15 @@ class Scraper:
             self._db_access.save_teams(team_information_series)
             sleep(sleep_time)
 
-    def fill_missing_team_data(self):
+    def fill_missing_team_data(self, n_max: int = None):
         matches_df = self._db_access.load_table("Match")
         teams_in_matches = list(set(matches_df['home_team_id'].tolist() + matches_df['away_team_id'].tolist()))
         existing_teams = self._db_access.load_table("Team")['team_id'].tolist()
         non_existent_teams = [team for team in teams_in_matches if team not in existing_teams]
-        self.get_team_data(non_existent_teams)
+        if n_max:
+            self.get_team_data(non_existent_teams[:n_max])
+        else:
+            self.get_team_data(non_existent_teams)
 
     @staticmethod
     def _get_league_information(league_soup: BeautifulSoup) -> dict:
