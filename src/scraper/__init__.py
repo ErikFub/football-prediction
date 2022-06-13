@@ -28,15 +28,16 @@ class Scraper:
         """Retrieves relevant information from transfermarkt.com matchday overview table entry."""
         summary = match.find(class_='table-grosse-schrift')
         result_box = summary.find(class_="ergebnis-box")
-        match_link: str = result_box.a['href']
-        match_id = match_link[match_link.rfind('/') + 1:]
         match_result = result_box.find(class_="matchresult").text
-        goals_home = int(match_result[:match_result.find(":")])
-        goals_away = int(match_result[match_result.find(":") + 1:])
-        result = "H" if goals_home > goals_away else "D" if goals_home == goals_away else "A"
-        table_positions = summary.find_all(class_="tabellenplatz")
-        tp_home = int(table_positions[0].text[1:-2])
-        tp_away = int(table_positions[2].text[1:-2])
+        if match_result == 'postponed':
+            match_link = match.parent.parent.find(title="Match report")['href']
+            match_id = match_link[match_link.rfind('/') + 1:]
+            # goals_home and goals_away will be set under section actions
+        else:
+            match_link: str = result_box.a['href']
+            match_id = match_link[match_link.rfind('/') + 1:]
+            goals_home = int(match_result[:match_result.find(":")])
+            goals_away = int(match_result[match_result.find(":") + 1:])
 
         teams = summary.find_all(class_="spieltagsansicht-vereinsname")
         home_team_has_thread = len(teams[0].find_all("a")) > 1
@@ -44,6 +45,22 @@ class Scraper:
         home_team_id = home_team_link[home_team_link.find("verein/") + 7: home_team_link.find("/saison_id")]
         away_team_link = teams[2].find_all("a")[0]['href']
         away_team_id = away_team_link[away_team_link.find("verein/") + 7: away_team_link.find("/saison_id")]
+
+        table_positions = summary.find_all(class_="tabellenplatz")
+        if len(table_positions) == 4:
+            tp_home = int(table_positions[0].text[1:-2])
+            tp_away = int(table_positions[2].text[1:-2])
+        else:
+            matchday_table = match.parent.parent.parent.parent.parent.find_all("table")[-2].find("tbody")
+            table_rows = matchday_table.find_all("tr")
+            for row in table_rows:
+                team_link = row.find_all("td")[2].a['href']
+                table_team_id = team_link[team_link.find("/verein/") + 8:  team_link.find("/saison_id")]
+                prior_week_position = row.find_all("td")[0].span['title'][14:-6]
+                if table_team_id == home_team_id:
+                    tp_home = prior_week_position
+                elif table_team_id == away_team_id:
+                    tp_away = prior_week_position
 
         datetime_info = match.find_all("tr")[1].find("td")
         date = datetime_info.find('a').text.replace("\n", "").strip()
@@ -58,8 +75,13 @@ class Scraper:
                              replace('\t', '').replace('.', '').strip())
         else:
             attendance = np.NaN
-        referee_link = match_meta.find('a')['href']
-        referee_id = int(referee_link[referee_link.rfind("/") + 1:])
+
+        has_referee = len(match_meta.find_all(class_='icon-schiedsrichter')) > 0
+        if has_referee:
+            referee_link = match_meta.find('a')['href']
+            referee_id = int(referee_link[referee_link.rfind("/") + 1:])
+        else:
+            referee_id = np.NaN
 
         all_actions = match.find_all(class_='spieltagsansicht-aktionen')
         goal_mins_home = []
@@ -84,6 +106,10 @@ class Scraper:
                 else:
                     goal_mins_away.append(minute)
                     goal_scorers_away.append(scorer_id)
+        if match_result == 'postponed':
+            goals_home = len(goal_mins_home)
+            goals_away = len(goal_mins_away)
+        result = "H" if goals_home > goals_away else "D" if goals_home == goals_away else "A"
 
         has_motm = len(match.find_all(class_="icon-spieler-des-spiels")) > 0
         if has_motm:
@@ -122,7 +148,8 @@ class Scraper:
                     url_extension = f"/wettbewerb/spieltag/wettbewerb/{league}/spieltag/{matchday}/saison_id/{season}"
                     soup = self._get_page_soup(url_extension)
                     all_tables = soup.find_all("tbody")
-                    matches = all_tables[1:-3]
+                    matches = [table for table in all_tables if
+                               table.find_all("tr")[0].get('class', '') == ["table-grosse-schrift"]]
                     matches_information = [self._get_match_information(match) for match in matches]
                     matches_df = pd.DataFrame(matches_information)
                     matches_df['season'] = f"{str(season)[-2:]}/{int(str(season)[-2:])+1}"
