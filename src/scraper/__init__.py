@@ -170,4 +170,39 @@ class Scraper:
         non_existent_teams = [team for team in teams_in_matches if team not in existing_teams]
         self.get_team_data(non_existent_teams)
 
+    @staticmethod
+    def _get_league_information(league_soup: BeautifulSoup) -> dict:
+        name = league_soup.find("h1", class_="spielername-profil").text
+        league_information = league_soup.find("div", class_="box-personeninfos")
+        tier_information = league_information.find("th", text="League level:").parent.td
+        tier_name_mapping = {'first': 1, 'second': 2, 'third': 3}
+        tier_name = tier_information.text[:tier_information.text.find(" Tier")].replace("\n", "").strip().lower()
+        tier = tier_name_mapping.get(tier_name, 0)
+        country = tier_information.img['title']
+
+        teams_information = league_information.find("th", text="Number of teams:").parent.td
+        n_teams = int(teams_information.text[:teams_information.text.find(" teams")].replace("\n", "").strip())
+        return {
+            'name': name,
+            'tier': tier,
+            'n_teams': n_teams,
+            'country': country
+        }
+
+    def get_league_data(self, leagues: List[str], sleep_time: int = 5):
+        for league_id in tqdm(leagues, desc="Getting league data"):
+            league_soup = self._get_page_soup(f"/wettbewerb/startseite/wettbewerb/{league_id}")
+            league_information = self._get_league_information(league_soup)
+            league_information['league_id'] = league_id
+            league_information_series = pd.Series(league_information)
+            self._db_access.save_leagues(league_information_series)
+            sleep(sleep_time)
+
+    def fill_missing_league_data(self):
+        matches_df = self._db_access.load_table("Match")
+        leagues_in_matches = matches_df['league_id'].unique().tolist()
+        existing_leagues = self._db_access.load_table("League")['league_id'].tolist()
+        non_existent_leagues = [league for league in leagues_in_matches if league not in existing_leagues]
+        self.get_league_data(non_existent_leagues)
+
 
