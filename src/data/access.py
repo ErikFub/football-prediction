@@ -99,3 +99,30 @@ class ExternalDataAccessLayer:
     def get_country_data(self) -> pd.DataFrame:
         df = pd.read_csv(f"{self.dir}/all_countries.csv")
         return df
+
+
+class RawDataAccessLayer:
+    def __init__(self):
+        self.dir = f"{get_main_dir_path()}/data/raw"
+
+    @property
+    def subdirectories(self) -> list:
+        return os.listdir(self.dir)
+
+    def get_subdir_files(self, subdir: str) -> List[str]:
+        return os.listdir(f"{self.dir}/{subdir}")
+
+    def load_df(self, subdir: str, file_name: str) -> pd.DataFrame:
+        return pd.read_csv(f"{self.dir}/{subdir}/{file_name}", on_bad_lines='skip', encoding='ISO-8859-1')
+
+    def save_prepared(self, df: pd.DataFrame, file_name: str) -> None:
+        df.to_csv(f"{self.dir}/prepared/{file_name}", index=False)
+
+    def load_all_prepared(self) -> pd.DataFrame:
+        all_files = [file for file in os.listdir(f"{self.dir}/prepared") if file[-4:] == ".csv"]
+        all_prepared = pd.DataFrame()
+        for file in all_files:
+            file_path = f"{self.dir}/prepared/{file}"
+            df = pd.read_csv(file_path)
+            all_prepared = pd.concat([all_prepared, df])
+        return all_prepared
