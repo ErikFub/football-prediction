@@ -5,3 +5,5 @@ sqlalchemy==1.4.37
 tqdm==4.64.0
 matplotlib==3.5.2
 xgboost==1.6.1
+unidecode==1.3.4
+keras==2.9.0
