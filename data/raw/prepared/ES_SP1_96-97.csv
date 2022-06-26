@@ -1,25 +1,25 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Country,Season
 SP1,1996-08-31,La Coruna,Real Madrid,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-09,Ath Madrid,Celta,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1996-01-09,Betis,Ath Bilbao,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-09,Hercules,Extremadura,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-09,Oviedo,Barcelona,2.0,4.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-01-09,Santander,Valencia,3.0,2.0,H,0.0,2.0,A,ES,1996/1997
-SP1,1996-01-09,Sociedad,Sevilla,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-09,Tenerife,Compostela,6.0,0.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1996-01-09,Vallecano,Valladolid,1.0,2.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-01-09,Zaragoza,Logrones,2.0,2.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1996-02-09,Espanol,Sp Gijon,2.0,3.0,A,2.0,0.0,H,ES,1996/1997
-SP1,1996-07-09,Barcelona,Espanol,2.0,1.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1996-07-09,Compostela,Ath Madrid,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1996-07-09,Logrones,Tenerife,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-07-09,Valencia,Sociedad,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-09,Ath Bilbao,Vallecano,3.0,2.0,H,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-09,Celta,La Coruna,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-09,Real Madrid,Hercules,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1996-08-09,Sevilla,Zaragoza,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-09,Sp Gijon,Santander,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-09,Valladolid,Oviedo,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-09-01,Ath Madrid,Celta,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1996-09-01,Betis,Ath Bilbao,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-09-01,Hercules,Extremadura,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-09-01,Oviedo,Barcelona,2.0,4.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-09-01,Santander,Valencia,3.0,2.0,H,0.0,2.0,A,ES,1996/1997
+SP1,1996-09-01,Sociedad,Sevilla,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-09-01,Tenerife,Compostela,6.0,0.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1996-09-01,Vallecano,Valladolid,1.0,2.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-09-01,Zaragoza,Logrones,2.0,2.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1996-09-02,Espanol,Sp Gijon,2.0,3.0,A,2.0,0.0,H,ES,1996/1997
+SP1,1996-09-07,Barcelona,Espanol,2.0,1.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1996-09-07,Compostela,Ath Madrid,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1996-09-07,Logrones,Tenerife,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-07,Valencia,Sociedad,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-08,Ath Bilbao,Vallecano,3.0,2.0,H,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-08,Celta,La Coruna,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-08,Real Madrid,Hercules,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1996-09-08,Sevilla,Zaragoza,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-08,Sp Gijon,Santander,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-09-08,Valladolid,Oviedo,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
 SP1,1996-09-09,Extremadura,Betis,0.0,3.0,A,0.0,0.0,D,ES,1996/1997
 SP1,1996-09-14,Zaragoza,Valencia,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1996-09-15,Ath Madrid,La Coruna,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
@@ -54,23 +54,23 @@ SP1,1996-09-29,Tenerife,Sp Gijon,6.0,0.0,H,3.0,0.0,H,ES,1996/1997
 SP1,1996-09-29,Vallecano,Celta,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1996-09-29,Zaragoza,Barcelona,3.0,5.0,A,2.0,1.0,H,ES,1996/1997
 SP1,1996-09-30,Ath Madrid,Hercules,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-10,Real Madrid,Espanol,2.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1996-02-10,Ath Bilbao,Sociedad,1.0,3.0,A,1.0,2.0,A,ES,1996/1997
-SP1,1996-02-10,Barcelona,Tenerife,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-02-10,Celta,Oviedo,3.0,1.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1996-02-10,Extremadura,Santander,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-02-10,Hercules,Betis,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-02-10,La Coruna,Vallecano,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-02-10,Sp Gijon,Compostela,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1996-02-10,Valencia,Logrones,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-02-10,Valladolid,Zaragoza,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1996-03-10,Sevilla,Ath Madrid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-12-10,Ath Madrid,Betis,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
-SP1,1996-12-10,Compostela,Barcelona,1.0,5.0,A,0.0,3.0,A,ES,1996/1997
-SP1,1996-12-10,Espanol,Celta,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-12-10,Sevilla,Valencia,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-12-10,Tenerife,Valladolid,1.0,3.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-12-10,Zaragoza,Ath Bilbao,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
+SP1,1996-10-01,Real Madrid,Espanol,2.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1996-10-02,Ath Bilbao,Sociedad,1.0,3.0,A,1.0,2.0,A,ES,1996/1997
+SP1,1996-10-02,Barcelona,Tenerife,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-10-02,Celta,Oviedo,3.0,1.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1996-10-02,Extremadura,Santander,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-10-02,Hercules,Betis,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-10-02,La Coruna,Vallecano,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-10-02,Sp Gijon,Compostela,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1996-10-02,Valencia,Logrones,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-10-02,Valladolid,Zaragoza,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1996-10-03,Sevilla,Ath Madrid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-10-12,Ath Madrid,Betis,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
+SP1,1996-10-12,Compostela,Barcelona,1.0,5.0,A,0.0,3.0,A,ES,1996/1997
+SP1,1996-10-12,Espanol,Celta,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-10-12,Sevilla,Valencia,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-10-12,Tenerife,Valladolid,1.0,3.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-10-12,Zaragoza,Ath Bilbao,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
 SP1,1996-10-13,Logrones,Sp Gijon,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
 SP1,1996-10-13,Oviedo,La Coruna,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
 SP1,1996-10-13,Santander,Real Madrid,2.0,2.0,D,0.0,0.0,D,ES,1996/1997
@@ -109,27 +109,27 @@ SP1,1996-10-27,Hercules,Santander,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
 SP1,1996-10-27,La Coruna,Sociedad,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1996-10-27,Vallecano,Oviedo,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
 SP1,1996-10-28,Valladolid,Sevilla,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-02-11,Santander,Betis,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-03-11,Ath Madrid,Oviedo,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-03-11,Compostela,Real Madrid,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-03-11,Espanol,Vallecano,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-03-11,Logrones,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-03-11,Sevilla,Ath Bilbao,4.0,2.0,H,2.0,1.0,H,ES,1996/1997
-SP1,1996-03-11,Sociedad,Hercules,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1996-03-11,Tenerife,Celta,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-03-11,Valencia,Valladolid,2.0,4.0,A,1.0,2.0,A,ES,1996/1997
-SP1,1996-03-11,Zaragoza,La Coruna,1.0,2.0,A,1.0,1.0,D,ES,1996/1997
-SP1,1996-04-11,Sp Gijon,Barcelona,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-09-11,Barcelona,Ath Madrid,3.0,3.0,D,2.0,1.0,H,ES,1996/1997
-SP1,1996-10-11,Ath Bilbao,Valencia,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-10-11,Betis,Sociedad,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1996-10-11,Celta,Compostela,1.0,2.0,A,1.0,1.0,D,ES,1996/1997
-SP1,1996-10-11,Extremadura,Sevilla,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-10-11,Hercules,Zaragoza,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-10-11,La Coruna,Tenerife,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-10-11,Oviedo,Espanol,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1996-10-11,Real Madrid,Logrones,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-10-11,Vallecano,Santander,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-02,Santander,Betis,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-03,Ath Madrid,Oviedo,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-11-03,Compostela,Real Madrid,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-11-03,Espanol,Vallecano,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-03,Logrones,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-03,Sevilla,Ath Bilbao,4.0,2.0,H,2.0,1.0,H,ES,1996/1997
+SP1,1996-11-03,Sociedad,Hercules,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1996-11-03,Tenerife,Celta,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-03,Valencia,Valladolid,2.0,4.0,A,1.0,2.0,A,ES,1996/1997
+SP1,1996-11-03,Zaragoza,La Coruna,1.0,2.0,A,1.0,1.0,D,ES,1996/1997
+SP1,1996-11-04,Sp Gijon,Barcelona,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-09,Barcelona,Ath Madrid,3.0,3.0,D,2.0,1.0,H,ES,1996/1997
+SP1,1996-11-10,Ath Bilbao,Valencia,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-11-10,Betis,Sociedad,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1996-11-10,Celta,Compostela,1.0,2.0,A,1.0,1.0,D,ES,1996/1997
+SP1,1996-11-10,Extremadura,Sevilla,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-11-10,Hercules,Zaragoza,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-10,La Coruna,Tenerife,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-10,Oviedo,Espanol,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1996-11-10,Real Madrid,Logrones,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-11-10,Vallecano,Santander,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1996-11-11,Valladolid,Sp Gijon,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
 SP1,1996-11-16,Ath Madrid,Espanol,2.0,1.0,H,0.0,0.0,D,ES,1996/1997
 SP1,1996-11-16,Compostela,La Coruna,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
@@ -157,24 +157,24 @@ SP1,1996-11-30,Ath Madrid,Santander,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1996-11-30,Sp Gijon,Real Madrid,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
 SP1,1996-11-30,Tenerife,Vallecano,1.0,2.0,A,0.0,0.0,D,ES,1996/1997
 SP1,1996-11-30,Valencia,Celta,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-12,Compostela,Betis,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1996-01-12,Logrones,Hercules,3.0,2.0,H,2.0,2.0,D,ES,1996/1997
-SP1,1996-01-12,Sevilla,La Coruna,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-01-12,Sociedad,Espanol,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-01-12,Valladolid,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1996-01-12,Zaragoza,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-02-12,Barcelona,Extremadura,3.0,0.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1996-07-12,Real Madrid,Barcelona,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-08-12,Ath Bilbao,Ath Madrid,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
-SP1,1996-08-12,Betis,Logrones,5.0,1.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1996-08-12,Celta,Sp Gijon,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1996-08-12,Espanol,Zaragoza,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1996-08-12,Extremadura,Valladolid,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1996-08-12,La Coruna,Valencia,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1996-08-12,Oviedo,Tenerife,1.0,3.0,A,1.0,2.0,A,ES,1996/1997
-SP1,1996-08-12,Santander,Sociedad,1.0,2.0,A,1.0,2.0,A,ES,1996/1997
-SP1,1996-08-12,Vallecano,Compostela,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1996-09-12,Hercules,Sevilla,3.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1996-12-01,Compostela,Betis,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1996-12-01,Logrones,Hercules,3.0,2.0,H,2.0,2.0,D,ES,1996/1997
+SP1,1996-12-01,Sevilla,La Coruna,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-12-01,Sociedad,Espanol,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-12-01,Valladolid,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1996-12-01,Zaragoza,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-12-02,Barcelona,Extremadura,3.0,0.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1996-12-07,Real Madrid,Barcelona,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-12-08,Ath Bilbao,Ath Madrid,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
+SP1,1996-12-08,Betis,Logrones,5.0,1.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1996-12-08,Celta,Sp Gijon,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1996-12-08,Espanol,Zaragoza,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1996-12-08,Extremadura,Valladolid,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1996-12-08,La Coruna,Valencia,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1996-12-08,Oviedo,Tenerife,1.0,3.0,A,1.0,2.0,A,ES,1996/1997
+SP1,1996-12-08,Santander,Sociedad,1.0,2.0,A,1.0,2.0,A,ES,1996/1997
+SP1,1996-12-08,Vallecano,Compostela,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1996-12-09,Hercules,Sevilla,3.0,0.0,H,0.0,0.0,D,ES,1996/1997
 SP1,1996-12-21,Valladolid,Real Madrid,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
 SP1,1996-12-22,Ath Bilbao,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1996-12-22,Ath Madrid,Sociedad,2.0,2.0,D,1.0,2.0,A,ES,1996/1997
@@ -186,25 +186,25 @@ SP1,1996-12-22,Sp Gijon,La Coruna,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1996-12-22,Tenerife,Espanol,5.0,1.0,H,2.0,0.0,H,ES,1996/1997
 SP1,1996-12-22,Zaragoza,Santander,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
 SP1,1996-12-23,Valencia,Hercules,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-04-01,Celta,Valladolid,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-04-01,La Coruna,Barcelona,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-05-01,Espanol,Compostela,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-05-01,Extremadura,Ath Madrid,2.0,4.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1997-05-01,Hercules,Sp Gijon,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-05-01,Oviedo,Logrones,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-05-01,Real Madrid,Ath Bilbao,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-05-01,Santander,Tenerife,1.0,2.0,A,0.0,2.0,A,ES,1996/1997
-SP1,1997-05-01,Sociedad,Zaragoza,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-06-01,Betis,Valencia,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-11-01,Tenerife,Sociedad,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-01,Ath Bilbao,Celta,2.0,2.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1997-12-01,Ath Madrid,Zaragoza,5.0,1.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1997-12-01,Compostela,Santander,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1997-12-01,Extremadura,Real Madrid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-01,Logrones,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-01,Sevilla,Oviedo,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-12-01,Valencia,Vallecano,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-01,Valladolid,La Coruna,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-01-04,Celta,Valladolid,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-04,La Coruna,Barcelona,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-05,Espanol,Compostela,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-05,Extremadura,Ath Madrid,2.0,4.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1997-01-05,Hercules,Sp Gijon,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-01-05,Oviedo,Logrones,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-01-05,Real Madrid,Ath Bilbao,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-05,Santander,Tenerife,1.0,2.0,A,0.0,2.0,A,ES,1996/1997
+SP1,1997-01-05,Sociedad,Zaragoza,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-06,Betis,Valencia,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-01-11,Tenerife,Sociedad,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-12,Ath Bilbao,Celta,2.0,2.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1997-01-12,Ath Madrid,Zaragoza,5.0,1.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1997-01-12,Compostela,Santander,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1997-01-12,Extremadura,Real Madrid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-12,Logrones,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-12,Sevilla,Oviedo,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-01-12,Valencia,Vallecano,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-01-12,Valladolid,La Coruna,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1997-01-13,Barcelona,Hercules,2.0,3.0,A,2.0,2.0,D,ES,1996/1997
 SP1,1997-01-18,Ath Madrid,Real Madrid,1.0,4.0,A,1.0,0.0,H,ES,1996/1997
 SP1,1997-01-19,Betis,Barcelona,2.0,4.0,A,2.0,1.0,H,ES,1996/1997
@@ -227,7 +227,7 @@ SP1,1997-01-26,Real Madrid,Celta,4.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-01-26,Sevilla,Santander,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-01-26,Sp Gijon,Oviedo,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-01-27,Valladolid,Betis,1.0,3.0,A,1.0,1.0,D,ES,1996/1997
-SP1,1997-01-02,Celta,Ath Madrid,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1997-02-01,Celta,Ath Madrid,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-02,Ath Bilbao,Betis,0.0,3.0,A,0.0,2.0,A,ES,1996/1997
 SP1,1997-02-02,Barcelona,Oviedo,2.0,2.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-02-02,Compostela,Tenerife,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
@@ -237,18 +237,18 @@ SP1,1997-02-02,Sevilla,Sociedad,2.0,3.0,A,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-02,Sp Gijon,Espanol,4.0,3.0,H,2.0,1.0,H,ES,1996/1997
 SP1,1997-02-02,Valencia,Santander,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-02-02,Valladolid,Vallecano,4.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-03-02,Extremadura,Hercules,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-08-02,Sociedad,Valencia,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1997-09-02,Ath Madrid,Compostela,4.0,1.0,H,2.0,1.0,H,ES,1996/1997
-SP1,1997-09-02,Betis,Extremadura,3.0,1.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-09-02,Espanol,Barcelona,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-02,Hercules,Real Madrid,2.0,3.0,A,2.0,2.0,D,ES,1996/1997
-SP1,1997-09-02,La Coruna,Celta,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-09-02,Oviedo,Valladolid,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
-SP1,1997-09-02,Santander,Sp Gijon,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-02,Tenerife,Logrones,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-09-02,Vallecano,Ath Bilbao,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-02,Zaragoza,Sevilla,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-02-03,Extremadura,Hercules,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-02-08,Sociedad,Valencia,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1997-02-09,Ath Madrid,Compostela,4.0,1.0,H,2.0,1.0,H,ES,1996/1997
+SP1,1997-02-09,Betis,Extremadura,3.0,1.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-02-09,Espanol,Barcelona,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-02-09,Hercules,Real Madrid,2.0,3.0,A,2.0,2.0,D,ES,1996/1997
+SP1,1997-02-09,La Coruna,Celta,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-02-09,Oviedo,Valladolid,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
+SP1,1997-02-09,Santander,Sp Gijon,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-02-09,Tenerife,Logrones,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-02-09,Vallecano,Ath Bilbao,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1997-02-09,Zaragoza,Sevilla,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-15,Real Madrid,Betis,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1997-02-15,Sevilla,Tenerife,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-15,Valencia,Zaragoza,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
@@ -282,30 +282,30 @@ SP1,1997-02-23,Sevilla,Logrones,1.0,4.0,A,0.0,2.0,A,ES,1996/1997
 SP1,1997-02-23,Sp Gijon,Tenerife,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-23,Valladolid,Sociedad,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-02-24,Valencia,Compostela,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-01-03,Ath Madrid,Sevilla,3.0,2.0,H,2.0,1.0,H,ES,1996/1997
-SP1,1997-01-03,Logrones,Valencia,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
-SP1,1997-01-03,Tenerife,Barcelona,4.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-01-03,Vallecano,La Coruna,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1997-02-03,Betis,Hercules,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-02-03,Compostela,Sp Gijon,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-02-03,Oviedo,Celta,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
-SP1,1997-02-03,Santander,Extremadura,2.0,3.0,A,0.0,2.0,A,ES,1996/1997
-SP1,1997-02-03,Sociedad,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-02-03,Zaragoza,Valladolid,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-03-01,Ath Madrid,Sevilla,3.0,2.0,H,2.0,1.0,H,ES,1996/1997
+SP1,1997-03-01,Logrones,Valencia,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
+SP1,1997-03-01,Tenerife,Barcelona,4.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-01,Vallecano,La Coruna,1.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1997-03-02,Betis,Hercules,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-02,Compostela,Sp Gijon,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-02,Oviedo,Celta,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
+SP1,1997-03-02,Santander,Extremadura,2.0,3.0,A,0.0,2.0,A,ES,1996/1997
+SP1,1997-03-02,Sociedad,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-03-02,Zaragoza,Valladolid,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
 SP1,1997-03-03,Espanol,Real Madrid,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-05-03,Vallecano,Sevilla,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-06-03,Sp Gijon,Betis,2.0,4.0,A,1.0,1.0,D,ES,1996/1997
-SP1,1997-08-03,Valencia,Sevilla,4.0,2.0,H,2.0,1.0,H,ES,1996/1997
-SP1,1997-09-03,Ath Bilbao,Zaragoza,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
-SP1,1997-09-03,Barcelona,Compostela,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-09-03,Betis,Ath Madrid,3.0,2.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-09-03,Celta,Espanol,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-09-03,Extremadura,Sociedad,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-03,Hercules,Vallecano,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-03,La Coruna,Oviedo,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-09-03,Sp Gijon,Logrones,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-09-03,Valladolid,Tenerife,0.0,2.0,A,0.0,2.0,A,ES,1996/1997
-SP1,1997-10-03,Real Madrid,Santander,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
+SP1,1997-03-05,Vallecano,Sevilla,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-03-06,Sp Gijon,Betis,2.0,4.0,A,1.0,1.0,D,ES,1996/1997
+SP1,1997-03-08,Valencia,Sevilla,4.0,2.0,H,2.0,1.0,H,ES,1996/1997
+SP1,1997-03-09,Ath Bilbao,Zaragoza,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
+SP1,1997-03-09,Barcelona,Compostela,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1997-03-09,Betis,Ath Madrid,3.0,2.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-03-09,Celta,Espanol,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-03-09,Extremadura,Sociedad,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-09,Hercules,Vallecano,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-09,La Coruna,Oviedo,3.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1997-03-09,Sp Gijon,Logrones,2.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-03-09,Valladolid,Tenerife,0.0,2.0,A,0.0,2.0,A,ES,1996/1997
+SP1,1997-03-10,Real Madrid,Santander,2.0,1.0,H,0.0,1.0,A,ES,1996/1997
 SP1,1997-03-14,Tenerife,Ath Bilbao,3.0,3.0,D,2.0,2.0,D,ES,1996/1997
 SP1,1997-03-15,Ath Madrid,Valencia,1.0,4.0,A,0.0,3.0,A,ES,1996/1997
 SP1,1997-03-15,Espanol,La Coruna,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
@@ -339,20 +339,20 @@ SP1,1997-03-30,Tenerife,Real Madrid,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-03-30,Valencia,Barcelona,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
 SP1,1997-03-30,Zaragoza,Celta,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1997-03-31,Ath Madrid,Sp Gijon,2.0,1.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-05-04,Celta,Tenerife,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-05-04,Oviedo,Ath Madrid,4.0,1.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,Ath Bilbao,Sevilla,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-06-04,Barcelona,Sp Gijon,4.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,Betis,Santander,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
-SP1,1997-06-04,Extremadura,Logrones,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,Hercules,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,La Coruna,Zaragoza,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,Valladolid,Valencia,4.0,1.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1997-06-04,Vallecano,Espanol,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1997-07-04,Real Madrid,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-04,Sevilla,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-04,Tenerife,La Coruna,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-12-04,Valencia,Ath Bilbao,5.0,2.0,H,5.0,1.0,H,ES,1996/1997
+SP1,1997-04-05,Celta,Tenerife,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-04-05,Oviedo,Ath Madrid,4.0,1.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,Ath Bilbao,Sevilla,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-04-06,Barcelona,Sp Gijon,4.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,Betis,Santander,2.0,2.0,D,2.0,1.0,H,ES,1996/1997
+SP1,1997-04-06,Extremadura,Logrones,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,Hercules,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,La Coruna,Zaragoza,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,Valladolid,Valencia,4.0,1.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1997-04-06,Vallecano,Espanol,0.0,1.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1997-04-07,Real Madrid,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-04-12,Sevilla,Extremadura,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-04-12,Tenerife,La Coruna,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-04-12,Valencia,Ath Bilbao,5.0,2.0,H,5.0,1.0,H,ES,1996/1997
 SP1,1997-04-13,Ath Madrid,Barcelona,2.0,5.0,A,1.0,2.0,A,ES,1996/1997
 SP1,1997-04-13,Compostela,Celta,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
 SP1,1997-04-13,Logrones,Real Madrid,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
@@ -383,28 +383,28 @@ SP1,1997-04-20,Sociedad,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-04-20,Sp Gijon,Extremadura,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
 SP1,1997-04-20,Zaragoza,Vallecano,3.0,2.0,H,1.0,2.0,A,ES,1996/1997
 SP1,1997-04-21,Valencia,Real Madrid,1.0,1.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-03-05,La Coruna,Sevilla,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-04-05,Ath Bilbao,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-04-05,Betis,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
-SP1,1997-04-05,Celta,Valencia,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
-SP1,1997-04-05,Espanol,Sociedad,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-04-05,Hercules,Logrones,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-04-05,Oviedo,Zaragoza,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-04-05,Real Madrid,Sp Gijon,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-04-05,Santander,Ath Madrid,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-04-05,Vallecano,Tenerife,1.0,2.0,A,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-03,La Coruna,Sevilla,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-04,Ath Bilbao,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-04,Betis,Compostela,0.0,0.0,D,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-04,Celta,Valencia,1.0,1.0,D,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-04,Espanol,Sociedad,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-04,Hercules,Logrones,1.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-04,Oviedo,Zaragoza,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-04,Real Madrid,Sp Gijon,3.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-04,Santander,Ath Madrid,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-04,Vallecano,Tenerife,1.0,2.0,A,1.0,0.0,H,ES,1996/1997
 SP1,1997-05-05,Extremadura,Barcelona,1.0,3.0,A,1.0,2.0,A,ES,1996/1997
-SP1,1997-10-05,Barcelona,Real Madrid,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-10-05,Valladolid,Extremadura,4.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-11-05,Ath Madrid,Ath Bilbao,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-11-05,Compostela,Vallecano,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-11-05,Logrones,Betis,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-11-05,Sevilla,Hercules,5.0,0.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-11-05,Sociedad,Santander,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-11-05,Sp Gijon,Celta,2.0,1.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-11-05,Tenerife,Oviedo,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
-SP1,1997-11-05,Zaragoza,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-12-05,Valencia,La Coruna,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-10,Barcelona,Real Madrid,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-10,Valladolid,Extremadura,4.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-11,Ath Madrid,Ath Bilbao,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-11,Compostela,Vallecano,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-11,Logrones,Betis,2.0,1.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-05-11,Sevilla,Hercules,5.0,0.0,H,2.0,0.0,H,ES,1996/1997
+SP1,1997-05-11,Sociedad,Santander,2.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-11,Sp Gijon,Celta,2.0,1.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-11,Tenerife,Oviedo,2.0,2.0,D,1.0,1.0,D,ES,1996/1997
+SP1,1997-05-11,Zaragoza,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-05-12,Valencia,La Coruna,1.0,1.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1997-05-15,Tenerife,Ath Madrid,2.0,3.0,A,2.0,1.0,H,ES,1996/1997
 SP1,1997-05-17,Betis,Sevilla,3.0,3.0,D,1.0,1.0,D,ES,1996/1997
 SP1,1997-05-18,Espanol,Tenerife,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
@@ -430,15 +430,15 @@ SP1,1997-05-25,Zaragoza,Sociedad,3.0,0.0,H,0.0,0.0,D,ES,1996/1997
 SP1,1997-05-26,Valencia,Betis,1.0,1.0,D,0.0,1.0,A,ES,1996/1997
 SP1,1997-05-31,Betis,Sp Gijon,0.0,1.0,A,0.0,0.0,D,ES,1996/1997
 SP1,1997-05-31,Vallecano,Valencia,3.0,1.0,H,2.0,0.0,H,ES,1996/1997
-SP1,1997-01-06,Celta,Ath Bilbao,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
-SP1,1997-01-06,Espanol,Logrones,5.0,1.0,H,3.0,0.0,H,ES,1996/1997
-SP1,1997-01-06,Hercules,Barcelona,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
-SP1,1997-01-06,La Coruna,Valladolid,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
-SP1,1997-01-06,Oviedo,Sevilla,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
-SP1,1997-01-06,Real Madrid,Extremadura,5.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-01-06,Santander,Compostela,2.0,2.0,D,0.0,1.0,A,ES,1996/1997
-SP1,1997-02-06,Sociedad,Tenerife,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
-SP1,1997-02-06,Zaragoza,Ath Madrid,2.0,3.0,A,0.0,2.0,A,ES,1996/1997
+SP1,1997-06-01,Celta,Ath Bilbao,0.0,2.0,A,0.0,0.0,D,ES,1996/1997
+SP1,1997-06-01,Espanol,Logrones,5.0,1.0,H,3.0,0.0,H,ES,1996/1997
+SP1,1997-06-01,Hercules,Barcelona,2.0,1.0,H,1.0,1.0,D,ES,1996/1997
+SP1,1997-06-01,La Coruna,Valladolid,0.0,2.0,A,0.0,1.0,A,ES,1996/1997
+SP1,1997-06-01,Oviedo,Sevilla,1.0,0.0,H,0.0,0.0,D,ES,1996/1997
+SP1,1997-06-01,Real Madrid,Extremadura,5.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-06-01,Santander,Compostela,2.0,2.0,D,0.0,1.0,A,ES,1996/1997
+SP1,1997-06-02,Sociedad,Tenerife,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
+SP1,1997-06-02,Zaragoza,Ath Madrid,2.0,3.0,A,0.0,2.0,A,ES,1996/1997
 SP1,1997-06-14,Real Madrid,Ath Madrid,3.0,1.0,H,2.0,0.0,H,ES,1996/1997
 SP1,1997-06-15,Barcelona,Betis,3.0,0.0,H,1.0,0.0,H,ES,1996/1997
 SP1,1997-06-15,Compostela,Sociedad,1.0,2.0,A,0.0,0.0,D,ES,1996/1997

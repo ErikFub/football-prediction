@@ -1,16 +1,16 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Country,Season
-E2,1997-09-08,Birmingham,Stoke,2,0,H,1,0,H,EN,1997/1998
-E2,1997-09-08,Bradford,Stockport,2,1,H,1,0,H,EN,1997/1998
-E2,1997-09-08,Bury,Reading,1,1,D,0,1,A,EN,1997/1998
-E2,1997-09-08,Man City,Portsmouth,2,2,D,1,1,D,EN,1997/1998
-E2,1997-09-08,Middlesbrough,Charlton,2,1,H,0,1,A,EN,1997/1998
-E2,1997-09-08,Norwich,Wolves,0,2,A,0,1,A,EN,1997/1998
-E2,1997-09-08,Oxford,Huddersfield,2,0,H,0,0,D,EN,1997/1998
-E2,1997-09-08,Port Vale,Nott'm Forest,0,1,A,0,1,A,EN,1997/1998
-E2,1997-09-08,QPR,Ipswich,0,0,D,0,0,D,EN,1997/1998
-E2,1997-09-08,Swindon,Crewe,2,0,H,1,0,H,EN,1997/1998
-E2,1997-09-08,West Brom,Tranmere,2,1,H,2,0,H,EN,1997/1998
-E2,1997-10-08,Sheffield United,Sunderland,2,0,H,2,0,H,EN,1997/1998
+E2,1997-08-09,Birmingham,Stoke,2,0,H,1,0,H,EN,1997/1998
+E2,1997-08-09,Bradford,Stockport,2,1,H,1,0,H,EN,1997/1998
+E2,1997-08-09,Bury,Reading,1,1,D,0,1,A,EN,1997/1998
+E2,1997-08-09,Man City,Portsmouth,2,2,D,1,1,D,EN,1997/1998
+E2,1997-08-09,Middlesbrough,Charlton,2,1,H,0,1,A,EN,1997/1998
+E2,1997-08-09,Norwich,Wolves,0,2,A,0,1,A,EN,1997/1998
+E2,1997-08-09,Oxford,Huddersfield,2,0,H,0,0,D,EN,1997/1998
+E2,1997-08-09,Port Vale,Nott'm Forest,0,1,A,0,1,A,EN,1997/1998
+E2,1997-08-09,QPR,Ipswich,0,0,D,0,0,D,EN,1997/1998
+E2,1997-08-09,Swindon,Crewe,2,0,H,1,0,H,EN,1997/1998
+E2,1997-08-09,West Brom,Tranmere,2,1,H,2,0,H,EN,1997/1998
+E2,1997-08-10,Sheffield United,Sunderland,2,0,H,2,0,H,EN,1997/1998
 E2,1997-08-15,Bradford,Stoke,0,0,D,0,0,D,EN,1997/1998
 E2,1997-08-15,Nott'm Forest,Norwich,4,1,H,1,1,D,EN,1997/1998
 E2,1997-08-15,Sunderland,Man City,3,1,H,1,0,H,EN,1997/1998
@@ -28,8 +28,8 @@ E2,1997-08-30,Stoke,Swindon,1,2,A,1,0,H,EN,1997/1998
 E2,1997-08-30,Sunderland,Norwich,0,1,A,0,0,D,EN,1997/1998
 E2,1997-08-30,Tranmere,Middlesbrough,0,2,A,0,1,A,EN,1997/1998
 E2,1997-08-30,Wolves,Bury,4,2,H,2,1,H,EN,1997/1998
-E2,1997-02-09,Crewe,Bury,1,2,A,1,1,D,EN,1997/1998
-E2,1997-02-09,Huddersfield,Bradford,1,2,A,0,1,A,EN,1997/1998
+E2,1997-09-02,Crewe,Bury,1,2,A,1,1,D,EN,1997/1998
+E2,1997-09-02,Huddersfield,Bradford,1,2,A,0,1,A,EN,1997/1998
 E2,1997-09-13,Bradford,Middlesbrough,2,2,D,1,1,D,EN,1997/1998
 E2,1997-09-13,Bury,Man City,1,1,D,0,0,D,EN,1997/1998
 E2,1997-09-13,Huddersfield,Ipswich,2,2,D,1,0,H,EN,1997/1998
@@ -69,23 +69,23 @@ E2,1997-09-27,Portsmouth,Reading,0,2,A,0,1,A,EN,1997/1998
 E2,1997-09-27,Sheffield United,Birmingham,0,0,D,0,0,D,EN,1997/1998
 E2,1997-09-27,Wolves,Huddersfield,1,1,D,1,1,D,EN,1997/1998
 E2,1997-09-28,Sunderland,Middlesbrough,1,2,A,0,0,D,EN,1997/1998
-E2,1997-03-10,Huddersfield,Nott'm Forest,0,2,A,0,0,D,EN,1997/1998
-E2,1997-04-10,Birmingham,Crewe,0,1,A,0,0,D,EN,1997/1998
-E2,1997-04-10,Bradford,Wolves,2,0,H,2,0,H,EN,1997/1998
-E2,1997-04-10,Ipswich,Man City,1,0,H,0,0,D,EN,1997/1998
-E2,1997-04-10,QPR,Charlton,2,4,A,1,2,A,EN,1997/1998
-E2,1997-04-10,Reading,Sunderland,4,0,H,2,0,H,EN,1997/1998
-E2,1997-04-10,Stockport,Portsmouth,3,1,H,2,0,H,EN,1997/1998
-E2,1997-04-10,Stoke,Bury,3,2,H,0,0,D,EN,1997/1998
-E2,1997-04-10,Swindon,Port Vale,4,2,H,0,1,A,EN,1997/1998
-E2,1997-04-10,Tranmere,Norwich,2,0,H,2,0,H,EN,1997/1998
-E2,1997-04-10,West Brom,Oxford,1,2,A,1,1,D,EN,1997/1998
-E2,1997-05-10,Middlesbrough,Sheffield United,1,2,A,1,1,D,EN,1997/1998
-E2,1997-11-10,Reading,Crewe,3,3,D,2,3,A,EN,1997/1998
-E2,1997-11-10,Stockport,Oxford,3,2,H,0,0,D,EN,1997/1998
-E2,1997-11-10,Swindon,Bury,3,1,H,2,1,H,EN,1997/1998
-E2,1997-12-10,Birmingham,Wolves,1,0,H,1,0,H,EN,1997/1998
-E2,1997-12-10,Stoke,Port Vale,2,1,H,2,1,H,EN,1997/1998
+E2,1997-10-03,Huddersfield,Nott'm Forest,0,2,A,0,0,D,EN,1997/1998
+E2,1997-10-04,Birmingham,Crewe,0,1,A,0,0,D,EN,1997/1998
+E2,1997-10-04,Bradford,Wolves,2,0,H,2,0,H,EN,1997/1998
+E2,1997-10-04,Ipswich,Man City,1,0,H,0,0,D,EN,1997/1998
+E2,1997-10-04,QPR,Charlton,2,4,A,1,2,A,EN,1997/1998
+E2,1997-10-04,Reading,Sunderland,4,0,H,2,0,H,EN,1997/1998
+E2,1997-10-04,Stockport,Portsmouth,3,1,H,2,0,H,EN,1997/1998
+E2,1997-10-04,Stoke,Bury,3,2,H,0,0,D,EN,1997/1998
+E2,1997-10-04,Swindon,Port Vale,4,2,H,0,1,A,EN,1997/1998
+E2,1997-10-04,Tranmere,Norwich,2,0,H,2,0,H,EN,1997/1998
+E2,1997-10-04,West Brom,Oxford,1,2,A,1,1,D,EN,1997/1998
+E2,1997-10-05,Middlesbrough,Sheffield United,1,2,A,1,1,D,EN,1997/1998
+E2,1997-10-11,Reading,Crewe,3,3,D,2,3,A,EN,1997/1998
+E2,1997-10-11,Stockport,Oxford,3,2,H,0,0,D,EN,1997/1998
+E2,1997-10-11,Swindon,Bury,3,1,H,2,1,H,EN,1997/1998
+E2,1997-10-12,Birmingham,Wolves,1,0,H,1,0,H,EN,1997/1998
+E2,1997-10-12,Stoke,Port Vale,2,1,H,2,1,H,EN,1997/1998
 E2,1997-10-14,Huddersfield,Charlton,0,3,A,0,1,A,EN,1997/1998
 E2,1997-10-18,Bury,Birmingham,2,1,H,2,0,H,EN,1997/1998
 E2,1997-10-18,Crewe,Middlesbrough,1,1,D,0,0,D,EN,1997/1998
@@ -127,41 +127,41 @@ E2,1997-10-28,Birmingham,Ipswich,1,1,D,0,1,A,EN,1997/1998
 E2,1997-10-28,Middlesbrough,Huddersfield,3,0,H,2,0,H,EN,1997/1998
 E2,1997-10-29,Man City,Crewe,1,0,H,1,0,H,EN,1997/1998
 E2,1997-10-31,Portsmouth,Swindon,0,1,A,0,1,A,EN,1997/1998
-E2,1997-01-11,Bradford,West Brom,0,0,D,0,0,D,EN,1997/1998
-E2,1997-01-11,Charlton,Ipswich,3,0,H,2,0,H,EN,1997/1998
-E2,1997-01-11,Huddersfield,Stoke,3,1,H,0,0,D,EN,1997/1998
-E2,1997-01-11,Norwich,Bury,2,2,D,2,1,H,EN,1997/1998
-E2,1997-01-11,Nott'm Forest,Crewe,3,1,H,1,1,D,EN,1997/1998
-E2,1997-01-11,Oxford,Man City,0,0,D,0,0,D,EN,1997/1998
-E2,1997-01-11,Port Vale,Reading,0,0,D,0,0,D,EN,1997/1998
-E2,1997-01-11,QPR,Birmingham,1,1,D,1,1,D,EN,1997/1998
-E2,1997-01-11,Sheffield United,Tranmere,2,1,H,0,0,D,EN,1997/1998
-E2,1997-01-11,Stockport,Sunderland,1,1,D,0,0,D,EN,1997/1998
-E2,1997-01-11,Wolves,Middlesbrough,1,0,H,0,0,D,EN,1997/1998
-E2,1997-04-11,Birmingham,Bradford,0,0,D,0,0,D,EN,1997/1998
-E2,1997-04-11,Bury,Nott'm Forest,2,0,H,1,0,H,EN,1997/1998
-E2,1997-04-11,Crewe,Wolves,0,2,A,0,1,A,EN,1997/1998
-E2,1997-04-11,Ipswich,Stockport,0,2,A,0,0,D,EN,1997/1998
-E2,1997-04-11,Man City,Port Vale,2,3,A,2,2,D,EN,1997/1998
-E2,1997-04-11,Reading,Sheffield United,0,1,A,0,0,D,EN,1997/1998
-E2,1997-04-11,Stoke,Oxford,0,0,D,0,0,D,EN,1997/1998
-E2,1997-04-11,Sunderland,Charlton,0,0,D,0,0,D,EN,1997/1998
-E2,1997-04-11,Tranmere,Huddersfield,1,0,H,1,0,H,EN,1997/1998
-E2,1997-04-11,West Brom,Norwich,1,0,H,0,0,D,EN,1997/1998
-E2,1997-05-11,Middlesbrough,Portsmouth,1,1,D,0,0,D,EN,1997/1998
-E2,1997-05-11,Swindon,QPR,3,1,H,0,1,A,EN,1997/1998
-E2,1997-07-11,Man City,Huddersfield,0,1,A,0,0,D,EN,1997/1998
-E2,1997-08-11,Birmingham,Norwich,1,2,A,1,2,A,EN,1997/1998
-E2,1997-08-11,Bury,Portsmouth,0,2,A,0,1,A,EN,1997/1998
-E2,1997-08-11,Crewe,Oxford,2,1,H,2,1,H,EN,1997/1998
-E2,1997-08-11,Middlesbrough,QPR,3,0,H,2,0,H,EN,1997/1998
-E2,1997-08-11,Reading,Stockport,1,0,H,1,0,H,EN,1997/1998
-E2,1997-08-11,Stoke,Wolves,3,0,H,2,0,H,EN,1997/1998
-E2,1997-08-11,Sunderland,Nott'm Forest,1,1,D,1,1,D,EN,1997/1998
-E2,1997-08-11,Swindon,Bradford,1,0,H,1,0,H,EN,1997/1998
-E2,1997-08-11,Tranmere,Port Vale,1,2,A,0,1,A,EN,1997/1998
-E2,1997-08-11,West Brom,Charlton,1,0,H,1,0,H,EN,1997/1998
-E2,1997-09-11,Ipswich,Sheffield United,2,2,D,0,1,A,EN,1997/1998
+E2,1997-11-01,Bradford,West Brom,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-01,Charlton,Ipswich,3,0,H,2,0,H,EN,1997/1998
+E2,1997-11-01,Huddersfield,Stoke,3,1,H,0,0,D,EN,1997/1998
+E2,1997-11-01,Norwich,Bury,2,2,D,2,1,H,EN,1997/1998
+E2,1997-11-01,Nott'm Forest,Crewe,3,1,H,1,1,D,EN,1997/1998
+E2,1997-11-01,Oxford,Man City,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-01,Port Vale,Reading,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-01,QPR,Birmingham,1,1,D,1,1,D,EN,1997/1998
+E2,1997-11-01,Sheffield United,Tranmere,2,1,H,0,0,D,EN,1997/1998
+E2,1997-11-01,Stockport,Sunderland,1,1,D,0,0,D,EN,1997/1998
+E2,1997-11-01,Wolves,Middlesbrough,1,0,H,0,0,D,EN,1997/1998
+E2,1997-11-04,Birmingham,Bradford,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-04,Bury,Nott'm Forest,2,0,H,1,0,H,EN,1997/1998
+E2,1997-11-04,Crewe,Wolves,0,2,A,0,1,A,EN,1997/1998
+E2,1997-11-04,Ipswich,Stockport,0,2,A,0,0,D,EN,1997/1998
+E2,1997-11-04,Man City,Port Vale,2,3,A,2,2,D,EN,1997/1998
+E2,1997-11-04,Reading,Sheffield United,0,1,A,0,0,D,EN,1997/1998
+E2,1997-11-04,Stoke,Oxford,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-04,Sunderland,Charlton,0,0,D,0,0,D,EN,1997/1998
+E2,1997-11-04,Tranmere,Huddersfield,1,0,H,1,0,H,EN,1997/1998
+E2,1997-11-04,West Brom,Norwich,1,0,H,0,0,D,EN,1997/1998
+E2,1997-11-05,Middlesbrough,Portsmouth,1,1,D,0,0,D,EN,1997/1998
+E2,1997-11-05,Swindon,QPR,3,1,H,0,1,A,EN,1997/1998
+E2,1997-11-07,Man City,Huddersfield,0,1,A,0,0,D,EN,1997/1998
+E2,1997-11-08,Birmingham,Norwich,1,2,A,1,2,A,EN,1997/1998
+E2,1997-11-08,Bury,Portsmouth,0,2,A,0,1,A,EN,1997/1998
+E2,1997-11-08,Crewe,Oxford,2,1,H,2,1,H,EN,1997/1998
+E2,1997-11-08,Middlesbrough,QPR,3,0,H,2,0,H,EN,1997/1998
+E2,1997-11-08,Reading,Stockport,1,0,H,1,0,H,EN,1997/1998
+E2,1997-11-08,Stoke,Wolves,3,0,H,2,0,H,EN,1997/1998
+E2,1997-11-08,Sunderland,Nott'm Forest,1,1,D,1,1,D,EN,1997/1998
+E2,1997-11-08,Swindon,Bradford,1,0,H,1,0,H,EN,1997/1998
+E2,1997-11-08,Tranmere,Port Vale,1,2,A,0,1,A,EN,1997/1998
+E2,1997-11-08,West Brom,Charlton,1,0,H,1,0,H,EN,1997/1998
+E2,1997-11-09,Ipswich,Sheffield United,2,2,D,0,1,A,EN,1997/1998
 E2,1997-11-15,Bradford,Tranmere,0,1,A,0,0,D,EN,1997/1998
 E2,1997-11-15,Charlton,Crewe,3,2,H,2,1,H,EN,1997/1998
 E2,1997-11-15,Huddersfield,Reading,1,0,H,0,0,D,EN,1997/1998
@@ -199,24 +199,24 @@ E2,1997-11-29,Stockport,Man City,3,1,H,3,0,H,EN,1997/1998
 E2,1997-11-29,Stoke,Reading,1,2,A,0,1,A,EN,1997/1998
 E2,1997-11-29,Sunderland,Tranmere,3,0,H,3,0,H,EN,1997/1998
 E2,1997-11-29,Wolves,QPR,3,2,H,1,0,H,EN,1997/1998
-E2,1997-02-12,Ipswich,Middlesbrough,1,1,D,0,1,A,EN,1997/1998
-E2,1997-02-12,Sheffield United,Stoke,3,2,H,0,1,A,EN,1997/1998
-E2,1997-02-12,West Brom,Man City,0,1,A,0,0,D,EN,1997/1998
-E2,1997-03-12,QPR,Norwich,1,1,D,0,0,D,EN,1997/1998
-E2,1997-06-12,Bury,Middlesbrough,0,1,A,0,0,D,EN,1997/1998
-E2,1997-06-12,Crewe,Huddersfield,2,5,A,1,2,A,EN,1997/1998
-E2,1997-06-12,Man City,Wolves,0,1,A,0,1,A,EN,1997/1998
-E2,1997-06-12,Norwich,Sheffield United,2,1,H,0,0,D,EN,1997/1998
-E2,1997-06-12,Nott'm Forest,Bradford,2,2,D,1,0,H,EN,1997/1998
-E2,1997-06-12,Port Vale,Birmingham,0,1,A,0,1,A,EN,1997/1998
-E2,1997-06-12,Portsmouth,Stoke,2,0,H,2,0,H,EN,1997/1998
-E2,1997-06-12,QPR,Sunderland,0,1,A,0,0,D,EN,1997/1998
-E2,1997-06-12,Reading,Charlton,2,0,H,2,0,H,EN,1997/1998
-E2,1997-06-12,Swindon,Oxford,4,1,H,2,1,H,EN,1997/1998
-E2,1997-06-12,Tranmere,Ipswich,1,1,D,0,1,A,EN,1997/1998
-E2,1997-06-12,West Brom,Stockport,3,2,H,1,0,H,EN,1997/1998
-E2,1997-09-12,Charlton,Sheffield United,2,1,H,1,0,H,EN,1997/1998
-E2,1997-09-12,Portsmouth,Wolves,3,2,H,1,0,H,EN,1997/1998
+E2,1997-12-02,Ipswich,Middlesbrough,1,1,D,0,1,A,EN,1997/1998
+E2,1997-12-02,Sheffield United,Stoke,3,2,H,0,1,A,EN,1997/1998
+E2,1997-12-02,West Brom,Man City,0,1,A,0,0,D,EN,1997/1998
+E2,1997-12-03,QPR,Norwich,1,1,D,0,0,D,EN,1997/1998
+E2,1997-12-06,Bury,Middlesbrough,0,1,A,0,0,D,EN,1997/1998
+E2,1997-12-06,Crewe,Huddersfield,2,5,A,1,2,A,EN,1997/1998
+E2,1997-12-06,Man City,Wolves,0,1,A,0,1,A,EN,1997/1998
+E2,1997-12-06,Norwich,Sheffield United,2,1,H,0,0,D,EN,1997/1998
+E2,1997-12-06,Nott'm Forest,Bradford,2,2,D,1,0,H,EN,1997/1998
+E2,1997-12-06,Port Vale,Birmingham,0,1,A,0,1,A,EN,1997/1998
+E2,1997-12-06,Portsmouth,Stoke,2,0,H,2,0,H,EN,1997/1998
+E2,1997-12-06,QPR,Sunderland,0,1,A,0,0,D,EN,1997/1998
+E2,1997-12-06,Reading,Charlton,2,0,H,2,0,H,EN,1997/1998
+E2,1997-12-06,Swindon,Oxford,4,1,H,2,1,H,EN,1997/1998
+E2,1997-12-06,Tranmere,Ipswich,1,1,D,0,1,A,EN,1997/1998
+E2,1997-12-06,West Brom,Stockport,3,2,H,1,0,H,EN,1997/1998
+E2,1997-12-09,Charlton,Sheffield United,2,1,H,1,0,H,EN,1997/1998
+E2,1997-12-09,Portsmouth,Wolves,3,2,H,1,0,H,EN,1997/1998
 E2,1997-12-12,Oxford,QPR,3,1,H,2,1,H,EN,1997/1998
 E2,1997-12-13,Birmingham,Man City,2,1,H,0,0,D,EN,1997/1998
 E2,1997-12-13,Bradford,Bury,1,0,H,1,0,H,EN,1997/1998
@@ -265,18 +265,18 @@ E2,1997-12-28,Sheffield United,Charlton,4,1,H,2,0,H,EN,1997/1998
 E2,1997-12-28,Swindon,Ipswich,0,2,A,0,0,D,EN,1997/1998
 E2,1997-12-28,West Brom,Stoke,1,1,D,0,0,D,EN,1997/1998
 E2,1997-12-30,Norwich,Portsmouth,2,0,H,1,0,H,EN,1997/1998
-E2,1998-09-01,Tranmere,West Brom,0,0,D,0,0,D,EN,1997/1998
-E2,1998-10-01,Charlton,Middlesbrough,3,0,H,2,0,H,EN,1997/1998
-E2,1998-10-01,Huddersfield,Oxford,5,1,H,3,0,H,EN,1997/1998
-E2,1998-10-01,Ipswich,QPR,0,0,D,0,0,D,EN,1997/1998
-E2,1998-10-01,Nott'm Forest,Port Vale,2,1,H,1,1,D,EN,1997/1998
-E2,1998-10-01,Portsmouth,Man City,0,3,A,0,1,A,EN,1997/1998
-E2,1998-10-01,Reading,Bury,1,1,D,1,0,H,EN,1997/1998
-E2,1998-10-01,Stockport,Bradford,1,2,A,0,2,A,EN,1997/1998
-E2,1998-10-01,Stoke,Birmingham,0,7,A,0,3,A,EN,1997/1998
-E2,1998-10-01,Sunderland,Sheffield United,4,2,H,1,1,D,EN,1997/1998
-E2,1998-10-01,Wolves,Norwich,5,0,H,4,0,H,EN,1997/1998
-E2,1998-11-01,Crewe,Swindon,2,0,H,0,0,D,EN,1997/1998
+E2,1998-01-09,Tranmere,West Brom,0,0,D,0,0,D,EN,1997/1998
+E2,1998-01-10,Charlton,Middlesbrough,3,0,H,2,0,H,EN,1997/1998
+E2,1998-01-10,Huddersfield,Oxford,5,1,H,3,0,H,EN,1997/1998
+E2,1998-01-10,Ipswich,QPR,0,0,D,0,0,D,EN,1997/1998
+E2,1998-01-10,Nott'm Forest,Port Vale,2,1,H,1,1,D,EN,1997/1998
+E2,1998-01-10,Portsmouth,Man City,0,3,A,0,1,A,EN,1997/1998
+E2,1998-01-10,Reading,Bury,1,1,D,1,0,H,EN,1997/1998
+E2,1998-01-10,Stockport,Bradford,1,2,A,0,2,A,EN,1997/1998
+E2,1998-01-10,Stoke,Birmingham,0,7,A,0,3,A,EN,1997/1998
+E2,1998-01-10,Sunderland,Sheffield United,4,2,H,1,1,D,EN,1997/1998
+E2,1998-01-10,Wolves,Norwich,5,0,H,4,0,H,EN,1997/1998
+E2,1998-01-11,Crewe,Swindon,2,0,H,0,0,D,EN,1997/1998
 E2,1998-01-16,Stoke,Bradford,2,1,H,2,1,H,EN,1997/1998
 E2,1998-01-17,Birmingham,Huddersfield,0,0,D,0,0,D,EN,1997/1998
 E2,1998-01-17,Man City,Sunderland,0,1,A,0,0,D,EN,1997/1998
@@ -312,21 +312,21 @@ E2,1998-01-31,Stockport,QPR,2,0,H,1,0,H,EN,1997/1998
 E2,1998-01-31,Sunderland,Port Vale,4,2,H,3,1,H,EN,1997/1998
 E2,1998-01-31,Tranmere,Man City,0,0,D,0,0,D,EN,1997/1998
 E2,1998-01-31,Wolves,West Brom,0,1,A,0,0,D,EN,1997/1998
-E2,1998-01-02,Stoke,Middlesbrough,1,2,A,1,1,D,EN,1997/1998
-E2,1998-04-02,Middlesbrough,Tranmere,3,0,H,2,0,H,EN,1997/1998
-E2,1998-07-02,Birmingham,Middlesbrough,1,1,D,1,1,D,EN,1997/1998
-E2,1998-07-02,Bradford,Charlton,1,0,H,1,0,H,EN,1997/1998
-E2,1998-07-02,Bury,Port Vale,2,2,D,1,2,A,EN,1997/1998
-E2,1998-07-02,Huddersfield,Stockport,1,0,H,0,0,D,EN,1997/1998
-E2,1998-07-02,Norwich,Man City,0,0,D,0,0,D,EN,1997/1998
-E2,1998-07-02,Portsmouth,Nott'm Forest,0,1,A,0,0,D,EN,1997/1998
-E2,1998-07-02,QPR,Crewe,3,2,H,1,0,H,EN,1997/1998
-E2,1998-07-02,Reading,Tranmere,1,3,A,0,1,A,EN,1997/1998
-E2,1998-07-02,Sheffield United,Oxford,1,0,H,1,0,H,EN,1997/1998
-E2,1998-07-02,Stoke,Ipswich,1,1,D,1,0,H,EN,1997/1998
-E2,1998-07-02,Swindon,West Brom,0,2,A,0,1,A,EN,1997/1998
-E2,1998-07-02,Wolves,Sunderland,0,1,A,0,0,D,EN,1997/1998
-E2,1998-10-02,Tranmere,Swindon,3,0,H,2,0,H,EN,1997/1998
+E2,1998-02-01,Stoke,Middlesbrough,1,2,A,1,1,D,EN,1997/1998
+E2,1998-02-04,Middlesbrough,Tranmere,3,0,H,2,0,H,EN,1997/1998
+E2,1998-02-07,Birmingham,Middlesbrough,1,1,D,1,1,D,EN,1997/1998
+E2,1998-02-07,Bradford,Charlton,1,0,H,1,0,H,EN,1997/1998
+E2,1998-02-07,Bury,Port Vale,2,2,D,1,2,A,EN,1997/1998
+E2,1998-02-07,Huddersfield,Stockport,1,0,H,0,0,D,EN,1997/1998
+E2,1998-02-07,Norwich,Man City,0,0,D,0,0,D,EN,1997/1998
+E2,1998-02-07,Portsmouth,Nott'm Forest,0,1,A,0,0,D,EN,1997/1998
+E2,1998-02-07,QPR,Crewe,3,2,H,1,0,H,EN,1997/1998
+E2,1998-02-07,Reading,Tranmere,1,3,A,0,1,A,EN,1997/1998
+E2,1998-02-07,Sheffield United,Oxford,1,0,H,1,0,H,EN,1997/1998
+E2,1998-02-07,Stoke,Ipswich,1,1,D,1,0,H,EN,1997/1998
+E2,1998-02-07,Swindon,West Brom,0,2,A,0,1,A,EN,1997/1998
+E2,1998-02-07,Wolves,Sunderland,0,1,A,0,0,D,EN,1997/1998
+E2,1998-02-10,Tranmere,Swindon,3,0,H,2,0,H,EN,1997/1998
 E2,1998-02-14,Crewe,Portsmouth,3,1,H,0,0,D,EN,1997/1998
 E2,1998-02-14,Ipswich,Huddersfield,5,1,H,1,1,D,EN,1997/1998
 E2,1998-02-14,Man City,Bury,0,1,A,0,0,D,EN,1997/1998
@@ -378,31 +378,31 @@ E2,1998-02-28,Portsmouth,Tranmere,1,0,H,1,0,H,EN,1997/1998
 E2,1998-02-28,Sheffield United,Bradford,2,1,H,1,0,H,EN,1997/1998
 E2,1998-02-28,Sunderland,Ipswich,2,2,D,1,2,A,EN,1997/1998
 E2,1998-02-28,Wolves,Birmingham,1,3,A,1,1,D,EN,1997/1998
-E2,1998-01-03,Nott'm Forest,Middlesbrough,4,0,H,0,0,D,EN,1997/1998
-E2,1998-01-03,Port Vale,Stoke,0,0,D,0,0,D,EN,1997/1998
+E2,1998-03-01,Nott'm Forest,Middlesbrough,4,0,H,0,0,D,EN,1997/1998
+E2,1998-03-01,Port Vale,Stoke,0,0,D,0,0,D,EN,1997/1998
 E2,1998-03-03,Charlton,West Brom,5,0,H,1,0,H,EN,1997/1998
 E2,1998-03-03,Huddersfield,Man City,1,3,A,1,2,A,EN,1997/1998
 E2,1998-03-03,Oxford,Crewe,0,0,D,0,0,D,EN,1997/1998
 E2,1998-03-03,Portsmouth,Bury,1,1,D,0,1,A,EN,1997/1998
 E2,1998-03-03,Sheffield United,Ipswich,0,1,A,0,1,A,EN,1997/1998
 E2,1998-03-03,Stockport,Reading,5,1,H,4,0,H,EN,1997/1998
-E2,1998-04-03,Norwich,Birmingham,3,3,D,0,2,A,EN,1997/1998
-E2,1998-04-03,Nott'm Forest,Sunderland,0,3,A,0,1,A,EN,1997/1998
-E2,1998-04-03,Port Vale,Tranmere,0,1,A,0,0,D,EN,1997/1998
-E2,1998-04-03,QPR,Middlesbrough,5,0,H,4,0,H,EN,1997/1998
-E2,1998-04-03,Wolves,Stoke,1,1,D,1,0,H,EN,1997/1998
-E2,1998-07-03,Birmingham,QPR,1,0,H,1,0,H,EN,1997/1998
-E2,1998-07-03,Bury,Norwich,1,0,H,0,0,D,EN,1997/1998
-E2,1998-07-03,Crewe,Nott'm Forest,1,4,A,1,4,A,EN,1997/1998
-E2,1998-07-03,Ipswich,Charlton,3,1,H,0,1,A,EN,1997/1998
-E2,1998-07-03,Man City,Oxford,0,2,A,0,1,A,EN,1997/1998
-E2,1998-07-03,Reading,Port Vale,0,3,A,0,2,A,EN,1997/1998
-E2,1998-07-03,Stoke,Huddersfield,1,2,A,0,2,A,EN,1997/1998
-E2,1998-07-03,Sunderland,Stockport,4,1,H,1,0,H,EN,1997/1998
-E2,1998-07-03,Swindon,Portsmouth,0,1,A,0,0,D,EN,1997/1998
-E2,1998-07-03,West Brom,Bradford,1,1,D,0,1,A,EN,1997/1998
-E2,1998-10-03,Sunderland,Birmingham,1,1,D,0,0,D,EN,1997/1998
-E2,1998-11-03,Middlesbrough,Swindon,6,0,H,2,0,H,EN,1997/1998
+E2,1998-03-04,Norwich,Birmingham,3,3,D,0,2,A,EN,1997/1998
+E2,1998-03-04,Nott'm Forest,Sunderland,0,3,A,0,1,A,EN,1997/1998
+E2,1998-03-04,Port Vale,Tranmere,0,1,A,0,0,D,EN,1997/1998
+E2,1998-03-04,QPR,Middlesbrough,5,0,H,4,0,H,EN,1997/1998
+E2,1998-03-04,Wolves,Stoke,1,1,D,1,0,H,EN,1997/1998
+E2,1998-03-07,Birmingham,QPR,1,0,H,1,0,H,EN,1997/1998
+E2,1998-03-07,Bury,Norwich,1,0,H,0,0,D,EN,1997/1998
+E2,1998-03-07,Crewe,Nott'm Forest,1,4,A,1,4,A,EN,1997/1998
+E2,1998-03-07,Ipswich,Charlton,3,1,H,0,1,A,EN,1997/1998
+E2,1998-03-07,Man City,Oxford,0,2,A,0,1,A,EN,1997/1998
+E2,1998-03-07,Reading,Port Vale,0,3,A,0,2,A,EN,1997/1998
+E2,1998-03-07,Stoke,Huddersfield,1,2,A,0,2,A,EN,1997/1998
+E2,1998-03-07,Sunderland,Stockport,4,1,H,1,0,H,EN,1997/1998
+E2,1998-03-07,Swindon,Portsmouth,0,1,A,0,0,D,EN,1997/1998
+E2,1998-03-07,West Brom,Bradford,1,1,D,0,1,A,EN,1997/1998
+E2,1998-03-10,Sunderland,Birmingham,1,1,D,0,0,D,EN,1997/1998
+E2,1998-03-11,Middlesbrough,Swindon,6,0,H,2,0,H,EN,1997/1998
 E2,1998-03-14,Bradford,Birmingham,0,0,D,0,0,D,EN,1997/1998
 E2,1998-03-14,Huddersfield,Tranmere,3,0,H,1,0,H,EN,1997/1998
 E2,1998-03-14,Norwich,West Brom,1,1,D,1,0,H,EN,1997/1998
@@ -440,9 +440,9 @@ E2,1998-03-28,Stockport,Crewe,0,1,A,0,0,D,EN,1997/1998
 E2,1998-03-28,Stoke,Tranmere,0,3,A,0,2,A,EN,1997/1998
 E2,1998-03-28,Sunderland,Bury,2,1,H,1,1,D,EN,1997/1998
 E2,1998-03-29,Wolves,Portsmouth,2,0,H,1,0,H,EN,1997/1998
-E2,1998-01-04,Nott'm Forest,Sheffield United,3,0,H,2,0,H,EN,1997/1998
-E2,1998-01-04,QPR,Wolves,0,0,D,0,0,D,EN,1997/1998
-E2,1998-03-04,Tranmere,Sunderland,0,2,A,0,2,A,EN,1997/1998
+E2,1998-04-01,Nott'm Forest,Sheffield United,3,0,H,2,0,H,EN,1997/1998
+E2,1998-04-01,QPR,Wolves,0,0,D,0,0,D,EN,1997/1998
+E2,1998-04-03,Tranmere,Sunderland,0,2,A,0,2,A,EN,1997/1998
 E2,1998-04-04,Bury,Huddersfield,2,2,D,1,1,D,EN,1997/1998
 E2,1998-04-04,Man City,Stockport,4,1,H,3,1,H,EN,1997/1998
 E2,1998-04-04,Norwich,Bradford,2,3,A,0,1,A,EN,1997/1998
@@ -451,22 +451,22 @@ E2,1998-04-04,Portsmouth,Birmingham,1,1,D,0,0,D,EN,1997/1998
 E2,1998-04-04,Reading,Stoke,2,0,H,1,0,H,EN,1997/1998
 E2,1998-04-04,Swindon,Charlton,0,1,A,0,0,D,EN,1997/1998
 E2,1998-04-04,West Brom,Middlesbrough,2,1,H,1,0,H,EN,1997/1998
-E2,1998-05-04,Nott'm Forest,Ipswich,2,1,H,0,0,D,EN,1997/1998
-E2,1998-07-04,Charlton,Wolves,1,0,H,1,0,H,EN,1997/1998
-E2,1998-07-04,Sheffield United,Middlesbrough,1,0,H,0,0,D,EN,1997/1998
-E2,1998-07-04,Tranmere,Portsmouth,2,2,D,1,1,D,EN,1997/1998
-E2,1998-10-04,Charlton,Reading,3,0,H,2,0,H,EN,1997/1998
-E2,1998-10-04,Sunderland,QPR,2,2,D,1,0,H,EN,1997/1998
-E2,1998-11-04,Birmingham,Port Vale,1,1,D,0,0,D,EN,1997/1998
-E2,1998-11-04,Bradford,Nott'm Forest,0,3,A,0,1,A,EN,1997/1998
-E2,1998-11-04,Huddersfield,Crewe,2,0,H,2,0,H,EN,1997/1998
-E2,1998-11-04,Ipswich,Tranmere,0,0,D,0,0,D,EN,1997/1998
-E2,1998-11-04,Middlesbrough,Bury,4,0,H,1,0,H,EN,1997/1998
-E2,1998-11-04,Oxford,Swindon,2,1,H,2,0,H,EN,1997/1998
-E2,1998-11-04,Sheffield United,Norwich,2,2,D,2,0,H,EN,1997/1998
-E2,1998-11-04,Stockport,West Brom,2,1,H,1,1,D,EN,1997/1998
-E2,1998-11-04,Stoke,Portsmouth,2,1,H,0,0,D,EN,1997/1998
-E2,1998-11-04,Wolves,Man City,2,2,D,1,1,D,EN,1997/1998
+E2,1998-04-05,Nott'm Forest,Ipswich,2,1,H,0,0,D,EN,1997/1998
+E2,1998-04-07,Charlton,Wolves,1,0,H,1,0,H,EN,1997/1998
+E2,1998-04-07,Sheffield United,Middlesbrough,1,0,H,0,0,D,EN,1997/1998
+E2,1998-04-07,Tranmere,Portsmouth,2,2,D,1,1,D,EN,1997/1998
+E2,1998-04-10,Charlton,Reading,3,0,H,2,0,H,EN,1997/1998
+E2,1998-04-10,Sunderland,QPR,2,2,D,1,0,H,EN,1997/1998
+E2,1998-04-11,Birmingham,Port Vale,1,1,D,0,0,D,EN,1997/1998
+E2,1998-04-11,Bradford,Nott'm Forest,0,3,A,0,1,A,EN,1997/1998
+E2,1998-04-11,Huddersfield,Crewe,2,0,H,2,0,H,EN,1997/1998
+E2,1998-04-11,Ipswich,Tranmere,0,0,D,0,0,D,EN,1997/1998
+E2,1998-04-11,Middlesbrough,Bury,4,0,H,1,0,H,EN,1997/1998
+E2,1998-04-11,Oxford,Swindon,2,1,H,2,0,H,EN,1997/1998
+E2,1998-04-11,Sheffield United,Norwich,2,2,D,2,0,H,EN,1997/1998
+E2,1998-04-11,Stockport,West Brom,2,1,H,1,1,D,EN,1997/1998
+E2,1998-04-11,Stoke,Portsmouth,2,1,H,0,0,D,EN,1997/1998
+E2,1998-04-11,Wolves,Man City,2,2,D,1,1,D,EN,1997/1998
 E2,1998-04-13,Bury,Bradford,2,0,H,1,0,H,EN,1997/1998
 E2,1998-04-13,Crewe,Stoke,2,0,H,1,0,H,EN,1997/1998
 E2,1998-04-13,Man City,Birmingham,0,1,A,0,0,D,EN,1997/1998
@@ -507,15 +507,15 @@ E2,1998-04-28,Ipswich,Sunderland,2,0,H,0,0,D,EN,1997/1998
 E2,1998-04-28,Tranmere,Sheffield United,3,3,D,1,0,H,EN,1997/1998
 E2,1998-04-29,Middlesbrough,Wolves,1,1,D,1,1,D,EN,1997/1998
 E2,1998-04-30,Crewe,Sheffield United,2,1,H,0,0,D,EN,1997/1998
-E2,1998-03-05,Birmingham,Charlton,0,0,D,0,0,D,EN,1997/1998
-E2,1998-03-05,Bradford,Portsmouth,1,3,A,0,1,A,EN,1997/1998
-E2,1998-03-05,Huddersfield,Port Vale,0,4,A,0,2,A,EN,1997/1998
-E2,1998-03-05,Ipswich,Crewe,3,2,H,1,1,D,EN,1997/1998
-E2,1998-03-05,Middlesbrough,Oxford,4,1,H,0,0,D,EN,1997/1998
-E2,1998-03-05,QPR,Bury,0,1,A,0,1,A,EN,1997/1998
-E2,1998-03-05,Reading,Norwich,0,1,A,0,0,D,EN,1997/1998
-E2,1998-03-05,Stockport,Sheffield United,1,0,H,0,0,D,EN,1997/1998
-E2,1998-03-05,Stoke,Man City,2,5,A,0,1,A,EN,1997/1998
-E2,1998-03-05,Swindon,Sunderland,1,2,A,0,2,A,EN,1997/1998
-E2,1998-03-05,Tranmere,Wolves,2,1,H,1,0,H,EN,1997/1998
-E2,1998-03-05,West Brom,Nott'm Forest,1,1,D,0,1,A,EN,1997/1998
+E2,1998-05-03,Birmingham,Charlton,0,0,D,0,0,D,EN,1997/1998
+E2,1998-05-03,Bradford,Portsmouth,1,3,A,0,1,A,EN,1997/1998
+E2,1998-05-03,Huddersfield,Port Vale,0,4,A,0,2,A,EN,1997/1998
+E2,1998-05-03,Ipswich,Crewe,3,2,H,1,1,D,EN,1997/1998
+E2,1998-05-03,Middlesbrough,Oxford,4,1,H,0,0,D,EN,1997/1998
+E2,1998-05-03,QPR,Bury,0,1,A,0,1,A,EN,1997/1998
+E2,1998-05-03,Reading,Norwich,0,1,A,0,0,D,EN,1997/1998
+E2,1998-05-03,Stockport,Sheffield United,1,0,H,0,0,D,EN,1997/1998
+E2,1998-05-03,Stoke,Man City,2,5,A,0,1,A,EN,1997/1998
+E2,1998-05-03,Swindon,Sunderland,1,2,A,0,2,A,EN,1997/1998
+E2,1998-05-03,Tranmere,Wolves,2,1,H,1,0,H,EN,1997/1998
+E2,1998-05-03,West Brom,Nott'm Forest,1,1,D,0,1,A,EN,1997/1998

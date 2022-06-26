@@ -28,8 +28,8 @@ E1,1998-08-29,Sheffield Weds,Aston Villa,0,1,A,0,1,A,EN,1998/1999
 E1,1998-08-29,Southampton,Nott'm Forest,1,2,A,0,0,D,EN,1998/1999
 E1,1998-08-29,Wimbledon,Leeds,1,1,D,0,0,D,EN,1998/1999
 E1,1998-08-30,Newcastle,Liverpool,1,4,A,1,4,A,EN,1998/1999
-E1,1998-08-09,Leeds,Southampton,3,0,H,1,0,H,EN,1998/1999
-E1,1998-08-09,Nott'm Forest,Everton,0,2,A,0,0,D,EN,1998/1999
+E1,1998-09-08,Leeds,Southampton,3,0,H,1,0,H,EN,1998/1999
+E1,1998-09-08,Nott'm Forest,Everton,0,2,A,0,0,D,EN,1998/1999
 E1,1998-09-09,Aston Villa,Newcastle,1,0,H,0,0,D,EN,1998/1999
 E1,1998-09-09,Chelsea,Arsenal,0,0,D,0,0,D,EN,1998/1999
 E1,1998-09-09,Derby,Sheffield Weds,1,0,H,1,0,H,EN,1998/1999
@@ -38,15 +38,15 @@ E1,1998-09-09,Liverpool,Coventry,2,0,H,1,0,H,EN,1998/1999
 E1,1998-09-09,Man United,Charlton,4,1,H,2,1,H,EN,1998/1999
 E1,1998-09-09,Tottenham,Blackburn,2,1,H,1,1,D,EN,1998/1999
 E1,1998-09-09,West Ham,Wimbledon,3,4,A,3,1,H,EN,1998/1999
-E1,1998-12-09,Aston Villa,Wimbledon,2,0,H,1,0,H,EN,1998/1999
-E1,1998-12-09,Charlton,Derby,1,2,A,0,1,A,EN,1998/1999
-E1,1998-12-09,Chelsea,Nott'm Forest,2,1,H,2,0,H,EN,1998/1999
-E1,1998-12-09,Everton,Leeds,0,0,D,0,0,D,EN,1998/1999
-E1,1998-12-09,Leicester,Arsenal,1,1,D,1,0,H,EN,1998/1999
-E1,1998-12-09,Man United,Coventry,2,0,H,1,0,H,EN,1998/1999
-E1,1998-12-09,Newcastle,Southampton,4,0,H,2,0,H,EN,1998/1999
-E1,1998-12-09,Sheffield Weds,Blackburn,3,0,H,2,0,H,EN,1998/1999
-E1,1998-12-09,West Ham,Liverpool,2,1,H,1,0,H,EN,1998/1999
+E1,1998-09-12,Aston Villa,Wimbledon,2,0,H,1,0,H,EN,1998/1999
+E1,1998-09-12,Charlton,Derby,1,2,A,0,1,A,EN,1998/1999
+E1,1998-09-12,Chelsea,Nott'm Forest,2,1,H,2,0,H,EN,1998/1999
+E1,1998-09-12,Everton,Leeds,0,0,D,0,0,D,EN,1998/1999
+E1,1998-09-12,Leicester,Arsenal,1,1,D,1,0,H,EN,1998/1999
+E1,1998-09-12,Man United,Coventry,2,0,H,1,0,H,EN,1998/1999
+E1,1998-09-12,Newcastle,Southampton,4,0,H,2,0,H,EN,1998/1999
+E1,1998-09-12,Sheffield Weds,Blackburn,3,0,H,2,0,H,EN,1998/1999
+E1,1998-09-12,West Ham,Liverpool,2,1,H,1,0,H,EN,1998/1999
 E1,1998-09-13,Tottenham,Middlesbrough,0,3,A,0,2,A,EN,1998/1999
 E1,1998-09-19,Coventry,Newcastle,1,5,A,1,3,A,EN,1998/1999
 E1,1998-09-19,Derby,Leicester,2,0,H,1,0,H,EN,1998/1999
@@ -68,16 +68,16 @@ E1,1998-09-26,Sheffield Weds,Arsenal,1,0,H,0,0,D,EN,1998/1999
 E1,1998-09-26,Tottenham,Leeds,3,3,D,1,2,A,EN,1998/1999
 E1,1998-09-27,Leicester,Wimbledon,1,1,D,0,0,D,EN,1998/1999
 E1,1998-09-28,West Ham,Southampton,1,0,H,0,0,D,EN,1998/1999
-E1,1998-03-10,Blackburn,West Ham,3,0,H,1,0,H,EN,1998/1999
-E1,1998-03-10,Coventry,Aston Villa,1,2,A,0,2,A,EN,1998/1999
-E1,1998-03-10,Derby,Tottenham,0,1,A,0,0,D,EN,1998/1999
-E1,1998-03-10,Leeds,Leicester,0,1,A,0,0,D,EN,1998/1999
-E1,1998-03-10,Middlesbrough,Sheffield Weds,4,0,H,2,0,H,EN,1998/1999
-E1,1998-03-10,Nott'm Forest,Charlton,0,1,A,0,1,A,EN,1998/1999
-E1,1998-03-10,Southampton,Man United,0,3,A,0,1,A,EN,1998/1999
-E1,1998-03-10,Wimbledon,Everton,1,2,A,1,1,D,EN,1998/1999
-E1,1998-04-10,Arsenal,Newcastle,3,0,H,2,0,H,EN,1998/1999
-E1,1998-04-10,Liverpool,Chelsea,1,1,D,0,1,A,EN,1998/1999
+E1,1998-10-03,Blackburn,West Ham,3,0,H,1,0,H,EN,1998/1999
+E1,1998-10-03,Coventry,Aston Villa,1,2,A,0,2,A,EN,1998/1999
+E1,1998-10-03,Derby,Tottenham,0,1,A,0,0,D,EN,1998/1999
+E1,1998-10-03,Leeds,Leicester,0,1,A,0,0,D,EN,1998/1999
+E1,1998-10-03,Middlesbrough,Sheffield Weds,4,0,H,2,0,H,EN,1998/1999
+E1,1998-10-03,Nott'm Forest,Charlton,0,1,A,0,1,A,EN,1998/1999
+E1,1998-10-03,Southampton,Man United,0,3,A,0,1,A,EN,1998/1999
+E1,1998-10-03,Wimbledon,Everton,1,2,A,1,1,D,EN,1998/1999
+E1,1998-10-04,Arsenal,Newcastle,3,0,H,2,0,H,EN,1998/1999
+E1,1998-10-04,Liverpool,Chelsea,1,1,D,0,1,A,EN,1998/1999
 E1,1998-10-17,Arsenal,Southampton,1,1,D,1,0,H,EN,1998/1999
 E1,1998-10-17,Chelsea,Charlton,2,1,H,1,0,H,EN,1998/1999
 E1,1998-10-17,Everton,Liverpool,0,0,D,0,0,D,EN,1998/1999
@@ -105,18 +105,18 @@ E1,1998-10-31,Leicester,Liverpool,1,0,H,0,0,D,EN,1998/1999
 E1,1998-10-31,Newcastle,West Ham,0,3,A,0,0,D,EN,1998/1999
 E1,1998-10-31,Sheffield Weds,Southampton,0,0,D,0,0,D,EN,1998/1999
 E1,1998-10-31,Wimbledon,Blackburn,1,1,D,0,0,D,EN,1998/1999
-E1,1998-01-11,Middlesbrough,Nott'm Forest,1,1,D,1,0,H,EN,1998/1999
-E1,1998-02-11,Tottenham,Charlton,2,2,D,0,1,A,EN,1998/1999
-E1,1998-07-11,Aston Villa,Tottenham,3,2,H,2,0,H,EN,1998/1999
-E1,1998-07-11,Blackburn,Coventry,1,2,A,0,0,D,EN,1998/1999
-E1,1998-07-11,Charlton,Leicester,0,0,D,0,0,D,EN,1998/1999
-E1,1998-07-11,Liverpool,Derby,1,2,A,0,2,A,EN,1998/1999
-E1,1998-07-11,Nott'm Forest,Wimbledon,0,1,A,0,1,A,EN,1998/1999
-E1,1998-07-11,Southampton,Middlesbrough,3,3,D,0,0,D,EN,1998/1999
-E1,1998-08-11,Arsenal,Everton,1,0,H,1,0,H,EN,1998/1999
-E1,1998-08-11,Leeds,Sheffield Weds,2,1,H,1,1,D,EN,1998/1999
-E1,1998-08-11,Man United,Newcastle,0,0,D,0,0,D,EN,1998/1999
-E1,1998-08-11,West Ham,Chelsea,1,1,D,1,0,H,EN,1998/1999
+E1,1998-11-01,Middlesbrough,Nott'm Forest,1,1,D,1,0,H,EN,1998/1999
+E1,1998-11-02,Tottenham,Charlton,2,2,D,0,1,A,EN,1998/1999
+E1,1998-11-07,Aston Villa,Tottenham,3,2,H,2,0,H,EN,1998/1999
+E1,1998-11-07,Blackburn,Coventry,1,2,A,0,0,D,EN,1998/1999
+E1,1998-11-07,Charlton,Leicester,0,0,D,0,0,D,EN,1998/1999
+E1,1998-11-07,Liverpool,Derby,1,2,A,0,2,A,EN,1998/1999
+E1,1998-11-07,Nott'm Forest,Wimbledon,0,1,A,0,1,A,EN,1998/1999
+E1,1998-11-07,Southampton,Middlesbrough,3,3,D,0,0,D,EN,1998/1999
+E1,1998-11-08,Arsenal,Everton,1,0,H,1,0,H,EN,1998/1999
+E1,1998-11-08,Leeds,Sheffield Weds,2,1,H,1,1,D,EN,1998/1999
+E1,1998-11-08,Man United,Newcastle,0,0,D,0,0,D,EN,1998/1999
+E1,1998-11-08,West Ham,Chelsea,1,1,D,1,0,H,EN,1998/1999
 E1,1998-11-14,Arsenal,Tottenham,0,0,D,0,0,D,EN,1998/1999
 E1,1998-11-14,Charlton,Middlesbrough,1,1,D,1,0,H,EN,1998/1999
 E1,1998-11-14,Chelsea,Wimbledon,3,0,H,1,0,H,EN,1998/1999
@@ -147,17 +147,17 @@ E1,1998-11-28,West Ham,Tottenham,2,1,H,1,0,H,EN,1998/1999
 E1,1998-11-29,Arsenal,Middlesbrough,1,1,D,0,1,A,EN,1998/1999
 E1,1998-11-29,Liverpool,Blackburn,2,0,H,2,0,H,EN,1998/1999
 E1,1998-11-29,Man United,Leeds,3,2,H,1,1,D,EN,1998/1999
-E1,1998-05-12,Aston Villa,Man United,1,1,D,0,0,D,EN,1998/1999
-E1,1998-05-12,Blackburn,Charlton,1,0,H,0,0,D,EN,1998/1999
-E1,1998-05-12,Derby,Arsenal,0,0,D,0,0,D,EN,1998/1999
-E1,1998-05-12,Everton,Chelsea,0,0,D,0,0,D,EN,1998/1999
-E1,1998-05-12,Leeds,West Ham,4,0,H,1,0,H,EN,1998/1999
-E1,1998-05-12,Leicester,Southampton,2,0,H,0,0,D,EN,1998/1999
-E1,1998-05-12,Tottenham,Liverpool,2,1,H,1,0,H,EN,1998/1999
-E1,1998-05-12,Wimbledon,Coventry,2,1,H,0,0,D,EN,1998/1999
-E1,1998-06-12,Middlesbrough,Newcastle,2,2,D,1,1,D,EN,1998/1999
-E1,1998-07-12,Sheffield Weds,Nott'm Forest,3,2,H,1,0,H,EN,1998/1999
-E1,1998-09-12,Chelsea,Aston Villa,2,1,H,1,1,D,EN,1998/1999
+E1,1998-12-05,Aston Villa,Man United,1,1,D,0,0,D,EN,1998/1999
+E1,1998-12-05,Blackburn,Charlton,1,0,H,0,0,D,EN,1998/1999
+E1,1998-12-05,Derby,Arsenal,0,0,D,0,0,D,EN,1998/1999
+E1,1998-12-05,Everton,Chelsea,0,0,D,0,0,D,EN,1998/1999
+E1,1998-12-05,Leeds,West Ham,4,0,H,1,0,H,EN,1998/1999
+E1,1998-12-05,Leicester,Southampton,2,0,H,0,0,D,EN,1998/1999
+E1,1998-12-05,Tottenham,Liverpool,2,1,H,1,0,H,EN,1998/1999
+E1,1998-12-05,Wimbledon,Coventry,2,1,H,0,0,D,EN,1998/1999
+E1,1998-12-06,Middlesbrough,Newcastle,2,2,D,1,1,D,EN,1998/1999
+E1,1998-12-07,Sheffield Weds,Nott'm Forest,3,2,H,1,0,H,EN,1998/1999
+E1,1998-12-09,Chelsea,Aston Villa,2,1,H,1,1,D,EN,1998/1999
 E1,1998-12-12,Blackburn,Newcastle,0,0,D,0,0,D,EN,1998/1999
 E1,1998-12-12,Derby,Chelsea,2,2,D,1,0,H,EN,1998/1999
 E1,1998-12-12,Everton,Southampton,1,0,H,1,0,H,EN,1998/1999
@@ -199,16 +199,16 @@ E1,1998-12-28,Tottenham,Everton,4,1,H,1,1,D,EN,1998/1999
 E1,1998-12-28,West Ham,Coventry,2,0,H,1,0,H,EN,1998/1999
 E1,1998-12-29,Chelsea,Man United,0,0,D,0,0,D,EN,1998/1999
 E1,1998-12-29,Leeds,Wimbledon,2,2,D,1,1,D,EN,1998/1999
-E1,1999-09-01,Arsenal,Liverpool,0,0,D,0,0,D,EN,1998/1999
-E1,1999-09-01,Blackburn,Leeds,1,0,H,1,0,H,EN,1998/1999
-E1,1999-09-01,Coventry,Nott'm Forest,4,0,H,1,0,H,EN,1998/1999
-E1,1999-09-01,Everton,Leicester,0,0,D,0,0,D,EN,1998/1999
-E1,1999-09-01,Middlesbrough,Aston Villa,0,0,D,0,0,D,EN,1998/1999
-E1,1999-09-01,Newcastle,Chelsea,0,1,A,0,1,A,EN,1998/1999
-E1,1999-09-01,Sheffield Weds,Tottenham,0,0,D,0,0,D,EN,1998/1999
-E1,1999-09-01,Southampton,Charlton,3,1,H,1,1,D,EN,1998/1999
-E1,1999-09-01,Wimbledon,Derby,2,1,H,1,0,H,EN,1998/1999
-E1,1999-10-01,Man United,West Ham,4,1,H,2,0,H,EN,1998/1999
+E1,1999-01-09,Arsenal,Liverpool,0,0,D,0,0,D,EN,1998/1999
+E1,1999-01-09,Blackburn,Leeds,1,0,H,1,0,H,EN,1998/1999
+E1,1999-01-09,Coventry,Nott'm Forest,4,0,H,1,0,H,EN,1998/1999
+E1,1999-01-09,Everton,Leicester,0,0,D,0,0,D,EN,1998/1999
+E1,1999-01-09,Middlesbrough,Aston Villa,0,0,D,0,0,D,EN,1998/1999
+E1,1999-01-09,Newcastle,Chelsea,0,1,A,0,1,A,EN,1998/1999
+E1,1999-01-09,Sheffield Weds,Tottenham,0,0,D,0,0,D,EN,1998/1999
+E1,1999-01-09,Southampton,Charlton,3,1,H,1,1,D,EN,1998/1999
+E1,1999-01-09,Wimbledon,Derby,2,1,H,1,0,H,EN,1998/1999
+E1,1999-01-10,Man United,West Ham,4,1,H,2,0,H,EN,1998/1999
 E1,1999-01-16,Chelsea,Coventry,2,1,H,1,1,D,EN,1998/1999
 E1,1999-01-16,Derby,Blackburn,1,0,H,0,0,D,EN,1998/1999
 E1,1999-01-16,Leeds,Middlesbrough,2,0,H,2,0,H,EN,1998/1999
@@ -230,16 +230,16 @@ E1,1999-01-30,Wimbledon,West Ham,0,0,D,0,0,D,EN,1998/1999
 E1,1999-01-31,Arsenal,Chelsea,1,0,H,1,0,H,EN,1998/1999
 E1,1999-01-31,Charlton,Man United,0,1,A,0,0,D,EN,1998/1999
 E1,1999-02-02,Man United,Derby,1,0,H,0,0,D,EN,1998/1999
-E1,1999-06-02,Aston Villa,Blackburn,1,3,A,0,1,A,EN,1998/1999
-E1,1999-06-02,Chelsea,Southampton,1,0,H,1,0,H,EN,1998/1999
-E1,1999-06-02,Leeds,Newcastle,0,1,A,0,0,D,EN,1998/1999
-E1,1999-06-02,Leicester,Sheffield Weds,0,2,A,0,0,D,EN,1998/1999
-E1,1999-06-02,Liverpool,Middlesbrough,3,1,H,3,0,H,EN,1998/1999
-E1,1999-06-02,Nott'm Forest,Man United,1,8,A,1,2,A,EN,1998/1999
-E1,1999-06-02,Tottenham,Coventry,0,0,D,0,0,D,EN,1998/1999
-E1,1999-06-02,West Ham,Arsenal,0,4,A,0,2,A,EN,1998/1999
-E1,1999-07-02,Derby,Everton,2,1,H,0,1,A,EN,1998/1999
-E1,1999-08-02,Charlton,Wimbledon,2,0,H,1,0,H,EN,1998/1999
+E1,1999-02-06,Aston Villa,Blackburn,1,3,A,0,1,A,EN,1998/1999
+E1,1999-02-06,Chelsea,Southampton,1,0,H,1,0,H,EN,1998/1999
+E1,1999-02-06,Leeds,Newcastle,0,1,A,0,0,D,EN,1998/1999
+E1,1999-02-06,Leicester,Sheffield Weds,0,2,A,0,0,D,EN,1998/1999
+E1,1999-02-06,Liverpool,Middlesbrough,3,1,H,3,0,H,EN,1998/1999
+E1,1999-02-06,Nott'm Forest,Man United,1,8,A,1,2,A,EN,1998/1999
+E1,1999-02-06,Tottenham,Coventry,0,0,D,0,0,D,EN,1998/1999
+E1,1999-02-06,West Ham,Arsenal,0,4,A,0,2,A,EN,1998/1999
+E1,1999-02-07,Derby,Everton,2,1,H,0,1,A,EN,1998/1999
+E1,1999-02-08,Charlton,Wimbledon,2,0,H,1,0,H,EN,1998/1999
 E1,1999-02-13,Charlton,Liverpool,1,0,H,0,0,D,EN,1998/1999
 E1,1999-02-13,West Ham,Nott'm Forest,2,1,H,2,0,H,EN,1998/1999
 E1,1999-02-17,Aston Villa,Leeds,1,2,A,0,2,A,EN,1998/1999
@@ -266,17 +266,17 @@ E1,1999-02-27,Sheffield Weds,Middlesbrough,3,1,H,1,0,H,EN,1998/1999
 E1,1999-02-27,Tottenham,Derby,1,1,D,0,0,D,EN,1998/1999
 E1,1999-02-27,West Ham,Blackburn,2,0,H,2,0,H,EN,1998/1999
 E1,1999-02-28,Newcastle,Arsenal,1,1,D,0,1,A,EN,1998/1999
-E1,1999-01-03,Leicester,Leeds,1,2,A,0,1,A,EN,1998/1999
-E1,1999-02-03,Tottenham,Southampton,3,0,H,1,0,H,EN,1998/1999
+E1,1999-03-01,Leicester,Leeds,1,2,A,0,1,A,EN,1998/1999
+E1,1999-03-02,Tottenham,Southampton,3,0,H,1,0,H,EN,1998/1999
 E1,1999-03-03,Sheffield Weds,Wimbledon,1,2,A,0,2,A,EN,1998/1999
-E1,1999-06-03,Coventry,Charlton,2,1,H,0,0,D,EN,1998/1999
-E1,1999-06-03,Southampton,West Ham,1,0,H,1,0,H,EN,1998/1999
-E1,1999-06-03,Wimbledon,Leicester,0,1,A,0,1,A,EN,1998/1999
-E1,1999-09-03,Arsenal,Sheffield Weds,3,0,H,0,0,D,EN,1998/1999
-E1,1999-10-03,Blackburn,Everton,1,2,A,1,1,D,EN,1998/1999
-E1,1999-10-03,Derby,Aston Villa,2,1,H,2,1,H,EN,1998/1999
-E1,1999-10-03,Leeds,Tottenham,2,0,H,1,0,H,EN,1998/1999
-E1,1999-10-03,Nott'm Forest,Newcastle,1,2,A,1,1,D,EN,1998/1999
+E1,1999-03-06,Coventry,Charlton,2,1,H,0,0,D,EN,1998/1999
+E1,1999-03-06,Southampton,West Ham,1,0,H,1,0,H,EN,1998/1999
+E1,1999-03-06,Wimbledon,Leicester,0,1,A,0,1,A,EN,1998/1999
+E1,1999-03-09,Arsenal,Sheffield Weds,3,0,H,0,0,D,EN,1998/1999
+E1,1999-03-10,Blackburn,Everton,1,2,A,1,1,D,EN,1998/1999
+E1,1999-03-10,Derby,Aston Villa,2,1,H,2,1,H,EN,1998/1999
+E1,1999-03-10,Leeds,Tottenham,2,0,H,1,0,H,EN,1998/1999
+E1,1999-03-10,Nott'm Forest,Newcastle,1,2,A,1,1,D,EN,1998/1999
 E1,1999-03-13,Chelsea,West Ham,0,1,A,0,0,D,EN,1998/1999
 E1,1999-03-13,Coventry,Blackburn,1,1,D,1,0,H,EN,1998/1999
 E1,1999-03-13,Derby,Liverpool,3,2,H,2,1,H,EN,1998/1999
@@ -295,31 +295,31 @@ E1,1999-03-20,Southampton,Sheffield Weds,1,0,H,1,0,H,EN,1998/1999
 E1,1999-03-20,West Ham,Newcastle,2,0,H,1,0,H,EN,1998/1999
 E1,1999-03-21,Aston Villa,Chelsea,0,3,A,0,0,D,EN,1998/1999
 E1,1999-03-21,Man United,Everton,3,1,H,0,0,D,EN,1998/1999
-E1,1999-02-04,Aston Villa,West Ham,0,0,D,0,0,D,EN,1998/1999
-E1,1999-03-04,Blackburn,Middlesbrough,0,0,D,0,0,D,EN,1998/1999
-E1,1999-03-04,Charlton,Chelsea,0,1,A,0,1,A,EN,1998/1999
-E1,1999-03-04,Derby,Newcastle,3,4,A,2,3,A,EN,1998/1999
-E1,1999-03-04,Leeds,Nott'm Forest,3,1,H,1,0,H,EN,1998/1999
-E1,1999-03-04,Liverpool,Everton,3,2,H,2,1,H,EN,1998/1999
-E1,1999-03-04,Sheffield Weds,Coventry,1,2,A,0,1,A,EN,1998/1999
-E1,1999-03-04,Southampton,Arsenal,0,0,D,0,0,D,EN,1998/1999
-E1,1999-03-04,Tottenham,Leicester,0,2,A,0,1,A,EN,1998/1999
-E1,1999-03-04,Wimbledon,Man United,1,1,D,1,1,D,EN,1998/1999
-E1,1999-05-04,Coventry,Southampton,1,0,H,0,0,D,EN,1998/1999
-E1,1999-05-04,Everton,Sheffield Weds,1,2,A,1,0,H,EN,1998/1999
-E1,1999-05-04,Middlesbrough,Wimbledon,3,1,H,3,0,H,EN,1998/1999
-E1,1999-05-04,Newcastle,Tottenham,1,1,D,0,0,D,EN,1998/1999
-E1,1999-05-04,Nott'm Forest,Liverpool,2,2,D,0,1,A,EN,1998/1999
-E1,1999-05-04,West Ham,Charlton,0,1,A,0,0,D,EN,1998/1999
-E1,1999-06-04,Arsenal,Blackburn,1,0,H,1,0,H,EN,1998/1999
-E1,1999-06-04,Leicester,Aston Villa,2,2,D,0,1,A,EN,1998/1999
-E1,1999-10-04,Aston Villa,Southampton,3,0,H,1,0,H,EN,1998/1999
-E1,1999-10-04,Derby,Nott'm Forest,1,0,H,0,0,D,EN,1998/1999
-E1,1999-10-04,Leicester,West Ham,0,0,D,0,0,D,EN,1998/1999
-E1,1999-10-04,Middlesbrough,Charlton,2,0,H,1,0,H,EN,1998/1999
-E1,1999-11-04,Everton,Coventry,2,0,H,1,0,H,EN,1998/1999
-E1,1999-11-04,Wimbledon,Chelsea,1,2,A,0,1,A,EN,1998/1999
-E1,1999-12-04,Leeds,Liverpool,0,0,D,0,0,D,EN,1998/1999
+E1,1999-04-02,Aston Villa,West Ham,0,0,D,0,0,D,EN,1998/1999
+E1,1999-04-03,Blackburn,Middlesbrough,0,0,D,0,0,D,EN,1998/1999
+E1,1999-04-03,Charlton,Chelsea,0,1,A,0,1,A,EN,1998/1999
+E1,1999-04-03,Derby,Newcastle,3,4,A,2,3,A,EN,1998/1999
+E1,1999-04-03,Leeds,Nott'm Forest,3,1,H,1,0,H,EN,1998/1999
+E1,1999-04-03,Liverpool,Everton,3,2,H,2,1,H,EN,1998/1999
+E1,1999-04-03,Sheffield Weds,Coventry,1,2,A,0,1,A,EN,1998/1999
+E1,1999-04-03,Southampton,Arsenal,0,0,D,0,0,D,EN,1998/1999
+E1,1999-04-03,Tottenham,Leicester,0,2,A,0,1,A,EN,1998/1999
+E1,1999-04-03,Wimbledon,Man United,1,1,D,1,1,D,EN,1998/1999
+E1,1999-04-05,Coventry,Southampton,1,0,H,0,0,D,EN,1998/1999
+E1,1999-04-05,Everton,Sheffield Weds,1,2,A,1,0,H,EN,1998/1999
+E1,1999-04-05,Middlesbrough,Wimbledon,3,1,H,3,0,H,EN,1998/1999
+E1,1999-04-05,Newcastle,Tottenham,1,1,D,0,0,D,EN,1998/1999
+E1,1999-04-05,Nott'm Forest,Liverpool,2,2,D,0,1,A,EN,1998/1999
+E1,1999-04-05,West Ham,Charlton,0,1,A,0,0,D,EN,1998/1999
+E1,1999-04-06,Arsenal,Blackburn,1,0,H,1,0,H,EN,1998/1999
+E1,1999-04-06,Leicester,Aston Villa,2,2,D,0,1,A,EN,1998/1999
+E1,1999-04-10,Aston Villa,Southampton,3,0,H,1,0,H,EN,1998/1999
+E1,1999-04-10,Derby,Nott'm Forest,1,0,H,0,0,D,EN,1998/1999
+E1,1999-04-10,Leicester,West Ham,0,0,D,0,0,D,EN,1998/1999
+E1,1999-04-10,Middlesbrough,Charlton,2,0,H,1,0,H,EN,1998/1999
+E1,1999-04-11,Everton,Coventry,2,0,H,1,0,H,EN,1998/1999
+E1,1999-04-11,Wimbledon,Chelsea,1,2,A,0,1,A,EN,1998/1999
+E1,1999-04-12,Leeds,Liverpool,0,0,D,0,0,D,EN,1998/1999
 E1,1999-04-14,Middlesbrough,Chelsea,0,0,D,0,0,D,EN,1998/1999
 E1,1999-04-17,Charlton,Leeds,1,1,D,1,1,D,EN,1998/1999
 E1,1999-04-17,Coventry,Middlesbrough,1,2,A,0,0,D,EN,1998/1999
@@ -344,31 +344,31 @@ E1,1999-04-24,Tottenham,West Ham,1,2,A,0,1,A,EN,1998/1999
 E1,1999-04-24,Wimbledon,Newcastle,1,1,D,1,1,D,EN,1998/1999
 E1,1999-04-25,Leeds,Man United,1,1,D,1,0,H,EN,1998/1999
 E1,1999-04-25,Sheffield Weds,Chelsea,0,0,D,0,0,D,EN,1998/1999
-E1,1999-01-05,Charlton,Blackburn,0,0,D,0,0,D,EN,1998/1999
-E1,1999-01-05,Chelsea,Everton,3,1,H,1,0,H,EN,1998/1999
-E1,1999-01-05,Coventry,Wimbledon,2,1,H,2,0,H,EN,1998/1999
-E1,1999-01-05,Liverpool,Tottenham,3,2,H,0,2,A,EN,1998/1999
-E1,1999-01-05,Man United,Aston Villa,2,1,H,1,1,D,EN,1998/1999
-E1,1999-01-05,Newcastle,Middlesbrough,1,1,D,0,0,D,EN,1998/1999
-E1,1999-01-05,Nott'm Forest,Sheffield Weds,2,0,H,2,0,H,EN,1998/1999
-E1,1999-01-05,Southampton,Leicester,2,1,H,1,1,D,EN,1998/1999
-E1,1999-01-05,West Ham,Leeds,1,5,A,0,2,A,EN,1998/1999
-E1,1999-02-05,Arsenal,Derby,1,0,H,1,0,H,EN,1998/1999
+E1,1999-05-01,Charlton,Blackburn,0,0,D,0,0,D,EN,1998/1999
+E1,1999-05-01,Chelsea,Everton,3,1,H,1,0,H,EN,1998/1999
+E1,1999-05-01,Coventry,Wimbledon,2,1,H,2,0,H,EN,1998/1999
+E1,1999-05-01,Liverpool,Tottenham,3,2,H,0,2,A,EN,1998/1999
+E1,1999-05-01,Man United,Aston Villa,2,1,H,1,1,D,EN,1998/1999
+E1,1999-05-01,Newcastle,Middlesbrough,1,1,D,0,0,D,EN,1998/1999
+E1,1999-05-01,Nott'm Forest,Sheffield Weds,2,0,H,2,0,H,EN,1998/1999
+E1,1999-05-01,Southampton,Leicester,2,1,H,1,1,D,EN,1998/1999
+E1,1999-05-01,West Ham,Leeds,1,5,A,0,2,A,EN,1998/1999
+E1,1999-05-02,Arsenal,Derby,1,0,H,1,0,H,EN,1998/1999
 E1,1999-05-05,Chelsea,Leeds,1,0,H,0,0,D,EN,1998/1999
 E1,1999-05-05,Leicester,Derby,1,2,A,1,1,D,EN,1998/1999
 E1,1999-05-05,Liverpool,Man United,2,2,D,0,1,A,EN,1998/1999
 E1,1999-05-05,Tottenham,Arsenal,1,3,A,1,2,A,EN,1998/1999
-E1,1999-08-05,Aston Villa,Charlton,3,4,A,1,1,D,EN,1998/1999
-E1,1999-08-05,Blackburn,Nott'm Forest,1,2,A,1,1,D,EN,1998/1999
-E1,1999-08-05,Derby,Coventry,0,0,D,0,0,D,EN,1998/1999
-E1,1999-08-05,Everton,West Ham,6,0,H,3,0,H,EN,1998/1999
-E1,1999-08-05,Leicester,Newcastle,2,0,H,2,0,H,EN,1998/1999
-E1,1999-08-05,Sheffield Weds,Liverpool,1,0,H,0,0,D,EN,1998/1999
-E1,1999-08-05,Wimbledon,Southampton,0,2,A,0,0,D,EN,1998/1999
-E1,1999-09-05,Middlesbrough,Man United,0,1,A,0,1,A,EN,1998/1999
-E1,1999-10-05,Tottenham,Chelsea,2,2,D,1,1,D,EN,1998/1999
-E1,1999-11-05,Leeds,Arsenal,1,0,H,0,0,D,EN,1998/1999
-E1,1999-12-05,Blackburn,Man United,0,0,D,0,0,D,EN,1998/1999
+E1,1999-05-08,Aston Villa,Charlton,3,4,A,1,1,D,EN,1998/1999
+E1,1999-05-08,Blackburn,Nott'm Forest,1,2,A,1,1,D,EN,1998/1999
+E1,1999-05-08,Derby,Coventry,0,0,D,0,0,D,EN,1998/1999
+E1,1999-05-08,Everton,West Ham,6,0,H,3,0,H,EN,1998/1999
+E1,1999-05-08,Leicester,Newcastle,2,0,H,2,0,H,EN,1998/1999
+E1,1999-05-08,Sheffield Weds,Liverpool,1,0,H,0,0,D,EN,1998/1999
+E1,1999-05-08,Wimbledon,Southampton,0,2,A,0,0,D,EN,1998/1999
+E1,1999-05-09,Middlesbrough,Man United,0,1,A,0,1,A,EN,1998/1999
+E1,1999-05-10,Tottenham,Chelsea,2,2,D,1,1,D,EN,1998/1999
+E1,1999-05-11,Leeds,Arsenal,1,0,H,0,0,D,EN,1998/1999
+E1,1999-05-12,Blackburn,Man United,0,0,D,0,0,D,EN,1998/1999
 E1,1999-05-16,Arsenal,Aston Villa,1,0,H,0,0,D,EN,1998/1999
 E1,1999-05-16,Charlton,Sheffield Weds,0,1,A,0,0,D,EN,1998/1999
 E1,1999-05-16,Chelsea,Derby,2,1,H,1,0,H,EN,1998/1999

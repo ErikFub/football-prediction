@@ -1,16 +1,16 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
-E4,1997-09-08,Chester,Lincoln,2,0,H,EN,1997/1998
-E4,1997-09-08,Colchester,Darlington,2,1,H,EN,1997/1998
-E4,1997-09-08,Exeter,Hartlepool,1,1,D,EN,1997/1998
-E4,1997-09-08,Leyton Orient,Cardiff,0,1,A,EN,1997/1998
-E4,1997-09-08,Macclesfield,Torquay,2,1,H,EN,1997/1998
-E4,1997-09-08,Mansfield,Hull,2,0,H,EN,1997/1998
-E4,1997-09-08,Notts County,Rochdale,2,1,H,EN,1997/1998
-E4,1997-09-08,Peterboro,Scunthorpe,0,1,A,EN,1997/1998
-E4,1997-09-08,Rotherham,Barnet,2,3,A,EN,1997/1998
-E4,1997-09-08,Scarborough,Cambridge,1,0,H,EN,1997/1998
-E4,1997-09-08,Shrewsbury,Doncaster,2,1,H,EN,1997/1998
-E4,1997-09-08,Swansea,Brighton,1,0,H,EN,1997/1998
+E4,1997-08-09,Chester,Lincoln,2,0,H,EN,1997/1998
+E4,1997-08-09,Colchester,Darlington,2,1,H,EN,1997/1998
+E4,1997-08-09,Exeter,Hartlepool,1,1,D,EN,1997/1998
+E4,1997-08-09,Leyton Orient,Cardiff,0,1,A,EN,1997/1998
+E4,1997-08-09,Macclesfield,Torquay,2,1,H,EN,1997/1998
+E4,1997-08-09,Mansfield,Hull,2,0,H,EN,1997/1998
+E4,1997-08-09,Notts County,Rochdale,2,1,H,EN,1997/1998
+E4,1997-08-09,Peterboro,Scunthorpe,0,1,A,EN,1997/1998
+E4,1997-08-09,Rotherham,Barnet,2,3,A,EN,1997/1998
+E4,1997-08-09,Scarborough,Cambridge,1,0,H,EN,1997/1998
+E4,1997-08-09,Shrewsbury,Doncaster,2,1,H,EN,1997/1998
+E4,1997-08-09,Swansea,Brighton,1,0,H,EN,1997/1998
 E4,1997-08-16,Barnet,Exeter,1,2,A,EN,1997/1998
 E4,1997-08-16,Brighton,Macclesfield,1,1,D,EN,1997/1998
 E4,1997-08-16,Cambridge,Rotherham,2,1,H,EN,1997/1998
@@ -45,32 +45,32 @@ E4,1997-08-30,Lincoln,Scarborough,3,3,D,EN,1997/1998
 E4,1997-08-30,Rochdale,Peterboro,1,2,A,EN,1997/1998
 E4,1997-08-30,Scunthorpe,Mansfield,1,0,H,EN,1997/1998
 E4,1997-08-30,Torquay,Colchester,1,1,D,EN,1997/1998
-E4,1997-02-09,Barnet,Swansea,2,0,H,EN,1997/1998
-E4,1997-02-09,Cambridge,Colchester,4,1,H,EN,1997/1998
-E4,1997-02-09,Cardiff,Shrewsbury,2,2,D,EN,1997/1998
-E4,1997-02-09,Darlington,Scarborough,1,2,A,EN,1997/1998
-E4,1997-02-09,Doncaster,Leyton Orient,1,4,A,EN,1997/1998
-E4,1997-02-09,Hartlepool,Notts County,1,1,D,EN,1997/1998
-E4,1997-02-09,Hull,Rotherham,0,0,D,EN,1997/1998
-E4,1997-02-09,Lincoln,Mansfield,0,2,A,EN,1997/1998
-E4,1997-02-09,Rochdale,Macclesfield,2,0,H,EN,1997/1998
-E4,1997-02-09,Scunthorpe,Chester,2,1,H,EN,1997/1998
-E4,1997-02-09,Torquay,Exeter,1,2,A,EN,1997/1998
-E4,1997-03-09,Brighton,Peterboro,2,2,D,EN,1997/1998
-E4,1997-05-09,Chester,Hull,1,0,H,EN,1997/1998
-E4,1997-05-09,Leyton Orient,Cambridge,0,2,A,EN,1997/1998
-E4,1997-05-09,Macclesfield,Darlington,2,1,H,EN,1997/1998
-E4,1997-05-09,Mansfield,Doncaster,1,1,D,EN,1997/1998
-E4,1997-05-09,Swansea,Torquay,2,0,H,EN,1997/1998
-E4,1997-07-09,Notts County,Scunthorpe,2,1,H,EN,1997/1998
-E4,1997-07-09,Peterboro,Barnet,5,1,H,EN,1997/1998
-E4,1997-07-09,Scarborough,Hartlepool,1,1,D,EN,1997/1998
-E4,1997-08-09,Colchester,Brighton,3,1,H,EN,1997/1998
+E4,1997-09-02,Barnet,Swansea,2,0,H,EN,1997/1998
+E4,1997-09-02,Cambridge,Colchester,4,1,H,EN,1997/1998
+E4,1997-09-02,Cardiff,Shrewsbury,2,2,D,EN,1997/1998
+E4,1997-09-02,Darlington,Scarborough,1,2,A,EN,1997/1998
+E4,1997-09-02,Doncaster,Leyton Orient,1,4,A,EN,1997/1998
+E4,1997-09-02,Hartlepool,Notts County,1,1,D,EN,1997/1998
+E4,1997-09-02,Hull,Rotherham,0,0,D,EN,1997/1998
+E4,1997-09-02,Lincoln,Mansfield,0,2,A,EN,1997/1998
+E4,1997-09-02,Rochdale,Macclesfield,2,0,H,EN,1997/1998
+E4,1997-09-02,Scunthorpe,Chester,2,1,H,EN,1997/1998
+E4,1997-09-02,Torquay,Exeter,1,2,A,EN,1997/1998
+E4,1997-09-03,Brighton,Peterboro,2,2,D,EN,1997/1998
+E4,1997-09-05,Chester,Hull,1,0,H,EN,1997/1998
+E4,1997-09-05,Leyton Orient,Cambridge,0,2,A,EN,1997/1998
+E4,1997-09-05,Macclesfield,Darlington,2,1,H,EN,1997/1998
+E4,1997-09-05,Mansfield,Doncaster,1,1,D,EN,1997/1998
+E4,1997-09-05,Swansea,Torquay,2,0,H,EN,1997/1998
+E4,1997-09-07,Notts County,Scunthorpe,2,1,H,EN,1997/1998
+E4,1997-09-07,Peterboro,Barnet,5,1,H,EN,1997/1998
+E4,1997-09-07,Scarborough,Hartlepool,1,1,D,EN,1997/1998
+E4,1997-09-08,Colchester,Brighton,3,1,H,EN,1997/1998
 E4,1997-09-09,Darlington,Swansea,3,2,H,EN,1997/1998
 E4,1997-09-09,Exeter,Cardiff,1,1,D,EN,1997/1998
 E4,1997-09-09,Shrewsbury,Rochdale,1,0,H,EN,1997/1998
-E4,1997-10-09,Rotherham,Lincoln,3,1,H,EN,1997/1998
-E4,1997-12-09,Colchester,Scarborough,1,0,H,EN,1997/1998
+E4,1997-09-10,Rotherham,Lincoln,3,1,H,EN,1997/1998
+E4,1997-09-12,Colchester,Scarborough,1,0,H,EN,1997/1998
 E4,1997-09-13,Brighton,Darlington,0,0,D,EN,1997/1998
 E4,1997-09-13,Cambridge,Barnet,1,3,A,EN,1997/1998
 E4,1997-09-13,Cardiff,Rochdale,2,1,H,EN,1997/1998
@@ -107,29 +107,29 @@ E4,1997-09-27,Scarborough,Notts County,1,2,A,EN,1997/1998
 E4,1997-09-27,Scunthorpe,Hull,2,0,H,EN,1997/1998
 E4,1997-09-27,Swansea,Leyton Orient,1,1,D,EN,1997/1998
 E4,1997-09-27,Torquay,Doncaster,2,0,H,EN,1997/1998
-E4,1997-04-10,Cardiff,Barnet,1,1,D,EN,1997/1998
-E4,1997-04-10,Chester,Hartlepool,3,1,H,EN,1997/1998
-E4,1997-04-10,Doncaster,Brighton,1,3,A,EN,1997/1998
-E4,1997-04-10,Exeter,Scarborough,1,1,D,EN,1997/1998
-E4,1997-04-10,Hull,Torquay,3,3,D,EN,1997/1998
-E4,1997-04-10,Leyton Orient,Macclesfield,1,1,D,EN,1997/1998
-E4,1997-04-10,Lincoln,Cambridge,0,0,D,EN,1997/1998
-E4,1997-04-10,Mansfield,Colchester,1,1,D,EN,1997/1998
-E4,1997-04-10,Notts County,Darlington,1,1,D,EN,1997/1998
-E4,1997-04-10,Peterboro,Swansea,3,1,H,EN,1997/1998
-E4,1997-04-10,Rochdale,Scunthorpe,2,0,H,EN,1997/1998
-E4,1997-04-10,Shrewsbury,Rotherham,2,1,H,EN,1997/1998
-E4,1997-11-10,Chester,Brighton,2,0,H,EN,1997/1998
-E4,1997-11-10,Doncaster,Hartlepool,2,2,D,EN,1997/1998
-E4,1997-11-10,Exeter,Swansea,1,0,H,EN,1997/1998
-E4,1997-11-10,Hull,Scarborough,3,0,H,EN,1997/1998
-E4,1997-11-10,Leyton Orient,Rotherham,1,1,D,EN,1997/1998
-E4,1997-11-10,Lincoln,Torquay,1,1,D,EN,1997/1998
-E4,1997-11-10,Mansfield,Cambridge,3,2,H,EN,1997/1998
-E4,1997-11-10,Notts County,Macclesfield,1,1,D,EN,1997/1998
-E4,1997-11-10,Peterboro,Colchester,3,2,H,EN,1997/1998
-E4,1997-11-10,Rochdale,Darlington,5,0,H,EN,1997/1998
-E4,1997-11-10,Shrewsbury,Barnet,2,0,H,EN,1997/1998
+E4,1997-10-04,Cardiff,Barnet,1,1,D,EN,1997/1998
+E4,1997-10-04,Chester,Hartlepool,3,1,H,EN,1997/1998
+E4,1997-10-04,Doncaster,Brighton,1,3,A,EN,1997/1998
+E4,1997-10-04,Exeter,Scarborough,1,1,D,EN,1997/1998
+E4,1997-10-04,Hull,Torquay,3,3,D,EN,1997/1998
+E4,1997-10-04,Leyton Orient,Macclesfield,1,1,D,EN,1997/1998
+E4,1997-10-04,Lincoln,Cambridge,0,0,D,EN,1997/1998
+E4,1997-10-04,Mansfield,Colchester,1,1,D,EN,1997/1998
+E4,1997-10-04,Notts County,Darlington,1,1,D,EN,1997/1998
+E4,1997-10-04,Peterboro,Swansea,3,1,H,EN,1997/1998
+E4,1997-10-04,Rochdale,Scunthorpe,2,0,H,EN,1997/1998
+E4,1997-10-04,Shrewsbury,Rotherham,2,1,H,EN,1997/1998
+E4,1997-10-11,Chester,Brighton,2,0,H,EN,1997/1998
+E4,1997-10-11,Doncaster,Hartlepool,2,2,D,EN,1997/1998
+E4,1997-10-11,Exeter,Swansea,1,0,H,EN,1997/1998
+E4,1997-10-11,Hull,Scarborough,3,0,H,EN,1997/1998
+E4,1997-10-11,Leyton Orient,Rotherham,1,1,D,EN,1997/1998
+E4,1997-10-11,Lincoln,Torquay,1,1,D,EN,1997/1998
+E4,1997-10-11,Mansfield,Cambridge,3,2,H,EN,1997/1998
+E4,1997-10-11,Notts County,Macclesfield,1,1,D,EN,1997/1998
+E4,1997-10-11,Peterboro,Colchester,3,2,H,EN,1997/1998
+E4,1997-10-11,Rochdale,Darlington,5,0,H,EN,1997/1998
+E4,1997-10-11,Shrewsbury,Barnet,2,0,H,EN,1997/1998
 E4,1997-10-18,Barnet,Hull,2,0,H,EN,1997/1998
 E4,1997-10-18,Brighton,Exeter,1,3,A,EN,1997/1998
 E4,1997-10-18,Cambridge,Rochdale,1,1,D,EN,1997/1998
@@ -167,41 +167,41 @@ E4,1997-10-25,Peterboro,Torquay,2,0,H,EN,1997/1998
 E4,1997-10-25,Rochdale,Rotherham,0,1,A,EN,1997/1998
 E4,1997-10-25,Shrewsbury,Scarborough,0,1,A,EN,1997/1998
 E4,1997-10-31,Colchester,Scunthorpe,3,3,D,EN,1997/1998
-E4,1997-01-11,Barnet,Notts County,1,2,A,EN,1997/1998
-E4,1997-01-11,Cambridge,Torquay,1,1,D,EN,1997/1998
-E4,1997-01-11,Chester,Rochdale,4,0,H,EN,1997/1998
-E4,1997-01-11,Darlington,Hull,4,3,H,EN,1997/1998
-E4,1997-01-11,Exeter,Peterboro,0,0,D,EN,1997/1998
-E4,1997-01-11,Hartlepool,Brighton,0,0,D,EN,1997/1998
-E4,1997-01-11,Lincoln,Leyton Orient,1,0,H,EN,1997/1998
-E4,1997-01-11,Rotherham,Macclesfield,1,0,H,EN,1997/1998
-E4,1997-01-11,Scarborough,Doncaster,4,0,H,EN,1997/1998
-E4,1997-01-11,Shrewsbury,Mansfield,3,2,H,EN,1997/1998
-E4,1997-02-11,Cardiff,Swansea,0,1,A,EN,1997/1998
-E4,1997-04-11,Doncaster,Cardiff,1,1,D,EN,1997/1998
-E4,1997-04-11,Hull,Exeter,3,2,H,EN,1997/1998
-E4,1997-04-11,Leyton Orient,Scarborough,3,1,H,EN,1997/1998
-E4,1997-04-11,Macclesfield,Colchester,0,0,D,EN,1997/1998
-E4,1997-04-11,Mansfield,Rotherham,3,3,D,EN,1997/1998
-E4,1997-04-11,Notts County,Chester,1,2,A,EN,1997/1998
-E4,1997-04-11,Peterboro,Shrewsbury,1,1,D,EN,1997/1998
-E4,1997-04-11,Rochdale,Lincoln,0,0,D,EN,1997/1998
-E4,1997-04-11,Scunthorpe,Cambridge,3,3,D,EN,1997/1998
-E4,1997-04-11,Swansea,Hartlepool,0,2,A,EN,1997/1998
-E4,1997-04-11,Torquay,Darlington,2,1,H,EN,1997/1998
-E4,1997-05-11,Brighton,Barnet,0,3,A,EN,1997/1998
-E4,1997-08-11,Barnet,Doncaster,1,1,D,EN,1997/1998
-E4,1997-08-11,Brighton,Rotherham,1,2,A,EN,1997/1998
-E4,1997-08-11,Cardiff,Torquay,1,1,D,EN,1997/1998
-E4,1997-08-11,Hull,Shrewsbury,1,4,A,EN,1997/1998
-E4,1997-08-11,Leyton Orient,Chester,1,0,H,EN,1997/1998
-E4,1997-08-11,Macclesfield,Cambridge,3,1,H,EN,1997/1998
-E4,1997-08-11,Mansfield,Scarborough,3,2,H,EN,1997/1998
-E4,1997-08-11,Notts County,Exeter,1,1,D,EN,1997/1998
-E4,1997-08-11,Peterboro,Darlington,1,1,D,EN,1997/1998
-E4,1997-08-11,Rochdale,Colchester,2,1,H,EN,1997/1998
-E4,1997-08-11,Scunthorpe,Hartlepool,1,1,D,EN,1997/1998
-E4,1997-08-11,Swansea,Lincoln,0,0,D,EN,1997/1998
+E4,1997-11-01,Barnet,Notts County,1,2,A,EN,1997/1998
+E4,1997-11-01,Cambridge,Torquay,1,1,D,EN,1997/1998
+E4,1997-11-01,Chester,Rochdale,4,0,H,EN,1997/1998
+E4,1997-11-01,Darlington,Hull,4,3,H,EN,1997/1998
+E4,1997-11-01,Exeter,Peterboro,0,0,D,EN,1997/1998
+E4,1997-11-01,Hartlepool,Brighton,0,0,D,EN,1997/1998
+E4,1997-11-01,Lincoln,Leyton Orient,1,0,H,EN,1997/1998
+E4,1997-11-01,Rotherham,Macclesfield,1,0,H,EN,1997/1998
+E4,1997-11-01,Scarborough,Doncaster,4,0,H,EN,1997/1998
+E4,1997-11-01,Shrewsbury,Mansfield,3,2,H,EN,1997/1998
+E4,1997-11-02,Cardiff,Swansea,0,1,A,EN,1997/1998
+E4,1997-11-04,Doncaster,Cardiff,1,1,D,EN,1997/1998
+E4,1997-11-04,Hull,Exeter,3,2,H,EN,1997/1998
+E4,1997-11-04,Leyton Orient,Scarborough,3,1,H,EN,1997/1998
+E4,1997-11-04,Macclesfield,Colchester,0,0,D,EN,1997/1998
+E4,1997-11-04,Mansfield,Rotherham,3,3,D,EN,1997/1998
+E4,1997-11-04,Notts County,Chester,1,2,A,EN,1997/1998
+E4,1997-11-04,Peterboro,Shrewsbury,1,1,D,EN,1997/1998
+E4,1997-11-04,Rochdale,Lincoln,0,0,D,EN,1997/1998
+E4,1997-11-04,Scunthorpe,Cambridge,3,3,D,EN,1997/1998
+E4,1997-11-04,Swansea,Hartlepool,0,2,A,EN,1997/1998
+E4,1997-11-04,Torquay,Darlington,2,1,H,EN,1997/1998
+E4,1997-11-05,Brighton,Barnet,0,3,A,EN,1997/1998
+E4,1997-11-08,Barnet,Doncaster,1,1,D,EN,1997/1998
+E4,1997-11-08,Brighton,Rotherham,1,2,A,EN,1997/1998
+E4,1997-11-08,Cardiff,Torquay,1,1,D,EN,1997/1998
+E4,1997-11-08,Hull,Shrewsbury,1,4,A,EN,1997/1998
+E4,1997-11-08,Leyton Orient,Chester,1,0,H,EN,1997/1998
+E4,1997-11-08,Macclesfield,Cambridge,3,1,H,EN,1997/1998
+E4,1997-11-08,Mansfield,Scarborough,3,2,H,EN,1997/1998
+E4,1997-11-08,Notts County,Exeter,1,1,D,EN,1997/1998
+E4,1997-11-08,Peterboro,Darlington,1,1,D,EN,1997/1998
+E4,1997-11-08,Rochdale,Colchester,2,1,H,EN,1997/1998
+E4,1997-11-08,Scunthorpe,Hartlepool,1,1,D,EN,1997/1998
+E4,1997-11-08,Swansea,Lincoln,0,0,D,EN,1997/1998
 E4,1997-11-11,Cardiff,Scunthorpe,0,0,D,EN,1997/1998
 E4,1997-11-18,Barnet,Torquay,3,3,D,EN,1997/1998
 E4,1997-11-18,Cambridge,Brighton,1,1,D,EN,1997/1998
@@ -239,15 +239,15 @@ E4,1997-11-29,Rochdale,Torquay,0,1,A,EN,1997/1998
 E4,1997-11-29,Rotherham,Colchester,3,2,H,EN,1997/1998
 E4,1997-11-29,Scunthorpe,Brighton,0,2,A,EN,1997/1998
 E4,1997-11-29,Shrewsbury,Swansea,0,1,A,EN,1997/1998
-E4,1997-02-12,Doncaster,Chester,2,1,H,EN,1997/1998
-E4,1997-02-12,Exeter,Lincoln,1,2,A,EN,1997/1998
-E4,1997-02-12,Hartlepool,Hull,2,2,D,EN,1997/1998
-E4,1997-02-12,Leyton Orient,Barnet,2,0,H,EN,1997/1998
-E4,1997-02-12,Peterboro,Cambridge,1,0,H,EN,1997/1998
-E4,1997-02-12,Swansea,Rotherham,1,1,D,EN,1997/1998
-E4,1997-02-12,Torquay,Mansfield,2,1,H,EN,1997/1998
-E4,1997-03-12,Brighton,Notts County,0,1,A,EN,1997/1998
-E4,1997-06-12,Scarborough,Rochdale,1,0,H,EN,1997/1998
+E4,1997-12-02,Doncaster,Chester,2,1,H,EN,1997/1998
+E4,1997-12-02,Exeter,Lincoln,1,2,A,EN,1997/1998
+E4,1997-12-02,Hartlepool,Hull,2,2,D,EN,1997/1998
+E4,1997-12-02,Leyton Orient,Barnet,2,0,H,EN,1997/1998
+E4,1997-12-02,Peterboro,Cambridge,1,0,H,EN,1997/1998
+E4,1997-12-02,Swansea,Rotherham,1,1,D,EN,1997/1998
+E4,1997-12-02,Torquay,Mansfield,2,1,H,EN,1997/1998
+E4,1997-12-03,Brighton,Notts County,0,1,A,EN,1997/1998
+E4,1997-12-06,Scarborough,Rochdale,1,0,H,EN,1997/1998
 E4,1997-12-12,Cambridge,Exeter,2,1,H,EN,1997/1998
 E4,1997-12-13,Barnet,Macclesfield,3,1,H,EN,1997/1998
 E4,1997-12-13,Cardiff,Peterboro,0,0,D,EN,1997/1998
@@ -294,21 +294,21 @@ E4,1997-12-28,Rotherham,Hull,5,4,H,EN,1997/1998
 E4,1997-12-28,Shrewsbury,Cardiff,3,2,H,EN,1997/1998
 E4,1997-12-28,Swansea,Barnet,0,2,A,EN,1997/1998
 E4,1997-12-29,Colchester,Cambridge,3,2,H,EN,1997/1998
-E4,1998-03-01,Colchester,Hartlepool,1,2,A,EN,1997/1998
-E4,1998-03-01,Mansfield,Rochdale,3,0,H,EN,1997/1998
-E4,1998-06-01,Scarborough,Darlington,2,1,H,EN,1997/1998
-E4,1998-10-01,Barnet,Rotherham,0,0,D,EN,1997/1998
-E4,1998-10-01,Brighton,Swansea,0,1,A,EN,1997/1998
-E4,1998-10-01,Cambridge,Scarborough,2,3,A,EN,1997/1998
-E4,1998-10-01,Cardiff,Leyton Orient,1,0,H,EN,1997/1998
-E4,1998-10-01,Darlington,Colchester,4,2,H,EN,1997/1998
-E4,1998-10-01,Doncaster,Shrewsbury,1,0,H,EN,1997/1998
-E4,1998-10-01,Hartlepool,Exeter,1,1,D,EN,1997/1998
-E4,1998-10-01,Hull,Mansfield,0,0,D,EN,1997/1998
-E4,1998-10-01,Lincoln,Chester,1,3,A,EN,1997/1998
-E4,1998-10-01,Rochdale,Notts County,1,2,A,EN,1997/1998
-E4,1998-10-01,Scunthorpe,Peterboro,1,3,A,EN,1997/1998
-E4,1998-10-01,Torquay,Macclesfield,2,0,H,EN,1997/1998
+E4,1998-01-03,Colchester,Hartlepool,1,2,A,EN,1997/1998
+E4,1998-01-03,Mansfield,Rochdale,3,0,H,EN,1997/1998
+E4,1998-01-06,Scarborough,Darlington,2,1,H,EN,1997/1998
+E4,1998-01-10,Barnet,Rotherham,0,0,D,EN,1997/1998
+E4,1998-01-10,Brighton,Swansea,0,1,A,EN,1997/1998
+E4,1998-01-10,Cambridge,Scarborough,2,3,A,EN,1997/1998
+E4,1998-01-10,Cardiff,Leyton Orient,1,0,H,EN,1997/1998
+E4,1998-01-10,Darlington,Colchester,4,2,H,EN,1997/1998
+E4,1998-01-10,Doncaster,Shrewsbury,1,0,H,EN,1997/1998
+E4,1998-01-10,Hartlepool,Exeter,1,1,D,EN,1997/1998
+E4,1998-01-10,Hull,Mansfield,0,0,D,EN,1997/1998
+E4,1998-01-10,Lincoln,Chester,1,3,A,EN,1997/1998
+E4,1998-01-10,Rochdale,Notts County,1,2,A,EN,1997/1998
+E4,1998-01-10,Scunthorpe,Peterboro,1,3,A,EN,1997/1998
+E4,1998-01-10,Torquay,Macclesfield,2,0,H,EN,1997/1998
 E4,1998-01-16,Colchester,Torquay,1,0,H,EN,1997/1998
 E4,1998-01-17,Chester,Barnet,0,1,A,EN,1997/1998
 E4,1998-01-17,Exeter,Doncaster,5,1,H,EN,1997/1998
@@ -353,20 +353,20 @@ E4,1998-01-31,Scarborough,Colchester,1,1,D,EN,1997/1998
 E4,1998-01-31,Shrewsbury,Chester,1,1,D,EN,1997/1998
 E4,1998-01-31,Swansea,Macclesfield,1,1,D,EN,1997/1998
 E4,1998-01-31,Torquay,Hartlepool,1,0,H,EN,1997/1998
-E4,1998-03-02,Doncaster,Mansfield,0,3,A,EN,1997/1998
-E4,1998-06-02,Colchester,Swansea,1,2,A,EN,1997/1998
-E4,1998-06-02,Leyton Orient,Peterboro,1,0,H,EN,1997/1998
-E4,1998-07-02,Brighton,Torquay,1,4,A,EN,1997/1998
-E4,1998-07-02,Cambridge,Doncaster,2,1,H,EN,1997/1998
-E4,1998-07-02,Cardiff,Lincoln,0,1,A,EN,1997/1998
-E4,1998-07-02,Chester,Mansfield,0,1,A,EN,1997/1998
-E4,1998-07-02,Hartlepool,Darlington,2,2,D,EN,1997/1998
-E4,1998-07-02,Hull,Rochdale,0,2,A,EN,1997/1998
-E4,1998-07-02,Macclesfield,Scarborough,3,1,H,EN,1997/1998
-E4,1998-07-02,Notts County,Shrewsbury,1,1,D,EN,1997/1998
-E4,1998-07-02,Rotherham,Exeter,1,0,H,EN,1997/1998
-E4,1998-07-02,Scunthorpe,Barnet,1,1,D,EN,1997/1998
-E4,1998-10-02,Peterboro,Doncaster,0,1,A,EN,1997/1998
+E4,1998-02-03,Doncaster,Mansfield,0,3,A,EN,1997/1998
+E4,1998-02-06,Colchester,Swansea,1,2,A,EN,1997/1998
+E4,1998-02-06,Leyton Orient,Peterboro,1,0,H,EN,1997/1998
+E4,1998-02-07,Brighton,Torquay,1,4,A,EN,1997/1998
+E4,1998-02-07,Cambridge,Doncaster,2,1,H,EN,1997/1998
+E4,1998-02-07,Cardiff,Lincoln,0,1,A,EN,1997/1998
+E4,1998-02-07,Chester,Mansfield,0,1,A,EN,1997/1998
+E4,1998-02-07,Hartlepool,Darlington,2,2,D,EN,1997/1998
+E4,1998-02-07,Hull,Rochdale,0,2,A,EN,1997/1998
+E4,1998-02-07,Macclesfield,Scarborough,3,1,H,EN,1997/1998
+E4,1998-02-07,Notts County,Shrewsbury,1,1,D,EN,1997/1998
+E4,1998-02-07,Rotherham,Exeter,1,0,H,EN,1997/1998
+E4,1998-02-07,Scunthorpe,Barnet,1,1,D,EN,1997/1998
+E4,1998-02-10,Peterboro,Doncaster,0,1,A,EN,1997/1998
 E4,1998-02-13,Cambridge,Lincoln,1,1,D,EN,1997/1998
 E4,1998-02-13,Colchester,Mansfield,2,0,H,EN,1997/1998
 E4,1998-02-14,Barnet,Cardiff,2,2,D,EN,1997/1998
@@ -428,18 +428,18 @@ E4,1998-03-03,Rotherham,Brighton,0,0,D,EN,1997/1998
 E4,1998-03-03,Scarborough,Mansfield,2,2,D,EN,1997/1998
 E4,1998-03-03,Shrewsbury,Hull,2,0,H,EN,1997/1998
 E4,1998-03-03,Torquay,Cardiff,1,0,H,EN,1997/1998
-E4,1998-07-03,Brighton,Hartlepool,0,0,D,EN,1997/1998
-E4,1998-07-03,Hull,Darlington,1,1,D,EN,1997/1998
-E4,1998-07-03,Leyton Orient,Lincoln,1,0,H,EN,1997/1998
-E4,1998-07-03,Macclesfield,Rotherham,0,0,D,EN,1997/1998
-E4,1998-07-03,Mansfield,Shrewsbury,1,1,D,EN,1997/1998
-E4,1998-07-03,Notts County,Barnet,2,0,H,EN,1997/1998
-E4,1998-07-03,Peterboro,Exeter,1,1,D,EN,1997/1998
-E4,1998-07-03,Rochdale,Chester,1,1,D,EN,1997/1998
-E4,1998-07-03,Scunthorpe,Colchester,1,0,H,EN,1997/1998
-E4,1998-07-03,Torquay,Cambridge,0,3,A,EN,1997/1998
-E4,1998-08-03,Swansea,Cardiff,1,1,D,EN,1997/1998
-E4,1998-10-03,Doncaster,Scarborough,1,2,A,EN,1997/1998
+E4,1998-03-07,Brighton,Hartlepool,0,0,D,EN,1997/1998
+E4,1998-03-07,Hull,Darlington,1,1,D,EN,1997/1998
+E4,1998-03-07,Leyton Orient,Lincoln,1,0,H,EN,1997/1998
+E4,1998-03-07,Macclesfield,Rotherham,0,0,D,EN,1997/1998
+E4,1998-03-07,Mansfield,Shrewsbury,1,1,D,EN,1997/1998
+E4,1998-03-07,Notts County,Barnet,2,0,H,EN,1997/1998
+E4,1998-03-07,Peterboro,Exeter,1,1,D,EN,1997/1998
+E4,1998-03-07,Rochdale,Chester,1,1,D,EN,1997/1998
+E4,1998-03-07,Scunthorpe,Colchester,1,0,H,EN,1997/1998
+E4,1998-03-07,Torquay,Cambridge,0,3,A,EN,1997/1998
+E4,1998-03-08,Swansea,Cardiff,1,1,D,EN,1997/1998
+E4,1998-03-10,Doncaster,Scarborough,1,2,A,EN,1997/1998
 E4,1998-03-14,Barnet,Brighton,2,0,H,EN,1997/1998
 E4,1998-03-14,Cambridge,Scunthorpe,2,2,D,EN,1997/1998
 E4,1998-03-14,Cardiff,Doncaster,7,1,H,EN,1997/1998
@@ -478,9 +478,9 @@ E4,1998-03-29,Scunthorpe,Torquay,2,0,H,EN,1997/1998
 E4,1998-03-29,Shrewsbury,Exeter,1,1,D,EN,1997/1998
 E4,1998-03-29,Swansea,Chester,2,0,H,EN,1997/1998
 E4,1998-03-31,Darlington,Shrewsbury,3,1,H,EN,1997/1998
-E4,1998-03-04,Colchester,Rotherham,2,1,H,EN,1997/1998
-E4,1998-03-04,Peterboro,Notts County,1,0,H,EN,1997/1998
-E4,1998-03-04,Scarborough,Cardiff,3,1,H,EN,1997/1998
+E4,1998-04-03,Colchester,Rotherham,2,1,H,EN,1997/1998
+E4,1998-04-03,Peterboro,Notts County,1,0,H,EN,1997/1998
+E4,1998-04-03,Scarborough,Cardiff,3,1,H,EN,1997/1998
 E4,1998-04-04,Brighton,Scunthorpe,2,1,H,EN,1997/1998
 E4,1998-04-04,Darlington,Barnet,2,3,A,EN,1997/1998
 E4,1998-04-04,Doncaster,Hull,1,0,H,EN,1997/1998
@@ -490,17 +490,17 @@ E4,1998-04-04,Leyton Orient,Mansfield,2,2,D,EN,1997/1998
 E4,1998-04-04,Macclesfield,Lincoln,1,0,H,EN,1997/1998
 E4,1998-04-04,Swansea,Shrewsbury,0,1,A,EN,1997/1998
 E4,1998-04-04,Torquay,Rochdale,0,0,D,EN,1997/1998
-E4,1998-11-04,Barnet,Leyton Orient,1,2,A,EN,1997/1998
-E4,1998-11-04,Cambridge,Peterboro,1,0,H,EN,1997/1998
-E4,1998-11-04,Cardiff,Colchester,0,2,A,EN,1997/1998
-E4,1998-11-04,Chester,Doncaster,2,1,H,EN,1997/1998
-E4,1998-11-04,Hull,Hartlepool,2,1,H,EN,1997/1998
-E4,1998-11-04,Mansfield,Torquay,2,2,D,EN,1997/1998
-E4,1998-11-04,Notts County,Brighton,2,2,D,EN,1997/1998
-E4,1998-11-04,Rochdale,Scarborough,4,0,H,EN,1997/1998
-E4,1998-11-04,Rotherham,Swansea,1,1,D,EN,1997/1998
-E4,1998-11-04,Scunthorpe,Macclesfield,1,0,H,EN,1997/1998
-E4,1998-11-04,Shrewsbury,Darlington,3,0,H,EN,1997/1998
+E4,1998-04-11,Barnet,Leyton Orient,1,2,A,EN,1997/1998
+E4,1998-04-11,Cambridge,Peterboro,1,0,H,EN,1997/1998
+E4,1998-04-11,Cardiff,Colchester,0,2,A,EN,1997/1998
+E4,1998-04-11,Chester,Doncaster,2,1,H,EN,1997/1998
+E4,1998-04-11,Hull,Hartlepool,2,1,H,EN,1997/1998
+E4,1998-04-11,Mansfield,Torquay,2,2,D,EN,1997/1998
+E4,1998-04-11,Notts County,Brighton,2,2,D,EN,1997/1998
+E4,1998-04-11,Rochdale,Scarborough,4,0,H,EN,1997/1998
+E4,1998-04-11,Rotherham,Swansea,1,1,D,EN,1997/1998
+E4,1998-04-11,Scunthorpe,Macclesfield,1,0,H,EN,1997/1998
+E4,1998-04-11,Shrewsbury,Darlington,3,0,H,EN,1997/1998
 E4,1998-04-13,Brighton,Mansfield,1,1,D,EN,1997/1998
 E4,1998-04-13,Colchester,Hull,4,3,H,EN,1997/1998
 E4,1998-04-13,Darlington,Chester,1,0,H,EN,1997/1998
@@ -539,15 +539,15 @@ E4,1998-04-25,Scarborough,Shrewsbury,0,0,D,EN,1997/1998
 E4,1998-04-25,Scunthorpe,Exeter,2,1,H,EN,1997/1998
 E4,1998-04-25,Swansea,Doncaster,0,0,D,EN,1997/1998
 E4,1998-04-25,Torquay,Peterboro,3,1,H,EN,1997/1998
-E4,1998-02-05,Cardiff,Darlington,0,0,D,EN,1997/1998
-E4,1998-02-05,Chester,Scarborough,1,1,D,EN,1997/1998
-E4,1998-02-05,Doncaster,Colchester,0,1,A,EN,1997/1998
-E4,1998-02-05,Exeter,Macclesfield,1,3,A,EN,1997/1998
-E4,1998-02-05,Hull,Cambridge,1,0,H,EN,1997/1998
-E4,1998-02-05,Leyton Orient,Torquay,2,1,H,EN,1997/1998
-E4,1998-02-05,Lincoln,Brighton,2,1,H,EN,1997/1998
-E4,1998-02-05,Mansfield,Swansea,1,0,H,EN,1997/1998
-E4,1998-02-05,Notts County,Rotherham,5,2,H,EN,1997/1998
-E4,1998-02-05,Peterboro,Hartlepool,0,0,D,EN,1997/1998
-E4,1998-02-05,Rochdale,Barnet,2,1,H,EN,1997/1998
-E4,1998-02-05,Shrewsbury,Scunthorpe,0,2,A,EN,1997/1998
+E4,1998-05-02,Cardiff,Darlington,0,0,D,EN,1997/1998
+E4,1998-05-02,Chester,Scarborough,1,1,D,EN,1997/1998
+E4,1998-05-02,Doncaster,Colchester,0,1,A,EN,1997/1998
+E4,1998-05-02,Exeter,Macclesfield,1,3,A,EN,1997/1998
+E4,1998-05-02,Hull,Cambridge,1,0,H,EN,1997/1998
+E4,1998-05-02,Leyton Orient,Torquay,2,1,H,EN,1997/1998
+E4,1998-05-02,Lincoln,Brighton,2,1,H,EN,1997/1998
+E4,1998-05-02,Mansfield,Swansea,1,0,H,EN,1997/1998
+E4,1998-05-02,Notts County,Rotherham,5,2,H,EN,1997/1998
+E4,1998-05-02,Peterboro,Hartlepool,0,0,D,EN,1997/1998
+E4,1998-05-02,Rochdale,Barnet,2,1,H,EN,1997/1998
+E4,1998-05-02,Shrewsbury,Scunthorpe,0,2,A,EN,1997/1998

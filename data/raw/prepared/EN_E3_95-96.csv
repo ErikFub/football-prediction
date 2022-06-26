@@ -1,16 +1,16 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
-E3,1995-12-08,Bradford,Bournemouth,1,0,H,EN,1995/1996
-E3,1995-12-08,Bristol City,Blackpool,1,1,D,EN,1995/1996
-E3,1995-12-08,Burnley,Rotherham,2,1,H,EN,1995/1996
-E3,1995-12-08,Carlisle,Bristol Rvs,1,2,A,EN,1995/1996
-E3,1995-12-08,Hull,Swindon,0,1,A,EN,1995/1996
-E3,1995-12-08,Oxford,Chesterfield,1,0,H,EN,1995/1996
-E3,1995-12-08,Peterboro,Brighton,3,1,H,EN,1995/1996
-E3,1995-12-08,Swansea,Shrewsbury,3,1,H,EN,1995/1996
-E3,1995-12-08,Walsall,Stockport,0,2,A,EN,1995/1996
-E3,1995-12-08,Wrexham,Notts County,1,1,D,EN,1995/1996
-E3,1995-12-08,Wycombe,Crewe,1,1,D,EN,1995/1996
-E3,1995-12-08,York,Brentford,2,2,D,EN,1995/1996
+E3,1995-08-12,Bradford,Bournemouth,1,0,H,EN,1995/1996
+E3,1995-08-12,Bristol City,Blackpool,1,1,D,EN,1995/1996
+E3,1995-08-12,Burnley,Rotherham,2,1,H,EN,1995/1996
+E3,1995-08-12,Carlisle,Bristol Rvs,1,2,A,EN,1995/1996
+E3,1995-08-12,Hull,Swindon,0,1,A,EN,1995/1996
+E3,1995-08-12,Oxford,Chesterfield,1,0,H,EN,1995/1996
+E3,1995-08-12,Peterboro,Brighton,3,1,H,EN,1995/1996
+E3,1995-08-12,Swansea,Shrewsbury,3,1,H,EN,1995/1996
+E3,1995-08-12,Walsall,Stockport,0,2,A,EN,1995/1996
+E3,1995-08-12,Wrexham,Notts County,1,1,D,EN,1995/1996
+E3,1995-08-12,Wycombe,Crewe,1,1,D,EN,1995/1996
+E3,1995-08-12,York,Brentford,2,2,D,EN,1995/1996
 E3,1995-08-19,Blackpool,Wrexham,2,0,H,EN,1995/1996
 E3,1995-08-19,Bournemouth,Peterboro,3,0,H,EN,1995/1996
 E3,1995-08-19,Brentford,Oxford,1,0,H,EN,1995/1996
@@ -46,18 +46,18 @@ E3,1995-08-29,Rotherham,Carlisle,2,2,D,EN,1995/1996
 E3,1995-08-29,Shrewsbury,Bristol City,4,1,H,EN,1995/1996
 E3,1995-08-29,Stockport,Swansea,2,0,H,EN,1995/1996
 E3,1995-08-30,Swindon,Oxford,1,1,D,EN,1995/1996
-E3,1995-01-09,Swansea,Carlisle,1,1,D,EN,1995/1996
-E3,1995-02-09,Bournemouth,Rotherham,2,1,H,EN,1995/1996
-E3,1995-02-09,Bradford,Wycombe,0,4,A,EN,1995/1996
-E3,1995-02-09,Brentford,Swindon,0,2,A,EN,1995/1996
-E3,1995-02-09,Brighton,Notts County,1,0,H,EN,1995/1996
-E3,1995-02-09,Bristol Rvs,Wrexham,1,2,A,EN,1995/1996
-E3,1995-02-09,Chesterfield,Hull,0,0,D,EN,1995/1996
-E3,1995-02-09,Peterboro,Bristol City,1,1,D,EN,1995/1996
-E3,1995-02-09,Shrewsbury,Blackpool,0,2,A,EN,1995/1996
-E3,1995-02-09,Stockport,Crewe,1,1,D,EN,1995/1996
-E3,1995-03-09,Oxford,York,2,0,H,EN,1995/1996
-E3,1995-06-09,Burnley,Walsall,1,1,D,EN,1995/1996
+E3,1995-09-01,Swansea,Carlisle,1,1,D,EN,1995/1996
+E3,1995-09-02,Bournemouth,Rotherham,2,1,H,EN,1995/1996
+E3,1995-09-02,Bradford,Wycombe,0,4,A,EN,1995/1996
+E3,1995-09-02,Brentford,Swindon,0,2,A,EN,1995/1996
+E3,1995-09-02,Brighton,Notts County,1,0,H,EN,1995/1996
+E3,1995-09-02,Bristol Rvs,Wrexham,1,2,A,EN,1995/1996
+E3,1995-09-02,Chesterfield,Hull,0,0,D,EN,1995/1996
+E3,1995-09-02,Peterboro,Bristol City,1,1,D,EN,1995/1996
+E3,1995-09-02,Shrewsbury,Blackpool,0,2,A,EN,1995/1996
+E3,1995-09-02,Stockport,Crewe,1,1,D,EN,1995/1996
+E3,1995-09-03,Oxford,York,2,0,H,EN,1995/1996
+E3,1995-09-06,Burnley,Walsall,1,1,D,EN,1995/1996
 E3,1995-09-09,Blackpool,Stockport,0,1,A,EN,1995/1996
 E3,1995-09-09,Bristol City,Brighton,0,1,A,EN,1995/1996
 E3,1995-09-09,Carlisle,Burnley,2,0,H,EN,1995/1996
@@ -70,17 +70,17 @@ E3,1995-09-09,Walsall,Swansea,4,1,H,EN,1995/1996
 E3,1995-09-09,Wrexham,Bradford,1,2,A,EN,1995/1996
 E3,1995-09-09,Wycombe,Peterboro,1,1,D,EN,1995/1996
 E3,1995-09-09,York,Bristol Rvs,0,1,A,EN,1995/1996
-E3,1995-12-09,Blackpool,Bournemouth,2,1,H,EN,1995/1996
-E3,1995-12-09,Bristol City,Brentford,0,0,D,EN,1995/1996
-E3,1995-12-09,Carlisle,Peterboro,1,1,D,EN,1995/1996
-E3,1995-12-09,Crewe,Brighton,3,1,H,EN,1995/1996
-E3,1995-12-09,Hull,Swansea,0,0,D,EN,1995/1996
-E3,1995-12-09,Notts County,Stockport,1,0,H,EN,1995/1996
-E3,1995-12-09,Rotherham,Bristol Rvs,1,0,H,EN,1995/1996
-E3,1995-12-09,Walsall,Oxford,2,2,D,EN,1995/1996
-E3,1995-12-09,Wrexham,Shrewsbury,1,1,D,EN,1995/1996
-E3,1995-12-09,Wycombe,Chesterfield,1,0,H,EN,1995/1996
-E3,1995-12-09,York,Burnley,1,1,D,EN,1995/1996
+E3,1995-09-12,Blackpool,Bournemouth,2,1,H,EN,1995/1996
+E3,1995-09-12,Bristol City,Brentford,0,0,D,EN,1995/1996
+E3,1995-09-12,Carlisle,Peterboro,1,1,D,EN,1995/1996
+E3,1995-09-12,Crewe,Brighton,3,1,H,EN,1995/1996
+E3,1995-09-12,Hull,Swansea,0,0,D,EN,1995/1996
+E3,1995-09-12,Notts County,Stockport,1,0,H,EN,1995/1996
+E3,1995-09-12,Rotherham,Bristol Rvs,1,0,H,EN,1995/1996
+E3,1995-09-12,Walsall,Oxford,2,2,D,EN,1995/1996
+E3,1995-09-12,Wrexham,Shrewsbury,1,1,D,EN,1995/1996
+E3,1995-09-12,Wycombe,Chesterfield,1,0,H,EN,1995/1996
+E3,1995-09-12,York,Burnley,1,1,D,EN,1995/1996
 E3,1995-09-13,Swindon,Bradford,4,1,H,EN,1995/1996
 E3,1995-09-16,Bournemouth,Crewe,0,4,A,EN,1995/1996
 E3,1995-09-16,Bradford,Bristol City,3,0,H,EN,1995/1996
@@ -118,18 +118,18 @@ E3,1995-09-30,Rotherham,Peterboro,5,1,H,EN,1995/1996
 E3,1995-09-30,Stockport,Bournemouth,3,1,H,EN,1995/1996
 E3,1995-09-30,Walsall,Carlisle,2,1,H,EN,1995/1996
 E3,1995-09-30,Wrexham,Swindon,4,3,H,EN,1995/1996
-E3,1995-07-10,Brentford,Blackpool,1,2,A,EN,1995/1996
-E3,1995-07-10,Bristol Rvs,Bournemouth,0,2,A,EN,1995/1996
-E3,1995-07-10,Burnley,Wycombe,1,1,D,EN,1995/1996
-E3,1995-07-10,Carlisle,Notts County,0,0,D,EN,1995/1996
-E3,1995-07-10,Chesterfield,Crewe,1,2,A,EN,1995/1996
-E3,1995-07-10,Hull,Shrewsbury,2,3,A,EN,1995/1996
-E3,1995-07-10,Oxford,Stockport,2,1,H,EN,1995/1996
-E3,1995-07-10,Rotherham,Brighton,1,0,H,EN,1995/1996
-E3,1995-07-10,Swansea,Bradford,2,0,H,EN,1995/1996
-E3,1995-07-10,Swindon,Bristol City,2,0,H,EN,1995/1996
-E3,1995-07-10,Walsall,Peterboro,1,1,D,EN,1995/1996
-E3,1995-07-10,York,Wrexham,1,0,H,EN,1995/1996
+E3,1995-10-07,Brentford,Blackpool,1,2,A,EN,1995/1996
+E3,1995-10-07,Bristol Rvs,Bournemouth,0,2,A,EN,1995/1996
+E3,1995-10-07,Burnley,Wycombe,1,1,D,EN,1995/1996
+E3,1995-10-07,Carlisle,Notts County,0,0,D,EN,1995/1996
+E3,1995-10-07,Chesterfield,Crewe,1,2,A,EN,1995/1996
+E3,1995-10-07,Hull,Shrewsbury,2,3,A,EN,1995/1996
+E3,1995-10-07,Oxford,Stockport,2,1,H,EN,1995/1996
+E3,1995-10-07,Rotherham,Brighton,1,0,H,EN,1995/1996
+E3,1995-10-07,Swansea,Bradford,2,0,H,EN,1995/1996
+E3,1995-10-07,Swindon,Bristol City,2,0,H,EN,1995/1996
+E3,1995-10-07,Walsall,Peterboro,1,1,D,EN,1995/1996
+E3,1995-10-07,York,Wrexham,1,0,H,EN,1995/1996
 E3,1995-10-14,Blackpool,Chesterfield,0,0,D,EN,1995/1996
 E3,1995-10-14,Bournemouth,Burnley,0,2,A,EN,1995/1996
 E3,1995-10-14,Bradford,Bristol Rvs,2,3,A,EN,1995/1996
@@ -177,19 +177,19 @@ E3,1995-10-31,Shrewsbury,Oxford,2,0,H,EN,1995/1996
 E3,1995-10-31,Stockport,Rotherham,1,1,D,EN,1995/1996
 E3,1995-10-31,Wrexham,Carlisle,3,2,H,EN,1995/1996
 E3,1995-10-31,Wycombe,York,2,1,H,EN,1995/1996
-E3,1995-01-11,Notts County,Brentford,4,0,H,EN,1995/1996
-E3,1995-04-11,Brentford,Shrewsbury,0,2,A,EN,1995/1996
-E3,1995-04-11,Bristol Rvs,Peterboro,1,1,D,EN,1995/1996
-E3,1995-04-11,Burnley,Notts County,3,4,A,EN,1995/1996
-E3,1995-04-11,Carlisle,Brighton,1,0,H,EN,1995/1996
-E3,1995-04-11,Chesterfield,Bradford,2,1,H,EN,1995/1996
-E3,1995-04-11,Hull,Wrexham,1,1,D,EN,1995/1996
-E3,1995-04-11,Oxford,Bristol City,2,0,H,EN,1995/1996
-E3,1995-04-11,Rotherham,Crewe,2,2,D,EN,1995/1996
-E3,1995-04-11,Swansea,Wycombe,1,2,A,EN,1995/1996
-E3,1995-04-11,Swindon,Blackpool,1,1,D,EN,1995/1996
-E3,1995-04-11,Walsall,Bournemouth,0,0,D,EN,1995/1996
-E3,1995-04-11,York,Stockport,2,2,D,EN,1995/1996
+E3,1995-11-01,Notts County,Brentford,4,0,H,EN,1995/1996
+E3,1995-11-04,Brentford,Shrewsbury,0,2,A,EN,1995/1996
+E3,1995-11-04,Bristol Rvs,Peterboro,1,1,D,EN,1995/1996
+E3,1995-11-04,Burnley,Notts County,3,4,A,EN,1995/1996
+E3,1995-11-04,Carlisle,Brighton,1,0,H,EN,1995/1996
+E3,1995-11-04,Chesterfield,Bradford,2,1,H,EN,1995/1996
+E3,1995-11-04,Hull,Wrexham,1,1,D,EN,1995/1996
+E3,1995-11-04,Oxford,Bristol City,2,0,H,EN,1995/1996
+E3,1995-11-04,Rotherham,Crewe,2,2,D,EN,1995/1996
+E3,1995-11-04,Swansea,Wycombe,1,2,A,EN,1995/1996
+E3,1995-11-04,Swindon,Blackpool,1,1,D,EN,1995/1996
+E3,1995-11-04,Walsall,Bournemouth,0,0,D,EN,1995/1996
+E3,1995-11-04,York,Stockport,2,2,D,EN,1995/1996
 E3,1995-11-18,Blackpool,York,1,3,A,EN,1995/1996
 E3,1995-11-18,Bournemouth,Brentford,1,0,H,EN,1995/1996
 E3,1995-11-18,Bradford,Hull,1,1,D,EN,1995/1996
@@ -214,21 +214,21 @@ E3,1995-11-25,Swindon,Shrewsbury,0,1,A,EN,1995/1996
 E3,1995-11-25,Walsall,Blackpool,1,1,D,EN,1995/1996
 E3,1995-11-25,York,Brighton,3,1,H,EN,1995/1996
 E3,1995-11-26,Carlisle,Wycombe,4,2,H,EN,1995/1996
-E3,1995-02-12,Burnley,Carlisle,2,0,H,EN,1995/1996
-E3,1995-02-12,Swansea,Rotherham,0,0,D,EN,1995/1996
-E3,1995-05-12,Crewe,Bristol City,4,2,H,EN,1995/1996
-E3,1995-09-12,Bradford,Peterboro,2,1,H,EN,1995/1996
-E3,1995-09-12,Brentford,Bristol Rvs,0,0,D,EN,1995/1996
-E3,1995-09-12,Brighton,Bournemouth,2,0,H,EN,1995/1996
-E3,1995-09-12,Bristol City,Notts County,0,2,A,EN,1995/1996
-E3,1995-09-12,Burnley,Chesterfield,2,2,D,EN,1995/1996
-E3,1995-09-12,Crewe,Blackpool,1,2,A,EN,1995/1996
-E3,1995-09-12,Hull,Carlisle,2,5,A,EN,1995/1996
-E3,1995-09-12,Oxford,Swansea,5,1,H,EN,1995/1996
-E3,1995-09-12,Rotherham,Swindon,0,2,A,EN,1995/1996
-E3,1995-09-12,Stockport,Shrewsbury,0,2,A,EN,1995/1996
-E3,1995-09-12,Walsall,York,2,0,H,EN,1995/1996
-E3,1995-09-12,Wrexham,Wycombe,1,0,H,EN,1995/1996
+E3,1995-12-02,Burnley,Carlisle,2,0,H,EN,1995/1996
+E3,1995-12-02,Swansea,Rotherham,0,0,D,EN,1995/1996
+E3,1995-12-05,Crewe,Bristol City,4,2,H,EN,1995/1996
+E3,1995-12-09,Bradford,Peterboro,2,1,H,EN,1995/1996
+E3,1995-12-09,Brentford,Bristol Rvs,0,0,D,EN,1995/1996
+E3,1995-12-09,Brighton,Bournemouth,2,0,H,EN,1995/1996
+E3,1995-12-09,Bristol City,Notts County,0,2,A,EN,1995/1996
+E3,1995-12-09,Burnley,Chesterfield,2,2,D,EN,1995/1996
+E3,1995-12-09,Crewe,Blackpool,1,2,A,EN,1995/1996
+E3,1995-12-09,Hull,Carlisle,2,5,A,EN,1995/1996
+E3,1995-12-09,Oxford,Swansea,5,1,H,EN,1995/1996
+E3,1995-12-09,Rotherham,Swindon,0,2,A,EN,1995/1996
+E3,1995-12-09,Stockport,Shrewsbury,0,2,A,EN,1995/1996
+E3,1995-12-09,Walsall,York,2,0,H,EN,1995/1996
+E3,1995-12-09,Wrexham,Wycombe,1,0,H,EN,1995/1996
 E3,1995-12-16,Blackpool,Bradford,4,1,H,EN,1995/1996
 E3,1995-12-16,Bournemouth,Stockport,3,2,H,EN,1995/1996
 E3,1995-12-16,Bristol Rvs,Oxford,2,0,H,EN,1995/1996
@@ -264,12 +264,12 @@ E3,1995-12-26,York,Bradford,0,3,A,EN,1995/1996
 E3,1995-12-30,Shrewsbury,Carlisle,1,1,D,EN,1995/1996
 E3,1996-01-01,Brighton,Stockport,1,1,D,EN,1995/1996
 E3,1996-01-01,Carlisle,Blackpool,1,2,A,EN,1995/1996
-E3,1996-02-01,Bournemouth,Shrewsbury,0,2,A,EN,1995/1996
-E3,1996-06-01,Bournemouth,Bristol City,1,1,D,EN,1995/1996
-E3,1996-06-01,Bristol Rvs,Hull,2,1,H,EN,1995/1996
-E3,1996-06-01,Rotherham,York,2,2,D,EN,1995/1996
-E3,1996-10-01,Stockport,Bradford,1,2,A,EN,1995/1996
-E3,1996-10-01,Swindon,Swansea,3,0,H,EN,1995/1996
+E3,1996-01-02,Bournemouth,Shrewsbury,0,2,A,EN,1995/1996
+E3,1996-01-06,Bournemouth,Bristol City,1,1,D,EN,1995/1996
+E3,1996-01-06,Bristol Rvs,Hull,2,1,H,EN,1995/1996
+E3,1996-01-06,Rotherham,York,2,2,D,EN,1995/1996
+E3,1996-01-10,Stockport,Bradford,1,2,A,EN,1995/1996
+E3,1996-01-10,Swindon,Swansea,3,0,H,EN,1995/1996
 E3,1996-01-13,Bradford,Brighton,1,3,A,EN,1995/1996
 E3,1996-01-13,Bristol City,Crewe,3,2,H,EN,1995/1996
 E3,1996-01-13,Burnley,Stockport,4,3,H,EN,1995/1996
@@ -302,28 +302,28 @@ E3,1996-01-23,Wrexham,Bristol City,0,0,D,EN,1995/1996
 E3,1996-01-30,Brentford,Wycombe,1,0,H,EN,1995/1996
 E3,1996-01-30,Burnley,Oxford,0,2,A,EN,1995/1996
 E3,1996-01-31,Bradford,Crewe,2,1,H,EN,1995/1996
-E3,1996-03-02,Blackpool,Hull,1,1,D,EN,1995/1996
-E3,1996-03-02,Bournemouth,Wycombe,2,3,A,EN,1995/1996
-E3,1996-03-02,Brentford,Burnley,1,0,H,EN,1995/1996
-E3,1996-03-02,Brighton,Wrexham,2,2,D,EN,1995/1996
-E3,1996-03-02,Bristol Rvs,Walsall,2,0,H,EN,1995/1996
-E3,1996-03-02,Chesterfield,Swansea,3,2,H,EN,1995/1996
-E3,1996-03-02,Notts County,Peterboro,1,0,H,EN,1995/1996
-E3,1996-03-02,Rotherham,Oxford,1,0,H,EN,1995/1996
-E3,1996-03-02,Shrewsbury,Bradford,1,1,D,EN,1995/1996
-E3,1996-03-02,Swindon,Carlisle,2,1,H,EN,1995/1996
-E3,1996-06-02,Swansea,Stockport,0,3,A,EN,1995/1996
-E3,1996-10-02,Bradford,Stockport,0,1,A,EN,1995/1996
-E3,1996-10-02,Bristol City,Bournemouth,3,0,H,EN,1995/1996
-E3,1996-10-02,Burnley,Crewe,0,1,A,EN,1995/1996
-E3,1996-10-02,Carlisle,Brentford,2,1,H,EN,1995/1996
-E3,1996-10-02,Hull,Bristol Rvs,1,3,A,EN,1995/1996
-E3,1996-10-02,Oxford,Brighton,1,1,D,EN,1995/1996
-E3,1996-10-02,Peterboro,Shrewsbury,2,2,D,EN,1995/1996
-E3,1996-10-02,Swansea,Swindon,0,1,A,EN,1995/1996
-E3,1996-10-02,Walsall,Notts County,0,0,D,EN,1995/1996
-E3,1996-10-02,Wycombe,Blackpool,0,1,A,EN,1995/1996
-E3,1996-10-02,York,Rotherham,2,2,D,EN,1995/1996
+E3,1996-02-03,Blackpool,Hull,1,1,D,EN,1995/1996
+E3,1996-02-03,Bournemouth,Wycombe,2,3,A,EN,1995/1996
+E3,1996-02-03,Brentford,Burnley,1,0,H,EN,1995/1996
+E3,1996-02-03,Brighton,Wrexham,2,2,D,EN,1995/1996
+E3,1996-02-03,Bristol Rvs,Walsall,2,0,H,EN,1995/1996
+E3,1996-02-03,Chesterfield,Swansea,3,2,H,EN,1995/1996
+E3,1996-02-03,Notts County,Peterboro,1,0,H,EN,1995/1996
+E3,1996-02-03,Rotherham,Oxford,1,0,H,EN,1995/1996
+E3,1996-02-03,Shrewsbury,Bradford,1,1,D,EN,1995/1996
+E3,1996-02-03,Swindon,Carlisle,2,1,H,EN,1995/1996
+E3,1996-02-06,Swansea,Stockport,0,3,A,EN,1995/1996
+E3,1996-02-10,Bradford,Stockport,0,1,A,EN,1995/1996
+E3,1996-02-10,Bristol City,Bournemouth,3,0,H,EN,1995/1996
+E3,1996-02-10,Burnley,Crewe,0,1,A,EN,1995/1996
+E3,1996-02-10,Carlisle,Brentford,2,1,H,EN,1995/1996
+E3,1996-02-10,Hull,Bristol Rvs,1,3,A,EN,1995/1996
+E3,1996-02-10,Oxford,Brighton,1,1,D,EN,1995/1996
+E3,1996-02-10,Peterboro,Shrewsbury,2,2,D,EN,1995/1996
+E3,1996-02-10,Swansea,Swindon,0,1,A,EN,1995/1996
+E3,1996-02-10,Walsall,Notts County,0,0,D,EN,1995/1996
+E3,1996-02-10,Wycombe,Blackpool,0,1,A,EN,1995/1996
+E3,1996-02-10,York,Rotherham,2,2,D,EN,1995/1996
 E3,1996-02-13,Blackpool,Swansea,4,0,H,EN,1995/1996
 E3,1996-02-13,Bristol City,Shrewsbury,2,0,H,EN,1995/1996
 E3,1996-02-13,Stockport,Wrexham,2,3,A,EN,1995/1996
@@ -367,43 +367,43 @@ E3,1996-02-27,Peterboro,Wycombe,3,0,H,EN,1995/1996
 E3,1996-02-27,Shrewsbury,Crewe,2,3,A,EN,1995/1996
 E3,1996-02-27,Stockport,Blackpool,1,1,D,EN,1995/1996
 E3,1996-02-27,Swansea,Walsall,2,1,H,EN,1995/1996
-E3,1996-02-03,Bournemouth,Oxford,0,1,A,EN,1995/1996
-E3,1996-02-03,Bradford,York,2,2,D,EN,1995/1996
-E3,1996-02-03,Brighton,Brentford,0,0,D,EN,1995/1996
-E3,1996-02-03,Bristol Rvs,Shrewsbury,2,1,H,EN,1995/1996
-E3,1996-02-03,Burnley,Blackpool,0,1,A,EN,1995/1996
-E3,1996-02-03,Carlisle,Stockport,0,1,A,EN,1995/1996
-E3,1996-02-03,Notts County,Hull,1,0,H,EN,1995/1996
-E3,1996-02-03,Peterboro,Chesterfield,0,1,A,EN,1995/1996
-E3,1996-02-03,Swansea,Bristol City,2,1,H,EN,1995/1996
-E3,1996-02-03,Walsall,Rotherham,3,1,H,EN,1995/1996
-E3,1996-02-03,Wrexham,Crewe,2,3,A,EN,1995/1996
-E3,1996-02-03,Wycombe,Swindon,1,2,A,EN,1995/1996
-E3,1996-05-03,Crewe,York,1,1,D,EN,1995/1996
-E3,1996-05-03,Hull,Brentford,0,1,A,EN,1995/1996
-E3,1996-05-03,Peterboro,Swindon,0,2,A,EN,1995/1996
-E3,1996-05-03,Wrexham,Chesterfield,3,0,H,EN,1995/1996
-E3,1996-06-03,Notts County,Walsall,2,1,H,EN,1995/1996
-E3,1996-06-03,Wycombe,Brighton,0,2,A,EN,1995/1996
-E3,1996-09-03,Blackpool,Notts County,2,0,H,EN,1995/1996
-E3,1996-09-03,Brentford,Wrexham,1,0,H,EN,1995/1996
-E3,1996-09-03,Bristol City,Burnley,0,1,A,EN,1995/1996
-E3,1996-09-03,Chesterfield,Brighton,1,0,H,EN,1995/1996
-E3,1996-09-03,Crewe,Bristol Rvs,1,2,A,EN,1995/1996
-E3,1996-09-03,Hull,Bournemouth,1,1,D,EN,1995/1996
-E3,1996-09-03,Oxford,Bradford,2,0,H,EN,1995/1996
-E3,1996-09-03,Rotherham,Swansea,1,1,D,EN,1995/1996
-E3,1996-09-03,Shrewsbury,Wycombe,1,1,D,EN,1995/1996
-E3,1996-09-03,Stockport,Peterboro,0,1,A,EN,1995/1996
-E3,1996-09-03,Swindon,Walsall,1,1,D,EN,1995/1996
-E3,1996-09-03,York,Carlisle,1,1,D,EN,1995/1996
-E3,1996-12-03,Blackpool,Burnley,3,1,H,EN,1995/1996
-E3,1996-12-03,Brighton,Oxford,1,2,A,EN,1995/1996
-E3,1996-12-03,Hull,Chesterfield,0,0,D,EN,1995/1996
-E3,1996-12-03,Notts County,York,2,2,D,EN,1995/1996
-E3,1996-12-03,Swansea,Brentford,2,1,H,EN,1995/1996
-E3,1996-12-03,Walsall,Crewe,3,2,H,EN,1995/1996
-E3,1996-12-03,Wrexham,Bournemouth,5,0,H,EN,1995/1996
+E3,1996-03-02,Bournemouth,Oxford,0,1,A,EN,1995/1996
+E3,1996-03-02,Bradford,York,2,2,D,EN,1995/1996
+E3,1996-03-02,Brighton,Brentford,0,0,D,EN,1995/1996
+E3,1996-03-02,Bristol Rvs,Shrewsbury,2,1,H,EN,1995/1996
+E3,1996-03-02,Burnley,Blackpool,0,1,A,EN,1995/1996
+E3,1996-03-02,Carlisle,Stockport,0,1,A,EN,1995/1996
+E3,1996-03-02,Notts County,Hull,1,0,H,EN,1995/1996
+E3,1996-03-02,Peterboro,Chesterfield,0,1,A,EN,1995/1996
+E3,1996-03-02,Swansea,Bristol City,2,1,H,EN,1995/1996
+E3,1996-03-02,Walsall,Rotherham,3,1,H,EN,1995/1996
+E3,1996-03-02,Wrexham,Crewe,2,3,A,EN,1995/1996
+E3,1996-03-02,Wycombe,Swindon,1,2,A,EN,1995/1996
+E3,1996-03-05,Crewe,York,1,1,D,EN,1995/1996
+E3,1996-03-05,Hull,Brentford,0,1,A,EN,1995/1996
+E3,1996-03-05,Peterboro,Swindon,0,2,A,EN,1995/1996
+E3,1996-03-05,Wrexham,Chesterfield,3,0,H,EN,1995/1996
+E3,1996-03-06,Notts County,Walsall,2,1,H,EN,1995/1996
+E3,1996-03-06,Wycombe,Brighton,0,2,A,EN,1995/1996
+E3,1996-03-09,Blackpool,Notts County,2,0,H,EN,1995/1996
+E3,1996-03-09,Brentford,Wrexham,1,0,H,EN,1995/1996
+E3,1996-03-09,Bristol City,Burnley,0,1,A,EN,1995/1996
+E3,1996-03-09,Chesterfield,Brighton,1,0,H,EN,1995/1996
+E3,1996-03-09,Crewe,Bristol Rvs,1,2,A,EN,1995/1996
+E3,1996-03-09,Hull,Bournemouth,1,1,D,EN,1995/1996
+E3,1996-03-09,Oxford,Bradford,2,0,H,EN,1995/1996
+E3,1996-03-09,Rotherham,Swansea,1,1,D,EN,1995/1996
+E3,1996-03-09,Shrewsbury,Wycombe,1,1,D,EN,1995/1996
+E3,1996-03-09,Stockport,Peterboro,0,1,A,EN,1995/1996
+E3,1996-03-09,Swindon,Walsall,1,1,D,EN,1995/1996
+E3,1996-03-09,York,Carlisle,1,1,D,EN,1995/1996
+E3,1996-03-12,Blackpool,Burnley,3,1,H,EN,1995/1996
+E3,1996-03-12,Brighton,Oxford,1,2,A,EN,1995/1996
+E3,1996-03-12,Hull,Chesterfield,0,0,D,EN,1995/1996
+E3,1996-03-12,Notts County,York,2,2,D,EN,1995/1996
+E3,1996-03-12,Swansea,Brentford,2,1,H,EN,1995/1996
+E3,1996-03-12,Walsall,Crewe,3,2,H,EN,1995/1996
+E3,1996-03-12,Wrexham,Bournemouth,5,0,H,EN,1995/1996
 E3,1996-03-16,Bournemouth,York,2,2,D,EN,1995/1996
 E3,1996-03-16,Bradford,Rotherham,2,0,H,EN,1995/1996
 E3,1996-03-16,Brighton,Hull,4,0,H,EN,1995/1996
@@ -453,42 +453,42 @@ E3,1996-03-30,Shrewsbury,Hull,1,1,D,EN,1995/1996
 E3,1996-03-30,Stockport,Oxford,4,2,H,EN,1995/1996
 E3,1996-03-30,Wrexham,York,2,3,A,EN,1995/1996
 E3,1996-03-30,Wycombe,Burnley,4,1,H,EN,1995/1996
-E3,1996-02-04,Brentford,Stockport,1,0,H,EN,1995/1996
-E3,1996-02-04,Bristol Rvs,Bradford,1,0,H,EN,1995/1996
-E3,1996-02-04,Burnley,Bournemouth,0,0,D,EN,1995/1996
-E3,1996-02-04,Carlisle,Crewe,1,0,H,EN,1995/1996
-E3,1996-02-04,Chesterfield,Blackpool,1,0,H,EN,1995/1996
-E3,1996-02-04,Hull,Bristol City,2,3,A,EN,1995/1996
-E3,1996-02-04,Oxford,Wrexham,0,0,D,EN,1995/1996
-E3,1996-02-04,Rotherham,Notts County,2,0,H,EN,1995/1996
-E3,1996-02-04,Swansea,Peterboro,0,0,D,EN,1995/1996
-E3,1996-02-04,Walsall,Wycombe,0,1,A,EN,1995/1996
-E3,1996-02-04,York,Shrewsbury,1,2,A,EN,1995/1996
-E3,1996-03-04,Swindon,Brighton,3,2,H,EN,1995/1996
-E3,1996-06-04,Brentford,Crewe,2,1,H,EN,1995/1996
-E3,1996-06-04,Bristol Rvs,Brighton,1,0,H,EN,1995/1996
-E3,1996-06-04,Burnley,Bradford,2,3,A,EN,1995/1996
-E3,1996-06-04,Carlisle,Bournemouth,4,0,H,EN,1995/1996
-E3,1996-06-04,Chesterfield,Stockport,1,2,A,EN,1995/1996
-E3,1996-06-04,Hull,Wycombe,4,2,H,EN,1995/1996
-E3,1996-06-04,Oxford,Blackpool,1,0,H,EN,1995/1996
-E3,1996-06-04,Rotherham,Shrewsbury,2,2,D,EN,1995/1996
-E3,1996-06-04,Swansea,Wrexham,1,3,A,EN,1995/1996
-E3,1996-06-04,Swindon,Notts County,1,0,H,EN,1995/1996
-E3,1996-06-04,Walsall,Bristol City,2,1,H,EN,1995/1996
-E3,1996-06-04,York,Peterboro,3,1,H,EN,1995/1996
-E3,1996-08-04,Blackpool,Rotherham,1,2,A,EN,1995/1996
-E3,1996-08-04,Bradford,Carlisle,3,1,H,EN,1995/1996
-E3,1996-08-04,Bristol City,York,1,1,D,EN,1995/1996
-E3,1996-08-04,Crewe,Swindon,0,2,A,EN,1995/1996
-E3,1996-08-04,Peterboro,Brentford,0,1,A,EN,1995/1996
-E3,1996-08-04,Stockport,Hull,0,0,D,EN,1995/1996
-E3,1996-08-04,Wrexham,Walsall,3,0,H,EN,1995/1996
-E3,1996-08-04,Wycombe,Oxford,0,3,A,EN,1995/1996
-E3,1996-09-04,Bournemouth,Swansea,3,1,H,EN,1995/1996
-E3,1996-09-04,Brighton,Burnley,1,0,H,EN,1995/1996
-E3,1996-09-04,Notts County,Bristol Rvs,4,2,H,EN,1995/1996
-E3,1996-09-04,Shrewsbury,Chesterfield,0,0,D,EN,1995/1996
+E3,1996-04-02,Brentford,Stockport,1,0,H,EN,1995/1996
+E3,1996-04-02,Bristol Rvs,Bradford,1,0,H,EN,1995/1996
+E3,1996-04-02,Burnley,Bournemouth,0,0,D,EN,1995/1996
+E3,1996-04-02,Carlisle,Crewe,1,0,H,EN,1995/1996
+E3,1996-04-02,Chesterfield,Blackpool,1,0,H,EN,1995/1996
+E3,1996-04-02,Hull,Bristol City,2,3,A,EN,1995/1996
+E3,1996-04-02,Oxford,Wrexham,0,0,D,EN,1995/1996
+E3,1996-04-02,Rotherham,Notts County,2,0,H,EN,1995/1996
+E3,1996-04-02,Swansea,Peterboro,0,0,D,EN,1995/1996
+E3,1996-04-02,Walsall,Wycombe,0,1,A,EN,1995/1996
+E3,1996-04-02,York,Shrewsbury,1,2,A,EN,1995/1996
+E3,1996-04-03,Swindon,Brighton,3,2,H,EN,1995/1996
+E3,1996-04-06,Brentford,Crewe,2,1,H,EN,1995/1996
+E3,1996-04-06,Bristol Rvs,Brighton,1,0,H,EN,1995/1996
+E3,1996-04-06,Burnley,Bradford,2,3,A,EN,1995/1996
+E3,1996-04-06,Carlisle,Bournemouth,4,0,H,EN,1995/1996
+E3,1996-04-06,Chesterfield,Stockport,1,2,A,EN,1995/1996
+E3,1996-04-06,Hull,Wycombe,4,2,H,EN,1995/1996
+E3,1996-04-06,Oxford,Blackpool,1,0,H,EN,1995/1996
+E3,1996-04-06,Rotherham,Shrewsbury,2,2,D,EN,1995/1996
+E3,1996-04-06,Swansea,Wrexham,1,3,A,EN,1995/1996
+E3,1996-04-06,Swindon,Notts County,1,0,H,EN,1995/1996
+E3,1996-04-06,Walsall,Bristol City,2,1,H,EN,1995/1996
+E3,1996-04-06,York,Peterboro,3,1,H,EN,1995/1996
+E3,1996-04-08,Blackpool,Rotherham,1,2,A,EN,1995/1996
+E3,1996-04-08,Bradford,Carlisle,3,1,H,EN,1995/1996
+E3,1996-04-08,Bristol City,York,1,1,D,EN,1995/1996
+E3,1996-04-08,Crewe,Swindon,0,2,A,EN,1995/1996
+E3,1996-04-08,Peterboro,Brentford,0,1,A,EN,1995/1996
+E3,1996-04-08,Stockport,Hull,0,0,D,EN,1995/1996
+E3,1996-04-08,Wrexham,Walsall,3,0,H,EN,1995/1996
+E3,1996-04-08,Wycombe,Oxford,0,3,A,EN,1995/1996
+E3,1996-04-09,Bournemouth,Swansea,3,1,H,EN,1995/1996
+E3,1996-04-09,Brighton,Burnley,1,0,H,EN,1995/1996
+E3,1996-04-09,Notts County,Bristol Rvs,4,2,H,EN,1995/1996
+E3,1996-04-09,Shrewsbury,Chesterfield,0,0,D,EN,1995/1996
 E3,1996-04-13,Brentford,Notts County,0,0,D,EN,1995/1996
 E3,1996-04-13,Bristol Rvs,Blackpool,1,1,D,EN,1995/1996
 E3,1996-04-13,Burnley,Peterboro,2,1,H,EN,1995/1996
@@ -538,16 +538,16 @@ E3,1996-04-30,Bradford,Swindon,1,1,D,EN,1995/1996
 E3,1996-04-30,Crewe,Peterboro,2,1,H,EN,1995/1996
 E3,1996-04-30,Walsall,Burnley,3,1,H,EN,1995/1996
 E3,1996-04-30,York,Chesterfield,0,1,A,EN,1995/1996
-E3,1996-04-05,Brentford,Bournemouth,2,0,H,EN,1995/1996
-E3,1996-04-05,Bristol Rvs,Wycombe,2,1,H,EN,1995/1996
-E3,1996-04-05,Burnley,Shrewsbury,2,1,H,EN,1995/1996
-E3,1996-04-05,Carlisle,Bristol City,2,1,H,EN,1995/1996
-E3,1996-04-05,Chesterfield,Notts County,1,0,H,EN,1995/1996
-E3,1996-04-05,Hull,Bradford,2,3,A,EN,1995/1996
-E3,1996-04-05,Oxford,Peterboro,4,0,H,EN,1995/1996
-E3,1996-04-05,Rotherham,Wrexham,0,1,A,EN,1995/1996
-E3,1996-04-05,Swansea,Crewe,2,1,H,EN,1995/1996
-E3,1996-04-05,Swindon,Stockport,0,0,D,EN,1995/1996
-E3,1996-04-05,Walsall,Brighton,2,1,H,EN,1995/1996
-E3,1996-04-05,York,Blackpool,0,1,A,EN,1995/1996
-E3,1996-09-05,Brighton,York,1,3,A,EN,1995/1996
+E3,1996-05-04,Brentford,Bournemouth,2,0,H,EN,1995/1996
+E3,1996-05-04,Bristol Rvs,Wycombe,2,1,H,EN,1995/1996
+E3,1996-05-04,Burnley,Shrewsbury,2,1,H,EN,1995/1996
+E3,1996-05-04,Carlisle,Bristol City,2,1,H,EN,1995/1996
+E3,1996-05-04,Chesterfield,Notts County,1,0,H,EN,1995/1996
+E3,1996-05-04,Hull,Bradford,2,3,A,EN,1995/1996
+E3,1996-05-04,Oxford,Peterboro,4,0,H,EN,1995/1996
+E3,1996-05-04,Rotherham,Wrexham,0,1,A,EN,1995/1996
+E3,1996-05-04,Swansea,Crewe,2,1,H,EN,1995/1996
+E3,1996-05-04,Swindon,Stockport,0,0,D,EN,1995/1996
+E3,1996-05-04,Walsall,Brighton,2,1,H,EN,1995/1996
+E3,1996-05-04,York,Blackpool,0,1,A,EN,1995/1996
+E3,1996-05-09,Brighton,York,1,3,A,EN,1995/1996

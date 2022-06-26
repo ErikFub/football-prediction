@@ -29,12 +29,12 @@ E2,1993-08-28,Stoke,West Brom,1,0,H,EN,1993/1994
 E2,1993-08-28,Wolves,Middlesbrough,2,3,A,EN,1993/1994
 E2,1993-08-31,Birmingham,Crystal Palace,2,4,A,EN,1993/1994
 E2,1993-08-31,Bolton,Oxford,1,0,H,EN,1993/1994
-E2,1993-01-09,West Brom,Southend,2,2,D,EN,1993/1994
-E2,1993-11-09,Southend,Middlesbrough,1,0,H,EN,1993/1994
-E2,1993-11-09,Stoke,Tranmere,1,2,A,EN,1993/1994
-E2,1993-11-09,Wolves,Portsmouth,1,1,D,EN,1993/1994
-E2,1993-12-09,Crystal Palace,Sunderland,1,0,H,EN,1993/1994
-E2,1993-12-09,Leicester,Birmingham,1,1,D,EN,1993/1994
+E2,1993-09-01,West Brom,Southend,2,2,D,EN,1993/1994
+E2,1993-09-11,Southend,Middlesbrough,1,0,H,EN,1993/1994
+E2,1993-09-11,Stoke,Tranmere,1,2,A,EN,1993/1994
+E2,1993-09-11,Wolves,Portsmouth,1,1,D,EN,1993/1994
+E2,1993-09-12,Crystal Palace,Sunderland,1,0,H,EN,1993/1994
+E2,1993-09-12,Leicester,Birmingham,1,1,D,EN,1993/1994
 E2,1993-09-14,Bristol City,Leicester,1,3,A,EN,1993/1994
 E2,1993-09-14,Middlesbrough,Stoke,1,2,A,EN,1993/1994
 E2,1993-09-14,Tranmere,Luton,4,1,H,EN,1993/1994
@@ -64,27 +64,27 @@ E2,1993-09-26,Bolton,Nott'm Forest,4,3,H,EN,1993/1994
 E2,1993-09-26,Charlton,Crystal Palace,0,0,D,EN,1993/1994
 E2,1993-09-28,Sunderland,Grimsby,2,2,D,EN,1993/1994
 E2,1993-09-29,Middlesbrough,Leicester,2,0,H,EN,1993/1994
-E2,1993-02-10,Bristol City,Bolton,2,0,H,EN,1993/1994
-E2,1993-02-10,Crystal Palace,Stoke,4,1,H,EN,1993/1994
-E2,1993-02-10,Leicester,Notts County,3,2,H,EN,1993/1994
-E2,1993-02-10,Luton,Barnsley,5,0,H,EN,1993/1994
-E2,1993-02-10,Middlesbrough,Birmingham,2,2,D,EN,1993/1994
-E2,1993-02-10,Millwall,Watford,4,1,H,EN,1993/1994
-E2,1993-02-10,Nott'm Forest,Portsmouth,1,1,D,EN,1993/1994
-E2,1993-02-10,Oxford,Grimsby,2,2,D,EN,1993/1994
-E2,1993-02-10,Southend,Tranmere,1,2,A,EN,1993/1994
-E2,1993-02-10,Sunderland,Peterboro,2,0,H,EN,1993/1994
-E2,1993-02-10,Wolves,Charlton,1,1,D,EN,1993/1994
-E2,1993-03-10,Derby,West Brom,5,3,H,EN,1993/1994
-E2,1993-05-10,Luton,Bristol City,0,2,A,EN,1993/1994
-E2,1993-09-10,Barnsley,Charlton,0,1,A,EN,1993/1994
-E2,1993-09-10,Derby,Luton,2,1,H,EN,1993/1994
-E2,1993-09-10,Grimsby,Southend,4,0,H,EN,1993/1994
-E2,1993-09-10,Millwall,West Brom,2,1,H,EN,1993/1994
-E2,1993-09-10,Notts County,Bristol City,2,0,H,EN,1993/1994
-E2,1993-09-10,Peterboro,Portsmouth,2,2,D,EN,1993/1994
-E2,1993-09-10,Sunderland,Birmingham,1,0,H,EN,1993/1994
-E2,1993-09-10,Tranmere,Bolton,2,1,H,EN,1993/1994
+E2,1993-10-02,Bristol City,Bolton,2,0,H,EN,1993/1994
+E2,1993-10-02,Crystal Palace,Stoke,4,1,H,EN,1993/1994
+E2,1993-10-02,Leicester,Notts County,3,2,H,EN,1993/1994
+E2,1993-10-02,Luton,Barnsley,5,0,H,EN,1993/1994
+E2,1993-10-02,Middlesbrough,Birmingham,2,2,D,EN,1993/1994
+E2,1993-10-02,Millwall,Watford,4,1,H,EN,1993/1994
+E2,1993-10-02,Nott'm Forest,Portsmouth,1,1,D,EN,1993/1994
+E2,1993-10-02,Oxford,Grimsby,2,2,D,EN,1993/1994
+E2,1993-10-02,Southend,Tranmere,1,2,A,EN,1993/1994
+E2,1993-10-02,Sunderland,Peterboro,2,0,H,EN,1993/1994
+E2,1993-10-02,Wolves,Charlton,1,1,D,EN,1993/1994
+E2,1993-10-03,Derby,West Brom,5,3,H,EN,1993/1994
+E2,1993-10-05,Luton,Bristol City,0,2,A,EN,1993/1994
+E2,1993-10-09,Barnsley,Charlton,0,1,A,EN,1993/1994
+E2,1993-10-09,Derby,Luton,2,1,H,EN,1993/1994
+E2,1993-10-09,Grimsby,Southend,4,0,H,EN,1993/1994
+E2,1993-10-09,Millwall,West Brom,2,1,H,EN,1993/1994
+E2,1993-10-09,Notts County,Bristol City,2,0,H,EN,1993/1994
+E2,1993-10-09,Peterboro,Portsmouth,2,2,D,EN,1993/1994
+E2,1993-10-09,Sunderland,Birmingham,1,0,H,EN,1993/1994
+E2,1993-10-09,Tranmere,Bolton,2,1,H,EN,1993/1994
 E2,1993-10-10,Oxford,Stoke,1,0,H,EN,1993/1994
 E2,1993-10-10,Watford,Middlesbrough,2,0,H,EN,1993/1994
 E2,1993-10-16,Birmingham,Watford,1,0,H,EN,1993/1994
@@ -127,31 +127,31 @@ E2,1993-10-30,Southend,Wolves,1,1,D,EN,1993/1994
 E2,1993-10-30,Stoke,Barnsley,5,4,H,EN,1993/1994
 E2,1993-10-30,West Brom,Watford,4,1,H,EN,1993/1994
 E2,1993-10-31,Birmingham,Millwall,1,0,H,EN,1993/1994
-E2,1993-02-11,Bolton,Peterboro,1,1,D,EN,1993/1994
-E2,1993-02-11,Bristol City,Birmingham,3,0,H,EN,1993/1994
-E2,1993-02-11,Charlton,Derby,1,2,A,EN,1993/1994
-E2,1993-02-11,Crystal Palace,Luton,3,2,H,EN,1993/1994
-E2,1993-02-11,Grimsby,Leicester,0,0,D,EN,1993/1994
-E2,1993-02-11,Oxford,Barnsley,1,1,D,EN,1993/1994
-E2,1993-02-11,Portsmouth,Middlesbrough,2,0,H,EN,1993/1994
-E2,1993-02-11,Tranmere,West Brom,3,0,H,EN,1993/1994
-E2,1993-02-11,Wolves,Notts County,3,0,H,EN,1993/1994
-E2,1993-03-11,Nott'm Forest,Millwall,1,3,A,EN,1993/1994
-E2,1993-03-11,Southend,Watford,2,0,H,EN,1993/1994
-E2,1993-03-11,Stoke,Sunderland,1,0,H,EN,1993/1994
-E2,1993-06-11,Birmingham,Nott'm Forest,0,3,A,EN,1993/1994
-E2,1993-06-11,Leicester,Southend,3,0,H,EN,1993/1994
-E2,1993-06-11,Middlesbrough,Bristol City,0,1,A,EN,1993/1994
-E2,1993-06-11,Millwall,Oxford,2,2,D,EN,1993/1994
-E2,1993-06-11,Notts County,Crystal Palace,3,2,H,EN,1993/1994
-E2,1993-06-11,Peterboro,Tranmere,0,0,D,EN,1993/1994
-E2,1993-06-11,Sunderland,Portsmouth,1,2,A,EN,1993/1994
-E2,1993-06-11,Watford,Stoke,1,3,A,EN,1993/1994
-E2,1993-06-11,West Brom,Bolton,2,2,D,EN,1993/1994
-E2,1993-07-11,Barnsley,Grimsby,1,2,A,EN,1993/1994
-E2,1993-07-11,Derby,Wolves,0,4,A,EN,1993/1994
-E2,1993-07-11,Luton,Charlton,1,0,H,EN,1993/1994
-E2,1993-10-11,Wolves,Nott'm Forest,1,1,D,EN,1993/1994
+E2,1993-11-02,Bolton,Peterboro,1,1,D,EN,1993/1994
+E2,1993-11-02,Bristol City,Birmingham,3,0,H,EN,1993/1994
+E2,1993-11-02,Charlton,Derby,1,2,A,EN,1993/1994
+E2,1993-11-02,Crystal Palace,Luton,3,2,H,EN,1993/1994
+E2,1993-11-02,Grimsby,Leicester,0,0,D,EN,1993/1994
+E2,1993-11-02,Oxford,Barnsley,1,1,D,EN,1993/1994
+E2,1993-11-02,Portsmouth,Middlesbrough,2,0,H,EN,1993/1994
+E2,1993-11-02,Tranmere,West Brom,3,0,H,EN,1993/1994
+E2,1993-11-02,Wolves,Notts County,3,0,H,EN,1993/1994
+E2,1993-11-03,Nott'm Forest,Millwall,1,3,A,EN,1993/1994
+E2,1993-11-03,Southend,Watford,2,0,H,EN,1993/1994
+E2,1993-11-03,Stoke,Sunderland,1,0,H,EN,1993/1994
+E2,1993-11-06,Birmingham,Nott'm Forest,0,3,A,EN,1993/1994
+E2,1993-11-06,Leicester,Southend,3,0,H,EN,1993/1994
+E2,1993-11-06,Middlesbrough,Bristol City,0,1,A,EN,1993/1994
+E2,1993-11-06,Millwall,Oxford,2,2,D,EN,1993/1994
+E2,1993-11-06,Notts County,Crystal Palace,3,2,H,EN,1993/1994
+E2,1993-11-06,Peterboro,Tranmere,0,0,D,EN,1993/1994
+E2,1993-11-06,Sunderland,Portsmouth,1,2,A,EN,1993/1994
+E2,1993-11-06,Watford,Stoke,1,3,A,EN,1993/1994
+E2,1993-11-06,West Brom,Bolton,2,2,D,EN,1993/1994
+E2,1993-11-07,Barnsley,Grimsby,1,2,A,EN,1993/1994
+E2,1993-11-07,Derby,Wolves,0,4,A,EN,1993/1994
+E2,1993-11-07,Luton,Charlton,1,0,H,EN,1993/1994
+E2,1993-11-10,Wolves,Nott'm Forest,1,1,D,EN,1993/1994
 E2,1993-11-13,Bristol City,Millwall,2,2,D,EN,1993/1994
 E2,1993-11-13,Charlton,Notts County,5,1,H,EN,1993/1994
 E2,1993-11-13,Oxford,Derby,2,0,H,EN,1993/1994
@@ -182,29 +182,29 @@ E2,1993-11-27,Sunderland,Nott'm Forest,2,3,A,EN,1993/1994
 E2,1993-11-27,West Brom,Portsmouth,4,1,H,EN,1993/1994
 E2,1993-11-28,Notts County,Oxford,2,1,H,EN,1993/1994
 E2,1993-11-28,Watford,Crystal Palace,1,3,A,EN,1993/1994
-E2,1993-03-12,Tranmere,Peterboro,2,1,H,EN,1993/1994
-E2,1993-04-12,Bristol City,Middlesbrough,0,0,D,EN,1993/1994
-E2,1993-04-12,Charlton,Luton,1,0,H,EN,1993/1994
-E2,1993-04-12,Grimsby,Barnsley,2,2,D,EN,1993/1994
-E2,1993-04-12,Nott'm Forest,Birmingham,1,0,H,EN,1993/1994
-E2,1993-04-12,Oxford,Millwall,0,2,A,EN,1993/1994
-E2,1993-04-12,Portsmouth,Sunderland,0,1,A,EN,1993/1994
-E2,1993-04-12,Stoke,Watford,2,0,H,EN,1993/1994
-E2,1993-05-12,Crystal Palace,Notts County,1,2,A,EN,1993/1994
-E2,1993-05-12,Southend,Leicester,0,0,D,EN,1993/1994
-E2,1993-05-12,Wolves,Derby,2,2,D,EN,1993/1994
-E2,1993-07-12,Bolton,West Brom,1,1,D,EN,1993/1994
-E2,1993-07-12,Portsmouth,Watford,2,0,H,EN,1993/1994
-E2,1993-08-12,Leicester,Crystal Palace,1,1,D,EN,1993/1994
-E2,1993-11-12,Barnsley,Peterboro,1,0,H,EN,1993/1994
-E2,1993-11-12,Crystal Palace,Birmingham,2,1,H,EN,1993/1994
-E2,1993-11-12,Leicester,Bristol City,3,0,H,EN,1993/1994
-E2,1993-11-12,Luton,Tranmere,0,1,A,EN,1993/1994
-E2,1993-11-12,Notts County,Millwall,1,3,A,EN,1993/1994
-E2,1993-11-12,Oxford,Bolton,0,2,A,EN,1993/1994
-E2,1993-11-12,Southend,West Brom,0,3,A,EN,1993/1994
-E2,1993-11-12,Stoke,Middlesbrough,3,1,H,EN,1993/1994
-E2,1993-11-12,Wolves,Watford,2,0,H,EN,1993/1994
+E2,1993-12-03,Tranmere,Peterboro,2,1,H,EN,1993/1994
+E2,1993-12-04,Bristol City,Middlesbrough,0,0,D,EN,1993/1994
+E2,1993-12-04,Charlton,Luton,1,0,H,EN,1993/1994
+E2,1993-12-04,Grimsby,Barnsley,2,2,D,EN,1993/1994
+E2,1993-12-04,Nott'm Forest,Birmingham,1,0,H,EN,1993/1994
+E2,1993-12-04,Oxford,Millwall,0,2,A,EN,1993/1994
+E2,1993-12-04,Portsmouth,Sunderland,0,1,A,EN,1993/1994
+E2,1993-12-04,Stoke,Watford,2,0,H,EN,1993/1994
+E2,1993-12-05,Crystal Palace,Notts County,1,2,A,EN,1993/1994
+E2,1993-12-05,Southend,Leicester,0,0,D,EN,1993/1994
+E2,1993-12-05,Wolves,Derby,2,2,D,EN,1993/1994
+E2,1993-12-07,Bolton,West Brom,1,1,D,EN,1993/1994
+E2,1993-12-07,Portsmouth,Watford,2,0,H,EN,1993/1994
+E2,1993-12-08,Leicester,Crystal Palace,1,1,D,EN,1993/1994
+E2,1993-12-11,Barnsley,Peterboro,1,0,H,EN,1993/1994
+E2,1993-12-11,Crystal Palace,Birmingham,2,1,H,EN,1993/1994
+E2,1993-12-11,Leicester,Bristol City,3,0,H,EN,1993/1994
+E2,1993-12-11,Luton,Tranmere,0,1,A,EN,1993/1994
+E2,1993-12-11,Notts County,Millwall,1,3,A,EN,1993/1994
+E2,1993-12-11,Oxford,Bolton,0,2,A,EN,1993/1994
+E2,1993-12-11,Southend,West Brom,0,3,A,EN,1993/1994
+E2,1993-12-11,Stoke,Middlesbrough,3,1,H,EN,1993/1994
+E2,1993-12-11,Wolves,Watford,2,0,H,EN,1993/1994
 E2,1993-12-12,Charlton,Portsmouth,0,1,A,EN,1993/1994
 E2,1993-12-18,Birmingham,Charlton,1,0,H,EN,1993/1994
 E2,1993-12-18,Bolton,Grimsby,1,1,D,EN,1993/1994
@@ -253,19 +253,19 @@ E2,1994-01-01,Southend,Birmingham,3,1,H,EN,1993/1994
 E2,1994-01-01,Stoke,Derby,2,1,H,EN,1993/1994
 E2,1994-01-01,Tranmere,Watford,2,1,H,EN,1993/1994
 E2,1994-01-01,West Brom,Luton,1,1,D,EN,1993/1994
-E2,1994-03-01,Birmingham,Oxford,1,1,D,EN,1993/1994
-E2,1994-03-01,Bristol City,Stoke,0,0,D,EN,1993/1994
-E2,1994-03-01,Charlton,West Brom,2,1,H,EN,1993/1994
-E2,1994-03-01,Derby,Tranmere,4,0,H,EN,1993/1994
-E2,1994-03-01,Middlesbrough,Grimsby,1,0,H,EN,1993/1994
-E2,1994-03-01,Notts County,Southend,2,1,H,EN,1993/1994
-E2,1994-03-01,Sunderland,Barnsley,1,0,H,EN,1993/1994
-E2,1994-03-01,Watford,Nott'm Forest,1,2,A,EN,1993/1994
-E2,1994-03-01,Wolves,Bolton,1,0,H,EN,1993/1994
-E2,1994-11-01,Notts County,Birmingham,2,1,H,EN,1993/1994
-E2,1994-11-01,Oxford,Sunderland,0,3,A,EN,1993/1994
-E2,1994-12-01,Leicester,West Brom,4,2,H,EN,1993/1994
-E2,1994-12-01,Southend,Bolton,0,2,A,EN,1993/1994
+E2,1994-01-03,Birmingham,Oxford,1,1,D,EN,1993/1994
+E2,1994-01-03,Bristol City,Stoke,0,0,D,EN,1993/1994
+E2,1994-01-03,Charlton,West Brom,2,1,H,EN,1993/1994
+E2,1994-01-03,Derby,Tranmere,4,0,H,EN,1993/1994
+E2,1994-01-03,Middlesbrough,Grimsby,1,0,H,EN,1993/1994
+E2,1994-01-03,Notts County,Southend,2,1,H,EN,1993/1994
+E2,1994-01-03,Sunderland,Barnsley,1,0,H,EN,1993/1994
+E2,1994-01-03,Watford,Nott'm Forest,1,2,A,EN,1993/1994
+E2,1994-01-03,Wolves,Bolton,1,0,H,EN,1993/1994
+E2,1994-01-11,Notts County,Birmingham,2,1,H,EN,1993/1994
+E2,1994-01-11,Oxford,Sunderland,0,3,A,EN,1993/1994
+E2,1994-01-12,Leicester,West Brom,4,2,H,EN,1993/1994
+E2,1994-01-12,Southend,Bolton,0,2,A,EN,1993/1994
 E2,1994-01-15,Barnsley,Bristol City,1,1,D,EN,1993/1994
 E2,1994-01-15,Derby,Portsmouth,1,0,H,EN,1993/1994
 E2,1994-01-15,Grimsby,Stoke,0,0,D,EN,1993/1994
@@ -291,32 +291,32 @@ E2,1994-01-22,West Brom,Millwall,0,0,D,EN,1993/1994
 E2,1994-01-23,Bolton,Tranmere,2,1,H,EN,1993/1994
 E2,1994-01-23,Nott'm Forest,Wolves,0,0,D,EN,1993/1994
 E2,1994-01-29,Derby,Watford,1,2,A,EN,1993/1994
-E2,1994-01-02,Crystal Palace,Peterboro,3,2,H,EN,1993/1994
-E2,1994-01-02,Grimsby,West Brom,2,2,D,EN,1993/1994
-E2,1994-05-02,Birmingham,Peterboro,0,0,D,EN,1993/1994
-E2,1994-05-02,Bolton,Watford,3,1,H,EN,1993/1994
-E2,1994-05-02,Bristol City,Tranmere,2,0,H,EN,1993/1994
-E2,1994-05-02,Charlton,Grimsby,0,1,A,EN,1993/1994
-E2,1994-05-02,Crystal Palace,Derby,1,1,D,EN,1993/1994
-E2,1994-05-02,Luton,Oxford,3,0,H,EN,1993/1994
-E2,1994-05-02,Portsmouth,Notts County,0,0,D,EN,1993/1994
-E2,1994-05-02,Southend,Barnsley,0,3,A,EN,1993/1994
-E2,1994-05-02,Stoke,Wolves,1,1,D,EN,1993/1994
-E2,1994-05-02,West Brom,Sunderland,2,1,H,EN,1993/1994
-E2,1994-06-02,Middlesbrough,Millwall,4,2,H,EN,1993/1994
-E2,1994-06-02,Nott'm Forest,Leicester,4,0,H,EN,1993/1994
-E2,1994-11-02,Tranmere,Portsmouth,3,1,H,EN,1993/1994
-E2,1994-12-02,Barnsley,Stoke,3,0,H,EN,1993/1994
-E2,1994-12-02,Derby,Bolton,2,0,H,EN,1993/1994
-E2,1994-12-02,Grimsby,Crystal Palace,1,1,D,EN,1993/1994
-E2,1994-12-02,Leicester,Luton,2,1,H,EN,1993/1994
-E2,1994-12-02,Millwall,Birmingham,2,1,H,EN,1993/1994
-E2,1994-12-02,Notts County,Nott'm Forest,2,1,H,EN,1993/1994
-E2,1994-12-02,Oxford,Charlton,0,4,A,EN,1993/1994
-E2,1994-12-02,Peterboro,Middlesbrough,1,0,H,EN,1993/1994
-E2,1994-12-02,Sunderland,Bristol City,0,0,D,EN,1993/1994
-E2,1994-12-02,Watford,West Brom,0,1,A,EN,1993/1994
-E2,1994-12-02,Wolves,Southend,0,1,A,EN,1993/1994
+E2,1994-02-01,Crystal Palace,Peterboro,3,2,H,EN,1993/1994
+E2,1994-02-01,Grimsby,West Brom,2,2,D,EN,1993/1994
+E2,1994-02-05,Birmingham,Peterboro,0,0,D,EN,1993/1994
+E2,1994-02-05,Bolton,Watford,3,1,H,EN,1993/1994
+E2,1994-02-05,Bristol City,Tranmere,2,0,H,EN,1993/1994
+E2,1994-02-05,Charlton,Grimsby,0,1,A,EN,1993/1994
+E2,1994-02-05,Crystal Palace,Derby,1,1,D,EN,1993/1994
+E2,1994-02-05,Luton,Oxford,3,0,H,EN,1993/1994
+E2,1994-02-05,Portsmouth,Notts County,0,0,D,EN,1993/1994
+E2,1994-02-05,Southend,Barnsley,0,3,A,EN,1993/1994
+E2,1994-02-05,Stoke,Wolves,1,1,D,EN,1993/1994
+E2,1994-02-05,West Brom,Sunderland,2,1,H,EN,1993/1994
+E2,1994-02-06,Middlesbrough,Millwall,4,2,H,EN,1993/1994
+E2,1994-02-06,Nott'm Forest,Leicester,4,0,H,EN,1993/1994
+E2,1994-02-11,Tranmere,Portsmouth,3,1,H,EN,1993/1994
+E2,1994-02-12,Barnsley,Stoke,3,0,H,EN,1993/1994
+E2,1994-02-12,Derby,Bolton,2,0,H,EN,1993/1994
+E2,1994-02-12,Grimsby,Crystal Palace,1,1,D,EN,1993/1994
+E2,1994-02-12,Leicester,Luton,2,1,H,EN,1993/1994
+E2,1994-02-12,Millwall,Birmingham,2,1,H,EN,1993/1994
+E2,1994-02-12,Notts County,Nott'm Forest,2,1,H,EN,1993/1994
+E2,1994-02-12,Oxford,Charlton,0,4,A,EN,1993/1994
+E2,1994-02-12,Peterboro,Middlesbrough,1,0,H,EN,1993/1994
+E2,1994-02-12,Sunderland,Bristol City,0,0,D,EN,1993/1994
+E2,1994-02-12,Watford,West Brom,0,1,A,EN,1993/1994
+E2,1994-02-12,Wolves,Southend,0,1,A,EN,1993/1994
 E2,1994-02-19,Birmingham,Notts County,2,3,A,EN,1993/1994
 E2,1994-02-19,Nott'm Forest,Crystal Palace,1,1,D,EN,1993/1994
 E2,1994-02-19,Peterboro,Stoke,1,1,D,EN,1993/1994
@@ -339,32 +339,32 @@ E2,1994-02-26,Oxford,Nott'm Forest,1,0,H,EN,1993/1994
 E2,1994-02-26,Southend,Bristol City,0,1,A,EN,1993/1994
 E2,1994-02-26,Stoke,Portsmouth,2,0,H,EN,1993/1994
 E2,1994-02-26,Wolves,West Brom,1,2,A,EN,1993/1994
-E2,1994-01-03,Notts County,Barnsley,3,1,H,EN,1993/1994
-E2,1994-02-03,Nott'm Forest,Peterboro,2,0,H,EN,1993/1994
-E2,1994-02-03,Southend,Millwall,1,1,D,EN,1993/1994
-E2,1994-05-03,Birmingham,Barnsley,0,2,A,EN,1993/1994
-E2,1994-05-03,Bolton,Charlton,3,2,H,EN,1993/1994
-E2,1994-05-03,Bristol City,Derby,0,0,D,EN,1993/1994
-E2,1994-05-03,Middlesbrough,Wolves,1,0,H,EN,1993/1994
-E2,1994-05-03,Nott'm Forest,Luton,2,0,H,EN,1993/1994
-E2,1994-05-03,Peterboro,Southend,3,1,H,EN,1993/1994
-E2,1994-05-03,Portsmouth,Crystal Palace,0,1,A,EN,1993/1994
-E2,1994-05-03,Sunderland,Notts County,2,0,H,EN,1993/1994
-E2,1994-05-03,Tranmere,Grimsby,1,2,A,EN,1993/1994
-E2,1994-05-03,Watford,Oxford,2,1,H,EN,1993/1994
-E2,1994-05-03,West Brom,Stoke,0,0,D,EN,1993/1994
-E2,1994-06-03,Millwall,Leicester,0,0,D,EN,1993/1994
-E2,1994-08-03,Grimsby,Peterboro,3,2,H,EN,1993/1994
-E2,1994-08-03,Luton,Middlesbrough,1,1,D,EN,1993/1994
-E2,1994-12-03,Barnsley,Tranmere,1,0,H,EN,1993/1994
-E2,1994-12-03,Crystal Palace,West Brom,1,0,H,EN,1993/1994
-E2,1994-12-03,Derby,Millwall,0,0,D,EN,1993/1994
-E2,1994-12-03,Grimsby,Birmingham,1,0,H,EN,1993/1994
-E2,1994-12-03,Leicester,Middlesbrough,2,0,H,EN,1993/1994
-E2,1994-12-03,Notts County,Watford,1,0,H,EN,1993/1994
-E2,1994-12-03,Oxford,Peterboro,1,2,A,EN,1993/1994
-E2,1994-12-03,Southend,Portsmouth,2,1,H,EN,1993/1994
-E2,1994-12-03,Stoke,Nott'm Forest,0,1,A,EN,1993/1994
+E2,1994-03-01,Notts County,Barnsley,3,1,H,EN,1993/1994
+E2,1994-03-02,Nott'm Forest,Peterboro,2,0,H,EN,1993/1994
+E2,1994-03-02,Southend,Millwall,1,1,D,EN,1993/1994
+E2,1994-03-05,Birmingham,Barnsley,0,2,A,EN,1993/1994
+E2,1994-03-05,Bolton,Charlton,3,2,H,EN,1993/1994
+E2,1994-03-05,Bristol City,Derby,0,0,D,EN,1993/1994
+E2,1994-03-05,Middlesbrough,Wolves,1,0,H,EN,1993/1994
+E2,1994-03-05,Nott'm Forest,Luton,2,0,H,EN,1993/1994
+E2,1994-03-05,Peterboro,Southend,3,1,H,EN,1993/1994
+E2,1994-03-05,Portsmouth,Crystal Palace,0,1,A,EN,1993/1994
+E2,1994-03-05,Sunderland,Notts County,2,0,H,EN,1993/1994
+E2,1994-03-05,Tranmere,Grimsby,1,2,A,EN,1993/1994
+E2,1994-03-05,Watford,Oxford,2,1,H,EN,1993/1994
+E2,1994-03-05,West Brom,Stoke,0,0,D,EN,1993/1994
+E2,1994-03-06,Millwall,Leicester,0,0,D,EN,1993/1994
+E2,1994-03-08,Grimsby,Peterboro,3,2,H,EN,1993/1994
+E2,1994-03-08,Luton,Middlesbrough,1,1,D,EN,1993/1994
+E2,1994-03-12,Barnsley,Tranmere,1,0,H,EN,1993/1994
+E2,1994-03-12,Crystal Palace,West Brom,1,0,H,EN,1993/1994
+E2,1994-03-12,Derby,Millwall,0,0,D,EN,1993/1994
+E2,1994-03-12,Grimsby,Birmingham,1,0,H,EN,1993/1994
+E2,1994-03-12,Leicester,Middlesbrough,2,0,H,EN,1993/1994
+E2,1994-03-12,Notts County,Watford,1,0,H,EN,1993/1994
+E2,1994-03-12,Oxford,Peterboro,1,2,A,EN,1993/1994
+E2,1994-03-12,Southend,Portsmouth,2,1,H,EN,1993/1994
+E2,1994-03-12,Stoke,Nott'm Forest,0,1,A,EN,1993/1994
 E2,1994-03-15,Birmingham,Leicester,0,3,A,EN,1993/1994
 E2,1994-03-15,Bristol City,Oxford,0,1,A,EN,1993/1994
 E2,1994-03-15,Middlesbrough,Southend,1,0,H,EN,1993/1994
@@ -412,18 +412,18 @@ E2,1994-03-30,Nott'm Forest,Watford,2,1,H,EN,1993/1994
 E2,1994-03-30,Southend,Notts County,1,0,H,EN,1993/1994
 E2,1994-03-30,Stoke,Bristol City,3,0,H,EN,1993/1994
 E2,1994-03-30,West Brom,Charlton,2,0,H,EN,1993/1994
-E2,1994-02-04,Birmingham,Stoke,3,1,H,EN,1993/1994
-E2,1994-02-04,Bristol City,West Brom,0,0,D,EN,1993/1994
-E2,1994-02-04,Charlton,Southend,4,3,H,EN,1993/1994
-E2,1994-02-04,Crystal Palace,Oxford,2,1,H,EN,1993/1994
-E2,1994-02-04,Derby,Barnsley,2,0,H,EN,1993/1994
-E2,1994-02-04,Luton,Peterboro,2,0,H,EN,1993/1994
-E2,1994-02-04,Middlesbrough,Nott'm Forest,2,2,D,EN,1993/1994
-E2,1994-02-04,Notts County,Grimsby,2,1,H,EN,1993/1994
-E2,1994-02-04,Portsmouth,Millwall,2,2,D,EN,1993/1994
-E2,1994-02-04,Sunderland,Bolton,2,0,H,EN,1993/1994
-E2,1994-02-04,Watford,Leicester,1,1,D,EN,1993/1994
-E2,1994-02-04,Wolves,Tranmere,2,1,H,EN,1993/1994
+E2,1994-04-02,Birmingham,Stoke,3,1,H,EN,1993/1994
+E2,1994-04-02,Bristol City,West Brom,0,0,D,EN,1993/1994
+E2,1994-04-02,Charlton,Southend,4,3,H,EN,1993/1994
+E2,1994-04-02,Crystal Palace,Oxford,2,1,H,EN,1993/1994
+E2,1994-04-02,Derby,Barnsley,2,0,H,EN,1993/1994
+E2,1994-04-02,Luton,Peterboro,2,0,H,EN,1993/1994
+E2,1994-04-02,Middlesbrough,Nott'm Forest,2,2,D,EN,1993/1994
+E2,1994-04-02,Notts County,Grimsby,2,1,H,EN,1993/1994
+E2,1994-04-02,Portsmouth,Millwall,2,2,D,EN,1993/1994
+E2,1994-04-02,Sunderland,Bolton,2,0,H,EN,1993/1994
+E2,1994-04-02,Watford,Leicester,1,1,D,EN,1993/1994
+E2,1994-04-02,Wolves,Tranmere,2,1,H,EN,1993/1994
 E2,1994-04-04,Barnsley,Notts County,0,3,A,EN,1993/1994
 E2,1994-04-04,Bolton,Portsmouth,1,1,D,EN,1993/1994
 E2,1994-04-04,Grimsby,Luton,2,0,H,EN,1993/1994
@@ -431,27 +431,27 @@ E2,1994-04-04,Nott'm Forest,Bristol City,0,0,D,EN,1993/1994
 E2,1994-04-04,Oxford,Wolves,4,0,H,EN,1993/1994
 E2,1994-04-04,Stoke,Charlton,1,0,H,EN,1993/1994
 E2,1994-04-04,Tranmere,Middlesbrough,4,0,H,EN,1993/1994
-E2,1994-05-04,Leicester,Derby,3,3,D,EN,1993/1994
-E2,1994-05-04,Peterboro,Watford,3,4,A,EN,1993/1994
-E2,1994-06-04,Millwall,Sunderland,2,1,H,EN,1993/1994
-E2,1994-06-04,Southend,Crystal Palace,1,2,A,EN,1993/1994
-E2,1994-09-04,Birmingham,Southend,3,1,H,EN,1993/1994
-E2,1994-09-04,Bristol City,Grimsby,1,0,H,EN,1993/1994
-E2,1994-09-04,Charlton,Nott'm Forest,0,1,A,EN,1993/1994
-E2,1994-09-04,Crystal Palace,Millwall,1,0,H,EN,1993/1994
-E2,1994-09-04,Derby,Stoke,4,2,H,EN,1993/1994
-E2,1994-09-04,Middlesbrough,Oxford,2,1,H,EN,1993/1994
-E2,1994-09-04,Notts County,Bolton,2,1,H,EN,1993/1994
-E2,1994-09-04,Portsmouth,Barnsley,2,1,H,EN,1993/1994
-E2,1994-09-04,Sunderland,Leicester,2,3,A,EN,1993/1994
-E2,1994-09-04,Watford,Tranmere,1,2,A,EN,1993/1994
-E2,1994-09-04,Wolves,Peterboro,1,1,D,EN,1993/1994
-E2,1994-12-04,Barnsley,Watford,0,1,A,EN,1993/1994
-E2,1994-12-04,Bolton,Southend,0,2,A,EN,1993/1994
-E2,1994-12-04,Grimsby,Sunderland,0,1,A,EN,1993/1994
-E2,1994-12-04,Luton,Wolves,0,2,A,EN,1993/1994
-E2,1994-12-04,Notts County,Tranmere,0,0,D,EN,1993/1994
-E2,1994-12-04,Oxford,West Brom,1,1,D,EN,1993/1994
+E2,1994-04-05,Leicester,Derby,3,3,D,EN,1993/1994
+E2,1994-04-05,Peterboro,Watford,3,4,A,EN,1993/1994
+E2,1994-04-06,Millwall,Sunderland,2,1,H,EN,1993/1994
+E2,1994-04-06,Southend,Crystal Palace,1,2,A,EN,1993/1994
+E2,1994-04-09,Birmingham,Southend,3,1,H,EN,1993/1994
+E2,1994-04-09,Bristol City,Grimsby,1,0,H,EN,1993/1994
+E2,1994-04-09,Charlton,Nott'm Forest,0,1,A,EN,1993/1994
+E2,1994-04-09,Crystal Palace,Millwall,1,0,H,EN,1993/1994
+E2,1994-04-09,Derby,Stoke,4,2,H,EN,1993/1994
+E2,1994-04-09,Middlesbrough,Oxford,2,1,H,EN,1993/1994
+E2,1994-04-09,Notts County,Bolton,2,1,H,EN,1993/1994
+E2,1994-04-09,Portsmouth,Barnsley,2,1,H,EN,1993/1994
+E2,1994-04-09,Sunderland,Leicester,2,3,A,EN,1993/1994
+E2,1994-04-09,Watford,Tranmere,1,2,A,EN,1993/1994
+E2,1994-04-09,Wolves,Peterboro,1,1,D,EN,1993/1994
+E2,1994-04-12,Barnsley,Watford,0,1,A,EN,1993/1994
+E2,1994-04-12,Bolton,Southend,0,2,A,EN,1993/1994
+E2,1994-04-12,Grimsby,Sunderland,0,1,A,EN,1993/1994
+E2,1994-04-12,Luton,Wolves,0,2,A,EN,1993/1994
+E2,1994-04-12,Notts County,Tranmere,0,0,D,EN,1993/1994
+E2,1994-04-12,Oxford,West Brom,1,1,D,EN,1993/1994
 E2,1994-04-13,Stoke,Peterboro,3,0,H,EN,1993/1994
 E2,1994-04-16,Barnsley,Oxford,1,0,H,EN,1993/1994
 E2,1994-04-16,Birmingham,Bristol City,2,2,D,EN,1993/1994
@@ -499,23 +499,23 @@ E2,1994-04-30,Peterboro,Nott'm Forest,2,3,A,EN,1993/1994
 E2,1994-04-30,Sunderland,Tranmere,3,2,H,EN,1993/1994
 E2,1994-04-30,Watford,Portsmouth,1,0,H,EN,1993/1994
 E2,1994-04-30,West Brom,Grimsby,1,0,H,EN,1993/1994
-E2,1994-01-05,Middlesbrough,Crystal Palace,2,3,A,EN,1993/1994
-E2,1994-03-05,Barnsley,Millwall,0,1,A,EN,1993/1994
-E2,1994-03-05,Charlton,Bristol City,3,1,H,EN,1993/1994
-E2,1994-03-05,Grimsby,Nott'm Forest,0,0,D,EN,1993/1994
-E2,1994-03-05,Leicester,Bolton,1,1,D,EN,1993/1994
-E2,1994-03-05,Luton,West Brom,3,2,H,EN,1993/1994
-E2,1994-03-05,Wolves,Sunderland,1,1,D,EN,1993/1994
+E2,1994-05-01,Middlesbrough,Crystal Palace,2,3,A,EN,1993/1994
+E2,1994-05-03,Barnsley,Millwall,0,1,A,EN,1993/1994
+E2,1994-05-03,Charlton,Bristol City,3,1,H,EN,1993/1994
+E2,1994-05-03,Grimsby,Nott'm Forest,0,0,D,EN,1993/1994
+E2,1994-05-03,Leicester,Bolton,1,1,D,EN,1993/1994
+E2,1994-05-03,Luton,West Brom,3,2,H,EN,1993/1994
+E2,1994-05-03,Wolves,Sunderland,1,1,D,EN,1993/1994
 E2,1994-05-05,Bolton,Luton,2,1,H,EN,1993/1994
-E2,1994-08-05,Bolton,Barnsley,2,3,A,EN,1993/1994
-E2,1994-08-05,Bristol City,Peterboro,4,1,H,EN,1993/1994
-E2,1994-08-05,Charlton,Middlesbrough,2,5,A,EN,1993/1994
-E2,1994-08-05,Crystal Palace,Watford,0,2,A,EN,1993/1994
-E2,1994-08-05,Grimsby,Millwall,0,0,D,EN,1993/1994
-E2,1994-08-05,Nott'm Forest,Sunderland,2,2,D,EN,1993/1994
-E2,1994-08-05,Oxford,Notts County,2,1,H,EN,1993/1994
-E2,1994-08-05,Portsmouth,West Brom,0,1,A,EN,1993/1994
-E2,1994-08-05,Southend,Derby,4,3,H,EN,1993/1994
-E2,1994-08-05,Stoke,Luton,2,2,D,EN,1993/1994
-E2,1994-08-05,Tranmere,Birmingham,1,2,A,EN,1993/1994
-E2,1994-08-05,Wolves,Leicester,1,1,D,EN,1993/1994
+E2,1994-05-08,Bolton,Barnsley,2,3,A,EN,1993/1994
+E2,1994-05-08,Bristol City,Peterboro,4,1,H,EN,1993/1994
+E2,1994-05-08,Charlton,Middlesbrough,2,5,A,EN,1993/1994
+E2,1994-05-08,Crystal Palace,Watford,0,2,A,EN,1993/1994
+E2,1994-05-08,Grimsby,Millwall,0,0,D,EN,1993/1994
+E2,1994-05-08,Nott'm Forest,Sunderland,2,2,D,EN,1993/1994
+E2,1994-05-08,Oxford,Notts County,2,1,H,EN,1993/1994
+E2,1994-05-08,Portsmouth,West Brom,0,1,A,EN,1993/1994
+E2,1994-05-08,Southend,Derby,4,3,H,EN,1993/1994
+E2,1994-05-08,Stoke,Luton,2,2,D,EN,1993/1994
+E2,1994-05-08,Tranmere,Birmingham,1,2,A,EN,1993/1994
+E2,1994-05-08,Wolves,Leicester,1,1,D,EN,1993/1994

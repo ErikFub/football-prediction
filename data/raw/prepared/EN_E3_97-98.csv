@@ -1,16 +1,16 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
-E3,1997-09-08,Blackpool,Luton,1,0,H,EN,1997/1998
-E3,1997-09-08,Bristol Rvs,Plymouth,1,1,D,EN,1997/1998
-E3,1997-09-08,Chesterfield,Walsall,3,1,H,EN,1997/1998
-E3,1997-09-08,Fulham,Wrexham,1,0,H,EN,1997/1998
-E3,1997-09-08,Gillingham,Preston,0,0,D,EN,1997/1998
-E3,1997-09-08,Grimsby,Bristol City,1,1,D,EN,1997/1998
-E3,1997-09-08,Millwall,Brentford,3,0,H,EN,1997/1998
-E3,1997-09-08,Northampton,Bournemouth,0,2,A,EN,1997/1998
-E3,1997-09-08,Oldham,York,3,1,H,EN,1997/1998
-E3,1997-09-08,Southend,Carlisle,1,1,D,EN,1997/1998
-E3,1997-09-08,Watford,Burnley,1,0,H,EN,1997/1998
-E3,1997-09-08,Wigan,Wycombe,5,2,H,EN,1997/1998
+E3,1997-08-09,Blackpool,Luton,1,0,H,EN,1997/1998
+E3,1997-08-09,Bristol Rvs,Plymouth,1,1,D,EN,1997/1998
+E3,1997-08-09,Chesterfield,Walsall,3,1,H,EN,1997/1998
+E3,1997-08-09,Fulham,Wrexham,1,0,H,EN,1997/1998
+E3,1997-08-09,Gillingham,Preston,0,0,D,EN,1997/1998
+E3,1997-08-09,Grimsby,Bristol City,1,1,D,EN,1997/1998
+E3,1997-08-09,Millwall,Brentford,3,0,H,EN,1997/1998
+E3,1997-08-09,Northampton,Bournemouth,0,2,A,EN,1997/1998
+E3,1997-08-09,Oldham,York,3,1,H,EN,1997/1998
+E3,1997-08-09,Southend,Carlisle,1,1,D,EN,1997/1998
+E3,1997-08-09,Watford,Burnley,1,0,H,EN,1997/1998
+E3,1997-08-09,Wigan,Wycombe,5,2,H,EN,1997/1998
 E3,1997-08-16,Bournemouth,Wigan,1,0,H,EN,1997/1998
 E3,1997-08-16,Brentford,Chesterfield,0,0,D,EN,1997/1998
 E3,1997-08-16,Bristol City,Blackpool,2,0,H,EN,1997/1998
@@ -46,24 +46,24 @@ E3,1997-08-30,Preston,Watford,2,0,H,EN,1997/1998
 E3,1997-08-30,Walsall,Southend,3,1,H,EN,1997/1998
 E3,1997-08-30,Wycombe,Fulham,2,0,H,EN,1997/1998
 E3,1997-08-30,York,Gillingham,2,1,H,EN,1997/1998
-E3,1997-02-09,Bournemouth,Bristol Rvs,1,1,D,EN,1997/1998
-E3,1997-02-09,Brentford,Gillingham,2,0,H,EN,1997/1998
-E3,1997-02-09,Bristol City,Fulham,0,2,A,EN,1997/1998
-E3,1997-02-09,Burnley,Oldham,0,0,D,EN,1997/1998
-E3,1997-02-09,Carlisle,Wigan,1,0,H,EN,1997/1998
-E3,1997-02-09,Luton,Millwall,0,2,A,EN,1997/1998
-E3,1997-02-09,Plymouth,Watford,0,1,A,EN,1997/1998
-E3,1997-02-09,Preston,Grimsby,2,0,H,EN,1997/1998
-E3,1997-02-09,Walsall,Northampton,0,2,A,EN,1997/1998
-E3,1997-02-09,Wrexham,Blackpool,3,4,A,EN,1997/1998
-E3,1997-02-09,Wycombe,Southend,4,1,H,EN,1997/1998
-E3,1997-02-09,York,Chesterfield,0,1,A,EN,1997/1998
-E3,1997-05-09,Gillingham,Bournemouth,2,1,H,EN,1997/1998
-E3,1997-05-09,Southend,Brentford,3,1,H,EN,1997/1998
-E3,1997-07-09,Blackpool,Carlisle,2,1,H,EN,1997/1998
-E3,1997-07-09,Chesterfield,Burnley,1,0,H,EN,1997/1998
-E3,1997-07-09,Watford,Wycombe,2,1,H,EN,1997/1998
-E3,1997-08-09,Wigan,Wrexham,3,2,H,EN,1997/1998
+E3,1997-09-02,Bournemouth,Bristol Rvs,1,1,D,EN,1997/1998
+E3,1997-09-02,Brentford,Gillingham,2,0,H,EN,1997/1998
+E3,1997-09-02,Bristol City,Fulham,0,2,A,EN,1997/1998
+E3,1997-09-02,Burnley,Oldham,0,0,D,EN,1997/1998
+E3,1997-09-02,Carlisle,Wigan,1,0,H,EN,1997/1998
+E3,1997-09-02,Luton,Millwall,0,2,A,EN,1997/1998
+E3,1997-09-02,Plymouth,Watford,0,1,A,EN,1997/1998
+E3,1997-09-02,Preston,Grimsby,2,0,H,EN,1997/1998
+E3,1997-09-02,Walsall,Northampton,0,2,A,EN,1997/1998
+E3,1997-09-02,Wrexham,Blackpool,3,4,A,EN,1997/1998
+E3,1997-09-02,Wycombe,Southend,4,1,H,EN,1997/1998
+E3,1997-09-02,York,Chesterfield,0,1,A,EN,1997/1998
+E3,1997-09-05,Gillingham,Bournemouth,2,1,H,EN,1997/1998
+E3,1997-09-05,Southend,Brentford,3,1,H,EN,1997/1998
+E3,1997-09-07,Blackpool,Carlisle,2,1,H,EN,1997/1998
+E3,1997-09-07,Chesterfield,Burnley,1,0,H,EN,1997/1998
+E3,1997-09-07,Watford,Wycombe,2,1,H,EN,1997/1998
+E3,1997-09-08,Wigan,Wrexham,3,2,H,EN,1997/1998
 E3,1997-09-09,Bristol Rvs,Walsall,2,0,H,EN,1997/1998
 E3,1997-09-09,Fulham,Plymouth,2,0,H,EN,1997/1998
 E3,1997-09-09,Grimsby,York,0,0,D,EN,1997/1998
@@ -105,29 +105,29 @@ E3,1997-09-27,Watford,York,1,1,D,EN,1997/1998
 E3,1997-09-27,Wigan,Fulham,2,1,H,EN,1997/1998
 E3,1997-09-27,Wrexham,Chesterfield,0,0,D,EN,1997/1998
 E3,1997-09-27,Wycombe,Preston,0,0,D,EN,1997/1998
-E3,1997-04-10,Bristol Rvs,Wrexham,1,0,H,EN,1997/1998
-E3,1997-04-10,Burnley,Wycombe,2,2,D,EN,1997/1998
-E3,1997-04-10,Chesterfield,Bournemouth,1,1,D,EN,1997/1998
-E3,1997-04-10,Fulham,Oldham,3,1,H,EN,1997/1998
-E3,1997-04-10,Gillingham,Bristol City,2,0,H,EN,1997/1998
-E3,1997-04-10,Grimsby,Wigan,2,1,H,EN,1997/1998
-E3,1997-04-10,Luton,Watford,0,4,A,EN,1997/1998
-E3,1997-04-10,Millwall,Blackpool,2,1,H,EN,1997/1998
-E3,1997-04-10,Preston,Brentford,2,1,H,EN,1997/1998
-E3,1997-04-10,Southend,Northampton,0,0,D,EN,1997/1998
-E3,1997-04-10,Walsall,Carlisle,3,1,H,EN,1997/1998
-E3,1997-04-10,York,Plymouth,1,0,H,EN,1997/1998
-E3,1997-11-10,Burnley,Carlisle,3,1,H,EN,1997/1998
-E3,1997-11-10,Chesterfield,Wigan,2,3,A,EN,1997/1998
-E3,1997-11-10,Fulham,Blackpool,1,0,H,EN,1997/1998
-E3,1997-11-10,Gillingham,Wycombe,1,0,H,EN,1997/1998
-E3,1997-11-10,Grimsby,Northampton,1,0,H,EN,1997/1998
-E3,1997-11-10,Luton,Plymouth,3,0,H,EN,1997/1998
-E3,1997-11-10,Millwall,Oldham,2,1,H,EN,1997/1998
-E3,1997-11-10,Preston,Bournemouth,0,1,A,EN,1997/1998
-E3,1997-11-10,Southend,Bristol City,0,2,A,EN,1997/1998
-E3,1997-11-10,Walsall,Wrexham,3,0,H,EN,1997/1998
-E3,1997-11-10,York,Brentford,3,1,H,EN,1997/1998
+E3,1997-10-04,Bristol Rvs,Wrexham,1,0,H,EN,1997/1998
+E3,1997-10-04,Burnley,Wycombe,2,2,D,EN,1997/1998
+E3,1997-10-04,Chesterfield,Bournemouth,1,1,D,EN,1997/1998
+E3,1997-10-04,Fulham,Oldham,3,1,H,EN,1997/1998
+E3,1997-10-04,Gillingham,Bristol City,2,0,H,EN,1997/1998
+E3,1997-10-04,Grimsby,Wigan,2,1,H,EN,1997/1998
+E3,1997-10-04,Luton,Watford,0,4,A,EN,1997/1998
+E3,1997-10-04,Millwall,Blackpool,2,1,H,EN,1997/1998
+E3,1997-10-04,Preston,Brentford,2,1,H,EN,1997/1998
+E3,1997-10-04,Southend,Northampton,0,0,D,EN,1997/1998
+E3,1997-10-04,Walsall,Carlisle,3,1,H,EN,1997/1998
+E3,1997-10-04,York,Plymouth,1,0,H,EN,1997/1998
+E3,1997-10-11,Burnley,Carlisle,3,1,H,EN,1997/1998
+E3,1997-10-11,Chesterfield,Wigan,2,3,A,EN,1997/1998
+E3,1997-10-11,Fulham,Blackpool,1,0,H,EN,1997/1998
+E3,1997-10-11,Gillingham,Wycombe,1,0,H,EN,1997/1998
+E3,1997-10-11,Grimsby,Northampton,1,0,H,EN,1997/1998
+E3,1997-10-11,Luton,Plymouth,3,0,H,EN,1997/1998
+E3,1997-10-11,Millwall,Oldham,2,1,H,EN,1997/1998
+E3,1997-10-11,Preston,Bournemouth,0,1,A,EN,1997/1998
+E3,1997-10-11,Southend,Bristol City,0,2,A,EN,1997/1998
+E3,1997-10-11,Walsall,Wrexham,3,0,H,EN,1997/1998
+E3,1997-10-11,York,Brentford,3,1,H,EN,1997/1998
 E3,1997-10-14,Bristol Rvs,Watford,1,2,A,EN,1997/1998
 E3,1997-10-17,Bristol City,York,2,1,H,EN,1997/1998
 E3,1997-10-17,Carlisle,Preston,0,2,A,EN,1997/1998
@@ -166,42 +166,42 @@ E3,1997-10-25,Southend,Oldham,1,1,D,EN,1997/1998
 E3,1997-10-25,Walsall,Bristol City,0,0,D,EN,1997/1998
 E3,1997-10-25,York,Carlisle,4,3,H,EN,1997/1998
 E3,1997-10-29,Millwall,Bristol City,0,2,A,EN,1997/1998
-E3,1997-01-11,Bournemouth,Brentford,0,0,D,EN,1997/1998
-E3,1997-01-11,Bristol City,Oldham,1,0,H,EN,1997/1998
-E3,1997-01-11,Burnley,Walsall,2,1,H,EN,1997/1998
-E3,1997-01-11,Carlisle,Wrexham,2,2,D,EN,1997/1998
-E3,1997-01-11,Fulham,Chesterfield,1,1,D,EN,1997/1998
-E3,1997-01-11,Gillingham,Millwall,1,3,A,EN,1997/1998
-E3,1997-01-11,Grimsby,Southend,5,1,H,EN,1997/1998
-E3,1997-01-11,Northampton,Bristol Rvs,1,1,D,EN,1997/1998
-E3,1997-01-11,Preston,Plymouth,0,1,A,EN,1997/1998
-E3,1997-01-11,Watford,Blackpool,4,1,H,EN,1997/1998
-E3,1997-01-11,Wigan,York,1,1,D,EN,1997/1998
-E3,1997-01-11,Wycombe,Luton,2,2,D,EN,1997/1998
-E3,1997-04-11,Blackpool,Northampton,1,1,D,EN,1997/1998
-E3,1997-04-11,Brentford,Carlisle,0,1,A,EN,1997/1998
-E3,1997-04-11,Bristol Rvs,Bristol City,1,2,A,EN,1997/1998
-E3,1997-04-11,Chesterfield,Gillingham,1,1,D,EN,1997/1998
-E3,1997-04-11,Luton,Burnley,2,3,A,EN,1997/1998
-E3,1997-04-11,Millwall,Fulham,1,1,D,EN,1997/1998
-E3,1997-04-11,Oldham,Wigan,3,1,H,EN,1997/1998
-E3,1997-04-11,Plymouth,Wycombe,4,2,H,EN,1997/1998
-E3,1997-04-11,Southend,Watford,0,3,A,EN,1997/1998
-E3,1997-04-11,Walsall,Grimsby,0,0,D,EN,1997/1998
-E3,1997-04-11,Wrexham,Bournemouth,2,1,H,EN,1997/1998
-E3,1997-04-11,York,Preston,1,0,H,EN,1997/1998
-E3,1997-07-11,Oldham,Gillingham,3,1,H,EN,1997/1998
-E3,1997-08-11,Blackpool,Burnley,2,1,H,EN,1997/1998
-E3,1997-08-11,Brentford,Bristol City,1,4,A,EN,1997/1998
-E3,1997-08-11,Bristol Rvs,Fulham,2,3,A,EN,1997/1998
-E3,1997-08-11,Chesterfield,Grimsby,1,0,H,EN,1997/1998
-E3,1997-08-11,Luton,Preston,1,3,A,EN,1997/1998
-E3,1997-08-11,Millwall,Carlisle,1,1,D,EN,1997/1998
-E3,1997-08-11,Plymouth,Bournemouth,3,0,H,EN,1997/1998
-E3,1997-08-11,Southend,Wigan,1,0,H,EN,1997/1998
-E3,1997-08-11,Walsall,Watford,0,0,D,EN,1997/1998
-E3,1997-08-11,Wrexham,Northampton,1,0,H,EN,1997/1998
-E3,1997-08-11,York,Wycombe,2,0,H,EN,1997/1998
+E3,1997-11-01,Bournemouth,Brentford,0,0,D,EN,1997/1998
+E3,1997-11-01,Bristol City,Oldham,1,0,H,EN,1997/1998
+E3,1997-11-01,Burnley,Walsall,2,1,H,EN,1997/1998
+E3,1997-11-01,Carlisle,Wrexham,2,2,D,EN,1997/1998
+E3,1997-11-01,Fulham,Chesterfield,1,1,D,EN,1997/1998
+E3,1997-11-01,Gillingham,Millwall,1,3,A,EN,1997/1998
+E3,1997-11-01,Grimsby,Southend,5,1,H,EN,1997/1998
+E3,1997-11-01,Northampton,Bristol Rvs,1,1,D,EN,1997/1998
+E3,1997-11-01,Preston,Plymouth,0,1,A,EN,1997/1998
+E3,1997-11-01,Watford,Blackpool,4,1,H,EN,1997/1998
+E3,1997-11-01,Wigan,York,1,1,D,EN,1997/1998
+E3,1997-11-01,Wycombe,Luton,2,2,D,EN,1997/1998
+E3,1997-11-04,Blackpool,Northampton,1,1,D,EN,1997/1998
+E3,1997-11-04,Brentford,Carlisle,0,1,A,EN,1997/1998
+E3,1997-11-04,Bristol Rvs,Bristol City,1,2,A,EN,1997/1998
+E3,1997-11-04,Chesterfield,Gillingham,1,1,D,EN,1997/1998
+E3,1997-11-04,Luton,Burnley,2,3,A,EN,1997/1998
+E3,1997-11-04,Millwall,Fulham,1,1,D,EN,1997/1998
+E3,1997-11-04,Oldham,Wigan,3,1,H,EN,1997/1998
+E3,1997-11-04,Plymouth,Wycombe,4,2,H,EN,1997/1998
+E3,1997-11-04,Southend,Watford,0,3,A,EN,1997/1998
+E3,1997-11-04,Walsall,Grimsby,0,0,D,EN,1997/1998
+E3,1997-11-04,Wrexham,Bournemouth,2,1,H,EN,1997/1998
+E3,1997-11-04,York,Preston,1,0,H,EN,1997/1998
+E3,1997-11-07,Oldham,Gillingham,3,1,H,EN,1997/1998
+E3,1997-11-08,Blackpool,Burnley,2,1,H,EN,1997/1998
+E3,1997-11-08,Brentford,Bristol City,1,4,A,EN,1997/1998
+E3,1997-11-08,Bristol Rvs,Fulham,2,3,A,EN,1997/1998
+E3,1997-11-08,Chesterfield,Grimsby,1,0,H,EN,1997/1998
+E3,1997-11-08,Luton,Preston,1,3,A,EN,1997/1998
+E3,1997-11-08,Millwall,Carlisle,1,1,D,EN,1997/1998
+E3,1997-11-08,Plymouth,Bournemouth,3,0,H,EN,1997/1998
+E3,1997-11-08,Southend,Wigan,1,0,H,EN,1997/1998
+E3,1997-11-08,Walsall,Watford,0,0,D,EN,1997/1998
+E3,1997-11-08,Wrexham,Northampton,1,0,H,EN,1997/1998
+E3,1997-11-08,York,Wycombe,2,0,H,EN,1997/1998
 E3,1997-11-18,Bournemouth,Southend,2,1,H,EN,1997/1998
 E3,1997-11-18,Bristol City,Plymouth,2,1,H,EN,1997/1998
 E3,1997-11-18,Burnley,Millwall,1,2,A,EN,1997/1998
@@ -236,18 +236,18 @@ E3,1997-11-29,Walsall,Blackpool,2,1,H,EN,1997/1998
 E3,1997-11-29,Watford,Wigan,2,1,H,EN,1997/1998
 E3,1997-11-29,Wycombe,Bournemouth,1,1,D,EN,1997/1998
 E3,1997-11-29,York,Luton,1,2,A,EN,1997/1998
-E3,1997-02-12,Blackpool,Plymouth,0,0,D,EN,1997/1998
-E3,1997-02-12,Bournemouth,York,0,0,D,EN,1997/1998
-E3,1997-02-12,Bristol City,Burnley,3,1,H,EN,1997/1998
-E3,1997-02-12,Fulham,Brentford,1,1,D,EN,1997/1998
-E3,1997-02-12,Grimsby,Wycombe,0,0,D,EN,1997/1998
-E3,1997-02-12,Luton,Gillingham,2,2,D,EN,1997/1998
-E3,1997-02-12,Northampton,Chesterfield,0,0,D,EN,1997/1998
-E3,1997-02-12,Oldham,Carlisle,3,1,H,EN,1997/1998
-E3,1997-02-12,Southend,Preston,3,2,H,EN,1997/1998
-E3,1997-02-12,Wigan,Bristol Rvs,3,0,H,EN,1997/1998
-E3,1997-02-12,Wrexham,Watford,1,1,D,EN,1997/1998
-E3,1997-03-12,Millwall,Walsall,0,1,A,EN,1997/1998
+E3,1997-12-02,Blackpool,Plymouth,0,0,D,EN,1997/1998
+E3,1997-12-02,Bournemouth,York,0,0,D,EN,1997/1998
+E3,1997-12-02,Bristol City,Burnley,3,1,H,EN,1997/1998
+E3,1997-12-02,Fulham,Brentford,1,1,D,EN,1997/1998
+E3,1997-12-02,Grimsby,Wycombe,0,0,D,EN,1997/1998
+E3,1997-12-02,Luton,Gillingham,2,2,D,EN,1997/1998
+E3,1997-12-02,Northampton,Chesterfield,0,0,D,EN,1997/1998
+E3,1997-12-02,Oldham,Carlisle,3,1,H,EN,1997/1998
+E3,1997-12-02,Southend,Preston,3,2,H,EN,1997/1998
+E3,1997-12-02,Wigan,Bristol Rvs,3,0,H,EN,1997/1998
+E3,1997-12-02,Wrexham,Watford,1,1,D,EN,1997/1998
+E3,1997-12-03,Millwall,Walsall,0,1,A,EN,1997/1998
 E3,1997-12-12,Bristol Rvs,Grimsby,0,4,A,EN,1997/1998
 E3,1997-12-13,Brentford,Blackpool,3,1,H,EN,1997/1998
 E3,1997-12-13,Burnley,Wigan,0,2,A,EN,1997/1998
@@ -295,21 +295,21 @@ E3,1997-12-28,Southend,Wycombe,1,2,A,EN,1997/1998
 E3,1997-12-28,Watford,Plymouth,1,1,D,EN,1997/1998
 E3,1997-12-28,Wigan,Carlisle,0,2,A,EN,1997/1998
 E3,1997-12-29,Gillingham,Brentford,3,1,H,EN,1997/1998
-E3,1998-03-01,Chesterfield,Brentford,0,0,D,EN,1997/1998
-E3,1998-03-01,Gillingham,Burnley,2,0,H,EN,1997/1998
-E3,1998-03-01,Southend,Luton,1,2,A,EN,1997/1998
-E3,1998-10-01,Bournemouth,Northampton,3,0,H,EN,1997/1998
-E3,1998-10-01,Brentford,Millwall,2,1,H,EN,1997/1998
-E3,1998-10-01,Bristol City,Grimsby,4,1,H,EN,1997/1998
-E3,1998-10-01,Burnley,Watford,2,0,H,EN,1997/1998
-E3,1998-10-01,Carlisle,Southend,5,0,H,EN,1997/1998
-E3,1998-10-01,Luton,Blackpool,3,0,H,EN,1997/1998
-E3,1998-10-01,Plymouth,Bristol Rvs,1,2,A,EN,1997/1998
-E3,1998-10-01,Preston,Gillingham,1,3,A,EN,1997/1998
-E3,1998-10-01,Walsall,Chesterfield,3,2,H,EN,1997/1998
-E3,1998-10-01,Wrexham,Fulham,0,3,A,EN,1997/1998
-E3,1998-10-01,Wycombe,Wigan,1,2,A,EN,1997/1998
-E3,1998-10-01,York,Oldham,0,0,D,EN,1997/1998
+E3,1998-01-03,Chesterfield,Brentford,0,0,D,EN,1997/1998
+E3,1998-01-03,Gillingham,Burnley,2,0,H,EN,1997/1998
+E3,1998-01-03,Southend,Luton,1,2,A,EN,1997/1998
+E3,1998-01-10,Bournemouth,Northampton,3,0,H,EN,1997/1998
+E3,1998-01-10,Brentford,Millwall,2,1,H,EN,1997/1998
+E3,1998-01-10,Bristol City,Grimsby,4,1,H,EN,1997/1998
+E3,1998-01-10,Burnley,Watford,2,0,H,EN,1997/1998
+E3,1998-01-10,Carlisle,Southend,5,0,H,EN,1997/1998
+E3,1998-01-10,Luton,Blackpool,3,0,H,EN,1997/1998
+E3,1998-01-10,Plymouth,Bristol Rvs,1,2,A,EN,1997/1998
+E3,1998-01-10,Preston,Gillingham,1,3,A,EN,1997/1998
+E3,1998-01-10,Walsall,Chesterfield,3,2,H,EN,1997/1998
+E3,1998-01-10,Wrexham,Fulham,0,3,A,EN,1997/1998
+E3,1998-01-10,Wycombe,Wigan,1,2,A,EN,1997/1998
+E3,1998-01-10,York,Oldham,0,0,D,EN,1997/1998
 E3,1998-01-17,Blackpool,Bournemouth,1,0,H,EN,1997/1998
 E3,1998-01-17,Bristol Rvs,Burnley,1,0,H,EN,1997/1998
 E3,1998-01-17,Chesterfield,Plymouth,2,1,H,EN,1997/1998
@@ -345,20 +345,20 @@ E3,1998-01-31,Luton,Bournemouth,1,2,A,EN,1997/1998
 E3,1998-01-31,Northampton,Oldham,0,0,D,EN,1997/1998
 E3,1998-01-31,Southend,Millwall,0,0,D,EN,1997/1998
 E3,1998-01-31,Walsall,Preston,1,1,D,EN,1997/1998
-E3,1998-03-02,Blackpool,Bristol City,2,2,D,EN,1997/1998
-E3,1998-07-02,Bournemouth,Bristol City,1,0,H,EN,1997/1998
-E3,1998-07-02,Bristol Rvs,Chesterfield,3,1,H,EN,1997/1998
-E3,1998-07-02,Fulham,Southend,2,0,H,EN,1997/1998
-E3,1998-07-02,Millwall,Grimsby,0,1,A,EN,1997/1998
-E3,1998-07-02,Oldham,Blackpool,0,1,A,EN,1997/1998
-E3,1998-07-02,Plymouth,Carlisle,2,1,H,EN,1997/1998
-E3,1998-07-02,Preston,Burnley,2,3,A,EN,1997/1998
-E3,1998-07-02,Wigan,Northampton,1,1,D,EN,1997/1998
-E3,1998-07-02,Wrexham,Luton,2,1,H,EN,1997/1998
-E3,1998-07-02,Wycombe,Brentford,0,0,D,EN,1997/1998
-E3,1998-07-02,York,Walsall,1,0,H,EN,1997/1998
-E3,1998-08-02,Watford,Gillingham,0,2,A,EN,1997/1998
-E3,1998-10-02,Northampton,Wycombe,2,0,H,EN,1997/1998
+E3,1998-02-03,Blackpool,Bristol City,2,2,D,EN,1997/1998
+E3,1998-02-07,Bournemouth,Bristol City,1,0,H,EN,1997/1998
+E3,1998-02-07,Bristol Rvs,Chesterfield,3,1,H,EN,1997/1998
+E3,1998-02-07,Fulham,Southend,2,0,H,EN,1997/1998
+E3,1998-02-07,Millwall,Grimsby,0,1,A,EN,1997/1998
+E3,1998-02-07,Oldham,Blackpool,0,1,A,EN,1997/1998
+E3,1998-02-07,Plymouth,Carlisle,2,1,H,EN,1997/1998
+E3,1998-02-07,Preston,Burnley,2,3,A,EN,1997/1998
+E3,1998-02-07,Wigan,Northampton,1,1,D,EN,1997/1998
+E3,1998-02-07,Wrexham,Luton,2,1,H,EN,1997/1998
+E3,1998-02-07,Wycombe,Brentford,0,0,D,EN,1997/1998
+E3,1998-02-07,York,Walsall,1,0,H,EN,1997/1998
+E3,1998-02-08,Watford,Gillingham,0,2,A,EN,1997/1998
+E3,1998-02-10,Northampton,Wycombe,2,0,H,EN,1997/1998
 E3,1998-02-14,Blackpool,Millwall,3,0,H,EN,1997/1998
 E3,1998-02-14,Bournemouth,Chesterfield,2,0,H,EN,1997/1998
 E3,1998-02-14,Brentford,Preston,0,0,D,EN,1997/1998
@@ -417,18 +417,18 @@ E3,1998-03-03,Northampton,Wrexham,0,1,A,EN,1997/1998
 E3,1998-03-03,Preston,Luton,1,0,H,EN,1997/1998
 E3,1998-03-03,Watford,Walsall,1,2,A,EN,1997/1998
 E3,1998-03-03,Wycombe,York,1,0,H,EN,1997/1998
-E3,1998-07-03,Blackpool,Watford,1,1,D,EN,1997/1998
-E3,1998-07-03,Brentford,Bournemouth,3,2,H,EN,1997/1998
-E3,1998-07-03,Bristol Rvs,Northampton,0,2,A,EN,1997/1998
-E3,1998-07-03,Chesterfield,Fulham,0,2,A,EN,1997/1998
-E3,1998-07-03,Luton,Wycombe,0,0,D,EN,1997/1998
-E3,1998-07-03,Millwall,Gillingham,1,0,H,EN,1997/1998
-E3,1998-07-03,Plymouth,Preston,2,0,H,EN,1997/1998
-E3,1998-07-03,Southend,Grimsby,0,1,A,EN,1997/1998
-E3,1998-07-03,Walsall,Burnley,0,0,D,EN,1997/1998
-E3,1998-07-03,Wrexham,Carlisle,2,2,D,EN,1997/1998
-E3,1998-07-03,York,Wigan,2,2,D,EN,1997/1998
-E3,1998-10-03,Bristol Rvs,York,1,2,A,EN,1997/1998
+E3,1998-03-07,Blackpool,Watford,1,1,D,EN,1997/1998
+E3,1998-03-07,Brentford,Bournemouth,3,2,H,EN,1997/1998
+E3,1998-03-07,Bristol Rvs,Northampton,0,2,A,EN,1997/1998
+E3,1998-03-07,Chesterfield,Fulham,0,2,A,EN,1997/1998
+E3,1998-03-07,Luton,Wycombe,0,0,D,EN,1997/1998
+E3,1998-03-07,Millwall,Gillingham,1,0,H,EN,1997/1998
+E3,1998-03-07,Plymouth,Preston,2,0,H,EN,1997/1998
+E3,1998-03-07,Southend,Grimsby,0,1,A,EN,1997/1998
+E3,1998-03-07,Walsall,Burnley,0,0,D,EN,1997/1998
+E3,1998-03-07,Wrexham,Carlisle,2,2,D,EN,1997/1998
+E3,1998-03-07,York,Wigan,2,2,D,EN,1997/1998
+E3,1998-03-10,Bristol Rvs,York,1,2,A,EN,1997/1998
 E3,1998-03-14,Bournemouth,Wrexham,0,1,A,EN,1997/1998
 E3,1998-03-14,Bristol City,Bristol Rvs,2,0,H,EN,1997/1998
 E3,1998-03-14,Burnley,Luton,1,1,D,EN,1997/1998
@@ -473,7 +473,7 @@ E3,1998-03-28,York,Blackpool,1,1,D,EN,1997/1998
 E3,1998-03-31,Oldham,Bristol City,1,2,A,EN,1997/1998
 E3,1998-03-31,Walsall,Gillingham,1,0,H,EN,1997/1998
 E3,1998-03-31,Wrexham,Grimsby,0,0,D,EN,1997/1998
-E3,1998-03-04,Southend,Chesterfield,0,2,A,EN,1997/1998
+E3,1998-04-03,Southend,Chesterfield,0,2,A,EN,1997/1998
 E3,1998-04-04,Blackpool,Walsall,1,0,H,EN,1997/1998
 E3,1998-04-04,Bournemouth,Wycombe,0,0,D,EN,1997/1998
 E3,1998-04-04,Bristol City,Carlisle,1,0,H,EN,1997/1998
@@ -485,22 +485,22 @@ E3,1998-04-04,Northampton,Burnley,0,1,A,EN,1997/1998
 E3,1998-04-04,Oldham,Plymouth,2,0,H,EN,1997/1998
 E3,1998-04-04,Wigan,Watford,3,2,H,EN,1997/1998
 E3,1998-04-04,Wrexham,Brentford,2,2,D,EN,1997/1998
-E3,1998-07-04,Burnley,Blackpool,1,2,A,EN,1997/1998
-E3,1998-07-04,Fulham,Walsall,1,1,D,EN,1997/1998
-E3,1998-07-04,Grimsby,Luton,0,1,A,EN,1997/1998
-E3,1998-07-04,Wigan,Bournemouth,1,0,H,EN,1997/1998
-E3,1998-10-04,Bristol Rvs,Wigan,5,0,H,EN,1997/1998
-E3,1998-10-04,Wycombe,Grimsby,1,1,D,EN,1997/1998
-E3,1998-11-04,Brentford,Fulham,0,2,A,EN,1997/1998
-E3,1998-11-04,Burnley,Bristol City,1,0,H,EN,1997/1998
-E3,1998-11-04,Carlisle,Oldham,3,1,H,EN,1997/1998
-E3,1998-11-04,Chesterfield,Northampton,2,1,H,EN,1997/1998
-E3,1998-11-04,Gillingham,Luton,2,1,H,EN,1997/1998
-E3,1998-11-04,Plymouth,Blackpool,3,1,H,EN,1997/1998
-E3,1998-11-04,Preston,Southend,1,0,H,EN,1997/1998
-E3,1998-11-04,Walsall,Millwall,2,0,H,EN,1997/1998
-E3,1998-11-04,Watford,Wrexham,1,0,H,EN,1997/1998
-E3,1998-11-04,York,Bournemouth,0,1,A,EN,1997/1998
+E3,1998-04-07,Burnley,Blackpool,1,2,A,EN,1997/1998
+E3,1998-04-07,Fulham,Walsall,1,1,D,EN,1997/1998
+E3,1998-04-07,Grimsby,Luton,0,1,A,EN,1997/1998
+E3,1998-04-07,Wigan,Bournemouth,1,0,H,EN,1997/1998
+E3,1998-04-10,Bristol Rvs,Wigan,5,0,H,EN,1997/1998
+E3,1998-04-10,Wycombe,Grimsby,1,1,D,EN,1997/1998
+E3,1998-04-11,Brentford,Fulham,0,2,A,EN,1997/1998
+E3,1998-04-11,Burnley,Bristol City,1,0,H,EN,1997/1998
+E3,1998-04-11,Carlisle,Oldham,3,1,H,EN,1997/1998
+E3,1998-04-11,Chesterfield,Northampton,2,1,H,EN,1997/1998
+E3,1998-04-11,Gillingham,Luton,2,1,H,EN,1997/1998
+E3,1998-04-11,Plymouth,Blackpool,3,1,H,EN,1997/1998
+E3,1998-04-11,Preston,Southend,1,0,H,EN,1997/1998
+E3,1998-04-11,Walsall,Millwall,2,0,H,EN,1997/1998
+E3,1998-04-11,Watford,Wrexham,1,0,H,EN,1997/1998
+E3,1998-04-11,York,Bournemouth,0,1,A,EN,1997/1998
 E3,1998-04-13,Blackpool,Brentford,1,2,A,EN,1997/1998
 E3,1998-04-13,Bristol City,Watford,1,1,D,EN,1997/1998
 E3,1998-04-13,Fulham,Carlisle,5,0,H,EN,1997/1998
@@ -539,15 +539,15 @@ E3,1998-04-25,Wrexham,Preston,0,0,D,EN,1997/1998
 E3,1998-04-25,Wycombe,Chesterfield,1,1,D,EN,1997/1998
 E3,1998-04-28,Oldham,Burnley,3,3,D,EN,1997/1998
 E3,1998-04-28,Watford,Bournemouth,2,1,H,EN,1997/1998
-E3,1998-02-05,Bristol Rvs,Brentford,2,1,H,EN,1997/1998
-E3,1998-02-05,Burnley,Plymouth,2,1,H,EN,1997/1998
-E3,1998-02-05,Chesterfield,Blackpool,1,1,D,EN,1997/1998
-E3,1998-02-05,Fulham,Watford,1,2,A,EN,1997/1998
-E3,1998-02-05,Gillingham,Wigan,0,0,D,EN,1997/1998
-E3,1998-02-05,Grimsby,Oldham,0,2,A,EN,1997/1998
-E3,1998-02-05,Luton,Carlisle,3,2,H,EN,1997/1998
-E3,1998-02-05,Millwall,Bournemouth,1,2,A,EN,1997/1998
-E3,1998-02-05,Preston,Bristol City,2,1,H,EN,1997/1998
-E3,1998-02-05,Southend,Wrexham,1,3,A,EN,1997/1998
-E3,1998-02-05,Walsall,Wycombe,0,1,A,EN,1997/1998
-E3,1998-02-05,York,Northampton,0,0,D,EN,1997/1998
+E3,1998-05-02,Bristol Rvs,Brentford,2,1,H,EN,1997/1998
+E3,1998-05-02,Burnley,Plymouth,2,1,H,EN,1997/1998
+E3,1998-05-02,Chesterfield,Blackpool,1,1,D,EN,1997/1998
+E3,1998-05-02,Fulham,Watford,1,2,A,EN,1997/1998
+E3,1998-05-02,Gillingham,Wigan,0,0,D,EN,1997/1998
+E3,1998-05-02,Grimsby,Oldham,0,2,A,EN,1997/1998
+E3,1998-05-02,Luton,Carlisle,3,2,H,EN,1997/1998
+E3,1998-05-02,Millwall,Bournemouth,1,2,A,EN,1997/1998
+E3,1998-05-02,Preston,Bristol City,2,1,H,EN,1997/1998
+E3,1998-05-02,Southend,Wrexham,1,3,A,EN,1997/1998
+E3,1998-05-02,Walsall,Wycombe,0,1,A,EN,1997/1998
+E3,1998-05-02,York,Northampton,0,0,D,EN,1997/1998

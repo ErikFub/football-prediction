@@ -34,15 +34,15 @@ D1,1996-08-28,Bielefeld,Duisburg,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
 D1,1996-08-28,Dusseldorf,Munich 1860,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
 D1,1996-08-28,FC Koln,Hansa Rostock,0.0,2.0,A,0.0,1.0,A,DE,1996/1997
 D1,1996-08-28,Karlsruhe,St Pauli,4.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-06-09,Freiburg,Dusseldorf,1.0,2.0,A,1.0,1.0,D,DE,1996/1997
-D1,1996-06-09,M'gladbach,Hamburg,3.0,0.0,H,3.0,0.0,H,DE,1996/1997
-D1,1996-07-09,Bayern Munich,Bielefeld,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-07-09,Bochum,Karlsruhe,3.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-07-09,Duisburg,Schalke 04,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-07-09,Hansa Rostock,Dortmund,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
-D1,1996-07-09,Leverkusen,Munich 1860,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
-D1,1996-07-09,St Pauli,Werder Bremen,0.0,3.0,A,0.0,2.0,A,DE,1996/1997
-D1,1996-08-09,Stuttgart,FC Koln,4.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-09-06,Freiburg,Dusseldorf,1.0,2.0,A,1.0,1.0,D,DE,1996/1997
+D1,1996-09-06,M'gladbach,Hamburg,3.0,0.0,H,3.0,0.0,H,DE,1996/1997
+D1,1996-09-07,Bayern Munich,Bielefeld,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-09-07,Bochum,Karlsruhe,3.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-09-07,Duisburg,Schalke 04,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
+D1,1996-09-07,Hansa Rostock,Dortmund,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
+D1,1996-09-07,Leverkusen,Munich 1860,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1996-09-07,St Pauli,Werder Bremen,0.0,3.0,A,0.0,2.0,A,DE,1996/1997
+D1,1996-09-08,Stuttgart,FC Koln,4.0,0.0,H,0.0,0.0,D,DE,1996/1997
 D1,1996-09-13,Dusseldorf,Hansa Rostock,0.0,2.0,A,0.0,1.0,A,DE,1996/1997
 D1,1996-09-13,Werder Bremen,Bochum,5.0,1.0,H,3.0,0.0,H,DE,1996/1997
 D1,1996-09-14,Bielefeld,Leverkusen,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
@@ -71,23 +71,23 @@ D1,1996-09-28,Munich 1860,Stuttgart,2.0,5.0,A,1.0,2.0,A,DE,1996/1997
 D1,1996-09-28,Schalke 04,Leverkusen,1.0,2.0,A,1.0,2.0,A,DE,1996/1997
 D1,1996-09-28,Werder Bremen,Bayern Munich,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1996-09-29,Dortmund,St Pauli,2.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-04-10,Bochum,Dortmund,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-04-10,Leverkusen,Hansa Rostock,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1996-04-10,Stuttgart,Freiburg,4.0,2.0,H,2.0,1.0,H,DE,1996/1997
-D1,1996-05-10,Bayern Munich,Hamburg,2.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-05-10,Bielefeld,Werder Bremen,3.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-05-10,Duisburg,FC Koln,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
-D1,1996-05-10,M'gladbach,Munich 1860,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-05-10,Schalke 04,Karlsruhe,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-05-10,St Pauli,Dusseldorf,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-11-10,Freiburg,M'gladbach,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-11-10,Munich 1860,St Pauli,4.0,2.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-12-10,Dortmund,Duisburg,2.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-12-10,FC Koln,Bayern Munich,2.0,4.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-12-10,Hamburg,Bielefeld,2.0,2.0,D,2.0,0.0,H,DE,1996/1997
-D1,1996-12-10,Hansa Rostock,Stuttgart,2.0,2.0,D,0.0,2.0,A,DE,1996/1997
-D1,1996-12-10,Karlsruhe,Leverkusen,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1996-12-10,Werder Bremen,Schalke 04,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-10-04,Bochum,Dortmund,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-10-04,Leverkusen,Hansa Rostock,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1996-10-04,Stuttgart,Freiburg,4.0,2.0,H,2.0,1.0,H,DE,1996/1997
+D1,1996-10-05,Bayern Munich,Hamburg,2.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-10-05,Bielefeld,Werder Bremen,3.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-10-05,Duisburg,FC Koln,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1996-10-05,M'gladbach,Munich 1860,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-10-05,Schalke 04,Karlsruhe,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
+D1,1996-10-05,St Pauli,Dusseldorf,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-10-11,Freiburg,M'gladbach,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-10-11,Munich 1860,St Pauli,4.0,2.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-10-12,Dortmund,Duisburg,2.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-10-12,FC Koln,Bayern Munich,2.0,4.0,A,0.0,1.0,A,DE,1996/1997
+D1,1996-10-12,Hamburg,Bielefeld,2.0,2.0,D,2.0,0.0,H,DE,1996/1997
+D1,1996-10-12,Hansa Rostock,Stuttgart,2.0,2.0,D,0.0,2.0,A,DE,1996/1997
+D1,1996-10-12,Karlsruhe,Leverkusen,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
+D1,1996-10-12,Werder Bremen,Schalke 04,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1996-10-13,Dusseldorf,Bochum,2.0,2.0,D,2.0,0.0,H,DE,1996/1997
 D1,1996-10-18,Bochum,Munich 1860,2.0,2.0,D,0.0,1.0,A,DE,1996/1997
 D1,1996-10-18,Leverkusen,Stuttgart,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
@@ -107,15 +107,15 @@ D1,1996-10-26,Hamburg,Karlsruhe,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1996-10-26,Munich 1860,Duisburg,1.0,1.0,D,1.0,1.0,D,DE,1996/1997
 D1,1996-10-26,Stuttgart,M'gladbach,5.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1996-10-27,Freiburg,Bochum,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-01-11,Bayern Munich,Munich 1860,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1996-01-11,Bochum,Hansa Rostock,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-02-11,Bielefeld,Dusseldorf,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-02-11,Duisburg,Freiburg,1.0,4.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-02-11,Leverkusen,M'gladbach,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-02-11,Schalke 04,Dortmund,1.0,3.0,A,0.0,1.0,A,DE,1996/1997
-D1,1996-02-11,St Pauli,Stuttgart,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1996-02-11,Werder Bremen,Hamburg,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1996-03-11,Karlsruhe,FC Koln,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1996-11-01,Bayern Munich,Munich 1860,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
+D1,1996-11-01,Bochum,Hansa Rostock,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-11-02,Bielefeld,Dusseldorf,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-11-02,Duisburg,Freiburg,1.0,4.0,A,0.0,1.0,A,DE,1996/1997
+D1,1996-11-02,Leverkusen,M'gladbach,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-11-02,Schalke 04,Dortmund,1.0,3.0,A,0.0,1.0,A,DE,1996/1997
+D1,1996-11-02,St Pauli,Stuttgart,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1996-11-02,Werder Bremen,Hamburg,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1996-11-03,Karlsruhe,FC Koln,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
 D1,1996-11-15,FC Koln,Werder Bremen,4.0,1.0,H,1.0,0.0,H,DE,1996/1997
 D1,1996-11-15,M'gladbach,St Pauli,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
 D1,1996-11-16,Dortmund,Karlsruhe,1.0,1.0,D,1.0,1.0,D,DE,1996/1997
@@ -141,16 +141,16 @@ D1,1996-11-30,Hansa Rostock,Bielefeld,3.0,1.0,H,1.0,1.0,D,DE,1996/1997
 D1,1996-11-30,Leverkusen,FC Koln,4.0,2.0,H,0.0,0.0,D,DE,1996/1997
 D1,1996-11-30,M'gladbach,Duisburg,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
 D1,1996-11-30,Munich 1860,Karlsruhe,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
-D1,1996-01-12,Stuttgart,Bayern Munich,1.0,1.0,D,0.0,1.0,A,DE,1996/1997
-D1,1996-06-12,Bochum,Leverkusen,2.0,2.0,D,1.0,1.0,D,DE,1996/1997
-D1,1996-06-12,Karlsruhe,Freiburg,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
-D1,1996-06-12,Schalke 04,Hansa Rostock,2.0,0.0,H,2.0,0.0,H,DE,1996/1997
-D1,1996-06-12,Werder Bremen,Munich 1860,1.0,1.0,D,0.0,1.0,A,DE,1996/1997
-D1,1996-07-12,Bayern Munich,M'gladbach,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-07-12,Bielefeld,Stuttgart,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1996-07-12,Duisburg,St Pauli,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1996-07-12,FC Koln,Dortmund,1.0,3.0,A,1.0,0.0,H,DE,1996/1997
-D1,1996-07-12,Hamburg,Dusseldorf,2.0,1.0,H,0.0,1.0,A,DE,1996/1997
+D1,1996-12-01,Stuttgart,Bayern Munich,1.0,1.0,D,0.0,1.0,A,DE,1996/1997
+D1,1996-12-06,Bochum,Leverkusen,2.0,2.0,D,1.0,1.0,D,DE,1996/1997
+D1,1996-12-06,Karlsruhe,Freiburg,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1996-12-06,Schalke 04,Hansa Rostock,2.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1996-12-06,Werder Bremen,Munich 1860,1.0,1.0,D,0.0,1.0,A,DE,1996/1997
+D1,1996-12-07,Bayern Munich,M'gladbach,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-12-07,Bielefeld,Stuttgart,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1996-12-07,Duisburg,St Pauli,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1996-12-07,FC Koln,Dortmund,1.0,3.0,A,1.0,0.0,H,DE,1996/1997
+D1,1996-12-07,Hamburg,Dusseldorf,2.0,1.0,H,0.0,1.0,A,DE,1996/1997
 D1,1997-02-14,Dortmund,Leverkusen,3.0,1.0,H,1.0,1.0,D,DE,1996/1997
 D1,1997-02-14,FC Koln,Dusseldorf,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1997-02-15,Bayern Munich,St Pauli,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
@@ -171,31 +171,31 @@ D1,1997-02-22,Munich 1860,FC Koln,2.0,1.0,H,0.0,0.0,D,DE,1996/1997
 D1,1997-02-22,Stuttgart,Karlsruhe,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
 D1,1997-02-28,Bielefeld,Bochum,3.0,1.0,H,2.0,0.0,H,DE,1996/1997
 D1,1997-02-28,Schalke 04,St Pauli,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-01-03,Bayern Munich,Duisburg,5.0,2.0,H,2.0,0.0,H,DE,1996/1997
-D1,1997-01-03,Dortmund,Munich 1860,4.0,1.0,H,3.0,1.0,H,DE,1996/1997
-D1,1997-01-03,Dusseldorf,Leverkusen,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-01-03,FC Koln,Freiburg,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-01-03,Karlsruhe,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-01-03,Werder Bremen,Stuttgart,2.0,2.0,D,2.0,1.0,H,DE,1996/1997
-D1,1997-02-03,Hamburg,Hansa Rostock,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1997-07-03,Bochum,Schalke 04,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
-D1,1997-07-03,Hansa Rostock,FC Koln,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-08-03,Duisburg,Bielefeld,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-08-03,Freiburg,Dortmund,1.0,2.0,A,1.0,1.0,D,DE,1996/1997
-D1,1997-08-03,M'gladbach,Werder Bremen,4.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-08-03,Munich 1860,Dusseldorf,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-08-03,St Pauli,Karlsruhe,2.0,4.0,A,2.0,2.0,D,DE,1996/1997
-D1,1997-08-03,Stuttgart,Hamburg,4.0,1.0,H,3.0,1.0,H,DE,1996/1997
-D1,1997-09-03,Leverkusen,Bayern Munich,5.0,2.0,H,3.0,0.0,H,DE,1996/1997
-D1,1997-11-03,FC Koln,Stuttgart,1.0,5.0,A,1.0,2.0,A,DE,1996/1997
-D1,1997-11-03,Hamburg,M'gladbach,2.0,1.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-11-03,Karlsruhe,Bochum,2.0,3.0,A,1.0,2.0,A,DE,1996/1997
-D1,1997-11-03,Schalke 04,Duisburg,4.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-11-03,Werder Bremen,St Pauli,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1997-12-03,Bielefeld,Bayern Munich,2.0,0.0,H,2.0,0.0,H,DE,1996/1997
-D1,1997-12-03,Dortmund,Hansa Rostock,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-12-03,Dusseldorf,Freiburg,2.0,1.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-12-03,Munich 1860,Leverkusen,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-03-01,Bayern Munich,Duisburg,5.0,2.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-03-01,Dortmund,Munich 1860,4.0,1.0,H,3.0,1.0,H,DE,1996/1997
+D1,1997-03-01,Dusseldorf,Leverkusen,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-03-01,FC Koln,Freiburg,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-03-01,Karlsruhe,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-03-01,Werder Bremen,Stuttgart,2.0,2.0,D,2.0,1.0,H,DE,1996/1997
+D1,1997-03-02,Hamburg,Hansa Rostock,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
+D1,1997-03-07,Bochum,Schalke 04,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
+D1,1997-03-07,Hansa Rostock,FC Koln,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-03-08,Duisburg,Bielefeld,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-03-08,Freiburg,Dortmund,1.0,2.0,A,1.0,1.0,D,DE,1996/1997
+D1,1997-03-08,M'gladbach,Werder Bremen,4.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-03-08,Munich 1860,Dusseldorf,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-03-08,St Pauli,Karlsruhe,2.0,4.0,A,2.0,2.0,D,DE,1996/1997
+D1,1997-03-08,Stuttgart,Hamburg,4.0,1.0,H,3.0,1.0,H,DE,1996/1997
+D1,1997-03-09,Leverkusen,Bayern Munich,5.0,2.0,H,3.0,0.0,H,DE,1996/1997
+D1,1997-03-11,FC Koln,Stuttgart,1.0,5.0,A,1.0,2.0,A,DE,1996/1997
+D1,1997-03-11,Hamburg,M'gladbach,2.0,1.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-03-11,Karlsruhe,Bochum,2.0,3.0,A,1.0,2.0,A,DE,1996/1997
+D1,1997-03-11,Schalke 04,Duisburg,4.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-03-11,Werder Bremen,St Pauli,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1997-03-12,Bielefeld,Bayern Munich,2.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-03-12,Dortmund,Hansa Rostock,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-03-12,Dusseldorf,Freiburg,2.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-03-12,Munich 1860,Leverkusen,3.0,0.0,H,2.0,0.0,H,DE,1996/1997
 D1,1997-03-14,Duisburg,Karlsruhe,2.0,2.0,D,0.0,2.0,A,DE,1996/1997
 D1,1997-03-14,St Pauli,Hamburg,2.0,2.0,D,0.0,1.0,A,DE,1996/1997
 D1,1997-03-15,Bayern Munich,Schalke 04,3.0,0.0,H,1.0,0.0,H,DE,1996/1997
@@ -225,23 +225,23 @@ D1,1997-03-29,Leverkusen,Schalke 04,2.0,0.0,H,0.0,0.0,D,DE,1996/1997
 D1,1997-03-29,M'gladbach,Dusseldorf,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1997-04-04,FC Koln,Duisburg,2.0,5.0,A,2.0,1.0,H,DE,1996/1997
 D1,1997-04-04,Munich 1860,M'gladbach,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-05-04,Dortmund,Bochum,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-05-04,Dusseldorf,St Pauli,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-05-04,Hamburg,Bayern Munich,0.0,3.0,A,0.0,2.0,A,DE,1996/1997
-D1,1997-05-04,Hansa Rostock,Leverkusen,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-05-04,Karlsruhe,Schalke 04,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-05-04,Werder Bremen,Bielefeld,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1997-06-04,Freiburg,Stuttgart,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-08-04,St Pauli,Bochum,2.0,1.0,H,2.0,0.0,H,DE,1996/1997
-D1,1997-12-04,Bayern Munich,FC Koln,3.0,2.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-12-04,Bielefeld,Hamburg,1.0,1.0,D,1.0,1.0,D,DE,1996/1997
-D1,1997-12-04,Bochum,Dusseldorf,3.0,1.0,H,3.0,0.0,H,DE,1996/1997
-D1,1997-12-04,Duisburg,Dortmund,3.0,2.0,H,1.0,0.0,H,DE,1996/1997
-D1,1997-12-04,Leverkusen,Karlsruhe,3.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1997-12-04,M'gladbach,Freiburg,4.0,3.0,H,2.0,2.0,D,DE,1996/1997
-D1,1997-12-04,Schalke 04,Werder Bremen,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1997-12-04,St Pauli,Munich 1860,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-12-04,Stuttgart,Hansa Rostock,5.0,1.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-04-05,Dortmund,Bochum,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-04-05,Dusseldorf,St Pauli,2.0,0.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-04-05,Hamburg,Bayern Munich,0.0,3.0,A,0.0,2.0,A,DE,1996/1997
+D1,1997-04-05,Hansa Rostock,Leverkusen,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-04-05,Karlsruhe,Schalke 04,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-04-05,Werder Bremen,Bielefeld,2.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1997-04-06,Freiburg,Stuttgart,1.0,1.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-04-08,St Pauli,Bochum,2.0,1.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-04-12,Bayern Munich,FC Koln,3.0,2.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-04-12,Bielefeld,Hamburg,1.0,1.0,D,1.0,1.0,D,DE,1996/1997
+D1,1997-04-12,Bochum,Dusseldorf,3.0,1.0,H,3.0,0.0,H,DE,1996/1997
+D1,1997-04-12,Duisburg,Dortmund,3.0,2.0,H,1.0,0.0,H,DE,1996/1997
+D1,1997-04-12,Leverkusen,Karlsruhe,3.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1997-04-12,M'gladbach,Freiburg,4.0,3.0,H,2.0,2.0,D,DE,1996/1997
+D1,1997-04-12,Schalke 04,Werder Bremen,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
+D1,1997-04-12,St Pauli,Munich 1860,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-04-12,Stuttgart,Hansa Rostock,5.0,1.0,H,1.0,0.0,H,DE,1996/1997
 D1,1997-04-18,Dusseldorf,Duisburg,1.0,1.0,D,0.0,1.0,A,DE,1996/1997
 D1,1997-04-18,Hansa Rostock,M'gladbach,1.0,0.0,H,1.0,0.0,H,DE,1996/1997
 D1,1997-04-19,Dortmund,Bayern Munich,1.0,1.0,D,1.0,1.0,D,DE,1996/1997
@@ -260,24 +260,24 @@ D1,1997-04-26,Bochum,Freiburg,3.0,2.0,H,1.0,1.0,D,DE,1996/1997
 D1,1997-04-26,Karlsruhe,Hamburg,3.0,1.0,H,2.0,1.0,H,DE,1996/1997
 D1,1997-04-26,M'gladbach,Stuttgart,0.0,1.0,A,0.0,0.0,D,DE,1996/1997
 D1,1997-04-26,Schalke 04,FC Koln,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1997-02-05,Dortmund,Schalke 04,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-02-05,Hansa Rostock,Bochum,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-03-05,Dusseldorf,Bielefeld,1.0,2.0,A,1.0,0.0,H,DE,1996/1997
-D1,1997-03-05,FC Koln,Karlsruhe,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
-D1,1997-03-05,Freiburg,Duisburg,2.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-03-05,Hamburg,Werder Bremen,3.0,2.0,H,2.0,0.0,H,DE,1996/1997
-D1,1997-03-05,M'gladbach,Leverkusen,2.0,2.0,D,0.0,2.0,A,DE,1996/1997
-D1,1997-03-05,Munich 1860,Bayern Munich,3.0,3.0,D,2.0,1.0,H,DE,1996/1997
-D1,1997-03-05,Stuttgart,St Pauli,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-09-05,Duisburg,Hansa Rostock,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
-D1,1997-09-05,Werder Bremen,FC Koln,3.0,2.0,H,2.0,2.0,D,DE,1996/1997
-D1,1997-10-05,Bayern Munich,Freiburg,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
-D1,1997-10-05,Bielefeld,Munich 1860,2.0,3.0,A,1.0,2.0,A,DE,1996/1997
-D1,1997-10-05,Bochum,Stuttgart,2.0,1.0,H,0.0,0.0,D,DE,1996/1997
-D1,1997-10-05,Karlsruhe,Dortmund,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
-D1,1997-10-05,Schalke 04,Dusseldorf,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
-D1,1997-10-05,St Pauli,M'gladbach,1.0,3.0,A,0.0,1.0,A,DE,1996/1997
-D1,1997-11-05,Leverkusen,Hamburg,5.0,0.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-05-02,Dortmund,Schalke 04,1.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-05-02,Hansa Rostock,Bochum,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-05-03,Dusseldorf,Bielefeld,1.0,2.0,A,1.0,0.0,H,DE,1996/1997
+D1,1997-05-03,FC Koln,Karlsruhe,4.0,1.0,H,1.0,1.0,D,DE,1996/1997
+D1,1997-05-03,Freiburg,Duisburg,2.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-05-03,Hamburg,Werder Bremen,3.0,2.0,H,2.0,0.0,H,DE,1996/1997
+D1,1997-05-03,M'gladbach,Leverkusen,2.0,2.0,D,0.0,2.0,A,DE,1996/1997
+D1,1997-05-03,Munich 1860,Bayern Munich,3.0,3.0,D,2.0,1.0,H,DE,1996/1997
+D1,1997-05-03,Stuttgart,St Pauli,3.0,0.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-05-09,Duisburg,Hansa Rostock,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
+D1,1997-05-09,Werder Bremen,FC Koln,3.0,2.0,H,2.0,2.0,D,DE,1996/1997
+D1,1997-05-10,Bayern Munich,Freiburg,0.0,0.0,D,0.0,0.0,D,DE,1996/1997
+D1,1997-05-10,Bielefeld,Munich 1860,2.0,3.0,A,1.0,2.0,A,DE,1996/1997
+D1,1997-05-10,Bochum,Stuttgart,2.0,1.0,H,0.0,0.0,D,DE,1996/1997
+D1,1997-05-10,Karlsruhe,Dortmund,1.0,1.0,D,1.0,0.0,H,DE,1996/1997
+D1,1997-05-10,Schalke 04,Dusseldorf,0.0,1.0,A,0.0,1.0,A,DE,1996/1997
+D1,1997-05-10,St Pauli,M'gladbach,1.0,3.0,A,0.0,1.0,A,DE,1996/1997
+D1,1997-05-11,Leverkusen,Hamburg,5.0,0.0,H,2.0,0.0,H,DE,1996/1997
 D1,1997-05-16,Dusseldorf,Karlsruhe,0.0,3.0,A,0.0,0.0,D,DE,1996/1997
 D1,1997-05-16,Hansa Rostock,Bayern Munich,0.0,3.0,A,0.0,1.0,A,DE,1996/1997
 D1,1997-05-17,Dortmund,Werder Bremen,2.0,1.0,H,1.0,0.0,H,DE,1996/1997

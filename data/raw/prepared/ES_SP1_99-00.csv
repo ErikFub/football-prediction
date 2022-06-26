@@ -19,16 +19,16 @@ SP1,1999-08-29,Santander,Barcelona,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
 SP1,1999-08-29,Valladolid,Ath Bilbao,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-08-29,Vallecano,Mallorca,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
 SP1,1999-08-29,Zaragoza,Oviedo,4.0,0.0,H,2.0,0.0,H,ES,1999/2000
-SP1,1999-11-09,Barcelona,Espanol,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,1999-11-09,La Coruna,Valladolid,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
-SP1,1999-11-09,Valencia,Alaves,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
-SP1,1999-12-09,Ath Bilbao,Real Madrid,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
-SP1,1999-12-09,Ath Madrid,Celta,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
-SP1,1999-12-09,Malaga,Betis,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-12-09,Mallorca,Numancia,3.0,0.0,H,3.0,0.0,H,ES,1999/2000
-SP1,1999-12-09,Oviedo,Santander,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
-SP1,1999-12-09,Sevilla,Zaragoza,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,1999-12-09,Vallecano,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-09-11,Barcelona,Espanol,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,1999-09-11,La Coruna,Valladolid,2.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP1,1999-09-11,Valencia,Alaves,0.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP1,1999-09-12,Ath Bilbao,Real Madrid,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
+SP1,1999-09-12,Ath Madrid,Celta,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP1,1999-09-12,Malaga,Betis,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-09-12,Mallorca,Numancia,3.0,0.0,H,3.0,0.0,H,ES,1999/2000
+SP1,1999-09-12,Oviedo,Santander,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP1,1999-09-12,Sevilla,Zaragoza,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,1999-09-12,Vallecano,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-09-18,Alaves,Barcelona,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
 SP1,1999-09-18,Betis,Valencia,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-09-18,Espanol,Oviedo,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
@@ -49,20 +49,20 @@ SP1,1999-09-26,Mallorca,Ath Bilbao,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-09-26,Oviedo,Alaves,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-09-26,Sevilla,Espanol,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
 SP1,1999-09-26,Vallecano,Zaragoza,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
-SP1,1999-02-10,Numancia,Malaga,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
-SP1,1999-02-10,Valladolid,Barcelona,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
-SP1,1999-03-10,Alaves,Sevilla,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,1999-03-10,Ath Bilbao,La Coruna,2.0,3.0,A,0.0,1.0,A,ES,1999/2000
-SP1,1999-03-10,Betis,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-03-10,Celta,Mallorca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,1999-03-10,Espanol,Ath Madrid,3.0,1.0,H,1.0,1.0,D,ES,1999/2000
-SP1,1999-03-10,Real Madrid,Valencia,2.0,3.0,A,0.0,3.0,A,ES,1999/2000
-SP1,1999-03-10,Santander,Vallecano,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
-SP1,1999-03-10,Zaragoza,Sociedad,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,1999-11-10,Ath Madrid,Alaves,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,1999-12-10,Malaga,Ath Bilbao,3.0,4.0,A,1.0,1.0,D,ES,1999/2000
-SP1,1999-12-10,Mallorca,La Coruna,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
-SP1,1999-12-10,Sevilla,Betis,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-10-02,Numancia,Malaga,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP1,1999-10-02,Valladolid,Barcelona,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP1,1999-10-03,Alaves,Sevilla,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-03,Ath Bilbao,La Coruna,2.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP1,1999-10-03,Betis,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-10-03,Celta,Mallorca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-03,Espanol,Ath Madrid,3.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP1,1999-10-03,Real Madrid,Valencia,2.0,3.0,A,0.0,3.0,A,ES,1999/2000
+SP1,1999-10-03,Santander,Vallecano,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-03,Zaragoza,Sociedad,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-11,Ath Madrid,Alaves,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-12,Malaga,Ath Bilbao,3.0,4.0,A,1.0,1.0,D,ES,1999/2000
+SP1,1999-10-12,Mallorca,La Coruna,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP1,1999-10-12,Sevilla,Betis,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-10-13,Barcelona,Real Madrid,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
 SP1,1999-10-13,Celta,Zaragoza,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
 SP1,1999-10-13,Oviedo,Valladolid,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
@@ -99,16 +99,16 @@ SP1,1999-10-31,Espanol,Zaragoza,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
 SP1,1999-10-31,Numancia,Sevilla,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-10-31,Santander,Mallorca,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
 SP1,1999-10-31,Valladolid,Vallecano,1.0,2.0,A,0.0,1.0,A,ES,1999/2000
-SP1,1999-06-11,Vallecano,Real Madrid,2.0,3.0,A,2.0,0.0,H,ES,1999/2000
-SP1,1999-07-11,Ath Madrid,Numancia,2.0,2.0,D,2.0,0.0,H,ES,1999/2000
-SP1,1999-07-11,Barcelona,Malaga,1.0,2.0,A,1.0,2.0,A,ES,1999/2000
-SP1,1999-07-11,Celta,Betis,5.0,1.0,H,3.0,1.0,H,ES,1999/2000
-SP1,1999-07-11,Mallorca,Valencia,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,1999-07-11,Oviedo,La Coruna,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
-SP1,1999-07-11,Santander,Espanol,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
-SP1,1999-07-11,Sevilla,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,1999-07-11,Sociedad,Valladolid,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
-SP1,1999-07-11,Zaragoza,Alaves,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-11-06,Vallecano,Real Madrid,2.0,3.0,A,2.0,0.0,H,ES,1999/2000
+SP1,1999-11-07,Ath Madrid,Numancia,2.0,2.0,D,2.0,0.0,H,ES,1999/2000
+SP1,1999-11-07,Barcelona,Malaga,1.0,2.0,A,1.0,2.0,A,ES,1999/2000
+SP1,1999-11-07,Celta,Betis,5.0,1.0,H,3.0,1.0,H,ES,1999/2000
+SP1,1999-11-07,Mallorca,Valencia,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,1999-11-07,Oviedo,La Coruna,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP1,1999-11-07,Santander,Espanol,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
+SP1,1999-11-07,Sevilla,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,1999-11-07,Sociedad,Valladolid,3.0,0.0,H,2.0,0.0,H,ES,1999/2000
+SP1,1999-11-07,Zaragoza,Alaves,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-11-20,Ath Bilbao,Ath Madrid,4.0,2.0,H,2.0,1.0,H,ES,1999/2000
 SP1,1999-11-20,Valencia,Barcelona,3.0,1.0,H,2.0,1.0,H,ES,1999/2000
 SP1,1999-11-21,Betis,Zaragoza,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
@@ -128,18 +128,18 @@ SP1,1999-11-28,Santander,Betis,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
 SP1,1999-11-28,Sociedad,Numancia,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
 SP1,1999-11-28,Vallecano,Ath Bilbao,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
 SP1,1999-11-28,Zaragoza,Valladolid,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,1999-04-12,Ath Bilbao,Sociedad,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,1999-04-12,Barcelona,Oviedo,3.0,2.0,H,3.0,0.0,H,ES,1999/2000
-SP1,1999-04-12,Real Madrid,Zaragoza,1.0,5.0,A,0.0,3.0,A,ES,1999/2000
-SP1,1999-04-12,Valencia,Sevilla,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-05-12,Alaves,Mallorca,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
-SP1,1999-05-12,Betis,Espanol,2.0,5.0,A,1.0,0.0,H,ES,1999/2000
-SP1,1999-05-12,La Coruna,Vallecano,3.0,2.0,H,3.0,1.0,H,ES,1999/2000
-SP1,1999-05-12,Malaga,Ath Madrid,2.0,3.0,A,1.0,2.0,A,ES,1999/2000
-SP1,1999-05-12,Numancia,Celta,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-05-12,Valladolid,Santander,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-08-12,Alaves,Santander,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,1999-11-12,Sevilla,Barcelona,3.0,2.0,H,1.0,1.0,D,ES,1999/2000
+SP1,1999-12-04,Ath Bilbao,Sociedad,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-04,Barcelona,Oviedo,3.0,2.0,H,3.0,0.0,H,ES,1999/2000
+SP1,1999-12-04,Real Madrid,Zaragoza,1.0,5.0,A,0.0,3.0,A,ES,1999/2000
+SP1,1999-12-04,Valencia,Sevilla,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-05,Alaves,Mallorca,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-05,Betis,Espanol,2.0,5.0,A,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-05,La Coruna,Vallecano,3.0,2.0,H,3.0,1.0,H,ES,1999/2000
+SP1,1999-12-05,Malaga,Ath Madrid,2.0,3.0,A,1.0,2.0,A,ES,1999/2000
+SP1,1999-12-05,Numancia,Celta,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-05,Valladolid,Santander,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-08,Alaves,Santander,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,1999-12-11,Sevilla,Barcelona,3.0,2.0,H,1.0,1.0,D,ES,1999/2000
 SP1,1999-12-12,Alaves,Betis,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,1999-12-12,Ath Madrid,Valencia,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
 SP1,1999-12-12,Celta,Ath Bilbao,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
@@ -169,24 +169,24 @@ SP1,1999-12-22,Santander,Ath Bilbao,2.0,2.0,D,1.0,1.0,D,ES,1999/2000
 SP1,1999-12-22,Sociedad,Valencia,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
 SP1,1999-12-22,Vallecano,Barcelona,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
 SP1,1999-12-22,Zaragoza,La Coruna,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-04-01,Valencia,Celta,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-01,Ath Bilbao,Espanol,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
-SP1,2000-05-01,Barcelona,Sociedad,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
-SP1,2000-05-01,La Coruna,Santander,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-05-01,Malaga,Zaragoza,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-01,Mallorca,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-01,Numancia,Alaves,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-01,Oviedo,Vallecano,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-01,Sevilla,Ath Madrid,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
-SP1,2000-08-01,Espanol,La Coruna,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-01,Alaves,Ath Bilbao,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
-SP1,2000-09-01,Ath Madrid,Mallorca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-01,Betis,Numancia,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
-SP1,2000-09-01,Celta,Barcelona,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-09-01,Santander,Malaga,2.0,3.0,A,1.0,1.0,D,ES,1999/2000
-SP1,2000-09-01,Sociedad,Oviedo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-01,Vallecano,Sevilla,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-09-01,Zaragoza,Valencia,4.0,2.0,H,2.0,1.0,H,ES,1999/2000
+SP1,2000-01-04,Valencia,Celta,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-01-05,Ath Bilbao,Espanol,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP1,2000-01-05,Barcelona,Sociedad,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP1,2000-01-05,La Coruna,Santander,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-01-05,Malaga,Zaragoza,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-05,Mallorca,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-05,Numancia,Alaves,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-05,Oviedo,Vallecano,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-01-05,Sevilla,Ath Madrid,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
+SP1,2000-01-08,Espanol,La Coruna,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-09,Alaves,Ath Bilbao,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP1,2000-01-09,Ath Madrid,Mallorca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-09,Betis,Numancia,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
+SP1,2000-01-09,Celta,Barcelona,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-01-09,Santander,Malaga,2.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP1,2000-01-09,Sociedad,Oviedo,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-01-09,Vallecano,Sevilla,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-01-09,Zaragoza,Valencia,4.0,2.0,H,2.0,1.0,H,ES,1999/2000
 SP1,2000-01-15,Vallecano,Ath Madrid,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
 SP1,2000-01-16,Alaves,La Coruna,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-01-16,Betis,Ath Bilbao,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
@@ -218,19 +218,19 @@ SP1,2000-01-30,Santander,Oviedo,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
 SP1,2000-01-30,Sociedad,Vallecano,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
 SP1,2000-01-30,Valladolid,La Coruna,4.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-01-30,Zaragoza,Sevilla,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-02,Valencia,Betis,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-06-02,Ath Bilbao,Numancia,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
-SP1,2000-06-02,Ath Madrid,Zaragoza,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-06-02,Barcelona,Alaves,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-06-02,La Coruna,Real Madrid,5.0,2.0,H,2.0,1.0,H,ES,1999/2000
-SP1,2000-06-02,Malaga,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-06-02,Mallorca,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-06-02,Oviedo,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-06-02,Sevilla,Santander,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-06-02,Vallecano,Celta,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-12-02,Ath Bilbao,Mallorca,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
-SP1,2000-12-02,Real Madrid,Malaga,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-12-02,Valladolid,Valencia,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-02-05,Valencia,Betis,3.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-02-06,Ath Bilbao,Numancia,2.0,1.0,H,1.0,1.0,D,ES,1999/2000
+SP1,2000-02-06,Ath Madrid,Zaragoza,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-02-06,Barcelona,Alaves,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-02-06,La Coruna,Real Madrid,5.0,2.0,H,2.0,1.0,H,ES,1999/2000
+SP1,2000-02-06,Malaga,Valladolid,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-02-06,Mallorca,Sociedad,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-02-06,Oviedo,Espanol,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-02-06,Sevilla,Santander,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-02-06,Vallecano,Celta,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-02-12,Ath Bilbao,Mallorca,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP1,2000-02-12,Real Madrid,Malaga,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-02-12,Valladolid,Valencia,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
 SP1,2000-02-13,Alaves,Oviedo,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-02-13,Betis,Barcelona,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-02-13,Celta,Sociedad,4.0,1.0,H,0.0,1.0,A,ES,1999/2000
@@ -259,26 +259,26 @@ SP1,2000-02-27,La Coruna,Mallorca,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-02-27,Santander,Sociedad,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
 SP1,2000-02-27,Valladolid,Oviedo,2.0,1.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-02-27,Zaragoza,Celta,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
-SP1,2000-04-03,Barcelona,Numancia,4.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-04-03,Oviedo,Real Madrid,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-04-03,Valencia,Ath Bilbao,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-03,Ath Madrid,Betis,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-03,Celta,Santander,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-03,Malaga,La Coruna,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-03,Mallorca,Zaragoza,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-03,Sevilla,Valladolid,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
-SP1,2000-05-03,Sociedad,Espanol,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-05-03,Vallecano,Alaves,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
-SP1,2000-11-03,Ath Bilbao,Barcelona,0.0,4.0,A,0.0,2.0,A,ES,1999/2000
-SP1,2000-11-03,Betis,Vallecano,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-11-03,Real Madrid,Sevilla,3.0,1.0,H,3.0,0.0,H,ES,1999/2000
-SP1,2000-12-03,Alaves,Sociedad,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
-SP1,2000-12-03,Espanol,Celta,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-12-03,La Coruna,Valencia,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-12-03,Malaga,Mallorca,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-12-03,Numancia,Oviedo,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
-SP1,2000-12-03,Santander,Zaragoza,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
-SP1,2000-12-03,Valladolid,Ath Madrid,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-04,Barcelona,Numancia,4.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-04,Oviedo,Real Madrid,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-04,Valencia,Ath Bilbao,2.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-05,Ath Madrid,Betis,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-05,Celta,Santander,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-05,Malaga,La Coruna,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-05,Mallorca,Zaragoza,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-05,Sevilla,Valladolid,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-05,Sociedad,Espanol,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-05,Vallecano,Alaves,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-11,Ath Bilbao,Barcelona,0.0,4.0,A,0.0,2.0,A,ES,1999/2000
+SP1,2000-03-11,Betis,Vallecano,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-11,Real Madrid,Sevilla,3.0,1.0,H,3.0,0.0,H,ES,1999/2000
+SP1,2000-03-12,Alaves,Sociedad,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
+SP1,2000-03-12,Espanol,Celta,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-12,La Coruna,Valencia,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-12,Malaga,Mallorca,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-03-12,Numancia,Oviedo,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP1,2000-03-12,Santander,Zaragoza,1.0,2.0,A,1.0,0.0,H,ES,1999/2000
+SP1,2000-03-12,Valladolid,Ath Madrid,1.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-03-18,Ath Madrid,Real Madrid,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
 SP1,2000-03-18,Barcelona,La Coruna,2.0,1.0,H,2.0,0.0,H,ES,1999/2000
 SP1,2000-03-18,Valencia,Malaga,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
@@ -299,26 +299,26 @@ SP1,2000-03-25,Valencia,Mallorca,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
 SP1,2000-03-25,Valladolid,Sociedad,2.0,1.0,H,0.0,1.0,A,ES,1999/2000
 SP1,2000-03-26,Betis,Celta,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
 SP1,2000-03-26,La Coruna,Oviedo,3.0,1.0,H,2.0,0.0,H,ES,1999/2000
-SP1,2000-01-04,Sociedad,Real Madrid,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
-SP1,2000-02-04,Ath Madrid,Ath Bilbao,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
-SP1,2000-02-04,Barcelona,Valencia,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-02-04,Celta,Valladolid,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-02-04,Mallorca,Espanol,1.0,3.0,A,1.0,1.0,D,ES,1999/2000
-SP1,2000-02-04,Oviedo,Malaga,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
-SP1,2000-02-04,Santander,Alaves,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-02-04,Sevilla,La Coruna,1.0,3.0,A,1.0,2.0,A,ES,1999/2000
-SP1,2000-02-04,Vallecano,Numancia,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-02-04,Zaragoza,Betis,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-08-04,La Coruna,Ath Madrid,4.0,1.0,H,3.0,0.0,H,ES,1999/2000
-SP1,2000-09-04,Alaves,Espanol,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-04,Ath Bilbao,Vallecano,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
-SP1,2000-09-04,Barcelona,Mallorca,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-09-04,Betis,Santander,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-09-04,Malaga,Sevilla,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-04,Numancia,Sociedad,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-04,Real Madrid,Celta,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
-SP1,2000-09-04,Valencia,Oviedo,6.0,2.0,H,2.0,0.0,H,ES,1999/2000
-SP1,2000-09-04,Valladolid,Zaragoza,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-01,Sociedad,Real Madrid,1.0,1.0,D,0.0,1.0,A,ES,1999/2000
+SP1,2000-04-02,Ath Madrid,Ath Bilbao,1.0,2.0,A,1.0,1.0,D,ES,1999/2000
+SP1,2000-04-02,Barcelona,Valencia,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-02,Celta,Valladolid,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-04-02,Mallorca,Espanol,1.0,3.0,A,1.0,1.0,D,ES,1999/2000
+SP1,2000-04-02,Oviedo,Malaga,2.0,2.0,D,2.0,1.0,H,ES,1999/2000
+SP1,2000-04-02,Santander,Alaves,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-02,Sevilla,La Coruna,1.0,3.0,A,1.0,2.0,A,ES,1999/2000
+SP1,2000-04-02,Vallecano,Numancia,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-02,Zaragoza,Betis,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-08,La Coruna,Ath Madrid,4.0,1.0,H,3.0,0.0,H,ES,1999/2000
+SP1,2000-04-09,Alaves,Espanol,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-09,Ath Bilbao,Vallecano,1.0,2.0,A,0.0,2.0,A,ES,1999/2000
+SP1,2000-04-09,Barcelona,Mallorca,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-04-09,Betis,Santander,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-04-09,Malaga,Sevilla,3.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-09,Numancia,Sociedad,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-09,Real Madrid,Celta,1.0,0.0,H,0.0,0.0,D,ES,1999/2000
+SP1,2000-04-09,Valencia,Oviedo,6.0,2.0,H,2.0,0.0,H,ES,1999/2000
+SP1,2000-04-09,Valladolid,Zaragoza,1.0,1.0,D,0.0,0.0,D,ES,1999/2000
 SP1,2000-04-15,Oviedo,Barcelona,3.0,0.0,H,1.0,0.0,H,ES,1999/2000
 SP1,2000-04-15,Sevilla,Valencia,1.0,2.0,A,0.0,0.0,D,ES,1999/2000
 SP1,2000-04-15,Zaragoza,Real Madrid,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
@@ -349,16 +349,16 @@ SP1,2000-04-30,Santander,Numancia,1.0,1.0,D,1.0,0.0,H,ES,1999/2000
 SP1,2000-04-30,Sevilla,Oviedo,2.0,3.0,A,0.0,1.0,A,ES,1999/2000
 SP1,2000-04-30,Sociedad,Malaga,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
 SP1,2000-04-30,Zaragoza,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-06-05,Barcelona,Vallecano,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-06-05,Numancia,Espanol,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-06-05,Real Madrid,Alaves,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
-SP1,2000-06-05,Valencia,Sociedad,4.0,0.0,H,1.0,0.0,H,ES,1999/2000
-SP1,2000-07-05,Ath Bilbao,Santander,2.0,2.0,D,2.0,2.0,D,ES,1999/2000
-SP1,2000-07-05,La Coruna,Zaragoza,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
-SP1,2000-07-05,Malaga,Celta,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-07-05,Oviedo,Ath Madrid,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
-SP1,2000-07-05,Sevilla,Mallorca,0.0,4.0,A,0.0,1.0,A,ES,1999/2000
-SP1,2000-07-05,Valladolid,Betis,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-05-06,Barcelona,Vallecano,0.0,2.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-05-06,Numancia,Espanol,2.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-05-06,Real Madrid,Alaves,0.0,1.0,A,0.0,0.0,D,ES,1999/2000
+SP1,2000-05-06,Valencia,Sociedad,4.0,0.0,H,1.0,0.0,H,ES,1999/2000
+SP1,2000-05-07,Ath Bilbao,Santander,2.0,2.0,D,2.0,2.0,D,ES,1999/2000
+SP1,2000-05-07,La Coruna,Zaragoza,2.0,2.0,D,0.0,0.0,D,ES,1999/2000
+SP1,2000-05-07,Malaga,Celta,0.0,1.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-05-07,Oviedo,Ath Madrid,2.0,2.0,D,1.0,0.0,H,ES,1999/2000
+SP1,2000-05-07,Sevilla,Mallorca,0.0,4.0,A,0.0,1.0,A,ES,1999/2000
+SP1,2000-05-07,Valladolid,Betis,0.0,3.0,A,0.0,1.0,A,ES,1999/2000
 SP1,2000-05-13,Ath Madrid,Sevilla,1.0,1.0,D,1.0,1.0,D,ES,1999/2000
 SP1,2000-05-14,Alaves,Numancia,2.0,2.0,D,0.0,1.0,A,ES,1999/2000
 SP1,2000-05-14,Betis,Real Madrid,0.0,2.0,A,0.0,1.0,A,ES,1999/2000

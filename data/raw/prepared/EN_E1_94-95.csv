@@ -42,17 +42,17 @@ E1,1994-08-31,Man United,Wimbledon,3.0,0.0,H,EN,1994/1995
 E1,1994-08-31,Sheffield Weds,Norwich,0.0,0.0,D,EN,1994/1995
 E1,1994-08-31,Southampton,Liverpool,0.0,2.0,A,EN,1994/1995
 E1,1994-08-31,West Ham,Newcastle,1.0,3.0,A,EN,1994/1995
-E1,1994-10-09,Aston Villa,Ipswich,2.0,0.0,H,EN,1994/1995
-E1,1994-10-09,Blackburn,Everton,3.0,0.0,H,EN,1994/1995
-E1,1994-10-09,Liverpool,West Ham,0.0,0.0,D,EN,1994/1995
-E1,1994-10-09,Man City,Crystal Palace,1.0,1.0,D,EN,1994/1995
-E1,1994-10-09,Newcastle,Chelsea,4.0,2.0,H,EN,1994/1995
-E1,1994-10-09,Norwich,Arsenal,0.0,0.0,D,EN,1994/1995
-E1,1994-10-09,Nott'm Forest,Sheffield Weds,4.0,1.0,H,EN,1994/1995
-E1,1994-10-09,QPR,Coventry,2.0,2.0,D,EN,1994/1995
-E1,1994-10-09,Wimbledon,Leicester,2.0,1.0,H,EN,1994/1995
-E1,1994-11-09,Leeds,Man United,2.0,1.0,H,EN,1994/1995
-E1,1994-12-09,Tottenham,Southampton,1.0,2.0,A,EN,1994/1995
+E1,1994-09-10,Aston Villa,Ipswich,2.0,0.0,H,EN,1994/1995
+E1,1994-09-10,Blackburn,Everton,3.0,0.0,H,EN,1994/1995
+E1,1994-09-10,Liverpool,West Ham,0.0,0.0,D,EN,1994/1995
+E1,1994-09-10,Man City,Crystal Palace,1.0,1.0,D,EN,1994/1995
+E1,1994-09-10,Newcastle,Chelsea,4.0,2.0,H,EN,1994/1995
+E1,1994-09-10,Norwich,Arsenal,0.0,0.0,D,EN,1994/1995
+E1,1994-09-10,Nott'm Forest,Sheffield Weds,4.0,1.0,H,EN,1994/1995
+E1,1994-09-10,QPR,Coventry,2.0,2.0,D,EN,1994/1995
+E1,1994-09-10,Wimbledon,Leicester,2.0,1.0,H,EN,1994/1995
+E1,1994-09-11,Leeds,Man United,2.0,1.0,H,EN,1994/1995
+E1,1994-09-12,Tottenham,Southampton,1.0,2.0,A,EN,1994/1995
 E1,1994-09-17,Coventry,Leeds,2.0,1.0,H,EN,1994/1995
 E1,1994-09-17,Crystal Palace,Wimbledon,0.0,0.0,D,EN,1994/1995
 E1,1994-09-17,Everton,QPR,2.0,2.0,D,EN,1994/1995
@@ -75,27 +75,27 @@ E1,1994-09-24,QPR,Wimbledon,0.0,1.0,A,EN,1994/1995
 E1,1994-09-24,Tottenham,Nott'm Forest,1.0,4.0,A,EN,1994/1995
 E1,1994-09-25,West Ham,Arsenal,0.0,2.0,A,EN,1994/1995
 E1,1994-09-26,Sheffield Weds,Leeds,1.0,1.0,D,EN,1994/1995
-E1,1994-01-10,Arsenal,Crystal Palace,1.0,2.0,A,EN,1994/1995
-E1,1994-01-10,Aston Villa,Newcastle,0.0,2.0,A,EN,1994/1995
-E1,1994-01-10,Leeds,Man City,2.0,0.0,H,EN,1994/1995
-E1,1994-01-10,Liverpool,Sheffield Weds,4.0,1.0,H,EN,1994/1995
-E1,1994-01-10,Man United,Everton,2.0,0.0,H,EN,1994/1995
-E1,1994-01-10,Norwich,Blackburn,2.0,1.0,H,EN,1994/1995
-E1,1994-01-10,Southampton,Ipswich,3.0,1.0,H,EN,1994/1995
-E1,1994-01-10,Wimbledon,Tottenham,1.0,2.0,A,EN,1994/1995
-E1,1994-02-10,Chelsea,West Ham,1.0,2.0,A,EN,1994/1995
-E1,1994-02-10,Nott'm Forest,QPR,3.0,2.0,H,EN,1994/1995
-E1,1994-03-10,Leicester,Coventry,2.0,2.0,D,EN,1994/1995
-E1,1994-08-10,Chelsea,Leicester,4.0,0.0,H,EN,1994/1995
-E1,1994-08-10,Liverpool,Aston Villa,3.0,2.0,H,EN,1994/1995
-E1,1994-08-10,Man City,Nott'm Forest,3.0,3.0,D,EN,1994/1995
-E1,1994-08-10,Norwich,Leeds,2.0,1.0,H,EN,1994/1995
-E1,1994-08-10,Sheffield Weds,Man United,1.0,0.0,H,EN,1994/1995
-E1,1994-08-10,Southampton,Everton,2.0,0.0,H,EN,1994/1995
-E1,1994-08-10,Tottenham,QPR,1.0,1.0,D,EN,1994/1995
-E1,1994-08-10,West Ham,Crystal Palace,1.0,0.0,H,EN,1994/1995
-E1,1994-08-10,Wimbledon,Arsenal,1.0,3.0,A,EN,1994/1995
-E1,1994-09-10,Newcastle,Blackburn,1.0,1.0,D,EN,1994/1995
+E1,1994-10-01,Arsenal,Crystal Palace,1.0,2.0,A,EN,1994/1995
+E1,1994-10-01,Aston Villa,Newcastle,0.0,2.0,A,EN,1994/1995
+E1,1994-10-01,Leeds,Man City,2.0,0.0,H,EN,1994/1995
+E1,1994-10-01,Liverpool,Sheffield Weds,4.0,1.0,H,EN,1994/1995
+E1,1994-10-01,Man United,Everton,2.0,0.0,H,EN,1994/1995
+E1,1994-10-01,Norwich,Blackburn,2.0,1.0,H,EN,1994/1995
+E1,1994-10-01,Southampton,Ipswich,3.0,1.0,H,EN,1994/1995
+E1,1994-10-01,Wimbledon,Tottenham,1.0,2.0,A,EN,1994/1995
+E1,1994-10-02,Chelsea,West Ham,1.0,2.0,A,EN,1994/1995
+E1,1994-10-02,Nott'm Forest,QPR,3.0,2.0,H,EN,1994/1995
+E1,1994-10-03,Leicester,Coventry,2.0,2.0,D,EN,1994/1995
+E1,1994-10-08,Chelsea,Leicester,4.0,0.0,H,EN,1994/1995
+E1,1994-10-08,Liverpool,Aston Villa,3.0,2.0,H,EN,1994/1995
+E1,1994-10-08,Man City,Nott'm Forest,3.0,3.0,D,EN,1994/1995
+E1,1994-10-08,Norwich,Leeds,2.0,1.0,H,EN,1994/1995
+E1,1994-10-08,Sheffield Weds,Man United,1.0,0.0,H,EN,1994/1995
+E1,1994-10-08,Southampton,Everton,2.0,0.0,H,EN,1994/1995
+E1,1994-10-08,Tottenham,QPR,1.0,1.0,D,EN,1994/1995
+E1,1994-10-08,West Ham,Crystal Palace,1.0,0.0,H,EN,1994/1995
+E1,1994-10-08,Wimbledon,Arsenal,1.0,3.0,A,EN,1994/1995
+E1,1994-10-09,Newcastle,Blackburn,1.0,1.0,D,EN,1994/1995
 E1,1994-10-10,Coventry,Ipswich,2.0,0.0,H,EN,1994/1995
 E1,1994-10-15,Arsenal,Chelsea,3.0,1.0,H,EN,1994/1995
 E1,1994-10-15,Aston Villa,Norwich,1.0,1.0,D,EN,1994/1995
@@ -131,26 +131,26 @@ E1,1994-10-29,Southampton,Leeds,1.0,3.0,A,EN,1994/1995
 E1,1994-10-29,Tottenham,West Ham,3.0,1.0,H,EN,1994/1995
 E1,1994-10-30,Wimbledon,Norwich,1.0,0.0,H,EN,1994/1995
 E1,1994-10-31,QPR,Liverpool,2.0,1.0,H,EN,1994/1995
-E1,1994-01-11,Everton,West Ham,1.0,0.0,H,EN,1994/1995
-E1,1994-01-11,Ipswich,Leeds,2.0,0.0,H,EN,1994/1995
-E1,1994-02-11,Coventry,Crystal Palace,1.0,4.0,A,EN,1994/1995
-E1,1994-02-11,Sheffield Weds,Blackburn,0.0,1.0,A,EN,1994/1995
-E1,1994-02-11,Southampton,Norwich,1.0,1.0,D,EN,1994/1995
-E1,1994-05-11,Blackburn,Tottenham,2.0,0.0,H,EN,1994/1995
-E1,1994-05-11,Crystal Palace,Ipswich,3.0,0.0,H,EN,1994/1995
-E1,1994-05-11,Leeds,Wimbledon,3.0,1.0,H,EN,1994/1995
-E1,1994-05-11,Liverpool,Nott'm Forest,1.0,0.0,H,EN,1994/1995
-E1,1994-05-11,Man City,Southampton,3.0,3.0,D,EN,1994/1995
-E1,1994-05-11,Newcastle,QPR,2.0,1.0,H,EN,1994/1995
-E1,1994-05-11,Norwich,Everton,0.0,0.0,D,EN,1994/1995
-E1,1994-05-11,West Ham,Leicester,1.0,0.0,H,EN,1994/1995
-E1,1994-06-11,Arsenal,Sheffield Weds,0.0,0.0,D,EN,1994/1995
-E1,1994-06-11,Aston Villa,Man United,1.0,2.0,A,EN,1994/1995
-E1,1994-06-11,Chelsea,Coventry,2.0,2.0,D,EN,1994/1995
-E1,1994-07-11,Nott'm Forest,Newcastle,0.0,0.0,D,EN,1994/1995
-E1,1994-09-11,Liverpool,Chelsea,3.0,1.0,H,EN,1994/1995
-E1,1994-09-11,Wimbledon,Aston Villa,4.0,3.0,H,EN,1994/1995
-E1,1994-10-11,Man United,Man City,5.0,0.0,H,EN,1994/1995
+E1,1994-11-01,Everton,West Ham,1.0,0.0,H,EN,1994/1995
+E1,1994-11-01,Ipswich,Leeds,2.0,0.0,H,EN,1994/1995
+E1,1994-11-02,Coventry,Crystal Palace,1.0,4.0,A,EN,1994/1995
+E1,1994-11-02,Sheffield Weds,Blackburn,0.0,1.0,A,EN,1994/1995
+E1,1994-11-02,Southampton,Norwich,1.0,1.0,D,EN,1994/1995
+E1,1994-11-05,Blackburn,Tottenham,2.0,0.0,H,EN,1994/1995
+E1,1994-11-05,Crystal Palace,Ipswich,3.0,0.0,H,EN,1994/1995
+E1,1994-11-05,Leeds,Wimbledon,3.0,1.0,H,EN,1994/1995
+E1,1994-11-05,Liverpool,Nott'm Forest,1.0,0.0,H,EN,1994/1995
+E1,1994-11-05,Man City,Southampton,3.0,3.0,D,EN,1994/1995
+E1,1994-11-05,Newcastle,QPR,2.0,1.0,H,EN,1994/1995
+E1,1994-11-05,Norwich,Everton,0.0,0.0,D,EN,1994/1995
+E1,1994-11-05,West Ham,Leicester,1.0,0.0,H,EN,1994/1995
+E1,1994-11-06,Arsenal,Sheffield Weds,0.0,0.0,D,EN,1994/1995
+E1,1994-11-06,Aston Villa,Man United,1.0,2.0,A,EN,1994/1995
+E1,1994-11-06,Chelsea,Coventry,2.0,2.0,D,EN,1994/1995
+E1,1994-11-07,Nott'm Forest,Newcastle,0.0,0.0,D,EN,1994/1995
+E1,1994-11-09,Liverpool,Chelsea,3.0,1.0,H,EN,1994/1995
+E1,1994-11-09,Wimbledon,Aston Villa,4.0,3.0,H,EN,1994/1995
+E1,1994-11-10,Man United,Man City,5.0,0.0,H,EN,1994/1995
 E1,1994-11-19,Coventry,Norwich,1.0,0.0,H,EN,1994/1995
 E1,1994-11-19,Ipswich,Blackburn,1.0,3.0,A,EN,1994/1995
 E1,1994-11-19,Man United,Crystal Palace,3.0,0.0,H,EN,1994/1995
@@ -175,27 +175,27 @@ E1,1994-11-26,Newcastle,Ipswich,1.0,1.0,D,EN,1994/1995
 E1,1994-11-26,Norwich,Leicester,2.0,1.0,H,EN,1994/1995
 E1,1994-11-26,West Ham,Coventry,0.0,1.0,A,EN,1994/1995
 E1,1994-11-27,Aston Villa,Sheffield Weds,1.0,1.0,D,EN,1994/1995
-E1,1994-03-12,Coventry,Liverpool,1.0,1.0,D,EN,1994/1995
-E1,1994-03-12,Ipswich,Man City,1.0,2.0,A,EN,1994/1995
-E1,1994-03-12,Leicester,Aston Villa,1.0,1.0,D,EN,1994/1995
-E1,1994-03-12,Man United,Norwich,1.0,0.0,H,EN,1994/1995
-E1,1994-03-12,Nott'm Forest,Arsenal,2.0,2.0,D,EN,1994/1995
-E1,1994-03-12,Sheffield Weds,Crystal Palace,1.0,0.0,H,EN,1994/1995
-E1,1994-03-12,Southampton,Chelsea,0.0,1.0,A,EN,1994/1995
-E1,1994-03-12,Tottenham,Newcastle,4.0,2.0,H,EN,1994/1995
-E1,1994-03-12,Wimbledon,Blackburn,0.0,3.0,A,EN,1994/1995
-E1,1994-04-12,Everton,Leeds,3.0,0.0,H,EN,1994/1995
-E1,1994-04-12,QPR,West Ham,2.0,1.0,H,EN,1994/1995
-E1,1994-10-12,Aston Villa,Everton,0.0,0.0,D,EN,1994/1995
-E1,1994-10-12,Blackburn,Southampton,3.0,2.0,H,EN,1994/1995
-E1,1994-10-12,Leeds,West Ham,2.0,2.0,D,EN,1994/1995
-E1,1994-10-12,Newcastle,Leicester,3.0,1.0,H,EN,1994/1995
-E1,1994-10-12,Norwich,Chelsea,3.0,0.0,H,EN,1994/1995
-E1,1994-10-12,Nott'm Forest,Ipswich,4.0,1.0,H,EN,1994/1995
-E1,1994-10-12,QPR,Man United,2.0,3.0,A,EN,1994/1995
-E1,1994-10-12,Tottenham,Sheffield Weds,3.0,1.0,H,EN,1994/1995
-E1,1994-10-12,Wimbledon,Coventry,2.0,0.0,H,EN,1994/1995
-E1,1994-11-12,Liverpool,Crystal Palace,0.0,0.0,D,EN,1994/1995
+E1,1994-12-03,Coventry,Liverpool,1.0,1.0,D,EN,1994/1995
+E1,1994-12-03,Ipswich,Man City,1.0,2.0,A,EN,1994/1995
+E1,1994-12-03,Leicester,Aston Villa,1.0,1.0,D,EN,1994/1995
+E1,1994-12-03,Man United,Norwich,1.0,0.0,H,EN,1994/1995
+E1,1994-12-03,Nott'm Forest,Arsenal,2.0,2.0,D,EN,1994/1995
+E1,1994-12-03,Sheffield Weds,Crystal Palace,1.0,0.0,H,EN,1994/1995
+E1,1994-12-03,Southampton,Chelsea,0.0,1.0,A,EN,1994/1995
+E1,1994-12-03,Tottenham,Newcastle,4.0,2.0,H,EN,1994/1995
+E1,1994-12-03,Wimbledon,Blackburn,0.0,3.0,A,EN,1994/1995
+E1,1994-12-04,Everton,Leeds,3.0,0.0,H,EN,1994/1995
+E1,1994-12-04,QPR,West Ham,2.0,1.0,H,EN,1994/1995
+E1,1994-12-10,Aston Villa,Everton,0.0,0.0,D,EN,1994/1995
+E1,1994-12-10,Blackburn,Southampton,3.0,2.0,H,EN,1994/1995
+E1,1994-12-10,Leeds,West Ham,2.0,2.0,D,EN,1994/1995
+E1,1994-12-10,Newcastle,Leicester,3.0,1.0,H,EN,1994/1995
+E1,1994-12-10,Norwich,Chelsea,3.0,0.0,H,EN,1994/1995
+E1,1994-12-10,Nott'm Forest,Ipswich,4.0,1.0,H,EN,1994/1995
+E1,1994-12-10,QPR,Man United,2.0,3.0,A,EN,1994/1995
+E1,1994-12-10,Tottenham,Sheffield Weds,3.0,1.0,H,EN,1994/1995
+E1,1994-12-10,Wimbledon,Coventry,2.0,0.0,H,EN,1994/1995
+E1,1994-12-11,Liverpool,Crystal Palace,0.0,0.0,D,EN,1994/1995
 E1,1994-12-12,Man City,Arsenal,1.0,2.0,A,EN,1994/1995
 E1,1994-12-16,Ipswich,Wimbledon,2.0,2.0,D,EN,1994/1995
 E1,1994-12-17,Arsenal,Leeds,1.0,3.0,A,EN,1994/1995
@@ -239,16 +239,16 @@ E1,1994-12-31,Man City,Aston Villa,2.0,2.0,D,EN,1994/1995
 E1,1994-12-31,Norwich,Newcastle,2.0,1.0,H,EN,1994/1995
 E1,1994-12-31,Southampton,Man United,2.0,2.0,D,EN,1994/1995
 E1,1994-12-31,West Ham,Nott'm Forest,3.0,1.0,H,EN,1994/1995
-E1,1995-02-01,Aston Villa,Leeds,0.0,0.0,D,EN,1994/1995
-E1,1995-02-01,Blackburn,West Ham,4.0,2.0,H,EN,1994/1995
-E1,1995-02-01,Ipswich,Leicester,4.0,1.0,H,EN,1994/1995
-E1,1995-02-01,Liverpool,Norwich,4.0,0.0,H,EN,1994/1995
-E1,1995-02-01,Newcastle,Man City,0.0,0.0,D,EN,1994/1995
-E1,1995-02-01,Nott'm Forest,Crystal Palace,1.0,0.0,H,EN,1994/1995
-E1,1995-02-01,Sheffield Weds,Southampton,1.0,1.0,D,EN,1994/1995
-E1,1995-02-01,Tottenham,Arsenal,1.0,0.0,H,EN,1994/1995
-E1,1995-02-01,Wimbledon,Everton,2.0,1.0,H,EN,1994/1995
-E1,1995-03-01,Man United,Coventry,2.0,0.0,H,EN,1994/1995
+E1,1995-01-02,Aston Villa,Leeds,0.0,0.0,D,EN,1994/1995
+E1,1995-01-02,Blackburn,West Ham,4.0,2.0,H,EN,1994/1995
+E1,1995-01-02,Ipswich,Leicester,4.0,1.0,H,EN,1994/1995
+E1,1995-01-02,Liverpool,Norwich,4.0,0.0,H,EN,1994/1995
+E1,1995-01-02,Newcastle,Man City,0.0,0.0,D,EN,1994/1995
+E1,1995-01-02,Nott'm Forest,Crystal Palace,1.0,0.0,H,EN,1994/1995
+E1,1995-01-02,Sheffield Weds,Southampton,1.0,1.0,D,EN,1994/1995
+E1,1995-01-02,Tottenham,Arsenal,1.0,0.0,H,EN,1994/1995
+E1,1995-01-02,Wimbledon,Everton,2.0,1.0,H,EN,1994/1995
+E1,1995-01-03,Man United,Coventry,2.0,0.0,H,EN,1994/1995
 E1,1995-01-14,Arsenal,Everton,1.0,1.0,D,EN,1994/1995
 E1,1995-01-14,Aston Villa,QPR,2.0,1.0,H,EN,1994/1995
 E1,1995-01-14,Blackburn,Nott'm Forest,3.0,0.0,H,EN,1994/1995
@@ -277,28 +277,28 @@ E1,1995-01-25,Man City,Leicester,0.0,1.0,A,EN,1994/1995
 E1,1995-01-25,Newcastle,Wimbledon,2.0,1.0,H,EN,1994/1995
 E1,1995-01-25,Norwich,Coventry,2.0,2.0,D,EN,1994/1995
 E1,1995-01-28,Blackburn,Ipswich,4.0,1.0,H,EN,1994/1995
-E1,1995-01-02,Blackburn,Leeds,1.0,1.0,D,EN,1994/1995
-E1,1995-01-02,Newcastle,Everton,2.0,0.0,H,EN,1994/1995
-E1,1995-04-02,Coventry,Chelsea,2.0,2.0,D,EN,1994/1995
-E1,1995-04-02,Everton,Norwich,2.0,1.0,H,EN,1994/1995
-E1,1995-04-02,Ipswich,Crystal Palace,0.0,2.0,A,EN,1994/1995
-E1,1995-04-02,Leicester,West Ham,1.0,2.0,A,EN,1994/1995
-E1,1995-04-02,Man United,Aston Villa,1.0,0.0,H,EN,1994/1995
-E1,1995-04-02,Nott'm Forest,Liverpool,1.0,1.0,D,EN,1994/1995
-E1,1995-04-02,QPR,Newcastle,3.0,0.0,H,EN,1994/1995
-E1,1995-04-02,Sheffield Weds,Arsenal,3.0,1.0,H,EN,1994/1995
-E1,1995-04-02,Southampton,Man City,2.0,2.0,D,EN,1994/1995
-E1,1995-04-02,Wimbledon,Leeds,0.0,0.0,D,EN,1994/1995
-E1,1995-05-02,Tottenham,Blackburn,3.0,1.0,H,EN,1994/1995
-E1,1995-11-02,Arsenal,Leicester,1.0,1.0,D,EN,1994/1995
-E1,1995-11-02,Aston Villa,Wimbledon,7.0,1.0,H,EN,1994/1995
-E1,1995-11-02,Chelsea,Tottenham,1.0,1.0,D,EN,1994/1995
-E1,1995-11-02,Crystal Palace,Coventry,0.0,2.0,A,EN,1994/1995
-E1,1995-11-02,Liverpool,QPR,1.0,1.0,D,EN,1994/1995
-E1,1995-11-02,Man City,Man United,0.0,3.0,A,EN,1994/1995
-E1,1995-11-02,Newcastle,Nott'm Forest,2.0,1.0,H,EN,1994/1995
-E1,1995-11-02,Norwich,Southampton,2.0,2.0,D,EN,1994/1995
-E1,1995-12-02,Blackburn,Sheffield Weds,3.0,1.0,H,EN,1994/1995
+E1,1995-02-01,Blackburn,Leeds,1.0,1.0,D,EN,1994/1995
+E1,1995-02-01,Newcastle,Everton,2.0,0.0,H,EN,1994/1995
+E1,1995-02-04,Coventry,Chelsea,2.0,2.0,D,EN,1994/1995
+E1,1995-02-04,Everton,Norwich,2.0,1.0,H,EN,1994/1995
+E1,1995-02-04,Ipswich,Crystal Palace,0.0,2.0,A,EN,1994/1995
+E1,1995-02-04,Leicester,West Ham,1.0,2.0,A,EN,1994/1995
+E1,1995-02-04,Man United,Aston Villa,1.0,0.0,H,EN,1994/1995
+E1,1995-02-04,Nott'm Forest,Liverpool,1.0,1.0,D,EN,1994/1995
+E1,1995-02-04,QPR,Newcastle,3.0,0.0,H,EN,1994/1995
+E1,1995-02-04,Sheffield Weds,Arsenal,3.0,1.0,H,EN,1994/1995
+E1,1995-02-04,Southampton,Man City,2.0,2.0,D,EN,1994/1995
+E1,1995-02-04,Wimbledon,Leeds,0.0,0.0,D,EN,1994/1995
+E1,1995-02-05,Tottenham,Blackburn,3.0,1.0,H,EN,1994/1995
+E1,1995-02-11,Arsenal,Leicester,1.0,1.0,D,EN,1994/1995
+E1,1995-02-11,Aston Villa,Wimbledon,7.0,1.0,H,EN,1994/1995
+E1,1995-02-11,Chelsea,Tottenham,1.0,1.0,D,EN,1994/1995
+E1,1995-02-11,Crystal Palace,Coventry,0.0,2.0,A,EN,1994/1995
+E1,1995-02-11,Liverpool,QPR,1.0,1.0,D,EN,1994/1995
+E1,1995-02-11,Man City,Man United,0.0,3.0,A,EN,1994/1995
+E1,1995-02-11,Newcastle,Nott'm Forest,2.0,1.0,H,EN,1994/1995
+E1,1995-02-11,Norwich,Southampton,2.0,2.0,D,EN,1994/1995
+E1,1995-02-12,Blackburn,Sheffield Weds,3.0,1.0,H,EN,1994/1995
 E1,1995-02-13,West Ham,Everton,2.0,2.0,D,EN,1994/1995
 E1,1995-02-18,Coventry,West Ham,2.0,0.0,H,EN,1994/1995
 E1,1995-02-18,Sheffield Weds,Aston Villa,1.0,2.0,A,EN,1994/1995
@@ -320,31 +320,31 @@ E1,1995-02-25,Tottenham,Wimbledon,1.0,2.0,A,EN,1994/1995
 E1,1995-02-25,West Ham,Chelsea,1.0,2.0,A,EN,1994/1995
 E1,1995-02-26,QPR,Nott'm Forest,1.0,1.0,D,EN,1994/1995
 E1,1995-02-28,Ipswich,Newcastle,0.0,2.0,A,EN,1994/1995
-E1,1995-04-03,Aston Villa,Blackburn,0.0,1.0,A,EN,1994/1995
-E1,1995-04-03,Leeds,Sheffield Weds,0.0,1.0,A,EN,1994/1995
-E1,1995-04-03,Leicester,Everton,2.0,2.0,D,EN,1994/1995
-E1,1995-04-03,Liverpool,Newcastle,2.0,0.0,H,EN,1994/1995
-E1,1995-04-03,Man United,Ipswich,9.0,0.0,H,EN,1994/1995
-E1,1995-04-03,Norwich,Man City,1.0,1.0,D,EN,1994/1995
-E1,1995-04-03,Nott'm Forest,Tottenham,2.0,2.0,D,EN,1994/1995
-E1,1995-04-03,Southampton,Coventry,0.0,0.0,D,EN,1994/1995
-E1,1995-04-03,Wimbledon,QPR,1.0,3.0,A,EN,1994/1995
-E1,1995-05-03,Arsenal,West Ham,0.0,1.0,A,EN,1994/1995
-E1,1995-05-03,Chelsea,Crystal Palace,0.0,0.0,D,EN,1994/1995
-E1,1995-06-03,Aston Villa,Coventry,0.0,0.0,D,EN,1994/1995
-E1,1995-07-03,Wimbledon,Man United,0.0,1.0,A,EN,1994/1995
-E1,1995-08-03,Blackburn,Arsenal,3.0,1.0,H,EN,1994/1995
-E1,1995-08-03,Man City,Chelsea,1.0,2.0,A,EN,1994/1995
-E1,1995-08-03,Newcastle,West Ham,2.0,0.0,H,EN,1994/1995
-E1,1995-08-03,Norwich,Sheffield Weds,0.0,0.0,D,EN,1994/1995
-E1,1995-08-03,Nott'm Forest,Everton,2.0,1.0,H,EN,1994/1995
-E1,1995-08-03,QPR,Leicester,2.0,0.0,H,EN,1994/1995
-E1,1995-08-03,Tottenham,Ipswich,3.0,0.0,H,EN,1994/1995
-E1,1995-11-03,Chelsea,Leeds,0.0,3.0,A,EN,1994/1995
-E1,1995-11-03,Coventry,Blackburn,1.0,1.0,D,EN,1994/1995
-E1,1995-11-03,Leicester,Nott'm Forest,2.0,4.0,A,EN,1994/1995
-E1,1995-11-03,Sheffield Weds,Wimbledon,0.0,1.0,A,EN,1994/1995
-E1,1995-11-03,West Ham,Norwich,2.0,2.0,D,EN,1994/1995
+E1,1995-03-04,Aston Villa,Blackburn,0.0,1.0,A,EN,1994/1995
+E1,1995-03-04,Leeds,Sheffield Weds,0.0,1.0,A,EN,1994/1995
+E1,1995-03-04,Leicester,Everton,2.0,2.0,D,EN,1994/1995
+E1,1995-03-04,Liverpool,Newcastle,2.0,0.0,H,EN,1994/1995
+E1,1995-03-04,Man United,Ipswich,9.0,0.0,H,EN,1994/1995
+E1,1995-03-04,Norwich,Man City,1.0,1.0,D,EN,1994/1995
+E1,1995-03-04,Nott'm Forest,Tottenham,2.0,2.0,D,EN,1994/1995
+E1,1995-03-04,Southampton,Coventry,0.0,0.0,D,EN,1994/1995
+E1,1995-03-04,Wimbledon,QPR,1.0,3.0,A,EN,1994/1995
+E1,1995-03-05,Arsenal,West Ham,0.0,1.0,A,EN,1994/1995
+E1,1995-03-05,Chelsea,Crystal Palace,0.0,0.0,D,EN,1994/1995
+E1,1995-03-06,Aston Villa,Coventry,0.0,0.0,D,EN,1994/1995
+E1,1995-03-07,Wimbledon,Man United,0.0,1.0,A,EN,1994/1995
+E1,1995-03-08,Blackburn,Arsenal,3.0,1.0,H,EN,1994/1995
+E1,1995-03-08,Man City,Chelsea,1.0,2.0,A,EN,1994/1995
+E1,1995-03-08,Newcastle,West Ham,2.0,0.0,H,EN,1994/1995
+E1,1995-03-08,Norwich,Sheffield Weds,0.0,0.0,D,EN,1994/1995
+E1,1995-03-08,Nott'm Forest,Everton,2.0,1.0,H,EN,1994/1995
+E1,1995-03-08,QPR,Leicester,2.0,0.0,H,EN,1994/1995
+E1,1995-03-08,Tottenham,Ipswich,3.0,0.0,H,EN,1994/1995
+E1,1995-03-11,Chelsea,Leeds,0.0,3.0,A,EN,1994/1995
+E1,1995-03-11,Coventry,Blackburn,1.0,1.0,D,EN,1994/1995
+E1,1995-03-11,Leicester,Nott'm Forest,2.0,4.0,A,EN,1994/1995
+E1,1995-03-11,Sheffield Weds,Wimbledon,0.0,1.0,A,EN,1994/1995
+E1,1995-03-11,West Ham,Norwich,2.0,2.0,D,EN,1994/1995
 E1,1995-03-14,Crystal Palace,Sheffield Weds,2.0,1.0,H,EN,1994/1995
 E1,1995-03-14,Liverpool,Coventry,2.0,3.0,A,EN,1994/1995
 E1,1995-03-15,Everton,Man City,1.0,1.0,D,EN,1994/1995
@@ -369,32 +369,32 @@ E1,1995-03-22,Nott'm Forest,Leeds,3.0,0.0,H,EN,1994/1995
 E1,1995-03-22,QPR,Chelsea,1.0,0.0,H,EN,1994/1995
 E1,1995-03-22,Southampton,Newcastle,3.0,1.0,H,EN,1994/1995
 E1,1995-03-22,Tottenham,Liverpool,0.0,0.0,D,EN,1994/1995
-E1,1995-01-04,Arsenal,Norwich,5.0,1.0,H,EN,1994/1995
-E1,1995-01-04,Chelsea,Newcastle,1.0,1.0,D,EN,1994/1995
-E1,1995-01-04,Coventry,QPR,0.0,1.0,A,EN,1994/1995
-E1,1995-01-04,Crystal Palace,Man City,2.0,1.0,H,EN,1994/1995
-E1,1995-01-04,Everton,Blackburn,1.0,2.0,A,EN,1994/1995
-E1,1995-01-04,Ipswich,Aston Villa,0.0,1.0,A,EN,1994/1995
-E1,1995-01-04,Leicester,Wimbledon,3.0,4.0,A,EN,1994/1995
-E1,1995-01-04,Sheffield Weds,Nott'm Forest,1.0,7.0,A,EN,1994/1995
-E1,1995-02-04,Man United,Leeds,0.0,0.0,D,EN,1994/1995
-E1,1995-02-04,Southampton,Tottenham,4.0,3.0,H,EN,1994/1995
+E1,1995-04-01,Arsenal,Norwich,5.0,1.0,H,EN,1994/1995
+E1,1995-04-01,Chelsea,Newcastle,1.0,1.0,D,EN,1994/1995
+E1,1995-04-01,Coventry,QPR,0.0,1.0,A,EN,1994/1995
+E1,1995-04-01,Crystal Palace,Man City,2.0,1.0,H,EN,1994/1995
+E1,1995-04-01,Everton,Blackburn,1.0,2.0,A,EN,1994/1995
+E1,1995-04-01,Ipswich,Aston Villa,0.0,1.0,A,EN,1994/1995
+E1,1995-04-01,Leicester,Wimbledon,3.0,4.0,A,EN,1994/1995
+E1,1995-04-01,Sheffield Weds,Nott'm Forest,1.0,7.0,A,EN,1994/1995
+E1,1995-04-02,Man United,Leeds,0.0,0.0,D,EN,1994/1995
+E1,1995-04-02,Southampton,Tottenham,4.0,3.0,H,EN,1994/1995
 E1,1995-04-04,Crystal Palace,Aston Villa,0.0,0.0,D,EN,1994/1995
 E1,1995-04-04,QPR,Blackburn,0.0,1.0,A,EN,1994/1995
-E1,1995-05-04,Leeds,Ipswich,4.0,0.0,H,EN,1994/1995
-E1,1995-05-04,Leicester,Norwich,1.0,0.0,H,EN,1994/1995
-E1,1995-05-04,Liverpool,Southampton,3.0,1.0,H,EN,1994/1995
-E1,1995-08-04,Newcastle,Norwich,3.0,0.0,H,EN,1994/1995
-E1,1995-08-04,Nott'm Forest,West Ham,1.0,1.0,D,EN,1994/1995
-E1,1995-08-04,QPR,Arsenal,3.0,1.0,H,EN,1994/1995
-E1,1995-08-04,Sheffield Weds,Leicester,1.0,0.0,H,EN,1994/1995
-E1,1995-09-04,Liverpool,Leeds,0.0,1.0,A,EN,1994/1995
-E1,1995-10-04,Wimbledon,Chelsea,1.0,1.0,D,EN,1994/1995
-E1,1995-11-04,Ipswich,QPR,0.0,1.0,A,EN,1994/1995
-E1,1995-11-04,Tottenham,Man City,2.0,1.0,H,EN,1994/1995
-E1,1995-12-04,Arsenal,Liverpool,0.0,1.0,A,EN,1994/1995
-E1,1995-12-04,Chelsea,Southampton,0.0,2.0,A,EN,1994/1995
-E1,1995-12-04,Norwich,Nott'm Forest,0.0,1.0,A,EN,1994/1995
+E1,1995-04-05,Leeds,Ipswich,4.0,0.0,H,EN,1994/1995
+E1,1995-04-05,Leicester,Norwich,1.0,0.0,H,EN,1994/1995
+E1,1995-04-05,Liverpool,Southampton,3.0,1.0,H,EN,1994/1995
+E1,1995-04-08,Newcastle,Norwich,3.0,0.0,H,EN,1994/1995
+E1,1995-04-08,Nott'm Forest,West Ham,1.0,1.0,D,EN,1994/1995
+E1,1995-04-08,QPR,Arsenal,3.0,1.0,H,EN,1994/1995
+E1,1995-04-08,Sheffield Weds,Leicester,1.0,0.0,H,EN,1994/1995
+E1,1995-04-09,Liverpool,Leeds,0.0,1.0,A,EN,1994/1995
+E1,1995-04-10,Wimbledon,Chelsea,1.0,1.0,D,EN,1994/1995
+E1,1995-04-11,Ipswich,QPR,0.0,1.0,A,EN,1994/1995
+E1,1995-04-11,Tottenham,Man City,2.0,1.0,H,EN,1994/1995
+E1,1995-04-12,Arsenal,Liverpool,0.0,1.0,A,EN,1994/1995
+E1,1995-04-12,Chelsea,Southampton,0.0,2.0,A,EN,1994/1995
+E1,1995-04-12,Norwich,Nott'm Forest,0.0,1.0,A,EN,1994/1995
 E1,1995-04-13,West Ham,Wimbledon,3.0,0.0,H,EN,1994/1995
 E1,1995-04-14,Crystal Palace,Tottenham,1.0,1.0,D,EN,1994/1995
 E1,1995-04-14,Everton,Newcastle,2.0,0.0,H,EN,1994/1995
@@ -427,29 +427,29 @@ E1,1995-04-29,Man City,Newcastle,0.0,0.0,D,EN,1994/1995
 E1,1995-04-29,Norwich,Liverpool,1.0,2.0,A,EN,1994/1995
 E1,1995-04-29,Southampton,Sheffield Weds,0.0,0.0,D,EN,1994/1995
 E1,1995-04-30,West Ham,Blackburn,2.0,0.0,H,EN,1994/1995
-E1,1995-01-05,Coventry,Man United,2.0,3.0,A,EN,1994/1995
-E1,1995-02-05,Wimbledon,Liverpool,0.0,0.0,D,EN,1994/1995
-E1,1995-03-05,Aston Villa,Man City,1.0,1.0,D,EN,1994/1995
-E1,1995-03-05,Everton,Chelsea,3.0,3.0,D,EN,1994/1995
-E1,1995-03-05,Newcastle,Tottenham,3.0,3.0,D,EN,1994/1995
-E1,1995-03-05,Southampton,Crystal Palace,3.0,1.0,H,EN,1994/1995
-E1,1995-03-05,West Ham,QPR,0.0,0.0,D,EN,1994/1995
-E1,1995-04-05,Arsenal,Wimbledon,0.0,0.0,D,EN,1994/1995
-E1,1995-06-05,Aston Villa,Liverpool,2.0,0.0,H,EN,1994/1995
-E1,1995-06-05,Crystal Palace,West Ham,1.0,0.0,H,EN,1994/1995
-E1,1995-06-05,Everton,Southampton,0.0,0.0,D,EN,1994/1995
-E1,1995-06-05,Ipswich,Coventry,2.0,0.0,H,EN,1994/1995
-E1,1995-06-05,Leeds,Norwich,2.0,1.0,H,EN,1994/1995
-E1,1995-06-05,Leicester,Chelsea,1.0,1.0,D,EN,1994/1995
-E1,1995-06-05,Nott'm Forest,Man City,1.0,0.0,H,EN,1994/1995
-E1,1995-06-05,QPR,Tottenham,2.0,1.0,H,EN,1994/1995
-E1,1995-07-05,Man United,Sheffield Weds,1.0,0.0,H,EN,1994/1995
-E1,1995-08-05,Blackburn,Newcastle,1.0,0.0,H,EN,1994/1995
-E1,1995-09-05,Ipswich,Everton,0.0,1.0,A,EN,1994/1995
-E1,1995-09-05,Leeds,Crystal Palace,3.0,1.0,H,EN,1994/1995
-E1,1995-09-05,Tottenham,Coventry,1.0,3.0,A,EN,1994/1995
-E1,1995-10-05,Man United,Southampton,2.0,1.0,H,EN,1994/1995
-E1,1995-10-05,West Ham,Liverpool,3.0,0.0,H,EN,1994/1995
+E1,1995-05-01,Coventry,Man United,2.0,3.0,A,EN,1994/1995
+E1,1995-05-02,Wimbledon,Liverpool,0.0,0.0,D,EN,1994/1995
+E1,1995-05-03,Aston Villa,Man City,1.0,1.0,D,EN,1994/1995
+E1,1995-05-03,Everton,Chelsea,3.0,3.0,D,EN,1994/1995
+E1,1995-05-03,Newcastle,Tottenham,3.0,3.0,D,EN,1994/1995
+E1,1995-05-03,Southampton,Crystal Palace,3.0,1.0,H,EN,1994/1995
+E1,1995-05-03,West Ham,QPR,0.0,0.0,D,EN,1994/1995
+E1,1995-05-04,Arsenal,Wimbledon,0.0,0.0,D,EN,1994/1995
+E1,1995-05-06,Aston Villa,Liverpool,2.0,0.0,H,EN,1994/1995
+E1,1995-05-06,Crystal Palace,West Ham,1.0,0.0,H,EN,1994/1995
+E1,1995-05-06,Everton,Southampton,0.0,0.0,D,EN,1994/1995
+E1,1995-05-06,Ipswich,Coventry,2.0,0.0,H,EN,1994/1995
+E1,1995-05-06,Leeds,Norwich,2.0,1.0,H,EN,1994/1995
+E1,1995-05-06,Leicester,Chelsea,1.0,1.0,D,EN,1994/1995
+E1,1995-05-06,Nott'm Forest,Man City,1.0,0.0,H,EN,1994/1995
+E1,1995-05-06,QPR,Tottenham,2.0,1.0,H,EN,1994/1995
+E1,1995-05-07,Man United,Sheffield Weds,1.0,0.0,H,EN,1994/1995
+E1,1995-05-08,Blackburn,Newcastle,1.0,0.0,H,EN,1994/1995
+E1,1995-05-09,Ipswich,Everton,0.0,1.0,A,EN,1994/1995
+E1,1995-05-09,Leeds,Crystal Palace,3.0,1.0,H,EN,1994/1995
+E1,1995-05-09,Tottenham,Coventry,1.0,3.0,A,EN,1994/1995
+E1,1995-05-10,Man United,Southampton,2.0,1.0,H,EN,1994/1995
+E1,1995-05-10,West Ham,Liverpool,3.0,0.0,H,EN,1994/1995
 E1,1995-05-13,Wimbledon,Nott'm Forest,2.0,2.0,D,EN,1994/1995
 E1,1995-05-14,Chelsea,Arsenal,2.0,1.0,H,EN,1994/1995
 E1,1995-05-14,Coventry,Everton,0.0,0.0,D,EN,1994/1995
@@ -461,93 +461,3 @@ E1,1995-05-14,Sheffield Weds,Ipswich,4.0,1.0,H,EN,1994/1995
 E1,1995-05-14,Southampton,Leicester,2.0,2.0,D,EN,1994/1995
 E1,1995-05-14,Tottenham,Leeds,1.0,1.0,D,EN,1994/1995
 E1,1995-05-14,West Ham,Man United,1.0,1.0,D,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995
-E1,,nan,nan,,,,EN,1994/1995

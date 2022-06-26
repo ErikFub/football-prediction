@@ -46,9 +46,9 @@ E1,1995-09-09,QPR,Sheffield Weds,0.0,3.0,A,0.0,0.0,D,EN,1995/1996
 E1,1995-09-09,Southampton,Newcastle,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1995-09-09,Tottenham,Leeds,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-09-09,Wimbledon,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-10-09,Man City,Arsenal,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
-E1,1995-11-09,West Ham,Chelsea,1.0,3.0,A,0.0,2.0,A,EN,1995/1996
-E1,1995-12-09,Middlesbrough,Southampton,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-09-10,Man City,Arsenal,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
+E1,1995-09-11,West Ham,Chelsea,1.0,3.0,A,0.0,2.0,A,EN,1995/1996
+E1,1995-09-12,Middlesbrough,Southampton,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
 E1,1995-09-16,Arsenal,West Ham,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1995-09-16,Aston Villa,Wimbledon,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-09-16,Chelsea,Southampton,3.0,0.0,H,0.0,0.0,D,EN,1995/1996
@@ -76,9 +76,9 @@ E1,1995-09-30,Leeds,Sheffield Weds,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-09-30,Middlesbrough,Blackburn,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-09-30,Nott'm Forest,Man City,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-09-30,Tottenham,Wimbledon,3.0,1.0,H,2.0,1.0,H,EN,1995/1996
-E1,1995-01-10,Everton,Newcastle,1.0,3.0,A,0.0,1.0,A,EN,1995/1996
-E1,1995-01-10,Man United,Liverpool,2.0,2.0,D,1.0,1.0,D,EN,1995/1996
-E1,1995-02-10,Southampton,West Ham,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-10-01,Everton,Newcastle,1.0,3.0,A,0.0,1.0,A,EN,1995/1996
+E1,1995-10-01,Man United,Liverpool,2.0,2.0,D,1.0,1.0,D,EN,1995/1996
+E1,1995-10-02,Southampton,West Ham,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
 E1,1995-10-14,Aston Villa,Chelsea,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
 E1,1995-10-14,Blackburn,Southampton,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-10-14,Bolton,Everton,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
@@ -109,17 +109,17 @@ E1,1995-10-28,Sheffield Weds,West Ham,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
 E1,1995-10-28,Wimbledon,Southampton,1.0,2.0,A,0.0,1.0,A,EN,1995/1996
 E1,1995-10-29,Tottenham,Newcastle,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
 E1,1995-10-30,Bolton,Arsenal,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-04-11,Arsenal,Man United,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-04-11,Chelsea,Sheffield Weds,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-04-11,Coventry,Tottenham,2.0,3.0,A,1.0,2.0,A,EN,1995/1996
-E1,1995-04-11,Man City,Bolton,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-04-11,Middlesbrough,Leeds,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
-E1,1995-04-11,Newcastle,Liverpool,2.0,1.0,H,1.0,1.0,D,EN,1995/1996
-E1,1995-04-11,Southampton,QPR,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-04-11,West Ham,Aston Villa,1.0,4.0,A,0.0,1.0,A,EN,1995/1996
-E1,1995-05-11,Everton,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-06-11,Nott'm Forest,Wimbledon,4.0,1.0,H,2.0,1.0,H,EN,1995/1996
-E1,1995-08-11,Newcastle,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-11-04,Arsenal,Man United,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-11-04,Chelsea,Sheffield Weds,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-11-04,Coventry,Tottenham,2.0,3.0,A,1.0,2.0,A,EN,1995/1996
+E1,1995-11-04,Man City,Bolton,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-11-04,Middlesbrough,Leeds,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1995-11-04,Newcastle,Liverpool,2.0,1.0,H,1.0,1.0,D,EN,1995/1996
+E1,1995-11-04,Southampton,QPR,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-11-04,West Ham,Aston Villa,1.0,4.0,A,0.0,1.0,A,EN,1995/1996
+E1,1995-11-05,Everton,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-11-06,Nott'm Forest,Wimbledon,4.0,1.0,H,2.0,1.0,H,EN,1995/1996
+E1,1995-11-08,Newcastle,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-11-18,Aston Villa,Newcastle,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
 E1,1995-11-18,Blackburn,Nott'm Forest,7.0,0.0,H,2.0,0.0,H,EN,1995/1996
 E1,1995-11-18,Bolton,West Ham,0.0,3.0,A,0.0,0.0,D,EN,1995/1996
@@ -148,26 +148,26 @@ E1,1995-11-25,Southampton,Bolton,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1995-11-25,West Ham,QPR,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1995-11-26,Arsenal,Blackburn,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
 E1,1995-11-27,Nott'm Forest,Man United,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
-E1,1995-02-12,Aston Villa,Arsenal,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-02-12,Blackburn,West Ham,4.0,2.0,H,3.0,0.0,H,EN,1995/1996
-E1,1995-02-12,Bolton,Nott'm Forest,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-02-12,Leeds,Man City,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
-E1,1995-02-12,Liverpool,Southampton,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-02-12,Man United,Chelsea,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-02-12,QPR,Middlesbrough,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
-E1,1995-02-12,Tottenham,Everton,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-03-12,Wimbledon,Newcastle,3.0,3.0,D,2.0,3.0,A,EN,1995/1996
-E1,1995-04-12,Sheffield Weds,Coventry,4.0,3.0,H,2.0,2.0,D,EN,1995/1996
-E1,1995-09-12,Bolton,Liverpool,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
-E1,1995-09-12,Chelsea,Newcastle,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-09-12,Coventry,Blackburn,5.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-09-12,Leeds,Wimbledon,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
-E1,1995-09-12,Man United,Sheffield Weds,2.0,2.0,D,1.0,0.0,H,EN,1995/1996
-E1,1995-09-12,Middlesbrough,Man City,4.0,1.0,H,1.0,1.0,D,EN,1995/1996
-E1,1995-09-12,Southampton,Arsenal,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-09-12,Tottenham,QPR,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1995-10-12,Nott'm Forest,Aston Villa,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1995-11-12,Everton,West Ham,3.0,0.0,H,2.0,0.0,H,EN,1995/1996
+E1,1995-12-02,Aston Villa,Arsenal,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-02,Blackburn,West Ham,4.0,2.0,H,3.0,0.0,H,EN,1995/1996
+E1,1995-12-02,Bolton,Nott'm Forest,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-02,Leeds,Man City,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
+E1,1995-12-02,Liverpool,Southampton,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-02,Man United,Chelsea,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-02,QPR,Middlesbrough,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1995-12-02,Tottenham,Everton,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-03,Wimbledon,Newcastle,3.0,3.0,D,2.0,3.0,A,EN,1995/1996
+E1,1995-12-04,Sheffield Weds,Coventry,4.0,3.0,H,2.0,2.0,D,EN,1995/1996
+E1,1995-12-09,Bolton,Liverpool,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
+E1,1995-12-09,Chelsea,Newcastle,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-12-09,Coventry,Blackburn,5.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-12-09,Leeds,Wimbledon,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
+E1,1995-12-09,Man United,Sheffield Weds,2.0,2.0,D,1.0,0.0,H,EN,1995/1996
+E1,1995-12-09,Middlesbrough,Man City,4.0,1.0,H,1.0,1.0,D,EN,1995/1996
+E1,1995-12-09,Southampton,Arsenal,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-09,Tottenham,QPR,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1995-12-10,Nott'm Forest,Aston Villa,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1995-12-11,Everton,West Ham,3.0,0.0,H,2.0,0.0,H,EN,1995/1996
 E1,1995-12-16,Arsenal,Chelsea,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
 E1,1995-12-16,Aston Villa,Coventry,4.0,1.0,H,1.0,0.0,H,EN,1995/1996
 E1,1995-12-16,Blackburn,Middlesbrough,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
@@ -211,8 +211,8 @@ E1,1996-01-01,Middlesbrough,Aston Villa,0.0,2.0,A,0.0,2.0,A,EN,1995/1996
 E1,1996-01-01,Sheffield Weds,Bolton,4.0,2.0,H,2.0,0.0,H,EN,1995/1996
 E1,1996-01-01,Tottenham,Man United,4.0,1.0,H,2.0,1.0,H,EN,1995/1996
 E1,1996-01-01,Wimbledon,Everton,2.0,3.0,A,0.0,3.0,A,EN,1995/1996
-E1,1996-02-01,Newcastle,Arsenal,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-02-01,QPR,Chelsea,1.0,2.0,A,0.0,0.0,D,EN,1995/1996
+E1,1996-01-02,Newcastle,Arsenal,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-01-02,QPR,Chelsea,1.0,2.0,A,0.0,0.0,D,EN,1995/1996
 E1,1996-01-13,Bolton,Wimbledon,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1996-01-13,Everton,Chelsea,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
 E1,1996-01-13,Leeds,West Ham,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
@@ -237,25 +237,25 @@ E1,1996-01-31,Aston Villa,Liverpool,0.0,2.0,A,0.0,0.0,D,EN,1995/1996
 E1,1996-01-31,Nott'm Forest,Leeds,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
 E1,1996-01-31,Southampton,Man City,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
 E1,1996-01-31,West Ham,Coventry,3.0,2.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-03-02,Arsenal,Coventry,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
-E1,1996-03-02,Aston Villa,Leeds,3.0,0.0,H,2.0,0.0,H,EN,1995/1996
-E1,1996-03-02,Blackburn,Bolton,3.0,1.0,H,1.0,1.0,D,EN,1995/1996
-E1,1996-03-02,Liverpool,Tottenham,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-03-02,Man City,QPR,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-03-02,Newcastle,Sheffield Weds,2.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-03-02,Southampton,Everton,2.0,2.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-03-02,West Ham,Nott'm Forest,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-03-02,Wimbledon,Man United,2.0,4.0,A,0.0,2.0,A,EN,1995/1996
-E1,1996-04-02,Chelsea,Middlesbrough,5.0,0.0,H,3.0,0.0,H,EN,1995/1996
-E1,1996-10-02,Bolton,Aston Villa,0.0,2.0,A,0.0,1.0,A,EN,1995/1996
-E1,1996-10-02,Coventry,Chelsea,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-10-02,Everton,Man City,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-10-02,Man United,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-10-02,Middlesbrough,Newcastle,1.0,2.0,A,1.0,0.0,H,EN,1995/1996
-E1,1996-10-02,Nott'm Forest,Arsenal,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
-E1,1996-10-02,Sheffield Weds,Wimbledon,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-11-02,QPR,Liverpool,1.0,2.0,A,0.0,2.0,A,EN,1995/1996
-E1,1996-12-02,Tottenham,West Ham,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
+E1,1996-02-03,Arsenal,Coventry,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1996-02-03,Aston Villa,Leeds,3.0,0.0,H,2.0,0.0,H,EN,1995/1996
+E1,1996-02-03,Blackburn,Bolton,3.0,1.0,H,1.0,1.0,D,EN,1995/1996
+E1,1996-02-03,Liverpool,Tottenham,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-02-03,Man City,QPR,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-02-03,Newcastle,Sheffield Weds,2.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-02-03,Southampton,Everton,2.0,2.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-02-03,West Ham,Nott'm Forest,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-02-03,Wimbledon,Man United,2.0,4.0,A,0.0,2.0,A,EN,1995/1996
+E1,1996-02-04,Chelsea,Middlesbrough,5.0,0.0,H,3.0,0.0,H,EN,1995/1996
+E1,1996-02-10,Bolton,Aston Villa,0.0,2.0,A,0.0,1.0,A,EN,1995/1996
+E1,1996-02-10,Coventry,Chelsea,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-02-10,Everton,Man City,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-02-10,Man United,Blackburn,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-02-10,Middlesbrough,Newcastle,1.0,2.0,A,1.0,0.0,H,EN,1995/1996
+E1,1996-02-10,Nott'm Forest,Arsenal,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
+E1,1996-02-10,Sheffield Weds,Wimbledon,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-02-11,QPR,Liverpool,1.0,2.0,A,0.0,2.0,A,EN,1995/1996
+E1,1996-02-12,Tottenham,West Ham,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
 E1,1996-02-17,Chelsea,West Ham,1.0,2.0,A,1.0,0.0,H,EN,1995/1996
 E1,1996-02-17,Middlesbrough,Bolton,1.0,4.0,A,1.0,2.0,A,EN,1995/1996
 E1,1996-02-17,Sheffield Weds,QPR,1.0,3.0,A,1.0,1.0,D,EN,1995/1996
@@ -271,23 +271,23 @@ E1,1996-02-24,West Ham,Arsenal,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
 E1,1996-02-24,Wimbledon,Aston Villa,3.0,3.0,D,1.0,1.0,D,EN,1995/1996
 E1,1996-02-25,Bolton,Man United,0.0,6.0,A,0.0,2.0,A,EN,1995/1996
 E1,1996-02-28,Aston Villa,Blackburn,2.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-02-03,Coventry,West Ham,2.0,2.0,D,2.0,2.0,D,EN,1995/1996
-E1,1996-02-03,Leeds,Bolton,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
-E1,1996-02-03,Man City,Blackburn,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-02-03,Middlesbrough,Everton,0.0,2.0,A,0.0,2.0,A,EN,1995/1996
-E1,1996-02-03,QPR,Arsenal,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
-E1,1996-02-03,Sheffield Weds,Nott'm Forest,1.0,3.0,A,0.0,1.0,A,EN,1995/1996
-E1,1996-02-03,Tottenham,Southampton,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-02-03,Wimbledon,Chelsea,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1996-03-02,Coventry,West Ham,2.0,2.0,D,2.0,2.0,D,EN,1995/1996
+E1,1996-03-02,Leeds,Bolton,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
+E1,1996-03-02,Man City,Blackburn,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-03-02,Middlesbrough,Everton,0.0,2.0,A,0.0,2.0,A,EN,1995/1996
+E1,1996-03-02,QPR,Arsenal,1.0,1.0,D,1.0,0.0,H,EN,1995/1996
+E1,1996-03-02,Sheffield Weds,Nott'm Forest,1.0,3.0,A,0.0,1.0,A,EN,1995/1996
+E1,1996-03-02,Tottenham,Southampton,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-03-02,Wimbledon,Chelsea,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
 E1,1996-03-03,Liverpool,Aston Villa,3.0,0.0,H,3.0,0.0,H,EN,1995/1996
-E1,1996-04-03,Newcastle,Man United,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
-E1,1996-05-03,Arsenal,Man City,3.0,1.0,H,2.0,0.0,H,EN,1995/1996
-E1,1996-06-03,Aston Villa,Sheffield Weds,3.0,2.0,H,0.0,1.0,A,EN,1995/1996
-E1,1996-06-03,QPR,Leeds,1.0,2.0,A,1.0,2.0,A,EN,1995/1996
-E1,1996-09-03,Aston Villa,QPR,4.0,2.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-09-03,Everton,Coventry,2.0,2.0,D,2.0,1.0,H,EN,1995/1996
-E1,1996-09-03,West Ham,Middlesbrough,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-12-03,Chelsea,Man City,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1996-03-04,Newcastle,Man United,0.0,1.0,A,0.0,0.0,D,EN,1995/1996
+E1,1996-03-05,Arsenal,Man City,3.0,1.0,H,2.0,0.0,H,EN,1995/1996
+E1,1996-03-06,Aston Villa,Sheffield Weds,3.0,2.0,H,0.0,1.0,A,EN,1995/1996
+E1,1996-03-06,QPR,Leeds,1.0,2.0,A,1.0,2.0,A,EN,1995/1996
+E1,1996-03-09,Aston Villa,QPR,4.0,2.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-03-09,Everton,Coventry,2.0,2.0,D,2.0,1.0,H,EN,1995/1996
+E1,1996-03-09,West Ham,Middlesbrough,2.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-03-12,Chelsea,Man City,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
 E1,1996-03-13,Blackburn,Leeds,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1996-03-13,Liverpool,Wimbledon,2.0,2.0,D,1.0,0.0,H,EN,1995/1996
 E1,1996-03-16,Coventry,Bolton,0.0,2.0,A,0.0,0.0,D,EN,1995/1996
@@ -318,28 +318,28 @@ E1,1996-03-30,Leeds,Middlesbrough,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
 E1,1996-03-30,QPR,Southampton,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1996-03-30,Tottenham,Coventry,3.0,1.0,H,1.0,0.0,H,EN,1995/1996
 E1,1996-03-30,Wimbledon,Nott'm Forest,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-03-04,Leeds,Southampton,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-03-04,Liverpool,Newcastle,4.0,3.0,H,1.0,2.0,A,EN,1995/1996
-E1,1996-05-04,Middlesbrough,Sheffield Weds,3.0,1.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-06-04,Arsenal,Leeds,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-06-04,Chelsea,Aston Villa,1.0,2.0,A,1.0,1.0,D,EN,1995/1996
-E1,1996-06-04,Coventry,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-06-04,Everton,Bolton,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-06-04,Man City,Man United,2.0,3.0,A,1.0,2.0,A,EN,1995/1996
-E1,1996-06-04,Newcastle,QPR,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-06-04,Nott'm Forest,Tottenham,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-06-04,Southampton,Blackburn,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-06-04,West Ham,Wimbledon,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
-E1,1996-08-04,Aston Villa,Southampton,3.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-08-04,Blackburn,Newcastle,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-08-04,Bolton,Chelsea,2.0,1.0,H,2.0,1.0,H,EN,1995/1996
-E1,1996-08-04,Leeds,Nott'm Forest,1.0,3.0,A,1.0,2.0,A,EN,1995/1996
-E1,1996-08-04,Liverpool,West Ham,2.0,0.0,H,2.0,0.0,H,EN,1995/1996
-E1,1996-08-04,Man United,Coventry,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-08-04,QPR,Everton,3.0,1.0,H,2.0,0.0,H,EN,1995/1996
-E1,1996-08-04,Sheffield Weds,Arsenal,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-08-04,Tottenham,Middlesbrough,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-08-04,Wimbledon,Man City,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-04-03,Leeds,Southampton,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-03,Liverpool,Newcastle,4.0,3.0,H,1.0,2.0,A,EN,1995/1996
+E1,1996-04-05,Middlesbrough,Sheffield Weds,3.0,1.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-06,Arsenal,Leeds,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-04-06,Chelsea,Aston Villa,1.0,2.0,A,1.0,1.0,D,EN,1995/1996
+E1,1996-04-06,Coventry,Liverpool,1.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-04-06,Everton,Bolton,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-04-06,Man City,Man United,2.0,3.0,A,1.0,2.0,A,EN,1995/1996
+E1,1996-04-06,Newcastle,QPR,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-06,Nott'm Forest,Tottenham,2.0,1.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-04-06,Southampton,Blackburn,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-06,West Ham,Wimbledon,1.0,1.0,D,1.0,1.0,D,EN,1995/1996
+E1,1996-04-08,Aston Villa,Southampton,3.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-08,Blackburn,Newcastle,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-08,Bolton,Chelsea,2.0,1.0,H,2.0,1.0,H,EN,1995/1996
+E1,1996-04-08,Leeds,Nott'm Forest,1.0,3.0,A,1.0,2.0,A,EN,1995/1996
+E1,1996-04-08,Liverpool,West Ham,2.0,0.0,H,2.0,0.0,H,EN,1995/1996
+E1,1996-04-08,Man United,Coventry,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-08,QPR,Everton,3.0,1.0,H,2.0,0.0,H,EN,1995/1996
+E1,1996-04-08,Sheffield Weds,Arsenal,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-04-08,Tottenham,Middlesbrough,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-04-08,Wimbledon,Man City,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
 E1,1996-04-13,Chelsea,Leeds,4.0,1.0,H,3.0,0.0,H,EN,1995/1996
 E1,1996-04-13,Coventry,QPR,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
 E1,1996-04-13,Man City,Sheffield Weds,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
@@ -366,188 +366,16 @@ E1,1996-04-27,Tottenham,Chelsea,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
 E1,1996-04-27,Wimbledon,Coventry,0.0,2.0,A,0.0,0.0,D,EN,1995/1996
 E1,1996-04-28,Man United,Nott'm Forest,5.0,0.0,H,2.0,0.0,H,EN,1995/1996
 E1,1996-04-29,Leeds,Newcastle,0.0,1.0,A,0.0,1.0,A,EN,1995/1996
-E1,1996-01-05,Arsenal,Liverpool,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-02-05,Leeds,Tottenham,1.0,3.0,A,1.0,2.0,A,EN,1995/1996
-E1,1996-02-05,Nott'm Forest,Newcastle,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
-E1,1996-04-05,Arsenal,Bolton,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-04-05,Chelsea,Blackburn,2.0,3.0,A,1.0,1.0,D,EN,1995/1996
-E1,1996-04-05,Coventry,Leeds,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-04-05,Everton,Aston Villa,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
-E1,1996-04-05,Man City,Liverpool,2.0,2.0,D,0.0,2.0,A,EN,1995/1996
-E1,1996-04-05,Middlesbrough,Man United,0.0,3.0,A,0.0,1.0,A,EN,1995/1996
-E1,1996-04-05,Newcastle,Tottenham,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-04-05,Nott'm Forest,QPR,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
-E1,1996-04-05,Southampton,Wimbledon,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
-E1,1996-04-05,West Ham,Sheffield Weds,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
-E1,,nan,nan,,,,,,,EN,1995/1996
+E1,1996-05-01,Arsenal,Liverpool,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-05-02,Leeds,Tottenham,1.0,3.0,A,1.0,2.0,A,EN,1995/1996
+E1,1996-05-02,Nott'm Forest,Newcastle,1.0,1.0,D,0.0,1.0,A,EN,1995/1996
+E1,1996-05-04,Arsenal,Bolton,2.0,1.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-05-04,Chelsea,Blackburn,2.0,3.0,A,1.0,1.0,D,EN,1995/1996
+E1,1996-05-04,Coventry,Leeds,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-05-04,Everton,Aston Villa,1.0,0.0,H,0.0,0.0,D,EN,1995/1996
+E1,1996-05-04,Man City,Liverpool,2.0,2.0,D,0.0,2.0,A,EN,1995/1996
+E1,1996-05-04,Middlesbrough,Man United,0.0,3.0,A,0.0,1.0,A,EN,1995/1996
+E1,1996-05-04,Newcastle,Tottenham,1.0,1.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-05-04,Nott'm Forest,QPR,3.0,0.0,H,1.0,0.0,H,EN,1995/1996
+E1,1996-05-04,Southampton,Wimbledon,0.0,0.0,D,0.0,0.0,D,EN,1995/1996
+E1,1996-05-04,West Ham,Sheffield Weds,1.0,1.0,D,0.0,0.0,D,EN,1995/1996

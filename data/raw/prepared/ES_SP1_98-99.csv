@@ -9,14 +9,14 @@ SP1,1998-08-30,Santander,Barcelona,0,0,D,0.0,0.0,D,ES,1998/1999
 SP1,1998-08-30,Sociedad,Oviedo,3,3,D,1.0,2.0,A,ES,1998/1999
 SP1,1998-08-30,Zaragoza,Ath Bilbao,2,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1998-08-31,Real Madrid,Villareal,4,1,H,1.0,1.0,D,ES,1998/1999
-SP1,1998-12-09,Ath Bilbao,Santander,2,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1998-12-09,Ath Madrid,Salamanca,2,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-12-09,Barcelona,Extremadura,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-12-09,Betis,Zaragoza,1,3,A,0.0,1.0,A,ES,1998/1999
-SP1,1998-12-09,La Coruna,Valencia,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-12-09,Tenerife,Sociedad,2,2,D,1.0,0.0,H,ES,1998/1999
-SP1,1998-12-09,Valladolid,Real Madrid,0,1,A,0.0,1.0,A,ES,1998/1999
-SP1,1998-12-09,Villareal,Celta,1,1,D,1.0,1.0,D,ES,1998/1999
+SP1,1998-09-12,Ath Bilbao,Santander,2,0,H,2.0,0.0,H,ES,1998/1999
+SP1,1998-09-12,Ath Madrid,Salamanca,2,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-09-12,Barcelona,Extremadura,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-09-12,Betis,Zaragoza,1,3,A,0.0,1.0,A,ES,1998/1999
+SP1,1998-09-12,La Coruna,Valencia,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-09-12,Tenerife,Sociedad,2,2,D,1.0,0.0,H,ES,1998/1999
+SP1,1998-09-12,Valladolid,Real Madrid,0,1,A,0.0,1.0,A,ES,1998/1999
+SP1,1998-09-12,Villareal,Celta,1,1,D,1.0,1.0,D,ES,1998/1999
 SP1,1998-09-13,Mallorca,Espanol,2,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-09-13,Oviedo,Alaves,1,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-09-19,Real Madrid,Barcelona,2,2,D,2.0,1.0,H,ES,1998/1999
@@ -39,16 +39,16 @@ SP1,1998-09-27,Mallorca,Oviedo,0,0,D,0.0,0.0,D,ES,1998/1999
 SP1,1998-09-27,Tenerife,Alaves,1,2,A,0.0,2.0,A,ES,1998/1999
 SP1,1998-09-27,Villareal,Salamanca,5,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-09-27,Zaragoza,Santander,3,1,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-03-10,Valencia,Barcelona,1,3,A,1.0,0.0,H,ES,1998/1999
-SP1,1998-04-10,Alaves,Santander,0,1,A,0.0,1.0,A,ES,1998/1999
-SP1,1998-04-10,Celta,Ath Bilbao,3,2,H,2.0,0.0,H,ES,1998/1999
-SP1,1998-04-10,Espanol,Villareal,1,1,D,0.0,0.0,D,ES,1998/1999
-SP1,1998-04-10,Extremadura,Zaragoza,0,2,A,0.0,0.0,D,ES,1998/1999
-SP1,1998-04-10,Oviedo,Ath Madrid,3,1,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-04-10,Real Madrid,Betis,0,1,A,0.0,0.0,D,ES,1998/1999
-SP1,1998-04-10,Salamanca,Valladolid,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-04-10,Sociedad,La Coruna,2,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-04-10,Tenerife,Mallorca,1,1,D,1.0,0.0,H,ES,1998/1999
+SP1,1998-10-03,Valencia,Barcelona,1,3,A,1.0,0.0,H,ES,1998/1999
+SP1,1998-10-04,Alaves,Santander,0,1,A,0.0,1.0,A,ES,1998/1999
+SP1,1998-10-04,Celta,Ath Bilbao,3,2,H,2.0,0.0,H,ES,1998/1999
+SP1,1998-10-04,Espanol,Villareal,1,1,D,0.0,0.0,D,ES,1998/1999
+SP1,1998-10-04,Extremadura,Zaragoza,0,2,A,0.0,0.0,D,ES,1998/1999
+SP1,1998-10-04,Oviedo,Ath Madrid,3,1,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-10-04,Real Madrid,Betis,0,1,A,0.0,0.0,D,ES,1998/1999
+SP1,1998-10-04,Salamanca,Valladolid,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-10-04,Sociedad,La Coruna,2,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-10-04,Tenerife,Mallorca,1,1,D,1.0,0.0,H,ES,1998/1999
 SP1,1998-10-17,Ath Bilbao,Valencia,2,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-10-17,Ath Madrid,Tenerife,2,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1998-10-17,Barcelona,Salamanca,1,1,D,0.0,0.0,D,ES,1998/1999
@@ -76,19 +76,19 @@ SP1,1998-10-31,Betis,Salamanca,1,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1998-10-31,Extremadura,Real Madrid,1,5,A,0.0,3.0,A,ES,1998/1999
 SP1,1998-10-31,Santander,Celta,2,2,D,0.0,1.0,A,ES,1998/1999
 SP1,1998-10-31,Zaragoza,Valencia,1,4,A,1.0,1.0,D,ES,1998/1999
-SP1,1998-01-11,La Coruna,Mallorca,1,1,D,1.0,1.0,D,ES,1998/1999
-SP1,1998-01-11,Valladolid,Oviedo,2,1,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-01-11,Villareal,Tenerife,2,5,A,1.0,2.0,A,ES,1998/1999
-SP1,1998-07-11,Espanol,Betis,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-08-11,Alaves,Real Madrid,1,1,D,1.0,0.0,H,ES,1998/1999
-SP1,1998-08-11,Ath Madrid,La Coruna,1,1,D,0.0,0.0,D,ES,1998/1999
-SP1,1998-08-11,Celta,Extremadura,5,1,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-08-11,Mallorca,Villareal,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-08-11,Oviedo,Barcelona,2,1,H,0.0,1.0,A,ES,1998/1999
-SP1,1998-08-11,Salamanca,Zaragoza,1,2,A,1.0,0.0,H,ES,1998/1999
-SP1,1998-08-11,Sociedad,Ath Bilbao,3,1,H,2.0,1.0,H,ES,1998/1999
-SP1,1998-08-11,Tenerife,Valladolid,2,2,D,1.0,1.0,D,ES,1998/1999
-SP1,1998-08-11,Valencia,Santander,3,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-11-01,La Coruna,Mallorca,1,1,D,1.0,1.0,D,ES,1998/1999
+SP1,1998-11-01,Valladolid,Oviedo,2,1,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-11-01,Villareal,Tenerife,2,5,A,1.0,2.0,A,ES,1998/1999
+SP1,1998-11-07,Espanol,Betis,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-11-08,Alaves,Real Madrid,1,1,D,1.0,0.0,H,ES,1998/1999
+SP1,1998-11-08,Ath Madrid,La Coruna,1,1,D,0.0,0.0,D,ES,1998/1999
+SP1,1998-11-08,Celta,Extremadura,5,1,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-11-08,Mallorca,Villareal,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-11-08,Oviedo,Barcelona,2,1,H,0.0,1.0,A,ES,1998/1999
+SP1,1998-11-08,Salamanca,Zaragoza,1,2,A,1.0,0.0,H,ES,1998/1999
+SP1,1998-11-08,Sociedad,Ath Bilbao,3,1,H,2.0,1.0,H,ES,1998/1999
+SP1,1998-11-08,Tenerife,Valladolid,2,2,D,1.0,1.0,D,ES,1998/1999
+SP1,1998-11-08,Valencia,Santander,3,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1998-11-14,Real Madrid,Celta,1,2,A,0.0,1.0,A,ES,1998/1999
 SP1,1998-11-15,Ath Bilbao,Oviedo,3,5,A,2.0,1.0,H,ES,1998/1999
 SP1,1998-11-15,Barcelona,Tenerife,4,1,H,1.0,1.0,D,ES,1998/1999
@@ -118,16 +118,16 @@ SP1,1998-11-29,Santander,Sociedad,0,1,A,0.0,0.0,D,ES,1998/1999
 SP1,1998-11-29,Valladolid,La Coruna,0,1,A,0.0,1.0,A,ES,1998/1999
 SP1,1998-11-29,Villareal,Alaves,2,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-11-29,Zaragoza,Oviedo,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-05-12,Ath Madrid,Ath Bilbao,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1998-05-12,Espanol,Real Madrid,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1998-05-12,La Coruna,Barcelona,2,1,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-05-12,Mallorca,Betis,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1998-05-12,Salamanca,Celta,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1998-05-12,Sociedad,Extremadura,2,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-06-12,Alaves,Valencia,0,1,A,0.0,0.0,D,ES,1998/1999
-SP1,1998-06-12,Oviedo,Santander,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1998-06-12,Tenerife,Zaragoza,1,1,D,0.0,0.0,D,ES,1998/1999
-SP1,1998-06-12,Villareal,Valladolid,2,1,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-12-05,Ath Madrid,Ath Bilbao,0,0,D,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-05,Espanol,Real Madrid,0,0,D,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-05,La Coruna,Barcelona,2,1,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-05,Mallorca,Betis,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-05,Salamanca,Celta,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1998-12-05,Sociedad,Extremadura,2,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-12-06,Alaves,Valencia,0,1,A,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-06,Oviedo,Santander,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1998-12-06,Tenerife,Zaragoza,1,1,D,0.0,0.0,D,ES,1998/1999
+SP1,1998-12-06,Villareal,Valladolid,2,1,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-12-12,Betis,Ath Madrid,0,0,D,0.0,0.0,D,ES,1998/1999
 SP1,1998-12-13,Ath Bilbao,La Coruna,2,1,H,1.0,1.0,D,ES,1998/1999
 SP1,1998-12-13,Barcelona,Villareal,1,3,A,0.0,2.0,A,ES,1998/1999
@@ -148,27 +148,27 @@ SP1,1998-12-20,Sociedad,Celta,2,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1998-12-20,Tenerife,Extremadura,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1998-12-20,Valladolid,Barcelona,0,1,A,0.0,1.0,A,ES,1998/1999
 SP1,1998-12-20,Villareal,Ath Bilbao,0,1,A,0.0,0.0,D,ES,1998/1999
-SP1,1999-02-01,Valencia,Sociedad,2,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Ath Bilbao,Valladolid,2,1,H,0.0,1.0,A,ES,1998/1999
-SP1,1999-03-01,Barcelona,Alaves,7,1,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Betis,Villareal,4,1,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Celta,Oviedo,6,2,H,3.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Extremadura,Mallorca,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Real Madrid,Tenerife,4,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-03-01,Salamanca,Espanol,2,3,A,2.0,1.0,H,ES,1998/1999
-SP1,1999-03-01,Santander,Ath Madrid,2,3,A,0.0,2.0,A,ES,1998/1999
-SP1,1999-03-01,Zaragoza,La Coruna,3,1,H,0.0,1.0,A,ES,1998/1999
-SP1,1999-06-01,Real Madrid,Salamanca,3,1,H,1.0,1.0,D,ES,1998/1999
-SP1,1999-09-01,Barcelona,Ath Bilbao,4,2,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-10-01,Alaves,Espanol,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-10-01,Ath Madrid,Extremadura,5,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-10-01,La Coruna,Santander,1,2,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-10-01,Mallorca,Real Madrid,2,1,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-10-01,Oviedo,Valencia,2,2,D,2.0,1.0,H,ES,1998/1999
-SP1,1999-10-01,Sociedad,Salamanca,4,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-10-01,Tenerife,Celta,0,2,A,0.0,0.0,D,ES,1998/1999
-SP1,1999-10-01,Valladolid,Betis,0,3,A,,,,ES,1998/1999
-SP1,1999-10-01,Villareal,Zaragoza,1,1,D,1.0,0.0,H,ES,1998/1999
+SP1,1999-01-02,Valencia,Sociedad,2,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Ath Bilbao,Valladolid,2,1,H,0.0,1.0,A,ES,1998/1999
+SP1,1999-01-03,Barcelona,Alaves,7,1,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Betis,Villareal,4,1,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Celta,Oviedo,6,2,H,3.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Extremadura,Mallorca,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Real Madrid,Tenerife,4,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-01-03,Salamanca,Espanol,2,3,A,2.0,1.0,H,ES,1998/1999
+SP1,1999-01-03,Santander,Ath Madrid,2,3,A,0.0,2.0,A,ES,1998/1999
+SP1,1999-01-03,Zaragoza,La Coruna,3,1,H,0.0,1.0,A,ES,1998/1999
+SP1,1999-01-06,Real Madrid,Salamanca,3,1,H,1.0,1.0,D,ES,1998/1999
+SP1,1999-01-09,Barcelona,Ath Bilbao,4,2,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-01-10,Alaves,Espanol,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1999-01-10,Ath Madrid,Extremadura,5,0,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-01-10,La Coruna,Santander,1,2,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-01-10,Mallorca,Real Madrid,2,1,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-01-10,Oviedo,Valencia,2,2,D,2.0,1.0,H,ES,1998/1999
+SP1,1999-01-10,Sociedad,Salamanca,4,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-01-10,Tenerife,Celta,0,2,A,0.0,0.0,D,ES,1998/1999
+SP1,1999-01-10,Valladolid,Betis,0,3,A,,,,ES,1998/1999
+SP1,1999-01-10,Villareal,Zaragoza,1,1,D,1.0,0.0,H,ES,1998/1999
 SP1,1999-01-16,Celta,Mallorca,4,2,H,1.0,1.0,D,ES,1998/1999
 SP1,1999-01-17,Alaves,Ath Bilbao,1,2,A,0.0,1.0,A,ES,1998/1999
 SP1,1999-01-17,Betis,Barcelona,0,3,A,0.0,2.0,A,ES,1998/1999
@@ -199,16 +199,16 @@ SP1,1999-01-31,Barcelona,Santander,3,2,H,2.0,1.0,H,ES,1998/1999
 SP1,1999-01-31,La Coruna,Celta,2,1,H,2.0,0.0,H,ES,1998/1999
 SP1,1999-01-31,Tenerife,Espanol,0,0,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-01-31,Valladolid,Extremadura,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1999-06-02,Valencia,La Coruna,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1999-07-02,Alaves,Oviedo,2,2,D,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-02,Celta,Villareal,4,1,H,1.0,1.0,D,ES,1998/1999
-SP1,1999-07-02,Espanol,Mallorca,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-02,Extremadura,Barcelona,1,2,A,1.0,1.0,D,ES,1998/1999
-SP1,1999-07-02,Real Madrid,Valladolid,3,2,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-02,Salamanca,Ath Madrid,2,1,H,2.0,1.0,H,ES,1998/1999
-SP1,1999-07-02,Santander,Ath Bilbao,2,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-02,Sociedad,Tenerife,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-07-02,Zaragoza,Betis,2,2,D,2.0,1.0,H,ES,1998/1999
+SP1,1999-02-06,Valencia,La Coruna,0,0,D,0.0,0.0,D,ES,1998/1999
+SP1,1999-02-07,Alaves,Oviedo,2,2,D,1.0,0.0,H,ES,1998/1999
+SP1,1999-02-07,Celta,Villareal,4,1,H,1.0,1.0,D,ES,1998/1999
+SP1,1999-02-07,Espanol,Mallorca,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-02-07,Extremadura,Barcelona,1,2,A,1.0,1.0,D,ES,1998/1999
+SP1,1999-02-07,Real Madrid,Valladolid,3,2,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-02-07,Salamanca,Ath Madrid,2,1,H,2.0,1.0,H,ES,1998/1999
+SP1,1999-02-07,Santander,Ath Bilbao,2,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-02-07,Sociedad,Tenerife,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1999-02-07,Zaragoza,Betis,2,2,D,2.0,1.0,H,ES,1998/1999
 SP1,1999-02-13,Ath Madrid,Espanol,1,2,A,1.0,1.0,D,ES,1998/1999
 SP1,1999-02-13,La Coruna,Salamanca,1,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1999-02-13,Mallorca,Sociedad,1,0,H,0.0,0.0,D,ES,1998/1999
@@ -239,16 +239,16 @@ SP1,1999-02-28,Santander,Alaves,2,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1999-02-28,Valladolid,Salamanca,4,1,H,1.0,0.0,H,ES,1998/1999
 SP1,1999-02-28,Villareal,Espanol,2,2,D,1.0,0.0,H,ES,1998/1999
 SP1,1999-02-28,Zaragoza,Extremadura,3,1,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-06-03,Oviedo,La Coruna,1,2,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-07-03,Alaves,Mallorca,2,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-07-03,Celta,Betis,4,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-07-03,Espanol,Valladolid,0,2,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-07-03,Extremadura,Santander,0,3,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-07-03,Real Madrid,Zaragoza,3,2,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-03,Salamanca,Barcelona,1,4,A,0.0,3.0,A,ES,1998/1999
-SP1,1999-07-03,Sociedad,Villareal,1,1,D,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-03,Tenerife,Ath Madrid,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-07-03,Valencia,Ath Bilbao,4,1,H,0.0,1.0,A,ES,1998/1999
+SP1,1999-03-06,Oviedo,La Coruna,1,2,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-03-07,Alaves,Mallorca,2,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-03-07,Celta,Betis,4,0,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-03-07,Espanol,Valladolid,0,2,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-03-07,Extremadura,Santander,0,3,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-03-07,Real Madrid,Zaragoza,3,2,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-03-07,Salamanca,Barcelona,1,4,A,0.0,3.0,A,ES,1998/1999
+SP1,1999-03-07,Sociedad,Villareal,1,1,D,1.0,0.0,H,ES,1998/1999
+SP1,1999-03-07,Tenerife,Ath Madrid,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-03-07,Valencia,Ath Bilbao,4,1,H,0.0,1.0,A,ES,1998/1999
 SP1,1999-03-13,Ath Madrid,Mallorca,1,2,A,1.0,2.0,A,ES,1998/1999
 SP1,1999-03-13,Betis,Valencia,0,1,A,0.0,1.0,A,ES,1998/1999
 SP1,1999-03-13,Santander,Real Madrid,1,3,A,1.0,0.0,H,ES,1998/1999
@@ -269,8 +269,8 @@ SP1,1999-03-21,Salamanca,Betis,1,3,A,0.0,1.0,A,ES,1998/1999
 SP1,1999-03-21,Sociedad,Barcelona,0,2,A,0.0,1.0,A,ES,1998/1999
 SP1,1999-03-21,Tenerife,Villareal,2,2,D,1.0,0.0,H,ES,1998/1999
 SP1,1999-03-21,Valencia,Zaragoza,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-03-04,La Coruna,Ath Madrid,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-03-04,Santander,Valencia,0,1,A,0.0,0.0,D,ES,1998/1999
+SP1,1999-04-03,La Coruna,Ath Madrid,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1999-04-03,Santander,Valencia,0,1,A,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-04,Ath Bilbao,Sociedad,0,0,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-04,Barcelona,Oviedo,3,1,H,2.0,1.0,H,ES,1998/1999
 SP1,1999-04-04,Betis,Espanol,0,1,A,0.0,0.0,D,ES,1998/1999
@@ -279,16 +279,16 @@ SP1,1999-04-04,Real Madrid,Alaves,3,2,H,1.0,2.0,A,ES,1998/1999
 SP1,1999-04-04,Valladolid,Tenerife,2,1,H,1.0,0.0,H,ES,1998/1999
 SP1,1999-04-04,Villareal,Mallorca,0,2,A,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-04,Zaragoza,Salamanca,2,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-10-04,Tenerife,Barcelona,2,3,A,1.0,2.0,A,ES,1998/1999
-SP1,1999-11-04,Alaves,La Coruna,2,1,H,1.0,1.0,D,ES,1998/1999
-SP1,1999-11-04,Ath Madrid,Villareal,2,2,D,0.0,2.0,A,ES,1998/1999
-SP1,1999-11-04,Celta,Real Madrid,5,1,H,4.0,1.0,H,ES,1998/1999
-SP1,1999-11-04,Espanol,Zaragoza,2,1,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-11-04,Mallorca,Valladolid,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-11-04,Oviedo,Ath Bilbao,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1999-11-04,Salamanca,Santander,1,2,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-11-04,Sociedad,Betis,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-11-04,Valencia,Extremadura,1,1,D,0.0,0.0,D,ES,1998/1999
+SP1,1999-04-10,Tenerife,Barcelona,2,3,A,1.0,2.0,A,ES,1998/1999
+SP1,1999-04-11,Alaves,La Coruna,2,1,H,1.0,1.0,D,ES,1998/1999
+SP1,1999-04-11,Ath Madrid,Villareal,2,2,D,0.0,2.0,A,ES,1998/1999
+SP1,1999-04-11,Celta,Real Madrid,5,1,H,4.0,1.0,H,ES,1998/1999
+SP1,1999-04-11,Espanol,Zaragoza,2,1,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-04-11,Mallorca,Valladolid,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-04-11,Oviedo,Ath Bilbao,0,0,D,0.0,0.0,D,ES,1998/1999
+SP1,1999-04-11,Salamanca,Santander,1,2,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-04-11,Sociedad,Betis,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-04-11,Valencia,Extremadura,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-17,Barcelona,Mallorca,2,1,H,2.0,0.0,H,ES,1998/1999
 SP1,1999-04-17,Valladolid,Ath Madrid,1,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-18,Ath Bilbao,Tenerife,2,0,H,0.0,0.0,D,ES,1998/1999
@@ -309,26 +309,26 @@ SP1,1999-04-25,Oviedo,Zaragoza,1,2,A,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-25,Salamanca,Real Madrid,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-25,Sociedad,Santander,2,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1999-04-25,Tenerife,Betis,3,2,H,1.0,2.0,A,ES,1998/1999
-SP1,1999-01-05,Real Madrid,Espanol,2,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-01-05,Valencia,Alaves,5,0,H,2.0,0.0,H,ES,1998/1999
-SP1,1999-02-05,Ath Bilbao,Ath Madrid,1,2,A,1.0,1.0,D,ES,1998/1999
-SP1,1999-02-05,Barcelona,La Coruna,4,0,H,3.0,0.0,H,ES,1998/1999
-SP1,1999-02-05,Betis,Mallorca,1,3,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-02-05,Celta,Salamanca,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-02-05,Extremadura,Sociedad,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-02-05,Santander,Oviedo,0,0,D,0.0,0.0,D,ES,1998/1999
-SP1,1999-02-05,Valladolid,Villareal,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-02-05,Zaragoza,Tenerife,3,1,H,1.0,1.0,D,ES,1998/1999
-SP1,1999-08-05,Sociedad,Real Madrid,3,2,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-09-05,Alaves,Valladolid,2,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-09-05,Ath Madrid,Betis,2,3,A,2.0,0.0,H,ES,1998/1999
-SP1,1999-09-05,Espanol,Celta,3,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-09-05,La Coruna,Ath Bilbao,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-09-05,Mallorca,Zaragoza,1,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-09-05,Oviedo,Extremadura,1,0,H,0.0,0.0,D,ES,1998/1999
-SP1,1999-09-05,Salamanca,Valencia,0,1,A,0.0,1.0,A,ES,1998/1999
-SP1,1999-09-05,Tenerife,Santander,2,2,D,1.0,0.0,H,ES,1998/1999
-SP1,1999-09-05,Villareal,Barcelona,2,3,A,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-01,Real Madrid,Espanol,2,0,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-05-01,Valencia,Alaves,5,0,H,2.0,0.0,H,ES,1998/1999
+SP1,1999-05-02,Ath Bilbao,Ath Madrid,1,2,A,1.0,1.0,D,ES,1998/1999
+SP1,1999-05-02,Barcelona,La Coruna,4,0,H,3.0,0.0,H,ES,1998/1999
+SP1,1999-05-02,Betis,Mallorca,1,3,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-05-02,Celta,Salamanca,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-05-02,Extremadura,Sociedad,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-02,Santander,Oviedo,0,0,D,0.0,0.0,D,ES,1998/1999
+SP1,1999-05-02,Valladolid,Villareal,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-05-02,Zaragoza,Tenerife,3,1,H,1.0,1.0,D,ES,1998/1999
+SP1,1999-05-08,Sociedad,Real Madrid,3,2,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-09,Alaves,Valladolid,2,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-09,Ath Madrid,Betis,2,3,A,2.0,0.0,H,ES,1998/1999
+SP1,1999-05-09,Espanol,Celta,3,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-05-09,La Coruna,Ath Bilbao,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1999-05-09,Mallorca,Zaragoza,1,0,H,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-09,Oviedo,Extremadura,1,0,H,0.0,0.0,D,ES,1998/1999
+SP1,1999-05-09,Salamanca,Valencia,0,1,A,0.0,1.0,A,ES,1998/1999
+SP1,1999-05-09,Tenerife,Santander,2,2,D,1.0,0.0,H,ES,1998/1999
+SP1,1999-05-09,Villareal,Barcelona,2,3,A,1.0,0.0,H,ES,1998/1999
 SP1,1999-05-14,Santander,Mallorca,1,0,H,0.0,0.0,D,ES,1998/1999
 SP1,1999-05-15,Barcelona,Valladolid,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-05-16,Ath Bilbao,Villareal,2,0,H,2.0,0.0,H,ES,1998/1999
@@ -359,9 +359,9 @@ SP1,1999-05-30,Real Madrid,Mallorca,2,1,H,1.0,0.0,H,ES,1998/1999
 SP1,1999-05-30,Salamanca,Sociedad,0,1,A,0.0,0.0,D,ES,1998/1999
 SP1,1999-05-30,Santander,La Coruna,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-05-30,Zaragoza,Villareal,4,0,H,1.0,0.0,H,ES,1998/1999
-SP1,1999-12-06,Ath Madrid,Real Madrid,3,1,H,2.0,1.0,H,ES,1998/1999
-SP1,1999-12-06,La Coruna,Extremadura,1,1,D,0.0,1.0,A,ES,1998/1999
-SP1,1999-12-06,Valladolid,Zaragoza,1,1,D,0.0,0.0,D,ES,1998/1999
+SP1,1999-06-12,Ath Madrid,Real Madrid,3,1,H,2.0,1.0,H,ES,1998/1999
+SP1,1999-06-12,La Coruna,Extremadura,1,1,D,0.0,1.0,A,ES,1998/1999
+SP1,1999-06-12,Valladolid,Zaragoza,1,1,D,0.0,0.0,D,ES,1998/1999
 SP1,1999-06-13,Ath Bilbao,Alaves,5,0,H,1.0,0.0,H,ES,1998/1999
 SP1,1999-06-13,Barcelona,Betis,4,1,H,3.0,0.0,H,ES,1998/1999
 SP1,1999-06-13,Mallorca,Celta,2,0,H,1.0,0.0,H,ES,1998/1999

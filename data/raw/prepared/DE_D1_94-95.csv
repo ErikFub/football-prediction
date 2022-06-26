@@ -26,15 +26,15 @@ D1,1994-08-27,Stuttgart,FC Koln,2.0,2.0,D,DE,1994/1995
 D1,1994-08-27,Uerdingen,Munich 1860,1.0,1.0,D,DE,1994/1995
 D1,1994-08-27,Werder Bremen,Bochum,3.0,0.0,H,DE,1994/1995
 D1,1994-08-28,Leverkusen,Ein Frankfurt,4.0,0.0,H,DE,1994/1995
-D1,1994-02-09,Duisburg,Bayern Munich,0.0,3.0,A,DE,1994/1995
-D1,1994-02-09,Freiburg,Werder Bremen,1.0,3.0,A,DE,1994/1995
-D1,1994-02-09,M'gladbach,Dresden,2.0,0.0,H,DE,1994/1995
-D1,1994-03-09,Bochum,Leverkusen,1.0,3.0,A,DE,1994/1995
-D1,1994-03-09,Ein Frankfurt,Dortmund,4.0,1.0,H,DE,1994/1995
-D1,1994-03-09,FC Koln,Uerdingen,2.0,0.0,H,DE,1994/1995
-D1,1994-03-09,Hamburg,Karlsruhe,3.0,1.0,H,DE,1994/1995
-D1,1994-03-09,Kaiserslautern,Stuttgart,3.0,2.0,H,DE,1994/1995
-D1,1994-03-09,Munich 1860,Schalke 04,0.0,1.0,A,DE,1994/1995
+D1,1994-09-02,Duisburg,Bayern Munich,0.0,3.0,A,DE,1994/1995
+D1,1994-09-02,Freiburg,Werder Bremen,1.0,3.0,A,DE,1994/1995
+D1,1994-09-02,M'gladbach,Dresden,2.0,0.0,H,DE,1994/1995
+D1,1994-09-03,Bochum,Leverkusen,1.0,3.0,A,DE,1994/1995
+D1,1994-09-03,Ein Frankfurt,Dortmund,4.0,1.0,H,DE,1994/1995
+D1,1994-09-03,FC Koln,Uerdingen,2.0,0.0,H,DE,1994/1995
+D1,1994-09-03,Hamburg,Karlsruhe,3.0,1.0,H,DE,1994/1995
+D1,1994-09-03,Kaiserslautern,Stuttgart,3.0,2.0,H,DE,1994/1995
+D1,1994-09-03,Munich 1860,Schalke 04,0.0,1.0,A,DE,1994/1995
 D1,1994-09-17,Bayern Munich,Hamburg,1.0,1.0,D,DE,1994/1995
 D1,1994-09-17,Bochum,Freiburg,1.0,3.0,A,DE,1994/1995
 D1,1994-09-17,Dresden,Duisburg,4.0,2.0,H,DE,1994/1995
@@ -55,22 +55,22 @@ D1,1994-09-24,Kaiserslautern,Schalke 04,3.0,1.0,H,DE,1994/1995
 D1,1994-09-24,M'gladbach,Bochum,7.0,1.0,H,DE,1994/1995
 D1,1994-09-30,Bochum,Duisburg,1.0,0.0,H,DE,1994/1995
 D1,1994-09-30,Dresden,Munich 1860,1.0,1.0,D,DE,1994/1995
-D1,1994-01-10,Bayern Munich,FC Koln,2.0,2.0,D,DE,1994/1995
-D1,1994-01-10,Karlsruhe,Kaiserslautern,3.0,3.0,D,DE,1994/1995
-D1,1994-01-10,Leverkusen,Stuttgart,3.0,1.0,H,DE,1994/1995
-D1,1994-01-10,Schalke 04,Ein Frankfurt,0.0,0.0,D,DE,1994/1995
-D1,1994-01-10,Uerdingen,Dortmund,0.0,2.0,A,DE,1994/1995
-D1,1994-02-10,Freiburg,M'gladbach,1.0,1.0,D,DE,1994/1995
-D1,1994-05-10,Kaiserslautern,Bayern Munich,1.0,1.0,D,DE,1994/1995
-D1,1994-06-10,Werder Bremen,Hamburg,1.0,4.0,A,DE,1994/1995
-D1,1994-08-10,Dortmund,Schalke 04,3.0,2.0,H,DE,1994/1995
-D1,1994-08-10,Duisburg,Freiburg,1.0,2.0,A,DE,1994/1995
-D1,1994-08-10,Ein Frankfurt,Karlsruhe,1.0,0.0,H,DE,1994/1995
-D1,1994-08-10,FC Koln,Dresden,1.0,2.0,A,DE,1994/1995
-D1,1994-08-10,Hamburg,Bochum,3.0,1.0,H,DE,1994/1995
-D1,1994-08-10,M'gladbach,Leverkusen,3.0,3.0,D,DE,1994/1995
-D1,1994-08-10,Munich 1860,Werder Bremen,1.0,2.0,A,DE,1994/1995
-D1,1994-08-10,Stuttgart,Uerdingen,3.0,1.0,H,DE,1994/1995
+D1,1994-10-01,Bayern Munich,FC Koln,2.0,2.0,D,DE,1994/1995
+D1,1994-10-01,Karlsruhe,Kaiserslautern,3.0,3.0,D,DE,1994/1995
+D1,1994-10-01,Leverkusen,Stuttgart,3.0,1.0,H,DE,1994/1995
+D1,1994-10-01,Schalke 04,Ein Frankfurt,0.0,0.0,D,DE,1994/1995
+D1,1994-10-01,Uerdingen,Dortmund,0.0,2.0,A,DE,1994/1995
+D1,1994-10-02,Freiburg,M'gladbach,1.0,1.0,D,DE,1994/1995
+D1,1994-10-05,Kaiserslautern,Bayern Munich,1.0,1.0,D,DE,1994/1995
+D1,1994-10-06,Werder Bremen,Hamburg,1.0,4.0,A,DE,1994/1995
+D1,1994-10-08,Dortmund,Schalke 04,3.0,2.0,H,DE,1994/1995
+D1,1994-10-08,Duisburg,Freiburg,1.0,2.0,A,DE,1994/1995
+D1,1994-10-08,Ein Frankfurt,Karlsruhe,1.0,0.0,H,DE,1994/1995
+D1,1994-10-08,FC Koln,Dresden,1.0,2.0,A,DE,1994/1995
+D1,1994-10-08,Hamburg,Bochum,3.0,1.0,H,DE,1994/1995
+D1,1994-10-08,M'gladbach,Leverkusen,3.0,3.0,D,DE,1994/1995
+D1,1994-10-08,Munich 1860,Werder Bremen,1.0,2.0,A,DE,1994/1995
+D1,1994-10-08,Stuttgart,Uerdingen,3.0,1.0,H,DE,1994/1995
 D1,1994-10-15,Bayern Munich,Ein Frankfurt,3.0,3.0,D,DE,1994/1995
 D1,1994-10-15,Bochum,Munich 1860,2.0,2.0,D,DE,1994/1995
 D1,1994-10-15,Dresden,Kaiserslautern,1.0,0.0,H,DE,1994/1995
@@ -98,23 +98,23 @@ D1,1994-10-29,Leverkusen,Schalke 04,2.0,2.0,D,DE,1994/1995
 D1,1994-10-29,M'gladbach,Munich 1860,2.0,0.0,H,DE,1994/1995
 D1,1994-10-29,Werder Bremen,Ein Frankfurt,2.0,0.0,H,DE,1994/1995
 D1,1994-10-30,Duisburg,Hamburg,0.0,5.0,A,DE,1994/1995
-D1,1994-04-11,Schalke 04,Karlsruhe,0.0,0.0,D,DE,1994/1995
-D1,1994-04-11,Stuttgart,Dresden,4.0,2.0,H,DE,1994/1995
-D1,1994-05-11,Ein Frankfurt,Bochum,2.0,1.0,H,DE,1994/1995
-D1,1994-05-11,FC Koln,M'gladbach,1.0,3.0,A,DE,1994/1995
-D1,1994-05-11,Hamburg,Leverkusen,1.0,2.0,A,DE,1994/1995
-D1,1994-05-11,Kaiserslautern,Freiburg,3.0,2.0,H,DE,1994/1995
-D1,1994-05-11,Munich 1860,Duisburg,1.0,1.0,D,DE,1994/1995
-D1,1994-05-11,Uerdingen,Bayern Munich,1.0,1.0,D,DE,1994/1995
-D1,1994-06-11,Dortmund,Werder Bremen,2.0,0.0,H,DE,1994/1995
+D1,1994-11-04,Schalke 04,Karlsruhe,0.0,0.0,D,DE,1994/1995
+D1,1994-11-04,Stuttgart,Dresden,4.0,2.0,H,DE,1994/1995
+D1,1994-11-05,Ein Frankfurt,Bochum,2.0,1.0,H,DE,1994/1995
+D1,1994-11-05,FC Koln,M'gladbach,1.0,3.0,A,DE,1994/1995
+D1,1994-11-05,Hamburg,Leverkusen,1.0,2.0,A,DE,1994/1995
+D1,1994-11-05,Kaiserslautern,Freiburg,3.0,2.0,H,DE,1994/1995
+D1,1994-11-05,Munich 1860,Duisburg,1.0,1.0,D,DE,1994/1995
+D1,1994-11-05,Uerdingen,Bayern Munich,1.0,1.0,D,DE,1994/1995
+D1,1994-11-06,Dortmund,Werder Bremen,2.0,0.0,H,DE,1994/1995
 D1,1994-11-11,Bochum,Dortmund,0.0,2.0,A,DE,1994/1995
 D1,1994-11-11,M'gladbach,Kaiserslautern,4.0,0.0,H,DE,1994/1995
-D1,1994-12-11,Bayern Munich,Schalke 04,2.0,0.0,H,DE,1994/1995
-D1,1994-12-11,Dresden,Uerdingen,1.0,2.0,A,DE,1994/1995
-D1,1994-12-11,Duisburg,FC Koln,1.0,3.0,A,DE,1994/1995
-D1,1994-12-11,Freiburg,Ein Frankfurt,2.0,0.0,H,DE,1994/1995
-D1,1994-12-11,Leverkusen,Karlsruhe,0.0,0.0,D,DE,1994/1995
-D1,1994-12-11,Werder Bremen,Stuttgart,4.0,0.0,H,DE,1994/1995
+D1,1994-11-12,Bayern Munich,Schalke 04,2.0,0.0,H,DE,1994/1995
+D1,1994-11-12,Dresden,Uerdingen,1.0,2.0,A,DE,1994/1995
+D1,1994-11-12,Duisburg,FC Koln,1.0,3.0,A,DE,1994/1995
+D1,1994-11-12,Freiburg,Ein Frankfurt,2.0,0.0,H,DE,1994/1995
+D1,1994-11-12,Leverkusen,Karlsruhe,0.0,0.0,D,DE,1994/1995
+D1,1994-11-12,Werder Bremen,Stuttgart,4.0,0.0,H,DE,1994/1995
 D1,1994-11-13,Hamburg,Munich 1860,3.0,0.0,H,DE,1994/1995
 D1,1994-11-18,FC Koln,Hamburg,1.0,1.0,D,DE,1994/1995
 D1,1994-11-18,Schalke 04,Dresden,4.0,0.0,H,DE,1994/1995
@@ -137,21 +137,21 @@ D1,1994-11-27,Duisburg,Ein Frankfurt,1.0,0.0,H,DE,1994/1995
 D1,1994-11-29,Bochum,Karlsruhe,0.0,1.0,A,DE,1994/1995
 D1,1994-11-29,FC Koln,Kaiserslautern,0.0,1.0,A,DE,1994/1995
 D1,1994-11-29,M'gladbach,Uerdingen,1.0,0.0,H,DE,1994/1995
-D1,1994-02-12,Kaiserslautern,Munich 1860,1.0,1.0,D,DE,1994/1995
-D1,1994-03-12,Bayern Munich,Dresden,2.0,1.0,H,DE,1994/1995
-D1,1994-03-12,Dortmund,Duisburg,1.0,0.0,H,DE,1994/1995
-D1,1994-03-12,Ein Frankfurt,Hamburg,2.0,0.0,H,DE,1994/1995
-D1,1994-03-12,Karlsruhe,Werder Bremen,3.0,1.0,H,DE,1994/1995
-D1,1994-03-12,Leverkusen,FC Koln,3.0,1.0,H,DE,1994/1995
-D1,1994-03-12,Schalke 04,Bochum,3.0,2.0,H,DE,1994/1995
-D1,1994-03-12,Stuttgart,M'gladbach,2.0,4.0,A,DE,1994/1995
-D1,1994-03-12,Uerdingen,Freiburg,0.0,2.0,A,DE,1994/1995
-D1,1994-10-12,Dresden,Leverkusen,1.0,1.0,D,DE,1994/1995
-D1,1994-10-12,Duisburg,Stuttgart,2.0,0.0,H,DE,1994/1995
-D1,1994-10-12,Freiburg,Schalke 04,3.0,0.0,H,DE,1994/1995
-D1,1994-10-12,Hamburg,Dortmund,0.0,4.0,A,DE,1994/1995
-D1,1994-10-12,Munich 1860,Ein Frankfurt,2.0,1.0,H,DE,1994/1995
-D1,1994-10-12,Werder Bremen,Bayern Munich,0.0,0.0,D,DE,1994/1995
+D1,1994-12-02,Kaiserslautern,Munich 1860,1.0,1.0,D,DE,1994/1995
+D1,1994-12-03,Bayern Munich,Dresden,2.0,1.0,H,DE,1994/1995
+D1,1994-12-03,Dortmund,Duisburg,1.0,0.0,H,DE,1994/1995
+D1,1994-12-03,Ein Frankfurt,Hamburg,2.0,0.0,H,DE,1994/1995
+D1,1994-12-03,Karlsruhe,Werder Bremen,3.0,1.0,H,DE,1994/1995
+D1,1994-12-03,Leverkusen,FC Koln,3.0,1.0,H,DE,1994/1995
+D1,1994-12-03,Schalke 04,Bochum,3.0,2.0,H,DE,1994/1995
+D1,1994-12-03,Stuttgart,M'gladbach,2.0,4.0,A,DE,1994/1995
+D1,1994-12-03,Uerdingen,Freiburg,0.0,2.0,A,DE,1994/1995
+D1,1994-12-10,Dresden,Leverkusen,1.0,1.0,D,DE,1994/1995
+D1,1994-12-10,Duisburg,Stuttgart,2.0,0.0,H,DE,1994/1995
+D1,1994-12-10,Freiburg,Schalke 04,3.0,0.0,H,DE,1994/1995
+D1,1994-12-10,Hamburg,Dortmund,0.0,4.0,A,DE,1994/1995
+D1,1994-12-10,Munich 1860,Ein Frankfurt,2.0,1.0,H,DE,1994/1995
+D1,1994-12-10,Werder Bremen,Bayern Munich,0.0,0.0,D,DE,1994/1995
 D1,1995-02-17,Duisburg,Uerdingen,2.0,0.0,H,DE,1994/1995
 D1,1995-02-17,FC Koln,Ein Frankfurt,3.0,0.0,H,DE,1994/1995
 D1,1995-02-17,Freiburg,Karlsruhe,2.0,1.0,H,DE,1994/1995
@@ -170,23 +170,23 @@ D1,1995-02-25,Schalke 04,Duisburg,0.0,0.0,D,DE,1994/1995
 D1,1995-02-25,Stuttgart,Munich 1860,1.0,1.0,D,DE,1994/1995
 D1,1995-02-25,Uerdingen,Hamburg,4.0,1.0,H,DE,1994/1995
 D1,1995-02-26,Karlsruhe,M'gladbach,2.0,4.0,A,DE,1994/1995
-D1,1995-04-03,Bochum,Werder Bremen,1.0,3.0,A,DE,1994/1995
-D1,1995-04-03,Duisburg,Karlsruhe,0.0,0.0,D,DE,1994/1995
-D1,1995-04-03,Ein Frankfurt,Leverkusen,2.0,0.0,H,DE,1994/1995
-D1,1995-04-03,Freiburg,Dresden,3.0,1.0,H,DE,1994/1995
-D1,1995-04-03,Hamburg,Schalke 04,3.0,0.0,H,DE,1994/1995
-D1,1995-04-03,Kaiserslautern,Dortmund,1.0,0.0,H,DE,1994/1995
-D1,1995-04-03,M'gladbach,Bayern Munich,2.0,2.0,D,DE,1994/1995
-D1,1995-05-03,FC Koln,Stuttgart,1.0,0.0,H,DE,1994/1995
-D1,1995-10-03,Bayern Munich,Duisburg,1.0,1.0,D,DE,1994/1995
-D1,1995-10-03,Werder Bremen,Freiburg,5.0,1.0,H,DE,1994/1995
-D1,1995-11-03,Dortmund,Ein Frankfurt,1.0,1.0,D,DE,1994/1995
-D1,1995-11-03,Dresden,M'gladbach,0.0,3.0,A,DE,1994/1995
-D1,1995-11-03,Karlsruhe,Hamburg,2.0,0.0,H,DE,1994/1995
-D1,1995-11-03,Leverkusen,Bochum,1.0,3.0,A,DE,1994/1995
-D1,1995-11-03,Stuttgart,Kaiserslautern,2.0,2.0,D,DE,1994/1995
-D1,1995-11-03,Uerdingen,FC Koln,0.0,0.0,D,DE,1994/1995
-D1,1995-12-03,Schalke 04,Munich 1860,6.0,2.0,H,DE,1994/1995
+D1,1995-03-04,Bochum,Werder Bremen,1.0,3.0,A,DE,1994/1995
+D1,1995-03-04,Duisburg,Karlsruhe,0.0,0.0,D,DE,1994/1995
+D1,1995-03-04,Ein Frankfurt,Leverkusen,2.0,0.0,H,DE,1994/1995
+D1,1995-03-04,Freiburg,Dresden,3.0,1.0,H,DE,1994/1995
+D1,1995-03-04,Hamburg,Schalke 04,3.0,0.0,H,DE,1994/1995
+D1,1995-03-04,Kaiserslautern,Dortmund,1.0,0.0,H,DE,1994/1995
+D1,1995-03-04,M'gladbach,Bayern Munich,2.0,2.0,D,DE,1994/1995
+D1,1995-03-05,FC Koln,Stuttgart,1.0,0.0,H,DE,1994/1995
+D1,1995-03-10,Bayern Munich,Duisburg,1.0,1.0,D,DE,1994/1995
+D1,1995-03-10,Werder Bremen,Freiburg,5.0,1.0,H,DE,1994/1995
+D1,1995-03-11,Dortmund,Ein Frankfurt,1.0,1.0,D,DE,1994/1995
+D1,1995-03-11,Dresden,M'gladbach,0.0,3.0,A,DE,1994/1995
+D1,1995-03-11,Karlsruhe,Hamburg,2.0,0.0,H,DE,1994/1995
+D1,1995-03-11,Leverkusen,Bochum,1.0,3.0,A,DE,1994/1995
+D1,1995-03-11,Stuttgart,Kaiserslautern,2.0,2.0,D,DE,1994/1995
+D1,1995-03-11,Uerdingen,FC Koln,0.0,0.0,D,DE,1994/1995
+D1,1995-03-12,Schalke 04,Munich 1860,6.0,2.0,H,DE,1994/1995
 D1,1995-03-17,Kaiserslautern,Uerdingen,1.0,1.0,D,DE,1994/1995
 D1,1995-03-17,M'gladbach,Werder Bremen,2.0,0.0,H,DE,1994/1995
 D1,1995-03-18,Dortmund,Leverkusen,0.0,3.0,A,DE,1994/1995
@@ -208,22 +208,22 @@ D1,1995-03-25,Uerdingen,Ein Frankfurt,1.0,1.0,D,DE,1994/1995
 D1,1995-03-25,Werder Bremen,Duisburg,5.0,1.0,H,DE,1994/1995
 D1,1995-03-31,Duisburg,Bochum,3.0,1.0,H,DE,1994/1995
 D1,1995-03-31,Ein Frankfurt,Schalke 04,0.0,3.0,A,DE,1994/1995
-D1,1995-01-04,Dortmund,Uerdingen,3.0,1.0,H,DE,1994/1995
-D1,1995-01-04,FC Koln,Bayern Munich,3.0,1.0,H,DE,1994/1995
-D1,1995-01-04,Kaiserslautern,Karlsruhe,0.0,0.0,D,DE,1994/1995
-D1,1995-01-04,M'gladbach,Freiburg,1.0,2.0,A,DE,1994/1995
-D1,1995-01-04,Munich 1860,Dresden,3.0,1.0,H,DE,1994/1995
-D1,1995-01-04,Stuttgart,Leverkusen,4.0,2.0,H,DE,1994/1995
-D1,1995-02-04,Hamburg,Werder Bremen,0.0,0.0,D,DE,1994/1995
-D1,1995-07-04,Bochum,Hamburg,0.0,0.0,D,DE,1994/1995
-D1,1995-07-04,Uerdingen,Stuttgart,4.0,1.0,H,DE,1994/1995
-D1,1995-08-04,Bayern Munich,Kaiserslautern,1.0,1.0,D,DE,1994/1995
-D1,1995-08-04,Dresden,FC Koln,1.0,3.0,A,DE,1994/1995
-D1,1995-08-04,Freiburg,Duisburg,3.0,0.0,H,DE,1994/1995
-D1,1995-08-04,Karlsruhe,Ein Frankfurt,1.0,1.0,D,DE,1994/1995
-D1,1995-08-04,Leverkusen,M'gladbach,3.0,1.0,H,DE,1994/1995
-D1,1995-08-04,Schalke 04,Dortmund,0.0,0.0,D,DE,1994/1995
-D1,1995-09-04,Werder Bremen,Munich 1860,2.0,0.0,H,DE,1994/1995
+D1,1995-04-01,Dortmund,Uerdingen,3.0,1.0,H,DE,1994/1995
+D1,1995-04-01,FC Koln,Bayern Munich,3.0,1.0,H,DE,1994/1995
+D1,1995-04-01,Kaiserslautern,Karlsruhe,0.0,0.0,D,DE,1994/1995
+D1,1995-04-01,M'gladbach,Freiburg,1.0,2.0,A,DE,1994/1995
+D1,1995-04-01,Munich 1860,Dresden,3.0,1.0,H,DE,1994/1995
+D1,1995-04-01,Stuttgart,Leverkusen,4.0,2.0,H,DE,1994/1995
+D1,1995-04-02,Hamburg,Werder Bremen,0.0,0.0,D,DE,1994/1995
+D1,1995-04-07,Bochum,Hamburg,0.0,0.0,D,DE,1994/1995
+D1,1995-04-07,Uerdingen,Stuttgart,4.0,1.0,H,DE,1994/1995
+D1,1995-04-08,Bayern Munich,Kaiserslautern,1.0,1.0,D,DE,1994/1995
+D1,1995-04-08,Dresden,FC Koln,1.0,3.0,A,DE,1994/1995
+D1,1995-04-08,Freiburg,Duisburg,3.0,0.0,H,DE,1994/1995
+D1,1995-04-08,Karlsruhe,Ein Frankfurt,1.0,1.0,D,DE,1994/1995
+D1,1995-04-08,Leverkusen,M'gladbach,3.0,1.0,H,DE,1994/1995
+D1,1995-04-08,Schalke 04,Dortmund,0.0,0.0,D,DE,1994/1995
+D1,1995-04-09,Werder Bremen,Munich 1860,2.0,0.0,H,DE,1994/1995
 D1,1995-04-13,Dortmund,Karlsruhe,2.0,1.0,H,DE,1994/1995
 D1,1995-04-13,Hamburg,Freiburg,1.0,2.0,A,DE,1994/1995
 D1,1995-04-13,Uerdingen,Leverkusen,0.0,1.0,A,DE,1994/1995
@@ -253,15 +253,15 @@ D1,1995-04-29,Uerdingen,Karlsruhe,0.0,0.0,D,DE,1994/1995
 D1,1995-04-30,Ein Frankfurt,Werder Bremen,0.0,0.0,D,DE,1994/1995
 D1,1995-05-05,Duisburg,Munich 1860,1.0,1.0,D,DE,1994/1995
 D1,1995-05-05,Freiburg,Kaiserslautern,4.0,1.0,H,DE,1994/1995
-D1,1995-06-05,Bayern Munich,Uerdingen,2.0,1.0,H,DE,1994/1995
-D1,1995-06-05,Bochum,Ein Frankfurt,0.0,1.0,A,DE,1994/1995
-D1,1995-06-05,Dresden,Stuttgart,1.0,1.0,D,DE,1994/1995
-D1,1995-06-05,Karlsruhe,Schalke 04,2.0,2.0,D,DE,1994/1995
-D1,1995-06-05,Leverkusen,Hamburg,3.0,1.0,H,DE,1994/1995
-D1,1995-06-05,M'gladbach,FC Koln,0.0,0.0,D,DE,1994/1995
-D1,1995-07-05,Werder Bremen,Dortmund,3.0,1.0,H,DE,1994/1995
-D1,1995-12-05,Karlsruhe,Leverkusen,2.0,4.0,A,DE,1994/1995
-D1,1995-12-05,Uerdingen,Dresden,3.0,1.0,H,DE,1994/1995
+D1,1995-05-06,Bayern Munich,Uerdingen,2.0,1.0,H,DE,1994/1995
+D1,1995-05-06,Bochum,Ein Frankfurt,0.0,1.0,A,DE,1994/1995
+D1,1995-05-06,Dresden,Stuttgart,1.0,1.0,D,DE,1994/1995
+D1,1995-05-06,Karlsruhe,Schalke 04,2.0,2.0,D,DE,1994/1995
+D1,1995-05-06,Leverkusen,Hamburg,3.0,1.0,H,DE,1994/1995
+D1,1995-05-06,M'gladbach,FC Koln,0.0,0.0,D,DE,1994/1995
+D1,1995-05-07,Werder Bremen,Dortmund,3.0,1.0,H,DE,1994/1995
+D1,1995-05-12,Karlsruhe,Leverkusen,2.0,4.0,A,DE,1994/1995
+D1,1995-05-12,Uerdingen,Dresden,3.0,1.0,H,DE,1994/1995
 D1,1995-05-13,Dortmund,Bochum,3.0,1.0,H,DE,1994/1995
 D1,1995-05-13,Ein Frankfurt,Freiburg,1.0,2.0,A,DE,1994/1995
 D1,1995-05-13,FC Koln,Duisburg,0.0,3.0,A,DE,1994/1995
@@ -287,15 +287,15 @@ D1,1995-05-27,Schalke 04,Werder Bremen,4.0,2.0,H,DE,1994/1995
 D1,1995-05-27,Stuttgart,Freiburg,1.0,0.0,H,DE,1994/1995
 D1,1995-05-27,Uerdingen,Bochum,2.0,1.0,H,DE,1994/1995
 D1,1995-05-28,Dortmund,M'gladbach,1.0,1.0,D,DE,1994/1995
-D1,1995-10-06,Bochum,Schalke 04,5.0,1.0,H,DE,1994/1995
-D1,1995-10-06,Dresden,Bayern Munich,0.0,1.0,A,DE,1994/1995
-D1,1995-10-06,Duisburg,Dortmund,2.0,3.0,A,DE,1994/1995
-D1,1995-10-06,FC Koln,Leverkusen,3.0,3.0,D,DE,1994/1995
-D1,1995-10-06,Freiburg,Uerdingen,1.0,0.0,H,DE,1994/1995
-D1,1995-10-06,Hamburg,Ein Frankfurt,3.0,1.0,H,DE,1994/1995
-D1,1995-10-06,M'gladbach,Stuttgart,3.0,1.0,H,DE,1994/1995
-D1,1995-10-06,Munich 1860,Kaiserslautern,1.0,3.0,A,DE,1994/1995
-D1,1995-10-06,Werder Bremen,Karlsruhe,2.0,1.0,H,DE,1994/1995
+D1,1995-06-10,Bochum,Schalke 04,5.0,1.0,H,DE,1994/1995
+D1,1995-06-10,Dresden,Bayern Munich,0.0,1.0,A,DE,1994/1995
+D1,1995-06-10,Duisburg,Dortmund,2.0,3.0,A,DE,1994/1995
+D1,1995-06-10,FC Koln,Leverkusen,3.0,3.0,D,DE,1994/1995
+D1,1995-06-10,Freiburg,Uerdingen,1.0,0.0,H,DE,1994/1995
+D1,1995-06-10,Hamburg,Ein Frankfurt,3.0,1.0,H,DE,1994/1995
+D1,1995-06-10,M'gladbach,Stuttgart,3.0,1.0,H,DE,1994/1995
+D1,1995-06-10,Munich 1860,Kaiserslautern,1.0,3.0,A,DE,1994/1995
+D1,1995-06-10,Werder Bremen,Karlsruhe,2.0,1.0,H,DE,1994/1995
 D1,1995-06-17,Bayern Munich,Werder Bremen,3.0,1.0,H,DE,1994/1995
 D1,1995-06-17,Dortmund,Hamburg,2.0,0.0,H,DE,1994/1995
 D1,1995-06-17,Ein Frankfurt,Munich 1860,3.0,1.0,H,DE,1994/1995

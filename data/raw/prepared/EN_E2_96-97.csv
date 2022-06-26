@@ -25,16 +25,16 @@ E2,1996-08-31,Oldham,Ipswich,3,3,D,EN,1996/1997
 E2,1996-08-31,Port Vale,Oxford,2,0,H,EN,1996/1997
 E2,1996-08-31,Reading,Stoke,2,2,D,EN,1996/1997
 E2,1996-08-31,Southend,Swindon,1,3,A,EN,1996/1997
-E2,1996-01-09,QPR,Bolton,1,2,A,EN,1996/1997
-E2,1996-03-09,Man City,Charlton,2,1,H,EN,1996/1997
-E2,1996-06-09,Wolves,Charlton,1,0,H,EN,1996/1997
-E2,1996-07-09,Bradford,Norwich,0,2,A,EN,1996/1997
-E2,1996-07-09,Grimsby,Swindon,2,1,H,EN,1996/1997
-E2,1996-10-09,Port Vale,Man City,0,2,A,EN,1996/1997
-E2,1996-10-09,Sheffield United,Bradford,3,0,H,EN,1996/1997
-E2,1996-10-09,West Brom,Reading,3,2,H,EN,1996/1997
-E2,1996-11-09,Norwich,QPR,1,1,D,EN,1996/1997
-E2,1996-11-09,Swindon,Portsmouth,0,1,A,EN,1996/1997
+E2,1996-09-01,QPR,Bolton,1,2,A,EN,1996/1997
+E2,1996-09-03,Man City,Charlton,2,1,H,EN,1996/1997
+E2,1996-09-06,Wolves,Charlton,1,0,H,EN,1996/1997
+E2,1996-09-07,Bradford,Norwich,0,2,A,EN,1996/1997
+E2,1996-09-07,Grimsby,Swindon,2,1,H,EN,1996/1997
+E2,1996-09-10,Port Vale,Man City,0,2,A,EN,1996/1997
+E2,1996-09-10,Sheffield United,Bradford,3,0,H,EN,1996/1997
+E2,1996-09-10,West Brom,Reading,3,2,H,EN,1996/1997
+E2,1996-09-11,Norwich,QPR,1,1,D,EN,1996/1997
+E2,1996-09-11,Swindon,Portsmouth,0,1,A,EN,1996/1997
 E2,1996-09-13,Huddersfield,Oldham,3,2,H,EN,1996/1997
 E2,1996-09-14,Barnsley,QPR,1,3,A,EN,1996/1997
 E2,1996-09-14,Birmingham,Stoke,3,1,H,EN,1996/1997
@@ -71,31 +71,31 @@ E2,1996-09-28,Oxford,Portsmouth,2,0,H,EN,1996/1997
 E2,1996-09-28,Sheffield United,Man City,2,0,H,EN,1996/1997
 E2,1996-09-28,West Brom,Ipswich,0,0,D,EN,1996/1997
 E2,1996-09-29,Port Vale,Bradford,1,1,D,EN,1996/1997
-E2,1996-01-10,Grimsby,Norwich,1,4,A,EN,1996/1997
-E2,1996-01-10,Ipswich,Barnsley,1,1,D,EN,1996/1997
-E2,1996-01-10,Oldham,West Brom,1,1,D,EN,1996/1997
-E2,1996-01-10,Portsmouth,Crystal Palace,2,2,D,EN,1996/1997
-E2,1996-01-10,Southend,Sheffield United,3,2,H,EN,1996/1997
-E2,1996-01-10,Tranmere,Oxford,0,0,D,EN,1996/1997
-E2,1996-02-10,Bradford,Swindon,2,1,H,EN,1996/1997
-E2,1996-02-10,QPR,Port Vale,1,2,A,EN,1996/1997
-E2,1996-02-10,Wolves,Bolton,1,2,A,EN,1996/1997
-E2,1996-04-10,Tranmere,Portsmouth,4,3,H,EN,1996/1997
-E2,1996-05-10,Bradford,Southend,0,0,D,EN,1996/1997
-E2,1996-05-10,Grimsby,QPR,2,0,H,EN,1996/1997
-E2,1996-05-10,Oldham,Port Vale,3,0,H,EN,1996/1997
-E2,1996-05-10,Wolves,Reading,0,1,A,EN,1996/1997
-E2,1996-08-10,Huddersfield,Birmingham,3,0,H,EN,1996/1997
-E2,1996-11-10,Norwich,Ipswich,3,1,H,EN,1996/1997
-E2,1996-12-10,Barnsley,Crystal Palace,0,0,D,EN,1996/1997
-E2,1996-12-10,Birmingham,Bradford,3,0,H,EN,1996/1997
-E2,1996-12-10,Bolton,Oldham,3,1,H,EN,1996/1997
-E2,1996-12-10,Portsmouth,Charlton,2,0,H,EN,1996/1997
-E2,1996-12-10,QPR,Man City,2,2,D,EN,1996/1997
-E2,1996-12-10,Reading,Grimsby,1,1,D,EN,1996/1997
-E2,1996-12-10,Sheffield United,Tranmere,0,0,D,EN,1996/1997
-E2,1996-12-10,Swindon,Oxford,1,0,H,EN,1996/1997
-E2,1996-12-10,West Brom,Huddersfield,1,1,D,EN,1996/1997
+E2,1996-10-01,Grimsby,Norwich,1,4,A,EN,1996/1997
+E2,1996-10-01,Ipswich,Barnsley,1,1,D,EN,1996/1997
+E2,1996-10-01,Oldham,West Brom,1,1,D,EN,1996/1997
+E2,1996-10-01,Portsmouth,Crystal Palace,2,2,D,EN,1996/1997
+E2,1996-10-01,Southend,Sheffield United,3,2,H,EN,1996/1997
+E2,1996-10-01,Tranmere,Oxford,0,0,D,EN,1996/1997
+E2,1996-10-02,Bradford,Swindon,2,1,H,EN,1996/1997
+E2,1996-10-02,QPR,Port Vale,1,2,A,EN,1996/1997
+E2,1996-10-02,Wolves,Bolton,1,2,A,EN,1996/1997
+E2,1996-10-04,Tranmere,Portsmouth,4,3,H,EN,1996/1997
+E2,1996-10-05,Bradford,Southend,0,0,D,EN,1996/1997
+E2,1996-10-05,Grimsby,QPR,2,0,H,EN,1996/1997
+E2,1996-10-05,Oldham,Port Vale,3,0,H,EN,1996/1997
+E2,1996-10-05,Wolves,Reading,0,1,A,EN,1996/1997
+E2,1996-10-08,Huddersfield,Birmingham,3,0,H,EN,1996/1997
+E2,1996-10-11,Norwich,Ipswich,3,1,H,EN,1996/1997
+E2,1996-10-12,Barnsley,Crystal Palace,0,0,D,EN,1996/1997
+E2,1996-10-12,Birmingham,Bradford,3,0,H,EN,1996/1997
+E2,1996-10-12,Bolton,Oldham,3,1,H,EN,1996/1997
+E2,1996-10-12,Portsmouth,Charlton,2,0,H,EN,1996/1997
+E2,1996-10-12,QPR,Man City,2,2,D,EN,1996/1997
+E2,1996-10-12,Reading,Grimsby,1,1,D,EN,1996/1997
+E2,1996-10-12,Sheffield United,Tranmere,0,0,D,EN,1996/1997
+E2,1996-10-12,Swindon,Oxford,1,0,H,EN,1996/1997
+E2,1996-10-12,West Brom,Huddersfield,1,1,D,EN,1996/1997
 E2,1996-10-13,Port Vale,Stoke,1,1,D,EN,1996/1997
 E2,1996-10-13,Southend,Wolves,1,1,D,EN,1996/1997
 E2,1996-10-15,Barnsley,Oxford,0,0,D,EN,1996/1997
@@ -146,24 +146,24 @@ E2,1996-10-30,Norwich,Sheffield United,1,1,D,EN,1996/1997
 E2,1996-10-30,QPR,Ipswich,0,1,A,EN,1996/1997
 E2,1996-10-30,Swindon,West Brom,2,3,A,EN,1996/1997
 E2,1996-10-30,Wolves,Huddersfield,0,0,D,EN,1996/1997
-E2,1996-02-11,Bolton,Huddersfield,2,0,H,EN,1996/1997
-E2,1996-02-11,Bradford,Oldham,0,3,A,EN,1996/1997
-E2,1996-02-11,Norwich,Charlton,1,2,A,EN,1996/1997
-E2,1996-02-11,Oxford,Ipswich,3,1,H,EN,1996/1997
-E2,1996-02-11,Port Vale,Birmingham,3,0,H,EN,1996/1997
-E2,1996-02-11,Portsmouth,West Brom,4,0,H,EN,1996/1997
-E2,1996-02-11,QPR,Stoke,1,1,D,EN,1996/1997
-E2,1996-02-11,Southend,Reading,2,1,H,EN,1996/1997
-E2,1996-02-11,Swindon,Man City,2,0,H,EN,1996/1997
-E2,1996-02-11,Tranmere,Crystal Palace,1,3,A,EN,1996/1997
-E2,1996-02-11,Wolves,Barnsley,3,3,D,EN,1996/1997
-E2,1996-03-11,Grimsby,Sheffield United,2,4,A,EN,1996/1997
-E2,1996-08-11,Huddersfield,Bradford,3,3,D,EN,1996/1997
-E2,1996-09-11,Ipswich,Southend,1,1,D,EN,1996/1997
-E2,1996-09-11,Oldham,Portsmouth,0,0,D,EN,1996/1997
-E2,1996-09-11,West Brom,Port Vale,1,1,D,EN,1996/1997
-E2,1996-10-11,Crystal Palace,QPR,3,0,H,EN,1996/1997
-E2,1996-12-11,Barnsley,Norwich,3,1,H,EN,1996/1997
+E2,1996-11-02,Bolton,Huddersfield,2,0,H,EN,1996/1997
+E2,1996-11-02,Bradford,Oldham,0,3,A,EN,1996/1997
+E2,1996-11-02,Norwich,Charlton,1,2,A,EN,1996/1997
+E2,1996-11-02,Oxford,Ipswich,3,1,H,EN,1996/1997
+E2,1996-11-02,Port Vale,Birmingham,3,0,H,EN,1996/1997
+E2,1996-11-02,Portsmouth,West Brom,4,0,H,EN,1996/1997
+E2,1996-11-02,QPR,Stoke,1,1,D,EN,1996/1997
+E2,1996-11-02,Southend,Reading,2,1,H,EN,1996/1997
+E2,1996-11-02,Swindon,Man City,2,0,H,EN,1996/1997
+E2,1996-11-02,Tranmere,Crystal Palace,1,3,A,EN,1996/1997
+E2,1996-11-02,Wolves,Barnsley,3,3,D,EN,1996/1997
+E2,1996-11-03,Grimsby,Sheffield United,2,4,A,EN,1996/1997
+E2,1996-11-08,Huddersfield,Bradford,3,3,D,EN,1996/1997
+E2,1996-11-09,Ipswich,Southend,1,1,D,EN,1996/1997
+E2,1996-11-09,Oldham,Portsmouth,0,0,D,EN,1996/1997
+E2,1996-11-09,West Brom,Port Vale,1,1,D,EN,1996/1997
+E2,1996-11-10,Crystal Palace,QPR,3,0,H,EN,1996/1997
+E2,1996-11-12,Barnsley,Norwich,3,1,H,EN,1996/1997
 E2,1996-11-13,Birmingham,Bolton,3,1,H,EN,1996/1997
 E2,1996-11-13,Man City,Oxford,2,3,A,EN,1996/1997
 E2,1996-11-13,West Brom,Sheffield United,1,2,A,EN,1996/1997
@@ -209,23 +209,23 @@ E2,1996-11-30,QPR,Sheffield United,1,0,H,EN,1996/1997
 E2,1996-11-30,Southend,Oldham,1,1,D,EN,1996/1997
 E2,1996-11-30,Swindon,Reading,3,1,H,EN,1996/1997
 E2,1996-11-30,Tranmere,Ipswich,3,0,H,EN,1996/1997
-E2,1996-01-12,Wolves,Man City,3,0,H,EN,1996/1997
-E2,1996-03-12,Birmingham,Barnsley,0,0,D,EN,1996/1997
-E2,1996-03-12,Reading,Tranmere,2,0,H,EN,1996/1997
-E2,1996-03-12,Sheffield United,Huddersfield,3,1,H,EN,1996/1997
-E2,1996-04-12,Stoke,Charlton,1,0,H,EN,1996/1997
-E2,1996-07-12,Barnsley,Southend,3,0,H,EN,1996/1997
-E2,1996-07-12,Birmingham,Grimsby,0,0,D,EN,1996/1997
-E2,1996-07-12,Charlton,Swindon,2,0,H,EN,1996/1997
-E2,1996-07-12,Crystal Palace,Oxford,2,2,D,EN,1996/1997
-E2,1996-07-12,Huddersfield,Norwich,2,0,H,EN,1996/1997
-E2,1996-07-12,Ipswich,Wolves,0,0,D,EN,1996/1997
-E2,1996-07-12,Man City,Bradford,3,2,H,EN,1996/1997
-E2,1996-07-12,Oldham,QPR,0,2,A,EN,1996/1997
-E2,1996-07-12,Reading,Port Vale,0,1,A,EN,1996/1997
-E2,1996-07-12,Sheffield United,Portsmouth,1,0,H,EN,1996/1997
-E2,1996-07-12,Stoke,Tranmere,2,0,H,EN,1996/1997
-E2,1996-08-12,West Brom,Bolton,2,2,D,EN,1996/1997
+E2,1996-12-01,Wolves,Man City,3,0,H,EN,1996/1997
+E2,1996-12-03,Birmingham,Barnsley,0,0,D,EN,1996/1997
+E2,1996-12-03,Reading,Tranmere,2,0,H,EN,1996/1997
+E2,1996-12-03,Sheffield United,Huddersfield,3,1,H,EN,1996/1997
+E2,1996-12-04,Stoke,Charlton,1,0,H,EN,1996/1997
+E2,1996-12-07,Barnsley,Southend,3,0,H,EN,1996/1997
+E2,1996-12-07,Birmingham,Grimsby,0,0,D,EN,1996/1997
+E2,1996-12-07,Charlton,Swindon,2,0,H,EN,1996/1997
+E2,1996-12-07,Crystal Palace,Oxford,2,2,D,EN,1996/1997
+E2,1996-12-07,Huddersfield,Norwich,2,0,H,EN,1996/1997
+E2,1996-12-07,Ipswich,Wolves,0,0,D,EN,1996/1997
+E2,1996-12-07,Man City,Bradford,3,2,H,EN,1996/1997
+E2,1996-12-07,Oldham,QPR,0,2,A,EN,1996/1997
+E2,1996-12-07,Reading,Port Vale,0,1,A,EN,1996/1997
+E2,1996-12-07,Sheffield United,Portsmouth,1,0,H,EN,1996/1997
+E2,1996-12-07,Stoke,Tranmere,2,0,H,EN,1996/1997
+E2,1996-12-08,West Brom,Bolton,2,2,D,EN,1996/1997
 E2,1996-12-14,Barnsley,Tranmere,3,0,H,EN,1996/1997
 E2,1996-12-14,Bolton,Ipswich,1,2,A,EN,1996/1997
 E2,1996-12-14,Charlton,Port Vale,1,3,A,EN,1996/1997
@@ -275,15 +275,15 @@ E2,1997-01-01,Charlton,Ipswich,1,1,D,EN,1996/1997
 E2,1997-01-01,Huddersfield,Stoke,2,1,H,EN,1996/1997
 E2,1997-01-01,Norwich,Portsmouth,1,0,H,EN,1996/1997
 E2,1997-01-01,West Brom,Tranmere,1,2,A,EN,1996/1997
-E2,1997-10-01,Stoke,Birmingham,1,0,H,EN,1996/1997
-E2,1997-10-01,Tranmere,Swindon,2,1,H,EN,1996/1997
-E2,1997-11-01,Bradford,Oxford,2,0,H,EN,1996/1997
-E2,1997-11-01,Grimsby,Port Vale,1,1,D,EN,1996/1997
-E2,1997-11-01,Man City,Crystal Palace,1,1,D,EN,1996/1997
-E2,1997-11-01,Portsmouth,Bolton,0,3,A,EN,1996/1997
-E2,1997-11-01,QPR,Barnsley,3,1,H,EN,1996/1997
-E2,1997-11-01,Reading,Charlton,2,2,D,EN,1996/1997
-E2,1997-12-01,Wolves,West Brom,2,0,H,EN,1996/1997
+E2,1997-01-10,Stoke,Birmingham,1,0,H,EN,1996/1997
+E2,1997-01-10,Tranmere,Swindon,2,1,H,EN,1996/1997
+E2,1997-01-11,Bradford,Oxford,2,0,H,EN,1996/1997
+E2,1997-01-11,Grimsby,Port Vale,1,1,D,EN,1996/1997
+E2,1997-01-11,Man City,Crystal Palace,1,1,D,EN,1996/1997
+E2,1997-01-11,Portsmouth,Bolton,0,3,A,EN,1996/1997
+E2,1997-01-11,QPR,Barnsley,3,1,H,EN,1996/1997
+E2,1997-01-11,Reading,Charlton,2,2,D,EN,1996/1997
+E2,1997-01-12,Wolves,West Brom,2,0,H,EN,1996/1997
 E2,1997-01-18,Barnsley,Ipswich,1,2,A,EN,1996/1997
 E2,1997-01-18,Birmingham,Reading,4,1,H,EN,1996/1997
 E2,1997-01-18,Bolton,Wolves,3,0,H,EN,1996/1997
@@ -312,32 +312,32 @@ E2,1997-01-29,Man City,Sheffield United,0,0,D,EN,1996/1997
 E2,1997-01-29,QPR,Birmingham,1,1,D,EN,1996/1997
 E2,1997-01-29,Stoke,Bolton,1,2,A,EN,1996/1997
 E2,1997-01-29,Wolves,Swindon,1,0,H,EN,1996/1997
-E2,1997-01-02,Bolton,Birmingham,2,1,H,EN,1996/1997
-E2,1997-01-02,Bradford,Huddersfield,1,1,D,EN,1996/1997
-E2,1997-01-02,Grimsby,Charlton,2,0,H,EN,1996/1997
-E2,1997-01-02,Norwich,Barnsley,1,1,D,EN,1996/1997
-E2,1997-01-02,Port Vale,West Brom,2,2,D,EN,1996/1997
-E2,1997-01-02,Portsmouth,Oldham,1,0,H,EN,1996/1997
-E2,1997-01-02,QPR,Crystal Palace,0,1,A,EN,1996/1997
-E2,1997-01-02,Southend,Ipswich,0,0,D,EN,1996/1997
-E2,1997-01-02,Swindon,Sheffield United,2,1,H,EN,1996/1997
-E2,1997-01-02,Tranmere,Reading,2,2,D,EN,1996/1997
-E2,1997-01-02,Wolves,Stoke,2,0,H,EN,1996/1997
+E2,1997-02-01,Bolton,Birmingham,2,1,H,EN,1996/1997
+E2,1997-02-01,Bradford,Huddersfield,1,1,D,EN,1996/1997
+E2,1997-02-01,Grimsby,Charlton,2,0,H,EN,1996/1997
+E2,1997-02-01,Norwich,Barnsley,1,1,D,EN,1996/1997
+E2,1997-02-01,Port Vale,West Brom,2,2,D,EN,1996/1997
+E2,1997-02-01,Portsmouth,Oldham,1,0,H,EN,1996/1997
+E2,1997-02-01,QPR,Crystal Palace,0,1,A,EN,1996/1997
+E2,1997-02-01,Southend,Ipswich,0,0,D,EN,1996/1997
+E2,1997-02-01,Swindon,Sheffield United,2,1,H,EN,1996/1997
+E2,1997-02-01,Tranmere,Reading,2,2,D,EN,1996/1997
+E2,1997-02-01,Wolves,Stoke,2,0,H,EN,1996/1997
 E2,1997-02-02,Oxford,Man City,1,4,A,EN,1996/1997
-E2,1997-04-02,Birmingham,West Brom,2,3,A,EN,1996/1997
-E2,1997-05-02,Swindon,QPR,1,1,D,EN,1996/1997
-E2,1997-07-02,Charlton,Tranmere,3,1,H,EN,1996/1997
-E2,1997-07-02,Stoke,Oxford,2,1,H,EN,1996/1997
-E2,1997-08-02,Barnsley,Port Vale,1,0,H,EN,1996/1997
-E2,1997-08-02,Birmingham,Portsmouth,0,3,A,EN,1996/1997
-E2,1997-08-02,Crystal Palace,Bradford,3,1,H,EN,1996/1997
-E2,1997-08-02,Huddersfield,Wolves,0,2,A,EN,1996/1997
-E2,1997-08-02,Ipswich,QPR,2,0,H,EN,1996/1997
-E2,1997-08-02,Man City,Southend,3,0,H,EN,1996/1997
-E2,1997-08-02,Oldham,Grimsby,0,3,A,EN,1996/1997
-E2,1997-08-02,Reading,Bolton,3,2,H,EN,1996/1997
-E2,1997-08-02,West Brom,Swindon,1,2,A,EN,1996/1997
-E2,1997-09-02,Sheffield United,Norwich,2,3,A,EN,1996/1997
+E2,1997-02-04,Birmingham,West Brom,2,3,A,EN,1996/1997
+E2,1997-02-05,Swindon,QPR,1,1,D,EN,1996/1997
+E2,1997-02-07,Charlton,Tranmere,3,1,H,EN,1996/1997
+E2,1997-02-07,Stoke,Oxford,2,1,H,EN,1996/1997
+E2,1997-02-08,Barnsley,Port Vale,1,0,H,EN,1996/1997
+E2,1997-02-08,Birmingham,Portsmouth,0,3,A,EN,1996/1997
+E2,1997-02-08,Crystal Palace,Bradford,3,1,H,EN,1996/1997
+E2,1997-02-08,Huddersfield,Wolves,0,2,A,EN,1996/1997
+E2,1997-02-08,Ipswich,QPR,2,0,H,EN,1996/1997
+E2,1997-02-08,Man City,Southend,3,0,H,EN,1996/1997
+E2,1997-02-08,Oldham,Grimsby,0,3,A,EN,1996/1997
+E2,1997-02-08,Reading,Bolton,3,2,H,EN,1996/1997
+E2,1997-02-08,West Brom,Swindon,1,2,A,EN,1996/1997
+E2,1997-02-09,Sheffield United,Norwich,2,3,A,EN,1996/1997
 E2,1997-02-15,Bolton,Sheffield United,2,2,D,EN,1996/1997
 E2,1997-02-15,Charlton,Barnsley,2,2,D,EN,1996/1997
 E2,1997-02-15,Grimsby,Huddersfield,2,2,D,EN,1996/1997
@@ -361,42 +361,42 @@ E2,1997-02-23,Birmingham,Port Vale,1,2,A,EN,1996/1997
 E2,1997-02-25,Southend,Norwich,1,1,D,EN,1996/1997
 E2,1997-02-26,Swindon,Birmingham,3,1,H,EN,1996/1997
 E2,1997-02-28,Tranmere,Stoke,0,0,D,EN,1996/1997
-E2,1997-01-03,Bradford,Man City,1,3,A,EN,1996/1997
-E2,1997-01-03,Grimsby,Birmingham,1,2,A,EN,1996/1997
-E2,1997-01-03,Norwich,Huddersfield,2,0,H,EN,1996/1997
-E2,1997-01-03,Oxford,Crystal Palace,1,4,A,EN,1996/1997
-E2,1997-01-03,Port Vale,Reading,1,0,H,EN,1996/1997
-E2,1997-01-03,Portsmouth,Sheffield United,1,1,D,EN,1996/1997
-E2,1997-01-03,QPR,Oldham,0,1,A,EN,1996/1997
-E2,1997-01-03,Southend,Barnsley,1,2,A,EN,1996/1997
-E2,1997-01-03,Swindon,Charlton,1,0,H,EN,1996/1997
-E2,1997-01-03,Wolves,Ipswich,0,0,D,EN,1996/1997
-E2,1997-02-03,Bolton,West Brom,1,0,H,EN,1996/1997
-E2,1997-04-03,Barnsley,Swindon,1,1,D,EN,1996/1997
-E2,1997-04-03,Birmingham,Wolves,1,2,A,EN,1996/1997
-E2,1997-04-03,Charlton,QPR,2,1,H,EN,1996/1997
-E2,1997-04-03,Crystal Palace,Bolton,1,1,D,EN,1996/1997
-E2,1997-04-03,Huddersfield,Oxford,1,0,H,EN,1996/1997
-E2,1997-04-03,Ipswich,Bradford,3,2,H,EN,1996/1997
-E2,1997-04-03,Oldham,Tranmere,1,2,A,EN,1996/1997
-E2,1997-04-03,Reading,Norwich,2,1,H,EN,1996/1997
-E2,1997-04-03,Sheffield United,Port Vale,3,0,H,EN,1996/1997
-E2,1997-05-03,Man City,Portsmouth,1,1,D,EN,1996/1997
-E2,1997-05-03,Stoke,Grimsby,3,1,H,EN,1996/1997
-E2,1997-05-03,West Brom,Southend,4,0,H,EN,1996/1997
-E2,1997-07-03,Barnsley,Sheffield United,2,0,H,EN,1996/1997
-E2,1997-08-03,Birmingham,Southend,2,1,H,EN,1996/1997
-E2,1997-08-03,Bolton,Swindon,7,0,H,EN,1996/1997
-E2,1997-08-03,Bradford,Grimsby,3,4,A,EN,1996/1997
-E2,1997-08-03,Charlton,Crystal Palace,2,1,H,EN,1996/1997
-E2,1997-08-03,Man City,Oldham,1,0,H,EN,1996/1997
-E2,1997-08-03,Norwich,Port Vale,1,1,D,EN,1996/1997
-E2,1997-08-03,Oxford,West Brom,1,0,H,EN,1996/1997
-E2,1997-08-03,QPR,Huddersfield,2,0,H,EN,1996/1997
-E2,1997-08-03,Stoke,Ipswich,0,1,A,EN,1996/1997
-E2,1997-08-03,Wolves,Tranmere,3,2,H,EN,1996/1997
-E2,1997-11-03,Birmingham,Man City,2,0,H,EN,1996/1997
-E2,1997-12-03,QPR,Reading,0,2,A,EN,1996/1997
+E2,1997-03-01,Bradford,Man City,1,3,A,EN,1996/1997
+E2,1997-03-01,Grimsby,Birmingham,1,2,A,EN,1996/1997
+E2,1997-03-01,Norwich,Huddersfield,2,0,H,EN,1996/1997
+E2,1997-03-01,Oxford,Crystal Palace,1,4,A,EN,1996/1997
+E2,1997-03-01,Port Vale,Reading,1,0,H,EN,1996/1997
+E2,1997-03-01,Portsmouth,Sheffield United,1,1,D,EN,1996/1997
+E2,1997-03-01,QPR,Oldham,0,1,A,EN,1996/1997
+E2,1997-03-01,Southend,Barnsley,1,2,A,EN,1996/1997
+E2,1997-03-01,Swindon,Charlton,1,0,H,EN,1996/1997
+E2,1997-03-01,Wolves,Ipswich,0,0,D,EN,1996/1997
+E2,1997-03-02,Bolton,West Brom,1,0,H,EN,1996/1997
+E2,1997-03-04,Barnsley,Swindon,1,1,D,EN,1996/1997
+E2,1997-03-04,Birmingham,Wolves,1,2,A,EN,1996/1997
+E2,1997-03-04,Charlton,QPR,2,1,H,EN,1996/1997
+E2,1997-03-04,Crystal Palace,Bolton,1,1,D,EN,1996/1997
+E2,1997-03-04,Huddersfield,Oxford,1,0,H,EN,1996/1997
+E2,1997-03-04,Ipswich,Bradford,3,2,H,EN,1996/1997
+E2,1997-03-04,Oldham,Tranmere,1,2,A,EN,1996/1997
+E2,1997-03-04,Reading,Norwich,2,1,H,EN,1996/1997
+E2,1997-03-04,Sheffield United,Port Vale,3,0,H,EN,1996/1997
+E2,1997-03-05,Man City,Portsmouth,1,1,D,EN,1996/1997
+E2,1997-03-05,Stoke,Grimsby,3,1,H,EN,1996/1997
+E2,1997-03-05,West Brom,Southend,4,0,H,EN,1996/1997
+E2,1997-03-07,Barnsley,Sheffield United,2,0,H,EN,1996/1997
+E2,1997-03-08,Birmingham,Southend,2,1,H,EN,1996/1997
+E2,1997-03-08,Bolton,Swindon,7,0,H,EN,1996/1997
+E2,1997-03-08,Bradford,Grimsby,3,4,A,EN,1996/1997
+E2,1997-03-08,Charlton,Crystal Palace,2,1,H,EN,1996/1997
+E2,1997-03-08,Man City,Oldham,1,0,H,EN,1996/1997
+E2,1997-03-08,Norwich,Port Vale,1,1,D,EN,1996/1997
+E2,1997-03-08,Oxford,West Brom,1,0,H,EN,1996/1997
+E2,1997-03-08,QPR,Huddersfield,2,0,H,EN,1996/1997
+E2,1997-03-08,Stoke,Ipswich,0,1,A,EN,1996/1997
+E2,1997-03-08,Wolves,Tranmere,3,2,H,EN,1996/1997
+E2,1997-03-11,Birmingham,Man City,2,0,H,EN,1996/1997
+E2,1997-03-12,QPR,Reading,0,2,A,EN,1996/1997
 E2,1997-03-15,Crystal Palace,Norwich,2,0,H,EN,1996/1997
 E2,1997-03-15,Grimsby,Man City,1,1,D,EN,1996/1997
 E2,1997-03-15,Huddersfield,Portsmouth,1,3,A,EN,1996/1997
@@ -447,33 +447,33 @@ E2,1997-03-31,QPR,Wolves,2,2,D,EN,1996/1997
 E2,1997-03-31,Reading,Barnsley,1,2,A,EN,1996/1997
 E2,1997-03-31,Southend,Portsmouth,2,1,H,EN,1996/1997
 E2,1997-04-04,Tranmere,Bradford,3,0,H,EN,1996/1997
-E2,1997-05-04,Barnsley,Birmingham,0,1,A,EN,1996/1997
-E2,1997-05-04,Bolton,QPR,2,1,H,EN,1996/1997
-E2,1997-05-04,Charlton,Man City,1,1,D,EN,1996/1997
-E2,1997-05-04,Crystal Palace,Huddersfield,1,1,D,EN,1996/1997
-E2,1997-05-04,Ipswich,Oldham,4,0,H,EN,1996/1997
-E2,1997-05-04,Oxford,Port Vale,0,2,A,EN,1996/1997
-E2,1997-05-04,Portsmouth,Grimsby,1,0,H,EN,1996/1997
-E2,1997-05-04,Sheffield United,West Brom,1,2,A,EN,1996/1997
-E2,1997-05-04,Stoke,Reading,1,1,D,EN,1996/1997
-E2,1997-05-04,Swindon,Southend,0,0,D,EN,1996/1997
-E2,1997-05-04,Wolves,Norwich,3,2,H,EN,1996/1997
-E2,1997-08-04,Oldham,Birmingham,2,2,D,EN,1996/1997
-E2,1997-09-04,Charlton,Huddersfield,2,1,H,EN,1996/1997
-E2,1997-09-04,Man City,Bolton,1,2,A,EN,1996/1997
-E2,1997-09-04,West Brom,Crystal Palace,1,0,H,EN,1996/1997
-E2,1997-12-04,Barnsley,Charlton,4,0,H,EN,1996/1997
-E2,1997-12-04,Birmingham,Huddersfield,1,0,H,EN,1996/1997
-E2,1997-12-04,Bolton,Oxford,4,0,H,EN,1996/1997
-E2,1997-12-04,Norwich,Stoke,2,0,H,EN,1996/1997
-E2,1997-12-04,Port Vale,Oldham,3,2,H,EN,1996/1997
-E2,1997-12-04,Portsmouth,Tranmere,1,3,A,EN,1996/1997
-E2,1997-12-04,QPR,Grimsby,3,0,H,EN,1996/1997
-E2,1997-12-04,Reading,Wolves,2,1,H,EN,1996/1997
-E2,1997-12-04,Sheffield United,Crystal Palace,3,0,H,EN,1996/1997
-E2,1997-12-04,Southend,Bradford,1,1,D,EN,1996/1997
-E2,1997-12-04,Swindon,Ipswich,0,4,A,EN,1996/1997
-E2,1997-12-04,West Brom,Man City,1,3,A,EN,1996/1997
+E2,1997-04-05,Barnsley,Birmingham,0,1,A,EN,1996/1997
+E2,1997-04-05,Bolton,QPR,2,1,H,EN,1996/1997
+E2,1997-04-05,Charlton,Man City,1,1,D,EN,1996/1997
+E2,1997-04-05,Crystal Palace,Huddersfield,1,1,D,EN,1996/1997
+E2,1997-04-05,Ipswich,Oldham,4,0,H,EN,1996/1997
+E2,1997-04-05,Oxford,Port Vale,0,2,A,EN,1996/1997
+E2,1997-04-05,Portsmouth,Grimsby,1,0,H,EN,1996/1997
+E2,1997-04-05,Sheffield United,West Brom,1,2,A,EN,1996/1997
+E2,1997-04-05,Stoke,Reading,1,1,D,EN,1996/1997
+E2,1997-04-05,Swindon,Southend,0,0,D,EN,1996/1997
+E2,1997-04-05,Wolves,Norwich,3,2,H,EN,1996/1997
+E2,1997-04-08,Oldham,Birmingham,2,2,D,EN,1996/1997
+E2,1997-04-09,Charlton,Huddersfield,2,1,H,EN,1996/1997
+E2,1997-04-09,Man City,Bolton,1,2,A,EN,1996/1997
+E2,1997-04-09,West Brom,Crystal Palace,1,0,H,EN,1996/1997
+E2,1997-04-12,Barnsley,Charlton,4,0,H,EN,1996/1997
+E2,1997-04-12,Birmingham,Huddersfield,1,0,H,EN,1996/1997
+E2,1997-04-12,Bolton,Oxford,4,0,H,EN,1996/1997
+E2,1997-04-12,Norwich,Stoke,2,0,H,EN,1996/1997
+E2,1997-04-12,Port Vale,Oldham,3,2,H,EN,1996/1997
+E2,1997-04-12,Portsmouth,Tranmere,1,3,A,EN,1996/1997
+E2,1997-04-12,QPR,Grimsby,3,0,H,EN,1996/1997
+E2,1997-04-12,Reading,Wolves,2,1,H,EN,1996/1997
+E2,1997-04-12,Sheffield United,Crystal Palace,3,0,H,EN,1996/1997
+E2,1997-04-12,Southend,Bradford,1,1,D,EN,1996/1997
+E2,1997-04-12,Swindon,Ipswich,0,4,A,EN,1996/1997
+E2,1997-04-12,West Brom,Man City,1,3,A,EN,1996/1997
 E2,1997-04-15,Barnsley,Oldham,2,0,H,EN,1996/1997
 E2,1997-04-15,Birmingham,Tranmere,0,0,D,EN,1996/1997
 E2,1997-04-15,Crystal Palace,Stoke,2,0,H,EN,1996/1997
@@ -506,16 +506,16 @@ E2,1997-04-26,Southend,Huddersfield,1,2,A,EN,1996/1997
 E2,1997-04-26,Swindon,Crystal Palace,0,2,A,EN,1996/1997
 E2,1997-04-26,West Brom,Grimsby,2,0,H,EN,1996/1997
 E2,1997-04-27,Port Vale,Wolves,1,2,A,EN,1996/1997
-E2,1997-01-05,Bradford,Charlton,1,0,H,EN,1996/1997
-E2,1997-03-05,Man City,Reading,3,2,H,EN,1996/1997
-E2,1997-04-05,Bradford,QPR,3,0,H,EN,1996/1997
-E2,1997-04-05,Charlton,Sheffield United,0,0,D,EN,1996/1997
-E2,1997-04-05,Crystal Palace,Port Vale,1,1,D,EN,1996/1997
-E2,1997-04-05,Grimsby,Southend,4,0,H,EN,1996/1997
-E2,1997-04-05,Huddersfield,Swindon,0,0,D,EN,1996/1997
-E2,1997-04-05,Ipswich,Birmingham,1,1,D,EN,1996/1997
-E2,1997-04-05,Oldham,Norwich,3,0,H,EN,1996/1997
-E2,1997-04-05,Oxford,Barnsley,5,1,H,EN,1996/1997
-E2,1997-04-05,Stoke,West Brom,2,1,H,EN,1996/1997
-E2,1997-04-05,Tranmere,Bolton,2,2,D,EN,1996/1997
-E2,1997-04-05,Wolves,Portsmouth,0,1,A,EN,1996/1997
+E2,1997-05-01,Bradford,Charlton,1,0,H,EN,1996/1997
+E2,1997-05-03,Man City,Reading,3,2,H,EN,1996/1997
+E2,1997-05-04,Bradford,QPR,3,0,H,EN,1996/1997
+E2,1997-05-04,Charlton,Sheffield United,0,0,D,EN,1996/1997
+E2,1997-05-04,Crystal Palace,Port Vale,1,1,D,EN,1996/1997
+E2,1997-05-04,Grimsby,Southend,4,0,H,EN,1996/1997
+E2,1997-05-04,Huddersfield,Swindon,0,0,D,EN,1996/1997
+E2,1997-05-04,Ipswich,Birmingham,1,1,D,EN,1996/1997
+E2,1997-05-04,Oldham,Norwich,3,0,H,EN,1996/1997
+E2,1997-05-04,Oxford,Barnsley,5,1,H,EN,1996/1997
+E2,1997-05-04,Stoke,West Brom,2,1,H,EN,1996/1997
+E2,1997-05-04,Tranmere,Bolton,2,2,D,EN,1996/1997
+E2,1997-05-04,Wolves,Portsmouth,0,1,A,EN,1996/1997

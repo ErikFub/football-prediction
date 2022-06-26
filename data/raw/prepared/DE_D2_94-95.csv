@@ -26,15 +26,15 @@ D2,1994-08-27,Wattenscheid,Chemnitz,2.0,2.0,D,DE,1994/1995
 D2,1994-08-27,Zwickau,Wolfsburg,1.0,3.0,A,DE,1994/1995
 D2,1994-08-29,St Pauli,Mannheim,1.0,1.0,D,DE,1994/1995
 D2,1994-08-31,F Koln,Saarbrucken,4.0,0.0,H,DE,1994/1995
-D2,1994-03-09,Chemnitz,Hannover,1.0,1.0,D,DE,1994/1995
-D2,1994-03-09,Dusseldorf,Nurnberg,1.0,1.0,D,DE,1994/1995
-D2,1994-03-09,Hansa Rostock,Zwickau,2.0,0.0,H,DE,1994/1995
-D2,1994-03-09,Homburg,F Koln,0.0,0.0,D,DE,1994/1995
-D2,1994-03-09,Leipzig,Hertha,0.0,1.0,A,DE,1994/1995
-D2,1994-03-09,Mannheim,Mainz,4.0,0.0,H,DE,1994/1995
-D2,1994-03-09,Meppen,St Pauli,3.0,2.0,H,DE,1994/1995
-D2,1994-03-09,Wolfsburg,FSV Frankfurt,4.0,1.0,H,DE,1994/1995
-D2,1994-04-09,Saarbrucken,Wattenscheid,2.0,0.0,H,DE,1994/1995
+D2,1994-09-03,Chemnitz,Hannover,1.0,1.0,D,DE,1994/1995
+D2,1994-09-03,Dusseldorf,Nurnberg,1.0,1.0,D,DE,1994/1995
+D2,1994-09-03,Hansa Rostock,Zwickau,2.0,0.0,H,DE,1994/1995
+D2,1994-09-03,Homburg,F Koln,0.0,0.0,D,DE,1994/1995
+D2,1994-09-03,Leipzig,Hertha,0.0,1.0,A,DE,1994/1995
+D2,1994-09-03,Mannheim,Mainz,4.0,0.0,H,DE,1994/1995
+D2,1994-09-03,Meppen,St Pauli,3.0,2.0,H,DE,1994/1995
+D2,1994-09-03,Wolfsburg,FSV Frankfurt,4.0,1.0,H,DE,1994/1995
+D2,1994-09-04,Saarbrucken,Wattenscheid,2.0,0.0,H,DE,1994/1995
 D2,1994-09-17,FSV Frankfurt,Hansa Rostock,1.0,1.0,D,DE,1994/1995
 D2,1994-09-17,Hannover,Saarbrucken,0.0,0.0,D,DE,1994/1995
 D2,1994-09-17,Homburg,Wolfsburg,1.0,1.0,D,DE,1994/1995
@@ -52,24 +52,24 @@ D2,1994-09-24,Meppen,Zwickau,2.0,2.0,D,DE,1994/1995
 D2,1994-09-24,Saarbrucken,Nurnberg,2.0,1.0,H,DE,1994/1995
 D2,1994-09-24,Wattenscheid,Hannover,2.0,1.0,H,DE,1994/1995
 D2,1994-09-24,Wolfsburg,F Koln,3.0,0.0,H,DE,1994/1995
-D2,1994-01-10,F Koln,Hannover,1.0,3.0,A,DE,1994/1995
-D2,1994-01-10,FSV Frankfurt,Meppen,1.0,3.0,A,DE,1994/1995
-D2,1994-01-10,Hertha,Saarbrucken,2.0,1.0,H,DE,1994/1995
-D2,1994-01-10,Homburg,Mannheim,1.0,1.0,D,DE,1994/1995
-D2,1994-01-10,Mainz,Dusseldorf,0.0,2.0,A,DE,1994/1995
-D2,1994-01-10,Nurnberg,Wattenscheid,1.0,1.0,D,DE,1994/1995
-D2,1994-01-10,St Pauli,Chemnitz,0.0,0.0,D,DE,1994/1995
-D2,1994-01-10,Wolfsburg,Hansa Rostock,0.0,1.0,A,DE,1994/1995
-D2,1994-01-10,Zwickau,Leipzig,3.0,0.0,H,DE,1994/1995
-D2,1994-04-10,Hertha,Dusseldorf,0.0,0.0,D,DE,1994/1995
-D2,1994-09-10,Chemnitz,Mainz,1.0,1.0,D,DE,1994/1995
-D2,1994-09-10,Dusseldorf,Zwickau,1.0,1.0,D,DE,1994/1995
-D2,1994-09-10,Hannover,Nurnberg,6.0,3.0,H,DE,1994/1995
-D2,1994-09-10,Leipzig,FSV Frankfurt,3.0,0.0,H,DE,1994/1995
-D2,1994-09-10,Mannheim,Wolfsburg,2.0,2.0,D,DE,1994/1995
-D2,1994-09-10,Meppen,Homburg,1.0,0.0,H,DE,1994/1995
-D2,1994-09-10,Saarbrucken,St Pauli,1.0,2.0,A,DE,1994/1995
-D2,1994-09-10,Wattenscheid,Hertha,0.0,1.0,A,DE,1994/1995
+D2,1994-10-01,F Koln,Hannover,1.0,3.0,A,DE,1994/1995
+D2,1994-10-01,FSV Frankfurt,Meppen,1.0,3.0,A,DE,1994/1995
+D2,1994-10-01,Hertha,Saarbrucken,2.0,1.0,H,DE,1994/1995
+D2,1994-10-01,Homburg,Mannheim,1.0,1.0,D,DE,1994/1995
+D2,1994-10-01,Mainz,Dusseldorf,0.0,2.0,A,DE,1994/1995
+D2,1994-10-01,Nurnberg,Wattenscheid,1.0,1.0,D,DE,1994/1995
+D2,1994-10-01,St Pauli,Chemnitz,0.0,0.0,D,DE,1994/1995
+D2,1994-10-01,Wolfsburg,Hansa Rostock,0.0,1.0,A,DE,1994/1995
+D2,1994-10-01,Zwickau,Leipzig,3.0,0.0,H,DE,1994/1995
+D2,1994-10-04,Hertha,Dusseldorf,0.0,0.0,D,DE,1994/1995
+D2,1994-10-09,Chemnitz,Mainz,1.0,1.0,D,DE,1994/1995
+D2,1994-10-09,Dusseldorf,Zwickau,1.0,1.0,D,DE,1994/1995
+D2,1994-10-09,Hannover,Nurnberg,6.0,3.0,H,DE,1994/1995
+D2,1994-10-09,Leipzig,FSV Frankfurt,3.0,0.0,H,DE,1994/1995
+D2,1994-10-09,Mannheim,Wolfsburg,2.0,2.0,D,DE,1994/1995
+D2,1994-10-09,Meppen,Homburg,1.0,0.0,H,DE,1994/1995
+D2,1994-10-09,Saarbrucken,St Pauli,1.0,2.0,A,DE,1994/1995
+D2,1994-10-09,Wattenscheid,Hertha,0.0,1.0,A,DE,1994/1995
 D2,1994-10-10,Hansa Rostock,F Koln,2.0,0.0,H,DE,1994/1995
 D2,1994-10-15,F Koln,Nurnberg,1.0,1.0,D,DE,1994/1995
 D2,1994-10-15,Hansa Rostock,Mannheim,0.0,1.0,A,DE,1994/1995
@@ -98,15 +98,15 @@ D2,1994-10-29,Zwickau,Wattenscheid,2.0,1.0,H,DE,1994/1995
 D2,1994-10-30,FSV Frankfurt,Saarbrucken,0.0,3.0,A,DE,1994/1995
 D2,1994-10-30,Hansa Rostock,Leipzig,1.0,0.0,H,DE,1994/1995
 D2,1994-10-30,Homburg,Chemnitz,5.0,1.0,H,DE,1994/1995
-D2,1994-05-11,Dusseldorf,Hansa Rostock,2.0,0.0,H,DE,1994/1995
-D2,1994-05-11,Hannover,Zwickau,1.0,1.0,D,DE,1994/1995
-D2,1994-05-11,Leipzig,Mannheim,1.0,0.0,H,DE,1994/1995
-D2,1994-05-11,Meppen,F Koln,3.0,1.0,H,DE,1994/1995
-D2,1994-05-11,Wattenscheid,FSV Frankfurt,6.0,2.0,H,DE,1994/1995
-D2,1994-06-11,Chemnitz,Wolfsburg,1.0,1.0,D,DE,1994/1995
-D2,1994-06-11,Hertha,St Pauli,1.0,1.0,D,DE,1994/1995
-D2,1994-06-11,Nurnberg,Mainz,1.0,1.0,D,DE,1994/1995
-D2,1994-06-11,Saarbrucken,Homburg,1.0,1.0,D,DE,1994/1995
+D2,1994-11-05,Dusseldorf,Hansa Rostock,2.0,0.0,H,DE,1994/1995
+D2,1994-11-05,Hannover,Zwickau,1.0,1.0,D,DE,1994/1995
+D2,1994-11-05,Leipzig,Mannheim,1.0,0.0,H,DE,1994/1995
+D2,1994-11-05,Meppen,F Koln,3.0,1.0,H,DE,1994/1995
+D2,1994-11-05,Wattenscheid,FSV Frankfurt,6.0,2.0,H,DE,1994/1995
+D2,1994-11-06,Chemnitz,Wolfsburg,1.0,1.0,D,DE,1994/1995
+D2,1994-11-06,Hertha,St Pauli,1.0,1.0,D,DE,1994/1995
+D2,1994-11-06,Nurnberg,Mainz,1.0,1.0,D,DE,1994/1995
+D2,1994-11-06,Saarbrucken,Homburg,1.0,1.0,D,DE,1994/1995
 D2,1994-11-13,F Koln,St Pauli,2.0,2.0,D,DE,1994/1995
 D2,1994-11-13,FSV Frankfurt,Hannover,1.0,1.0,D,DE,1994/1995
 D2,1994-11-13,Homburg,Wattenscheid,0.0,1.0,A,DE,1994/1995
@@ -134,24 +134,24 @@ D2,1994-11-27,Meppen,Chemnitz,3.0,0.0,H,DE,1994/1995
 D2,1994-11-27,Wolfsburg,Hannover,2.0,1.0,H,DE,1994/1995
 D2,1994-11-27,Zwickau,St Pauli,0.0,0.0,D,DE,1994/1995
 D2,1994-11-28,Dusseldorf,Leipzig,4.0,2.0,H,DE,1994/1995
-D2,1994-02-12,Hannover,Hansa Rostock,2.0,1.0,H,DE,1994/1995
-D2,1994-03-12,Hertha,Homburg,2.0,2.0,D,DE,1994/1995
-D2,1994-03-12,Mainz,Zwickau,2.0,2.0,D,DE,1994/1995
-D2,1994-03-12,Saarbrucken,Meppen,2.0,1.0,H,DE,1994/1995
-D2,1994-03-12,Wattenscheid,Mannheim,2.0,2.0,D,DE,1994/1995
-D2,1994-04-12,Chemnitz,Leipzig,2.0,0.0,H,DE,1994/1995
-D2,1994-04-12,F Koln,Dusseldorf,0.0,1.0,A,DE,1994/1995
-D2,1994-04-12,St Pauli,FSV Frankfurt,3.0,0.0,H,DE,1994/1995
-D2,1994-05-12,Nurnberg,Wolfsburg,0.0,0.0,D,DE,1994/1995
-D2,1994-09-12,Dusseldorf,Chemnitz,1.0,2.0,A,DE,1994/1995
-D2,1994-09-12,Homburg,St Pauli,1.0,4.0,A,DE,1994/1995
-D2,1994-09-12,Leipzig,Saarbrucken,2.0,0.0,H,DE,1994/1995
-D2,1994-10-12,Mannheim,Hannover,2.0,1.0,H,DE,1994/1995
-D2,1994-10-12,Wolfsburg,Hertha,1.0,0.0,H,DE,1994/1995
-D2,1994-10-12,Zwickau,F Koln,1.0,1.0,D,DE,1994/1995
-D2,1994-11-12,FSV Frankfurt,Mainz,1.0,4.0,A,DE,1994/1995
-D2,1994-11-12,Hansa Rostock,Nurnberg,5.0,0.0,H,DE,1994/1995
-D2,1994-11-12,Meppen,Wattenscheid,2.0,2.0,D,DE,1994/1995
+D2,1994-12-02,Hannover,Hansa Rostock,2.0,1.0,H,DE,1994/1995
+D2,1994-12-03,Hertha,Homburg,2.0,2.0,D,DE,1994/1995
+D2,1994-12-03,Mainz,Zwickau,2.0,2.0,D,DE,1994/1995
+D2,1994-12-03,Saarbrucken,Meppen,2.0,1.0,H,DE,1994/1995
+D2,1994-12-03,Wattenscheid,Mannheim,2.0,2.0,D,DE,1994/1995
+D2,1994-12-04,Chemnitz,Leipzig,2.0,0.0,H,DE,1994/1995
+D2,1994-12-04,F Koln,Dusseldorf,0.0,1.0,A,DE,1994/1995
+D2,1994-12-04,St Pauli,FSV Frankfurt,3.0,0.0,H,DE,1994/1995
+D2,1994-12-05,Nurnberg,Wolfsburg,0.0,0.0,D,DE,1994/1995
+D2,1994-12-09,Dusseldorf,Chemnitz,1.0,2.0,A,DE,1994/1995
+D2,1994-12-09,Homburg,St Pauli,1.0,4.0,A,DE,1994/1995
+D2,1994-12-09,Leipzig,Saarbrucken,2.0,0.0,H,DE,1994/1995
+D2,1994-12-10,Mannheim,Hannover,2.0,1.0,H,DE,1994/1995
+D2,1994-12-10,Wolfsburg,Hertha,1.0,0.0,H,DE,1994/1995
+D2,1994-12-10,Zwickau,F Koln,1.0,1.0,D,DE,1994/1995
+D2,1994-12-11,FSV Frankfurt,Mainz,1.0,4.0,A,DE,1994/1995
+D2,1994-12-11,Hansa Rostock,Nurnberg,5.0,0.0,H,DE,1994/1995
+D2,1994-12-11,Meppen,Wattenscheid,2.0,2.0,D,DE,1994/1995
 D2,1995-02-18,Chemnitz,F Koln,0.0,1.0,A,DE,1994/1995
 D2,1995-02-18,FSV Frankfurt,Zwickau,3.0,0.0,H,DE,1994/1995
 D2,1995-02-18,Hansa Rostock,Hertha,2.0,1.0,H,DE,1994/1995
@@ -171,21 +171,21 @@ D2,1995-02-26,Saarbrucken,Chemnitz,1.0,1.0,D,DE,1994/1995
 D2,1995-02-26,Zwickau,Homburg,2.0,0.0,H,DE,1994/1995
 D2,1995-03-03,Hansa Rostock,Mainz,1.0,0.0,H,DE,1994/1995
 D2,1995-03-03,Saarbrucken,F Koln,1.0,2.0,A,DE,1994/1995
-D2,1995-04-03,Leipzig,Nurnberg,0.0,0.0,D,DE,1994/1995
-D2,1995-04-03,Mannheim,St Pauli,2.0,1.0,H,DE,1994/1995
-D2,1995-04-03,Wolfsburg,Zwickau,0.0,1.0,A,DE,1994/1995
-D2,1995-05-03,Chemnitz,Wattenscheid,3.0,0.0,H,DE,1994/1995
-D2,1995-05-03,Homburg,FSV Frankfurt,4.0,1.0,H,DE,1994/1995
-D2,1995-06-03,Dusseldorf,Hannover,1.0,1.0,D,DE,1994/1995
-D2,1995-10-03,Nurnberg,Dusseldorf,4.0,1.0,H,DE,1994/1995
-D2,1995-10-03,Wattenscheid,Saarbrucken,4.0,1.0,H,DE,1994/1995
-D2,1995-11-03,FSV Frankfurt,Wolfsburg,1.0,2.0,A,DE,1994/1995
-D2,1995-11-03,Hannover,Chemnitz,1.0,4.0,A,DE,1994/1995
-D2,1995-11-03,Mainz,Mannheim,1.0,1.0,D,DE,1994/1995
-D2,1995-11-03,Zwickau,Hansa Rostock,1.0,1.0,D,DE,1994/1995
-D2,1995-12-03,F Koln,Homburg,3.0,0.0,H,DE,1994/1995
-D2,1995-12-03,Hertha,Leipzig,0.0,3.0,A,DE,1994/1995
-D2,1995-12-03,St Pauli,Meppen,2.0,1.0,H,DE,1994/1995
+D2,1995-03-04,Leipzig,Nurnberg,0.0,0.0,D,DE,1994/1995
+D2,1995-03-04,Mannheim,St Pauli,2.0,1.0,H,DE,1994/1995
+D2,1995-03-04,Wolfsburg,Zwickau,0.0,1.0,A,DE,1994/1995
+D2,1995-03-05,Chemnitz,Wattenscheid,3.0,0.0,H,DE,1994/1995
+D2,1995-03-05,Homburg,FSV Frankfurt,4.0,1.0,H,DE,1994/1995
+D2,1995-03-06,Dusseldorf,Hannover,1.0,1.0,D,DE,1994/1995
+D2,1995-03-10,Nurnberg,Dusseldorf,4.0,1.0,H,DE,1994/1995
+D2,1995-03-10,Wattenscheid,Saarbrucken,4.0,1.0,H,DE,1994/1995
+D2,1995-03-11,FSV Frankfurt,Wolfsburg,1.0,2.0,A,DE,1994/1995
+D2,1995-03-11,Hannover,Chemnitz,1.0,4.0,A,DE,1994/1995
+D2,1995-03-11,Mainz,Mannheim,1.0,1.0,D,DE,1994/1995
+D2,1995-03-11,Zwickau,Hansa Rostock,1.0,1.0,D,DE,1994/1995
+D2,1995-03-12,F Koln,Homburg,3.0,0.0,H,DE,1994/1995
+D2,1995-03-12,Hertha,Leipzig,0.0,3.0,A,DE,1994/1995
+D2,1995-03-12,St Pauli,Meppen,2.0,1.0,H,DE,1994/1995
 D2,1995-03-17,Dusseldorf,Hertha,1.0,1.0,D,DE,1994/1995
 D2,1995-03-17,Leipzig,St Pauli,2.0,0.0,H,DE,1994/1995
 D2,1995-03-18,Chemnitz,Nurnberg,0.0,1.0,A,DE,1994/1995
@@ -206,23 +206,23 @@ D2,1995-03-26,Zwickau,Meppen,0.0,1.0,A,DE,1994/1995
 D2,1995-03-27,St Pauli,Dusseldorf,2.0,1.0,H,DE,1994/1995
 D2,1995-03-31,Leipzig,Zwickau,0.0,0.0,D,DE,1994/1995
 D2,1995-03-31,Saarbrucken,Hertha,2.0,0.0,H,DE,1994/1995
-D2,1995-01-04,Dusseldorf,Mainz,1.0,0.0,H,DE,1994/1995
-D2,1995-01-04,Mannheim,Homburg,4.0,1.0,H,DE,1994/1995
-D2,1995-01-04,Wattenscheid,Nurnberg,0.0,0.0,D,DE,1994/1995
-D2,1995-02-04,Chemnitz,St Pauli,3.0,2.0,H,DE,1994/1995
-D2,1995-02-04,Hannover,F Koln,4.0,1.0,H,DE,1994/1995
-D2,1995-02-04,Meppen,FSV Frankfurt,2.0,2.0,D,DE,1994/1995
-D2,1995-03-04,Hansa Rostock,Wolfsburg,6.0,0.0,H,DE,1994/1995
-D2,1995-07-04,F Koln,Hansa Rostock,1.0,0.0,H,DE,1994/1995
-D2,1995-07-04,Hertha,Wattenscheid,3.0,1.0,H,DE,1994/1995
-D2,1995-07-04,Nurnberg,Hannover,0.0,0.0,D,DE,1994/1995
-D2,1995-08-04,FSV Frankfurt,Leipzig,1.0,1.0,D,DE,1994/1995
-D2,1995-08-04,Homburg,Meppen,0.0,0.0,D,DE,1994/1995
-D2,1995-08-04,Wolfsburg,Mannheim,0.0,0.0,D,DE,1994/1995
-D2,1995-09-04,Mainz,Chemnitz,2.0,5.0,A,DE,1994/1995
-D2,1995-09-04,St Pauli,Saarbrucken,0.0,0.0,D,DE,1994/1995
-D2,1995-09-04,Zwickau,Dusseldorf,1.0,1.0,D,DE,1994/1995
-D2,1995-10-04,Hannover,Hertha,4.0,1.0,H,DE,1994/1995
+D2,1995-04-01,Dusseldorf,Mainz,1.0,0.0,H,DE,1994/1995
+D2,1995-04-01,Mannheim,Homburg,4.0,1.0,H,DE,1994/1995
+D2,1995-04-01,Wattenscheid,Nurnberg,0.0,0.0,D,DE,1994/1995
+D2,1995-04-02,Chemnitz,St Pauli,3.0,2.0,H,DE,1994/1995
+D2,1995-04-02,Hannover,F Koln,4.0,1.0,H,DE,1994/1995
+D2,1995-04-02,Meppen,FSV Frankfurt,2.0,2.0,D,DE,1994/1995
+D2,1995-04-03,Hansa Rostock,Wolfsburg,6.0,0.0,H,DE,1994/1995
+D2,1995-04-07,F Koln,Hansa Rostock,1.0,0.0,H,DE,1994/1995
+D2,1995-04-07,Hertha,Wattenscheid,3.0,1.0,H,DE,1994/1995
+D2,1995-04-07,Nurnberg,Hannover,0.0,0.0,D,DE,1994/1995
+D2,1995-04-08,FSV Frankfurt,Leipzig,1.0,1.0,D,DE,1994/1995
+D2,1995-04-08,Homburg,Meppen,0.0,0.0,D,DE,1994/1995
+D2,1995-04-08,Wolfsburg,Mannheim,0.0,0.0,D,DE,1994/1995
+D2,1995-04-09,Mainz,Chemnitz,2.0,5.0,A,DE,1994/1995
+D2,1995-04-09,St Pauli,Saarbrucken,0.0,0.0,D,DE,1994/1995
+D2,1995-04-09,Zwickau,Dusseldorf,1.0,1.0,D,DE,1994/1995
+D2,1995-04-10,Hannover,Hertha,4.0,1.0,H,DE,1994/1995
 D2,1995-04-13,Dusseldorf,FSV Frankfurt,2.0,2.0,D,DE,1994/1995
 D2,1995-04-13,Mannheim,Hansa Rostock,0.0,2.0,A,DE,1994/1995
 D2,1995-04-15,Chemnitz,Zwickau,1.0,1.0,D,DE,1994/1995
@@ -248,20 +248,20 @@ D2,1995-04-29,Saarbrucken,FSV Frankfurt,2.0,1.0,H,DE,1994/1995
 D2,1995-04-30,Chemnitz,Homburg,3.0,0.0,H,DE,1994/1995
 D2,1995-04-30,Hertha,F Koln,6.0,2.0,H,DE,1994/1995
 D2,1995-04-30,Meppen,Mannheim,0.0,0.0,D,DE,1994/1995
-D2,1995-01-05,Nurnberg,St Pauli,1.0,1.0,D,DE,1994/1995
-D2,1995-03-05,Mainz,Wolfsburg,2.0,0.0,H,DE,1994/1995
-D2,1995-04-05,Meppen,Hertha,3.0,0.0,H,DE,1994/1995
+D2,1995-05-01,Nurnberg,St Pauli,1.0,1.0,D,DE,1994/1995
+D2,1995-05-03,Mainz,Wolfsburg,2.0,0.0,H,DE,1994/1995
+D2,1995-05-04,Meppen,Hertha,3.0,0.0,H,DE,1994/1995
 D2,1995-05-05,Hansa Rostock,Dusseldorf,3.0,3.0,D,DE,1994/1995
 D2,1995-05-05,Homburg,Saarbrucken,0.0,1.0,A,DE,1994/1995
-D2,1995-06-05,FSV Frankfurt,Wattenscheid,1.0,5.0,A,DE,1994/1995
-D2,1995-06-05,Mainz,Nurnberg,1.0,0.0,H,DE,1994/1995
-D2,1995-07-05,F Koln,Meppen,2.0,2.0,D,DE,1994/1995
-D2,1995-07-05,Wolfsburg,Chemnitz,3.0,1.0,H,DE,1994/1995
-D2,1995-07-05,Zwickau,Hannover,1.0,1.0,D,DE,1994/1995
-D2,1995-08-05,St Pauli,Hertha,1.0,1.0,D,DE,1994/1995
-D2,1995-10-05,Mannheim,Leipzig,1.0,3.0,A,DE,1994/1995
-D2,1995-12-05,Saarbrucken,Wolfsburg,0.0,0.0,D,DE,1994/1995
-D2,1995-12-05,Wattenscheid,Homburg,4.0,2.0,H,DE,1994/1995
+D2,1995-05-06,FSV Frankfurt,Wattenscheid,1.0,5.0,A,DE,1994/1995
+D2,1995-05-06,Mainz,Nurnberg,1.0,0.0,H,DE,1994/1995
+D2,1995-05-07,F Koln,Meppen,2.0,2.0,D,DE,1994/1995
+D2,1995-05-07,Wolfsburg,Chemnitz,3.0,1.0,H,DE,1994/1995
+D2,1995-05-07,Zwickau,Hannover,1.0,1.0,D,DE,1994/1995
+D2,1995-05-08,St Pauli,Hertha,1.0,1.0,D,DE,1994/1995
+D2,1995-05-10,Mannheim,Leipzig,1.0,3.0,A,DE,1994/1995
+D2,1995-05-12,Saarbrucken,Wolfsburg,0.0,0.0,D,DE,1994/1995
+D2,1995-05-12,Wattenscheid,Homburg,4.0,2.0,H,DE,1994/1995
 D2,1995-05-13,Chemnitz,Hansa Rostock,1.0,1.0,D,DE,1994/1995
 D2,1995-05-13,Hertha,Mainz,1.0,1.0,D,DE,1994/1995
 D2,1995-05-13,Leipzig,Meppen,0.0,0.0,D,DE,1994/1995
@@ -287,14 +287,14 @@ D2,1995-05-27,Saarbrucken,Mannheim,4.0,0.0,H,DE,1994/1995
 D2,1995-05-28,Leipzig,Dusseldorf,1.0,2.0,A,DE,1994/1995
 D2,1995-05-28,Wattenscheid,Hansa Rostock,0.0,4.0,A,DE,1994/1995
 D2,1995-05-29,Chemnitz,Meppen,2.0,0.0,H,DE,1994/1995
-D2,1995-11-06,Dusseldorf,F Koln,3.0,1.0,H,DE,1994/1995
-D2,1995-11-06,FSV Frankfurt,St Pauli,1.0,3.0,A,DE,1994/1995
-D2,1995-11-06,Hansa Rostock,Hannover,3.0,0.0,H,DE,1994/1995
-D2,1995-11-06,Homburg,Hertha,4.0,1.0,H,DE,1994/1995
-D2,1995-11-06,Mannheim,Wattenscheid,1.0,1.0,D,DE,1994/1995
-D2,1995-11-06,Meppen,Saarbrucken,5.0,1.0,H,DE,1994/1995
-D2,1995-11-06,Wolfsburg,Nurnberg,3.0,2.0,H,DE,1994/1995
-D2,1995-11-06,Zwickau,Mainz,2.0,1.0,H,DE,1994/1995
+D2,1995-06-11,Dusseldorf,F Koln,3.0,1.0,H,DE,1994/1995
+D2,1995-06-11,FSV Frankfurt,St Pauli,1.0,3.0,A,DE,1994/1995
+D2,1995-06-11,Hansa Rostock,Hannover,3.0,0.0,H,DE,1994/1995
+D2,1995-06-11,Homburg,Hertha,4.0,1.0,H,DE,1994/1995
+D2,1995-06-11,Mannheim,Wattenscheid,1.0,1.0,D,DE,1994/1995
+D2,1995-06-11,Meppen,Saarbrucken,5.0,1.0,H,DE,1994/1995
+D2,1995-06-11,Wolfsburg,Nurnberg,3.0,2.0,H,DE,1994/1995
+D2,1995-06-11,Zwickau,Mainz,2.0,1.0,H,DE,1994/1995
 D2,1995-06-15,Leipzig,Chemnitz,1.0,0.0,H,DE,1994/1995
 D2,1995-06-18,Chemnitz,Dusseldorf,0.0,2.0,A,DE,1994/1995
 D2,1995-06-18,F Koln,Zwickau,5.0,0.0,H,DE,1994/1995

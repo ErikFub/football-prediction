@@ -26,15 +26,15 @@ D1,1999-08-28,Stuttgart,Leverkusen,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
 D1,1999-08-28,Wolfsburg,Hansa Rostock,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
 D1,1999-08-29,Ein Frankfurt,Duisburg,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
 D1,1999-08-29,Ulm,Dortmund,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
-D1,1999-10-09,Bielefeld,Wolfsburg,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D1,1999-10-09,Hansa Rostock,Ulm,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-11-09,Dortmund,Freiburg,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D1,1999-11-09,Duisburg,Bayern Munich,1.0,2.0,A,0.0,2.0,A,DE,1999/2000
-D1,1999-11-09,Hamburg,Hertha,5.0,1.0,H,3.0,0.0,H,DE,1999/2000
-D1,1999-11-09,Leverkusen,Schalke 04,3.0,2.0,H,0.0,1.0,A,DE,1999/2000
-D1,1999-11-09,Unterhaching,Stuttgart,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-12-09,Munich 1860,Ein Frankfurt,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-12-09,Werder Bremen,Kaiserslautern,5.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,1999-09-10,Bielefeld,Wolfsburg,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D1,1999-09-10,Hansa Rostock,Ulm,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-09-11,Dortmund,Freiburg,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D1,1999-09-11,Duisburg,Bayern Munich,1.0,2.0,A,0.0,2.0,A,DE,1999/2000
+D1,1999-09-11,Hamburg,Hertha,5.0,1.0,H,3.0,0.0,H,DE,1999/2000
+D1,1999-09-11,Leverkusen,Schalke 04,3.0,2.0,H,0.0,1.0,A,DE,1999/2000
+D1,1999-09-11,Unterhaching,Stuttgart,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-09-12,Munich 1860,Ein Frankfurt,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-09-12,Werder Bremen,Kaiserslautern,5.0,0.0,H,2.0,0.0,H,DE,1999/2000
 D1,1999-09-17,Freiburg,Hansa Rostock,5.0,0.0,H,4.0,0.0,H,DE,1999/2000
 D1,1999-09-17,Munich 1860,Dortmund,0.0,3.0,A,0.0,2.0,A,DE,1999/2000
 D1,1999-09-18,Ein Frankfurt,Bayern Munich,1.0,2.0,A,1.0,0.0,H,DE,1999/2000
@@ -53,15 +53,15 @@ D1,1999-09-25,Unterhaching,Hertha,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
 D1,1999-09-25,Werder Bremen,Ulm,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
 D1,1999-09-26,Bielefeld,Freiburg,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
 D1,1999-09-26,Leverkusen,Kaiserslautern,3.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D1,1999-01-10,Ein Frankfurt,Stuttgart,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,1999-01-10,Munich 1860,Bielefeld,5.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-02-10,Dortmund,Hansa Rostock,3.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,1999-02-10,Hertha,Duisburg,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
-D1,1999-02-10,Schalke 04,Bayern Munich,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D1,1999-02-10,Ulm,Hamburg,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D1,1999-02-10,Wolfsburg,Leverkusen,3.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-03-10,Freiburg,Werder Bremen,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-03-10,Kaiserslautern,Unterhaching,4.0,2.0,H,1.0,1.0,D,DE,1999/2000
+D1,1999-10-01,Ein Frankfurt,Stuttgart,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,1999-10-01,Munich 1860,Bielefeld,5.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-10-02,Dortmund,Hansa Rostock,3.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,1999-10-02,Hertha,Duisburg,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
+D1,1999-10-02,Schalke 04,Bayern Munich,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D1,1999-10-02,Ulm,Hamburg,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D1,1999-10-02,Wolfsburg,Leverkusen,3.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-10-03,Freiburg,Werder Bremen,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-10-03,Kaiserslautern,Unterhaching,4.0,2.0,H,1.0,1.0,D,DE,1999/2000
 D1,1999-10-15,Bielefeld,Dortmund,0.0,2.0,A,0.0,0.0,D,DE,1999/2000
 D1,1999-10-15,Leverkusen,Ulm,4.0,1.0,H,3.0,0.0,H,DE,1999/2000
 D1,1999-10-16,Bayern Munich,Hertha,3.0,1.0,H,2.0,0.0,H,DE,1999/2000
@@ -89,15 +89,15 @@ D1,1999-10-30,Leverkusen,Munich 1860,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
 D1,1999-10-30,Schalke 04,Hertha,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
 D1,1999-10-31,Stuttgart,Kaiserslautern,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
 D1,1999-10-31,Unterhaching,Freiburg,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,1999-05-11,Freiburg,Duisburg,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D1,1999-05-11,Hansa Rostock,Hamburg,3.0,3.0,D,2.0,1.0,H,DE,1999/2000
-D1,1999-06-11,Dortmund,Leverkusen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D1,1999-06-11,Ein Frankfurt,Hertha,4.0,0.0,H,3.0,0.0,H,DE,1999/2000
-D1,1999-06-11,Munich 1860,Unterhaching,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-06-11,Ulm,Bayern Munich,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
-D1,1999-06-11,Wolfsburg,Stuttgart,0.0,2.0,A,0.0,1.0,A,DE,1999/2000
-D1,1999-07-11,Bielefeld,Werder Bremen,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
-D1,1999-07-11,Kaiserslautern,Schalke 04,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
+D1,1999-11-05,Freiburg,Duisburg,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,1999-11-05,Hansa Rostock,Hamburg,3.0,3.0,D,2.0,1.0,H,DE,1999/2000
+D1,1999-11-06,Dortmund,Leverkusen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D1,1999-11-06,Ein Frankfurt,Hertha,4.0,0.0,H,3.0,0.0,H,DE,1999/2000
+D1,1999-11-06,Munich 1860,Unterhaching,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-11-06,Ulm,Bayern Munich,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
+D1,1999-11-06,Wolfsburg,Stuttgart,0.0,2.0,A,0.0,1.0,A,DE,1999/2000
+D1,1999-11-07,Bielefeld,Werder Bremen,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
+D1,1999-11-07,Kaiserslautern,Schalke 04,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
 D1,1999-11-19,Werder Bremen,Ein Frankfurt,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D1,1999-11-20,Bayern Munich,Freiburg,6.0,1.0,H,3.0,1.0,H,DE,1999/2000
 D1,1999-11-20,Hertha,Kaiserslautern,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
@@ -115,22 +115,22 @@ D1,1999-11-27,Wolfsburg,Hertha,2.0,3.0,A,2.0,1.0,H,DE,1999/2000
 D1,1999-11-28,Dortmund,Duisburg,2.0,2.0,D,1.0,2.0,A,DE,1999/2000
 D1,1999-11-28,Ein Frankfurt,Kaiserslautern,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
 D1,1999-11-28,Werder Bremen,Hamburg,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
-D1,1999-01-12,Unterhaching,Dortmund,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-03-12,Duisburg,Hansa Rostock,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
-D1,1999-03-12,Hamburg,Ein Frankfurt,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,1999-04-12,Bayern Munich,Dortmund,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D1,1999-04-12,Hertha,Ulm,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-04-12,Leverkusen,Werder Bremen,3.0,2.0,H,1.0,1.0,D,DE,1999/2000
-D1,1999-04-12,Schalke 04,Freiburg,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
-D1,1999-04-12,Stuttgart,Munich 1860,1.0,3.0,A,0.0,1.0,A,DE,1999/2000
-D1,1999-05-12,Kaiserslautern,Wolfsburg,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
-D1,1999-05-12,Unterhaching,Bielefeld,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,1999-10-12,Bielefeld,Duisburg,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,1999-10-12,Werder Bremen,Unterhaching,2.0,2.0,D,2.0,0.0,H,DE,1999/2000
-D1,1999-11-12,Dortmund,Stuttgart,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D1,1999-11-12,Freiburg,Hertha,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,1999-11-12,Hansa Rostock,Bayern Munich,0.0,3.0,A,0.0,1.0,A,DE,1999/2000
-D1,1999-11-12,Munich 1860,Schalke 04,3.0,3.0,D,1.0,2.0,A,DE,1999/2000
+D1,1999-12-01,Unterhaching,Dortmund,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-12-03,Duisburg,Hansa Rostock,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
+D1,1999-12-03,Hamburg,Ein Frankfurt,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,1999-12-04,Bayern Munich,Dortmund,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D1,1999-12-04,Hertha,Ulm,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-12-04,Leverkusen,Werder Bremen,3.0,2.0,H,1.0,1.0,D,DE,1999/2000
+D1,1999-12-04,Schalke 04,Freiburg,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
+D1,1999-12-04,Stuttgart,Munich 1860,1.0,3.0,A,0.0,1.0,A,DE,1999/2000
+D1,1999-12-05,Kaiserslautern,Wolfsburg,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
+D1,1999-12-05,Unterhaching,Bielefeld,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,1999-12-10,Bielefeld,Duisburg,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,1999-12-10,Werder Bremen,Unterhaching,2.0,2.0,D,2.0,0.0,H,DE,1999/2000
+D1,1999-12-11,Dortmund,Stuttgart,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D1,1999-12-11,Freiburg,Hertha,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,1999-12-11,Hansa Rostock,Bayern Munich,0.0,3.0,A,0.0,1.0,A,DE,1999/2000
+D1,1999-12-11,Munich 1860,Schalke 04,3.0,3.0,D,1.0,2.0,A,DE,1999/2000
 D1,1999-12-12,Leverkusen,Hamburg,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
 D1,1999-12-12,Ulm,Kaiserslautern,3.0,1.0,H,3.0,0.0,H,DE,1999/2000
 D1,1999-12-12,Wolfsburg,Ein Frankfurt,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
@@ -152,31 +152,31 @@ D1,1999-12-18,Munich 1860,Kaiserslautern,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D1,1999-12-18,Ulm,Ein Frankfurt,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D1,1999-12-19,Dortmund,Hertha,4.0,0.0,H,3.0,0.0,H,DE,1999/2000
 D1,1999-12-19,Hansa Rostock,Schalke 04,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-04-02,Dortmund,Kaiserslautern,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-04-02,Hansa Rostock,Hertha,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-05-02,Bielefeld,Schalke 04,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
-D1,2000-05-02,Freiburg,Ulm,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-05-02,Leverkusen,Duisburg,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-05-02,Munich 1860,Wolfsburg,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-05-02,Werder Bremen,Stuttgart,2.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-06-02,Hamburg,Bayern Munich,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D1,2000-06-02,Unterhaching,Ein Frankfurt,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-08-02,Hertha,Bielefeld,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-08-02,Kaiserslautern,Hansa Rostock,2.0,2.0,D,0.0,1.0,A,DE,1999/2000
-D1,2000-08-02,Schalke 04,Werder Bremen,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
-D1,2000-08-02,Ulm,Munich 1860,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-09-02,Bayern Munich,Leverkusen,4.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-09-02,Duisburg,Unterhaching,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-09-02,Ein Frankfurt,Freiburg,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-09-02,Stuttgart,Hamburg,1.0,3.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-09-02,Wolfsburg,Dortmund,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-11-02,Bielefeld,Kaiserslautern,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-11-02,Werder Bremen,Hertha,4.0,1.0,H,3.0,0.0,H,DE,1999/2000
-D1,2000-12-02,Dortmund,Ulm,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D1,2000-12-02,Duisburg,Ein Frankfurt,2.0,3.0,A,1.0,2.0,A,DE,1999/2000
-D1,2000-12-02,Hansa Rostock,Wolfsburg,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D1,2000-12-02,Leverkusen,Stuttgart,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-12-02,Unterhaching,Bayern Munich,0.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-02-04,Dortmund,Kaiserslautern,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-02-04,Hansa Rostock,Hertha,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-02-05,Bielefeld,Schalke 04,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
+D1,2000-02-05,Freiburg,Ulm,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-02-05,Leverkusen,Duisburg,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-02-05,Munich 1860,Wolfsburg,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-02-05,Werder Bremen,Stuttgart,2.0,1.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-02-06,Hamburg,Bayern Munich,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D1,2000-02-06,Unterhaching,Ein Frankfurt,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-02-08,Hertha,Bielefeld,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-02-08,Kaiserslautern,Hansa Rostock,2.0,2.0,D,0.0,1.0,A,DE,1999/2000
+D1,2000-02-08,Schalke 04,Werder Bremen,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
+D1,2000-02-08,Ulm,Munich 1860,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-02-09,Bayern Munich,Leverkusen,4.0,1.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-02-09,Duisburg,Unterhaching,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-02-09,Ein Frankfurt,Freiburg,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-02-09,Stuttgart,Hamburg,1.0,3.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-02-09,Wolfsburg,Dortmund,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-02-11,Bielefeld,Kaiserslautern,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-02-11,Werder Bremen,Hertha,4.0,1.0,H,3.0,0.0,H,DE,1999/2000
+D1,2000-02-12,Dortmund,Ulm,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D1,2000-02-12,Duisburg,Ein Frankfurt,2.0,3.0,A,1.0,2.0,A,DE,1999/2000
+D1,2000-02-12,Hansa Rostock,Wolfsburg,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D1,2000-02-12,Leverkusen,Stuttgart,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-02-12,Unterhaching,Bayern Munich,0.0,2.0,A,0.0,0.0,D,DE,1999/2000
 D1,2000-02-13,Hamburg,Schalke 04,3.0,1.0,H,0.0,1.0,A,DE,1999/2000
 D1,2000-02-13,Munich 1860,Freiburg,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D1,2000-02-18,Hertha,Hamburg,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
@@ -199,22 +199,22 @@ D1,2000-02-27,Unterhaching,Schalke 04,3.0,1.0,H,0.0,1.0,A,DE,1999/2000
 D1,2000-02-28,Bielefeld,Ulm,4.0,1.0,H,3.0,1.0,H,DE,1999/2000
 D1,2000-03-03,Freiburg,Bielefeld,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
 D1,2000-03-03,Wolfsburg,Hamburg,4.0,4.0,D,1.0,3.0,A,DE,1999/2000
-D1,2000-04-03,Hertha,Unterhaching,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D1,2000-04-03,Kaiserslautern,Leverkusen,1.0,3.0,A,1.0,2.0,A,DE,1999/2000
-D1,2000-04-03,Munich 1860,Hansa Rostock,4.0,3.0,H,1.0,1.0,D,DE,1999/2000
-D1,2000-04-03,Schalke 04,Duisburg,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-04-03,Stuttgart,Bayern Munich,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-05-03,Ein Frankfurt,Dortmund,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D1,2000-05-03,Ulm,Werder Bremen,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-10-03,Stuttgart,Ein Frankfurt,0.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-10-03,Unterhaching,Kaiserslautern,1.0,2.0,A,0.0,2.0,A,DE,1999/2000
-D1,2000-11-03,Bayern Munich,Schalke 04,4.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-11-03,Bielefeld,Munich 1860,2.0,2.0,D,2.0,0.0,H,DE,1999/2000
-D1,2000-11-03,Duisburg,Hertha,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D1,2000-11-03,Hamburg,Ulm,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
-D1,2000-11-03,Leverkusen,Wolfsburg,4.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-12-03,Hansa Rostock,Dortmund,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-12-03,Werder Bremen,Freiburg,5.0,2.0,H,2.0,1.0,H,DE,1999/2000
+D1,2000-03-04,Hertha,Unterhaching,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
+D1,2000-03-04,Kaiserslautern,Leverkusen,1.0,3.0,A,1.0,2.0,A,DE,1999/2000
+D1,2000-03-04,Munich 1860,Hansa Rostock,4.0,3.0,H,1.0,1.0,D,DE,1999/2000
+D1,2000-03-04,Schalke 04,Duisburg,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-03-04,Stuttgart,Bayern Munich,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-03-05,Ein Frankfurt,Dortmund,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D1,2000-03-05,Ulm,Werder Bremen,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-03-10,Stuttgart,Ein Frankfurt,0.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-03-10,Unterhaching,Kaiserslautern,1.0,2.0,A,0.0,2.0,A,DE,1999/2000
+D1,2000-03-11,Bayern Munich,Schalke 04,4.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-03-11,Bielefeld,Munich 1860,2.0,2.0,D,2.0,0.0,H,DE,1999/2000
+D1,2000-03-11,Duisburg,Hertha,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D1,2000-03-11,Hamburg,Ulm,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
+D1,2000-03-11,Leverkusen,Wolfsburg,4.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-03-12,Hansa Rostock,Dortmund,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-03-12,Werder Bremen,Freiburg,5.0,2.0,H,2.0,1.0,H,DE,1999/2000
 D1,2000-03-17,Ein Frankfurt,Hansa Rostock,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D1,2000-03-17,Wolfsburg,Unterhaching,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
 D1,2000-03-18,Freiburg,Hamburg,0.0,2.0,A,0.0,1.0,A,DE,1999/2000
@@ -235,31 +235,31 @@ D1,2000-03-26,Schalke 04,Ein Frankfurt,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D1,2000-03-26,Werder Bremen,Dortmund,3.0,2.0,H,2.0,1.0,H,DE,1999/2000
 D1,2000-03-31,Freiburg,Unterhaching,4.0,3.0,H,1.0,1.0,D,DE,1999/2000
 D1,2000-03-31,Ulm,Duisburg,0.0,3.0,A,0.0,2.0,A,DE,1999/2000
-D1,2000-01-04,Dortmund,Hamburg,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-01-04,Ein Frankfurt,Bielefeld,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-01-04,Hertha,Schalke 04,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
-D1,2000-01-04,Munich 1860,Leverkusen,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-01-04,Wolfsburg,Bayern Munich,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D1,2000-02-04,Hansa Rostock,Werder Bremen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D1,2000-02-04,Kaiserslautern,Stuttgart,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-07-04,Hamburg,Hansa Rostock,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-07-04,Unterhaching,Munich 1860,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D1,2000-08-04,Bayern Munich,Ulm,4.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-08-04,Hertha,Ein Frankfurt,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-08-04,Leverkusen,Dortmund,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
-D1,2000-08-04,Schalke 04,Kaiserslautern,1.0,2.0,A,1.0,2.0,A,DE,1999/2000
-D1,2000-08-04,Stuttgart,Wolfsburg,2.0,5.0,A,2.0,2.0,D,DE,1999/2000
-D1,2000-09-04,Duisburg,Freiburg,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D1,2000-09-04,Werder Bremen,Bielefeld,3.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D1,2000-11-04,Dortmund,Unterhaching,1.0,3.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-11-04,Kaiserslautern,Hertha,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-11-04,Ulm,Stuttgart,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D1,2000-11-04,Wolfsburg,Schalke 04,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D1,2000-12-04,Bielefeld,Hamburg,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D1,2000-12-04,Ein Frankfurt,Werder Bremen,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D1,2000-12-04,Freiburg,Bayern Munich,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
-D1,2000-12-04,Hansa Rostock,Leverkusen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D1,2000-12-04,Munich 1860,Duisburg,4.0,1.0,H,3.0,0.0,H,DE,1999/2000
+D1,2000-04-01,Dortmund,Hamburg,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-04-01,Ein Frankfurt,Bielefeld,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-04-01,Hertha,Schalke 04,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
+D1,2000-04-01,Munich 1860,Leverkusen,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-04-01,Wolfsburg,Bayern Munich,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D1,2000-04-02,Hansa Rostock,Werder Bremen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D1,2000-04-02,Kaiserslautern,Stuttgart,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-04-07,Hamburg,Hansa Rostock,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-04-07,Unterhaching,Munich 1860,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D1,2000-04-08,Bayern Munich,Ulm,4.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-04-08,Hertha,Ein Frankfurt,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-04-08,Leverkusen,Dortmund,3.0,1.0,H,1.0,1.0,D,DE,1999/2000
+D1,2000-04-08,Schalke 04,Kaiserslautern,1.0,2.0,A,1.0,2.0,A,DE,1999/2000
+D1,2000-04-08,Stuttgart,Wolfsburg,2.0,5.0,A,2.0,2.0,D,DE,1999/2000
+D1,2000-04-09,Duisburg,Freiburg,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D1,2000-04-09,Werder Bremen,Bielefeld,3.0,1.0,H,2.0,0.0,H,DE,1999/2000
+D1,2000-04-11,Dortmund,Unterhaching,1.0,3.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-04-11,Kaiserslautern,Hertha,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-04-11,Ulm,Stuttgart,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D1,2000-04-11,Wolfsburg,Schalke 04,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D1,2000-04-12,Bielefeld,Hamburg,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D1,2000-04-12,Ein Frankfurt,Werder Bremen,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D1,2000-04-12,Freiburg,Bayern Munich,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
+D1,2000-04-12,Hansa Rostock,Leverkusen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D1,2000-04-12,Munich 1860,Duisburg,4.0,1.0,H,3.0,0.0,H,DE,1999/2000
 D1,2000-04-14,Hertha,Wolfsburg,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D1,2000-04-14,Schalke 04,Ulm,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D1,2000-04-15,Bayern Munich,Munich 1860,1.0,2.0,A,1.0,2.0,A,DE,1999/2000

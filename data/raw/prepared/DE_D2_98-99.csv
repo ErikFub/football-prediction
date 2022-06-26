@@ -3,22 +3,22 @@ D2,1998-07-30,Hannover,Karlsruhe,1,0,H,0,0,D,DE,1998/1999
 D2,1998-07-31,Cottbus,Stuttgarter K,2,0,H,1,0,H,DE,1998/1999
 D2,1998-07-31,F Koln,Dusseldorf,2,1,H,2,0,H,DE,1998/1999
 D2,1998-07-31,St Pauli,TB Berlin,1,0,H,0,0,D,DE,1998/1999
-D2,1998-02-08,Gutersloh,FC Koln,0,1,A,0,0,D,DE,1998/1999
-D2,1998-02-08,Mainz,Greuther Furth,3,0,H,1,0,H,DE,1998/1999
-D2,1998-02-08,Oberhausen,Uerdingen,0,0,D,0,0,D,DE,1998/1999
-D2,1998-02-08,Ulm,Wattenscheid,2,0,H,0,0,D,DE,1998/1999
-D2,1998-02-08,Unterhaching,Bielefeld,0,2,A,0,0,D,DE,1998/1999
-D2,1998-07-08,FC Koln,Unterhaching,0,1,A,0,1,A,DE,1998/1999
-D2,1998-07-08,Stuttgarter K,Oberhausen,2,0,H,1,0,H,DE,1998/1999
-D2,1998-07-08,Uerdingen,F Koln,1,2,A,0,1,A,DE,1998/1999
-D2,1998-09-08,Dusseldorf,Gutersloh,3,1,H,2,1,H,DE,1998/1999
-D2,1998-09-08,Greuther Furth,St Pauli,1,0,H,0,0,D,DE,1998/1999
-D2,1998-09-08,Karlsruhe,Ulm,1,2,A,0,0,D,DE,1998/1999
-D2,1998-09-08,TB Berlin,Cottbus,1,0,H,0,0,D,DE,1998/1999
-D2,1998-09-08,Wattenscheid,Mainz,1,1,D,0,1,A,DE,1998/1999
-D2,1998-10-08,Bielefeld,Hannover,0,1,A,0,1,A,DE,1998/1999
-D2,1998-11-08,F Koln,Stuttgarter K,2,1,H,0,1,A,DE,1998/1999
-D2,1998-12-08,Oberhausen,TB Berlin,0,2,A,0,0,D,DE,1998/1999
+D2,1998-08-02,Gutersloh,FC Koln,0,1,A,0,0,D,DE,1998/1999
+D2,1998-08-02,Mainz,Greuther Furth,3,0,H,1,0,H,DE,1998/1999
+D2,1998-08-02,Oberhausen,Uerdingen,0,0,D,0,0,D,DE,1998/1999
+D2,1998-08-02,Ulm,Wattenscheid,2,0,H,0,0,D,DE,1998/1999
+D2,1998-08-02,Unterhaching,Bielefeld,0,2,A,0,0,D,DE,1998/1999
+D2,1998-08-07,FC Koln,Unterhaching,0,1,A,0,1,A,DE,1998/1999
+D2,1998-08-07,Stuttgarter K,Oberhausen,2,0,H,1,0,H,DE,1998/1999
+D2,1998-08-07,Uerdingen,F Koln,1,2,A,0,1,A,DE,1998/1999
+D2,1998-08-09,Dusseldorf,Gutersloh,3,1,H,2,1,H,DE,1998/1999
+D2,1998-08-09,Greuther Furth,St Pauli,1,0,H,0,0,D,DE,1998/1999
+D2,1998-08-09,Karlsruhe,Ulm,1,2,A,0,0,D,DE,1998/1999
+D2,1998-08-09,TB Berlin,Cottbus,1,0,H,0,0,D,DE,1998/1999
+D2,1998-08-09,Wattenscheid,Mainz,1,1,D,0,1,A,DE,1998/1999
+D2,1998-08-10,Bielefeld,Hannover,0,1,A,0,1,A,DE,1998/1999
+D2,1998-08-11,F Koln,Stuttgarter K,2,1,H,0,1,A,DE,1998/1999
+D2,1998-08-12,Oberhausen,TB Berlin,0,2,A,0,0,D,DE,1998/1999
 D2,1998-08-13,Cottbus,Greuther Furth,1,1,D,1,1,D,DE,1998/1999
 D2,1998-08-13,Dusseldorf,Uerdingen,2,2,D,1,2,A,DE,1998/1999
 D2,1998-08-13,Gutersloh,Unterhaching,1,1,D,0,1,A,DE,1998/1999
@@ -43,10 +43,10 @@ D2,1998-08-23,Gutersloh,Hannover,2,1,H,1,0,H,DE,1998/1999
 D2,1998-08-23,Oberhausen,Wattenscheid,1,0,H,0,0,D,DE,1998/1999
 D2,1998-08-24,St Pauli,Bielefeld,1,2,A,0,1,A,DE,1998/1999
 D2,1998-09-09,Dusseldorf,TB Berlin,2,2,D,1,0,H,DE,1998/1999
-D2,1998-10-09,Hannover,FC Koln,6,1,H,1,1,D,DE,1998/1999
-D2,1998-11-09,Bielefeld,Cottbus,2,0,H,0,0,D,DE,1998/1999
-D2,1998-11-09,Karlsruhe,Oberhausen,3,1,H,0,1,A,DE,1998/1999
-D2,1998-11-09,Wattenscheid,F Koln,0,0,D,0,0,D,DE,1998/1999
+D2,1998-09-10,Hannover,FC Koln,6,1,H,1,1,D,DE,1998/1999
+D2,1998-09-11,Bielefeld,Cottbus,2,0,H,0,0,D,DE,1998/1999
+D2,1998-09-11,Karlsruhe,Oberhausen,3,1,H,0,1,A,DE,1998/1999
+D2,1998-09-11,Wattenscheid,F Koln,0,0,D,0,0,D,DE,1998/1999
 D2,1998-09-13,Greuther Furth,Dusseldorf,1,0,H,1,0,H,DE,1998/1999
 D2,1998-09-13,Hannover,Ulm,1,1,D,0,1,A,DE,1998/1999
 D2,1998-09-13,Stuttgarter K,Gutersloh,2,1,H,0,1,A,DE,1998/1999
@@ -70,15 +70,15 @@ D2,1998-09-27,Hannover,St Pauli,3,0,H,3,0,H,DE,1998/1999
 D2,1998-09-27,Unterhaching,Cottbus,1,0,H,0,0,D,DE,1998/1999
 D2,1998-09-27,Wattenscheid,Uerdingen,2,1,H,1,0,H,DE,1998/1999
 D2,1998-09-28,Ulm,Mainz,4,2,H,2,1,H,DE,1998/1999
-D2,1998-02-10,Dusseldorf,Bielefeld,2,2,D,2,0,H,DE,1998/1999
-D2,1998-02-10,Oberhausen,Unterhaching,0,2,A,0,1,A,DE,1998/1999
-D2,1998-02-10,St Pauli,Ulm,0,1,A,0,1,A,DE,1998/1999
-D2,1998-02-10,Uerdingen,Karlsruhe,1,3,A,1,1,D,DE,1998/1999
-D2,1998-04-10,Cottbus,Hannover,1,0,H,0,0,D,DE,1998/1999
-D2,1998-04-10,Gutersloh,Mainz,6,1,H,2,0,H,DE,1998/1999
-D2,1998-04-10,Stuttgarter K,Wattenscheid,0,2,A,0,1,A,DE,1998/1999
-D2,1998-04-10,TB Berlin,Greuther Furth,2,1,H,2,1,H,DE,1998/1999
-D2,1998-05-10,F Koln,FC Koln,4,2,H,3,0,H,DE,1998/1999
+D2,1998-10-02,Dusseldorf,Bielefeld,2,2,D,2,0,H,DE,1998/1999
+D2,1998-10-02,Oberhausen,Unterhaching,0,2,A,0,1,A,DE,1998/1999
+D2,1998-10-02,St Pauli,Ulm,0,1,A,0,1,A,DE,1998/1999
+D2,1998-10-02,Uerdingen,Karlsruhe,1,3,A,1,1,D,DE,1998/1999
+D2,1998-10-04,Cottbus,Hannover,1,0,H,0,0,D,DE,1998/1999
+D2,1998-10-04,Gutersloh,Mainz,6,1,H,2,0,H,DE,1998/1999
+D2,1998-10-04,Stuttgarter K,Wattenscheid,0,2,A,0,1,A,DE,1998/1999
+D2,1998-10-04,TB Berlin,Greuther Furth,2,1,H,2,1,H,DE,1998/1999
+D2,1998-10-05,F Koln,FC Koln,4,2,H,3,0,H,DE,1998/1999
 D2,1998-10-16,Hannover,Oberhausen,1,1,D,0,1,A,DE,1998/1999
 D2,1998-10-16,Karlsruhe,Stuttgarter K,6,0,H,2,0,H,DE,1998/1999
 D2,1998-10-16,Wattenscheid,TB Berlin,0,1,A,0,1,A,DE,1998/1999
@@ -102,19 +102,19 @@ D2,1998-10-30,FC Koln,Stuttgarter K,0,1,A,0,0,D,DE,1998/1999
 D2,1998-10-30,Mainz,Oberhausen,0,0,D,0,0,D,DE,1998/1999
 D2,1998-10-30,Wattenscheid,Gutersloh,1,1,D,1,0,H,DE,1998/1999
 D2,1998-10-31,Unterhaching,Uerdingen,2,0,H,0,0,D,DE,1998/1999
-D2,1998-01-11,Hannover,Dusseldorf,0,2,A,0,1,A,DE,1998/1999
-D2,1998-01-11,Karlsruhe,Greuther Furth,1,0,H,0,0,D,DE,1998/1999
-D2,1998-01-11,St Pauli,Cottbus,1,1,D,0,0,D,DE,1998/1999
-D2,1998-01-11,Ulm,F Koln,3,3,D,1,2,A,DE,1998/1999
-D2,1998-02-11,Bielefeld,TB Berlin,3,1,H,2,1,H,DE,1998/1999
-D2,1998-06-11,Stuttgarter K,Unterhaching,1,0,H,0,0,D,DE,1998/1999
-D2,1998-06-11,Wattenscheid,Karlsruhe,0,0,D,0,0,D,DE,1998/1999
-D2,1998-08-11,Dusseldorf,Ulm,1,3,A,0,0,D,DE,1998/1999
-D2,1998-08-11,F Koln,Mainz,2,0,H,1,0,H,DE,1998/1999
-D2,1998-08-11,Greuther Furth,Bielefeld,2,0,H,1,0,H,DE,1998/1999
-D2,1998-08-11,Gutersloh,Cottbus,1,1,D,0,0,D,DE,1998/1999
-D2,1998-08-11,Oberhausen,St Pauli,3,2,H,0,1,A,DE,1998/1999
-D2,1998-09-11,TB Berlin,FC Koln,1,1,D,1,1,D,DE,1998/1999
+D2,1998-11-01,Hannover,Dusseldorf,0,2,A,0,1,A,DE,1998/1999
+D2,1998-11-01,Karlsruhe,Greuther Furth,1,0,H,0,0,D,DE,1998/1999
+D2,1998-11-01,St Pauli,Cottbus,1,1,D,0,0,D,DE,1998/1999
+D2,1998-11-01,Ulm,F Koln,3,3,D,1,2,A,DE,1998/1999
+D2,1998-11-02,Bielefeld,TB Berlin,3,1,H,2,1,H,DE,1998/1999
+D2,1998-11-06,Stuttgarter K,Unterhaching,1,0,H,0,0,D,DE,1998/1999
+D2,1998-11-06,Wattenscheid,Karlsruhe,0,0,D,0,0,D,DE,1998/1999
+D2,1998-11-08,Dusseldorf,Ulm,1,3,A,0,0,D,DE,1998/1999
+D2,1998-11-08,F Koln,Mainz,2,0,H,1,0,H,DE,1998/1999
+D2,1998-11-08,Greuther Furth,Bielefeld,2,0,H,1,0,H,DE,1998/1999
+D2,1998-11-08,Gutersloh,Cottbus,1,1,D,0,0,D,DE,1998/1999
+D2,1998-11-08,Oberhausen,St Pauli,3,2,H,0,1,A,DE,1998/1999
+D2,1998-11-09,TB Berlin,FC Koln,1,1,D,1,1,D,DE,1998/1999
 D2,1998-11-13,Cottbus,Oberhausen,0,2,A,0,1,A,DE,1998/1999
 D2,1998-11-13,Hannover,Stuttgarter K,2,1,H,2,1,H,DE,1998/1999
 D2,1998-11-13,Mainz,Dusseldorf,0,0,D,0,0,D,DE,1998/1999
@@ -140,18 +140,18 @@ D2,1998-11-29,Oberhausen,F Koln,0,0,D,0,0,D,DE,1998/1999
 D2,1998-11-29,Ulm,TB Berlin,2,0,H,0,0,D,DE,1998/1999
 D2,1998-11-29,Unterhaching,Wattenscheid,1,0,H,0,0,D,DE,1998/1999
 D2,1998-11-30,FC Koln,Karlsruhe,4,1,H,2,0,H,DE,1998/1999
-D2,1998-01-12,St Pauli,Uerdingen,2,3,A,0,2,A,DE,1998/1999
-D2,1998-02-12,Mainz,Stuttgarter K,2,2,D,1,1,D,DE,1998/1999
-D2,1998-04-12,F Koln,Gutersloh,3,2,H,2,0,H,DE,1998/1999
-D2,1998-04-12,Karlsruhe,Unterhaching,1,0,H,0,0,D,DE,1998/1999
-D2,1998-04-12,Uerdingen,Cottbus,0,0,D,0,0,D,DE,1998/1999
-D2,1998-06-12,Dusseldorf,Oberhausen,2,2,D,1,1,D,DE,1998/1999
-D2,1998-06-12,Greuther Furth,Ulm,2,0,H,0,0,D,DE,1998/1999
-D2,1998-06-12,TB Berlin,Mainz,3,0,H,1,0,H,DE,1998/1999
-D2,1998-06-12,Wattenscheid,Hannover,0,3,A,0,3,A,DE,1998/1999
-D2,1998-07-12,Bielefeld,FC Koln,0,0,D,0,0,D,DE,1998/1999
-D2,1998-11-12,Dusseldorf,F Koln,2,2,D,1,1,D,DE,1998/1999
-D2,1998-11-12,Stuttgarter K,Cottbus,1,0,H,0,0,D,DE,1998/1999
+D2,1998-12-01,St Pauli,Uerdingen,2,3,A,0,2,A,DE,1998/1999
+D2,1998-12-02,Mainz,Stuttgarter K,2,2,D,1,1,D,DE,1998/1999
+D2,1998-12-04,F Koln,Gutersloh,3,2,H,2,0,H,DE,1998/1999
+D2,1998-12-04,Karlsruhe,Unterhaching,1,0,H,0,0,D,DE,1998/1999
+D2,1998-12-04,Uerdingen,Cottbus,0,0,D,0,0,D,DE,1998/1999
+D2,1998-12-06,Dusseldorf,Oberhausen,2,2,D,1,1,D,DE,1998/1999
+D2,1998-12-06,Greuther Furth,Ulm,2,0,H,0,0,D,DE,1998/1999
+D2,1998-12-06,TB Berlin,Mainz,3,0,H,1,0,H,DE,1998/1999
+D2,1998-12-06,Wattenscheid,Hannover,0,3,A,0,3,A,DE,1998/1999
+D2,1998-12-07,Bielefeld,FC Koln,0,0,D,0,0,D,DE,1998/1999
+D2,1998-12-11,Dusseldorf,F Koln,2,2,D,1,1,D,DE,1998/1999
+D2,1998-12-11,Stuttgarter K,Cottbus,1,0,H,0,0,D,DE,1998/1999
 D2,1998-12-13,FC Koln,Gutersloh,1,1,D,1,0,H,DE,1998/1999
 D2,1998-12-13,Greuther Furth,Mainz,3,1,H,1,1,D,DE,1998/1999
 D2,1998-12-13,Wattenscheid,Ulm,0,3,A,0,2,A,DE,1998/1999
@@ -177,20 +177,20 @@ D2,1999-02-28,Stuttgarter K,F Koln,2,2,D,0,0,D,DE,1998/1999
 D2,1999-02-28,TB Berlin,Oberhausen,2,2,D,0,1,A,DE,1998/1999
 D2,1999-02-28,Uerdingen,Dusseldorf,4,1,H,4,1,H,DE,1998/1999
 D2,1999-02-28,Unterhaching,Gutersloh,2,0,H,1,0,H,DE,1998/1999
-D2,1999-01-03,Bielefeld,Ulm,5,0,H,1,0,H,DE,1998/1999
-D2,1999-04-03,TB Berlin,St Pauli,0,2,A,0,1,A,DE,1998/1999
-D2,1999-05-03,Cottbus,Wattenscheid,2,0,H,1,0,H,DE,1998/1999
-D2,1999-05-03,Hannover,Unterhaching,0,1,A,0,0,D,DE,1998/1999
-D2,1999-05-03,Oberhausen,Greuther Furth,0,2,A,0,0,D,DE,1998/1999
-D2,1999-07-03,Dusseldorf,Stuttgarter K,0,0,D,0,0,D,DE,1998/1999
-D2,1999-07-03,F Koln,TB Berlin,1,3,A,1,1,D,DE,1998/1999
-D2,1999-07-03,Gutersloh,Uerdingen,2,0,H,0,0,D,DE,1998/1999
-D2,1999-07-03,St Pauli,Karlsruhe,1,0,H,0,0,D,DE,1998/1999
-D2,1999-07-03,Ulm,FC Koln,2,2,D,0,2,A,DE,1998/1999
-D2,1999-08-03,Mainz,Bielefeld,3,1,H,2,1,H,DE,1998/1999
-D2,1999-12-03,Bielefeld,St Pauli,0,0,D,0,0,D,DE,1998/1999
-D2,1999-12-03,Karlsruhe,Cottbus,3,2,H,1,1,D,DE,1998/1999
-D2,1999-12-03,Stuttgarter K,Uerdingen,0,1,A,0,0,D,DE,1998/1999
+D2,1999-03-01,Bielefeld,Ulm,5,0,H,1,0,H,DE,1998/1999
+D2,1999-03-04,TB Berlin,St Pauli,0,2,A,0,1,A,DE,1998/1999
+D2,1999-03-05,Cottbus,Wattenscheid,2,0,H,1,0,H,DE,1998/1999
+D2,1999-03-05,Hannover,Unterhaching,0,1,A,0,0,D,DE,1998/1999
+D2,1999-03-05,Oberhausen,Greuther Furth,0,2,A,0,0,D,DE,1998/1999
+D2,1999-03-07,Dusseldorf,Stuttgarter K,0,0,D,0,0,D,DE,1998/1999
+D2,1999-03-07,F Koln,TB Berlin,1,3,A,1,1,D,DE,1998/1999
+D2,1999-03-07,Gutersloh,Uerdingen,2,0,H,0,0,D,DE,1998/1999
+D2,1999-03-07,St Pauli,Karlsruhe,1,0,H,0,0,D,DE,1998/1999
+D2,1999-03-07,Ulm,FC Koln,2,2,D,0,2,A,DE,1998/1999
+D2,1999-03-08,Mainz,Bielefeld,3,1,H,2,1,H,DE,1998/1999
+D2,1999-03-12,Bielefeld,St Pauli,0,0,D,0,0,D,DE,1998/1999
+D2,1999-03-12,Karlsruhe,Cottbus,3,2,H,1,1,D,DE,1998/1999
+D2,1999-03-12,Stuttgarter K,Uerdingen,0,1,A,0,0,D,DE,1998/1999
 D2,1999-03-14,FC Koln,Mainz,2,1,H,1,0,H,DE,1998/1999
 D2,1999-03-14,Greuther Furth,F Koln,4,0,H,1,0,H,DE,1998/1999
 D2,1999-03-14,Hannover,Gutersloh,4,1,H,2,1,H,DE,1998/1999
@@ -206,24 +206,24 @@ D2,1999-03-21,Gutersloh,Stuttgarter K,1,0,H,0,0,D,DE,1998/1999
 D2,1999-03-21,Mainz,Unterhaching,1,0,H,0,0,D,DE,1998/1999
 D2,1999-03-21,Oberhausen,Karlsruhe,2,0,H,2,0,H,DE,1998/1999
 D2,1999-03-22,St Pauli,FC Koln,0,0,D,0,0,D,DE,1998/1999
-D2,1999-01-04,Bielefeld,Oberhausen,2,0,H,1,0,H,DE,1998/1999
-D2,1999-01-04,TB Berlin,Stuttgarter K,0,2,A,0,1,A,DE,1998/1999
-D2,1999-01-04,Unterhaching,St Pauli,2,1,H,1,0,H,DE,1998/1999
+D2,1999-04-01,Bielefeld,Oberhausen,2,0,H,1,0,H,DE,1998/1999
+D2,1999-04-01,TB Berlin,Stuttgarter K,0,2,A,0,1,A,DE,1998/1999
+D2,1999-04-01,Unterhaching,St Pauli,2,1,H,1,0,H,DE,1998/1999
 D2,1999-04-04,FC Koln,Cottbus,2,2,D,1,1,D,DE,1998/1999
 D2,1999-04-04,Greuther Furth,Uerdingen,0,0,D,0,0,D,DE,1998/1999
 D2,1999-04-04,Hannover,Mainz,3,2,H,2,1,H,DE,1998/1999
 D2,1999-04-04,Ulm,Gutersloh,1,1,D,1,0,H,DE,1998/1999
 D2,1999-04-04,Wattenscheid,Dusseldorf,2,0,H,1,0,H,DE,1998/1999
-D2,1999-05-04,Karlsruhe,F Koln,4,2,H,1,0,H,DE,1998/1999
-D2,1999-09-04,Oberhausen,FC Koln,0,4,A,0,2,A,DE,1998/1999
-D2,1999-09-04,Stuttgarter K,Greuther Furth,2,2,D,0,1,A,DE,1998/1999
-D2,1999-09-04,Uerdingen,Wattenscheid,0,0,D,0,0,D,DE,1998/1999
-D2,1999-11-04,Cottbus,Unterhaching,4,2,H,1,1,D,DE,1998/1999
-D2,1999-11-04,F Koln,Bielefeld,1,1,D,1,1,D,DE,1998/1999
-D2,1999-11-04,Gutersloh,TB Berlin,1,0,H,0,0,D,DE,1998/1999
-D2,1999-11-04,Mainz,Ulm,1,1,D,1,0,H,DE,1998/1999
-D2,1999-12-04,Dusseldorf,Karlsruhe,0,1,A,0,0,D,DE,1998/1999
-D2,1999-12-04,St Pauli,Hannover,0,2,A,0,1,A,DE,1998/1999
+D2,1999-04-05,Karlsruhe,F Koln,4,2,H,1,0,H,DE,1998/1999
+D2,1999-04-09,Oberhausen,FC Koln,0,4,A,0,2,A,DE,1998/1999
+D2,1999-04-09,Stuttgarter K,Greuther Furth,2,2,D,0,1,A,DE,1998/1999
+D2,1999-04-09,Uerdingen,Wattenscheid,0,0,D,0,0,D,DE,1998/1999
+D2,1999-04-11,Cottbus,Unterhaching,4,2,H,1,1,D,DE,1998/1999
+D2,1999-04-11,F Koln,Bielefeld,1,1,D,1,1,D,DE,1998/1999
+D2,1999-04-11,Gutersloh,TB Berlin,1,0,H,0,0,D,DE,1998/1999
+D2,1999-04-11,Mainz,Ulm,1,1,D,1,0,H,DE,1998/1999
+D2,1999-04-12,Dusseldorf,Karlsruhe,0,1,A,0,0,D,DE,1998/1999
+D2,1999-04-12,St Pauli,Hannover,0,2,A,0,1,A,DE,1998/1999
 D2,1999-04-16,Bielefeld,Dusseldorf,2,0,H,2,0,H,DE,1998/1999
 D2,1999-04-16,Hannover,Cottbus,2,0,H,1,0,H,DE,1998/1999
 D2,1999-04-16,Ulm,St Pauli,4,1,H,2,1,H,DE,1998/1999
@@ -245,22 +245,22 @@ D2,1999-04-26,Gutersloh,Greuther Furth,1,0,H,0,0,D,DE,1998/1999
 D2,1999-04-30,FC Koln,Uerdingen,4,0,H,0,0,D,DE,1998/1999
 D2,1999-04-30,St Pauli,Gutersloh,1,0,H,1,0,H,DE,1998/1999
 D2,1999-04-30,Ulm,Oberhausen,1,0,H,1,0,H,DE,1998/1999
-D2,1999-02-05,Bielefeld,Stuttgarter K,1,2,A,1,0,H,DE,1998/1999
-D2,1999-02-05,Hannover,F Koln,3,3,D,2,1,H,DE,1998/1999
-D2,1999-02-05,Mainz,Cottbus,0,0,D,0,0,D,DE,1998/1999
-D2,1999-02-05,Unterhaching,Dusseldorf,1,0,H,0,0,D,DE,1998/1999
-D2,1999-02-05,Wattenscheid,Greuther Furth,1,1,D,0,0,D,DE,1998/1999
-D2,1999-03-05,Karlsruhe,TB Berlin,0,0,D,0,0,D,DE,1998/1999
-D2,1999-07-05,Dusseldorf,Hannover,1,1,D,0,0,D,DE,1998/1999
-D2,1999-07-05,F Koln,Ulm,2,2,D,0,1,A,DE,1998/1999
-D2,1999-07-05,Stuttgarter K,FC Koln,2,0,H,1,0,H,DE,1998/1999
-D2,1999-09-05,Cottbus,St Pauli,0,3,A,0,3,A,DE,1998/1999
-D2,1999-09-05,Greuther Furth,Karlsruhe,1,2,A,0,1,A,DE,1998/1999
-D2,1999-09-05,Gutersloh,Wattenscheid,2,1,H,1,1,D,DE,1998/1999
-D2,1999-09-05,Oberhausen,Mainz,2,1,H,1,1,D,DE,1998/1999
-D2,1999-09-05,Uerdingen,Unterhaching,3,0,H,1,0,H,DE,1998/1999
-D2,1999-10-05,TB Berlin,Bielefeld,1,1,D,1,1,D,DE,1998/1999
-D2,1999-12-05,Hannover,Uerdingen,3,1,H,2,1,H,DE,1998/1999
+D2,1999-05-02,Bielefeld,Stuttgarter K,1,2,A,1,0,H,DE,1998/1999
+D2,1999-05-02,Hannover,F Koln,3,3,D,2,1,H,DE,1998/1999
+D2,1999-05-02,Mainz,Cottbus,0,0,D,0,0,D,DE,1998/1999
+D2,1999-05-02,Unterhaching,Dusseldorf,1,0,H,0,0,D,DE,1998/1999
+D2,1999-05-02,Wattenscheid,Greuther Furth,1,1,D,0,0,D,DE,1998/1999
+D2,1999-05-03,Karlsruhe,TB Berlin,0,0,D,0,0,D,DE,1998/1999
+D2,1999-05-07,Dusseldorf,Hannover,1,1,D,0,0,D,DE,1998/1999
+D2,1999-05-07,F Koln,Ulm,2,2,D,0,1,A,DE,1998/1999
+D2,1999-05-07,Stuttgarter K,FC Koln,2,0,H,1,0,H,DE,1998/1999
+D2,1999-05-09,Cottbus,St Pauli,0,3,A,0,3,A,DE,1998/1999
+D2,1999-05-09,Greuther Furth,Karlsruhe,1,2,A,0,1,A,DE,1998/1999
+D2,1999-05-09,Gutersloh,Wattenscheid,2,1,H,1,1,D,DE,1998/1999
+D2,1999-05-09,Oberhausen,Mainz,2,1,H,1,1,D,DE,1998/1999
+D2,1999-05-09,Uerdingen,Unterhaching,3,0,H,1,0,H,DE,1998/1999
+D2,1999-05-10,TB Berlin,Bielefeld,1,1,D,1,1,D,DE,1998/1999
+D2,1999-05-12,Hannover,Uerdingen,3,1,H,2,1,H,DE,1998/1999
 D2,1999-05-14,St Pauli,Oberhausen,1,1,D,1,0,H,DE,1998/1999
 D2,1999-05-14,Ulm,Dusseldorf,4,2,H,1,1,D,DE,1998/1999
 D2,1999-05-14,Unterhaching,Stuttgarter K,2,0,H,1,0,H,DE,1998/1999

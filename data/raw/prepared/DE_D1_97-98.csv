@@ -1,31 +1,31 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Country,Season
-D1,1997-01-08,Schalke 04,Leverkusen,2,1,H,0,1,A,DE,1997/1998
-D1,1997-01-08,Stuttgart,Munich 1860,1,1,D,1,0,H,DE,1997/1998
-D1,1997-02-08,Bayern Munich,Kaiserslautern,0,1,A,0,0,D,DE,1997/1998
-D1,1997-02-08,Bochum,Bielefeld,1,0,H,0,0,D,DE,1997/1998
-D1,1997-02-08,FC Koln,Duisburg,3,2,H,1,1,D,DE,1997/1998
-D1,1997-02-08,Hansa Rostock,Wolfsburg,0,1,A,0,0,D,DE,1997/1998
-D1,1997-02-08,Karlsruhe,Werder Bremen,3,1,H,1,0,H,DE,1997/1998
-D1,1997-03-08,Hamburg,M'gladbach,2,2,D,0,1,A,DE,1997/1998
-D1,1997-03-08,Hertha,Dortmund,1,1,D,1,1,D,DE,1997/1998
-D1,1997-05-08,Bielefeld,Stuttgart,2,1,H,0,1,A,DE,1997/1998
-D1,1997-05-08,Duisburg,Schalke 04,1,0,H,0,0,D,DE,1997/1998
-D1,1997-05-08,Leverkusen,Bochum,3,2,H,0,1,A,DE,1997/1998
-D1,1997-05-08,Munich 1860,Karlsruhe,2,2,D,1,1,D,DE,1997/1998
-D1,1997-05-08,Werder Bremen,Hansa Rostock,1,1,D,1,0,H,DE,1997/1998
-D1,1997-06-08,Dortmund,FC Koln,3,0,H,2,0,H,DE,1997/1998
-D1,1997-06-08,Kaiserslautern,Hertha,1,0,H,0,0,D,DE,1997/1998
-D1,1997-06-08,M'gladbach,Bayern Munich,1,1,D,1,0,H,DE,1997/1998
-D1,1997-06-08,Wolfsburg,Hamburg,1,1,D,1,1,D,DE,1997/1998
+D1,1997-08-01,Schalke 04,Leverkusen,2,1,H,0,1,A,DE,1997/1998
+D1,1997-08-01,Stuttgart,Munich 1860,1,1,D,1,0,H,DE,1997/1998
+D1,1997-08-02,Bayern Munich,Kaiserslautern,0,1,A,0,0,D,DE,1997/1998
+D1,1997-08-02,Bochum,Bielefeld,1,0,H,0,0,D,DE,1997/1998
+D1,1997-08-02,FC Koln,Duisburg,3,2,H,1,1,D,DE,1997/1998
+D1,1997-08-02,Hansa Rostock,Wolfsburg,0,1,A,0,0,D,DE,1997/1998
+D1,1997-08-02,Karlsruhe,Werder Bremen,3,1,H,1,0,H,DE,1997/1998
+D1,1997-08-03,Hamburg,M'gladbach,2,2,D,0,1,A,DE,1997/1998
+D1,1997-08-03,Hertha,Dortmund,1,1,D,1,1,D,DE,1997/1998
+D1,1997-08-05,Bielefeld,Stuttgart,2,1,H,0,1,A,DE,1997/1998
+D1,1997-08-05,Duisburg,Schalke 04,1,0,H,0,0,D,DE,1997/1998
+D1,1997-08-05,Leverkusen,Bochum,3,2,H,0,1,A,DE,1997/1998
+D1,1997-08-05,Munich 1860,Karlsruhe,2,2,D,1,1,D,DE,1997/1998
+D1,1997-08-05,Werder Bremen,Hansa Rostock,1,1,D,1,0,H,DE,1997/1998
+D1,1997-08-06,Dortmund,FC Koln,3,0,H,2,0,H,DE,1997/1998
+D1,1997-08-06,Kaiserslautern,Hertha,1,0,H,0,0,D,DE,1997/1998
+D1,1997-08-06,M'gladbach,Bayern Munich,1,1,D,1,0,H,DE,1997/1998
+D1,1997-08-06,Wolfsburg,Hamburg,1,1,D,1,1,D,DE,1997/1998
 D1,1997-08-08,Bochum,Duisburg,0,0,D,0,0,D,DE,1997/1998
 D1,1997-08-08,Stuttgart,Leverkusen,1,0,H,1,0,H,DE,1997/1998
-D1,1997-09-08,Bayern Munich,Wolfsburg,5,2,H,3,1,H,DE,1997/1998
-D1,1997-09-08,FC Koln,Kaiserslautern,0,0,D,0,0,D,DE,1997/1998
-D1,1997-09-08,Hansa Rostock,Hamburg,2,1,H,2,0,H,DE,1997/1998
-D1,1997-09-08,Karlsruhe,Bielefeld,3,1,H,1,0,H,DE,1997/1998
-D1,1997-09-08,Schalke 04,Dortmund,1,0,H,0,0,D,DE,1997/1998
-D1,1997-09-08,Werder Bremen,Munich 1860,3,3,D,2,1,H,DE,1997/1998
-D1,1997-10-08,Hertha,M'gladbach,2,2,D,1,0,H,DE,1997/1998
+D1,1997-08-09,Bayern Munich,Wolfsburg,5,2,H,3,1,H,DE,1997/1998
+D1,1997-08-09,FC Koln,Kaiserslautern,0,0,D,0,0,D,DE,1997/1998
+D1,1997-08-09,Hansa Rostock,Hamburg,2,1,H,2,0,H,DE,1997/1998
+D1,1997-08-09,Karlsruhe,Bielefeld,3,1,H,1,0,H,DE,1997/1998
+D1,1997-08-09,Schalke 04,Dortmund,1,0,H,0,0,D,DE,1997/1998
+D1,1997-08-09,Werder Bremen,Munich 1860,3,3,D,2,1,H,DE,1997/1998
+D1,1997-08-10,Hertha,M'gladbach,2,2,D,1,0,H,DE,1997/1998
 D1,1997-08-22,Munich 1860,Hansa Rostock,0,1,A,0,0,D,DE,1997/1998
 D1,1997-08-22,Wolfsburg,Hertha,2,1,H,1,0,H,DE,1997/1998
 D1,1997-08-23,Bielefeld,Werder Bremen,3,0,H,1,0,H,DE,1997/1998
@@ -43,9 +43,9 @@ D1,1997-08-30,Schalke 04,M'gladbach,2,0,H,1,0,H,DE,1997/1998
 D1,1997-08-30,Stuttgart,Dortmund,0,0,D,0,0,D,DE,1997/1998
 D1,1997-08-30,Werder Bremen,Leverkusen,2,1,H,1,0,H,DE,1997/1998
 D1,1997-08-31,Karlsruhe,Duisburg,1,2,A,0,0,D,DE,1997/1998
-D1,1997-01-09,Munich 1860,Bielefeld,1,0,H,0,0,D,DE,1997/1998
-D1,1997-12-09,Bielefeld,Hansa Rostock,0,1,A,0,1,A,DE,1997/1998
-D1,1997-12-09,Hamburg,FC Koln,2,1,H,2,0,H,DE,1997/1998
+D1,1997-09-01,Munich 1860,Bielefeld,1,0,H,0,0,D,DE,1997/1998
+D1,1997-09-12,Bielefeld,Hansa Rostock,0,1,A,0,1,A,DE,1997/1998
+D1,1997-09-12,Hamburg,FC Koln,2,1,H,2,0,H,DE,1997/1998
 D1,1997-09-13,Bayern Munich,Hertha,3,0,H,1,0,H,DE,1997/1998
 D1,1997-09-13,Dortmund,Karlsruhe,2,2,D,0,1,A,DE,1997/1998
 D1,1997-09-13,Duisburg,Werder Bremen,2,1,H,2,1,H,DE,1997/1998
@@ -71,15 +71,15 @@ D1,1997-09-27,Leverkusen,Hansa Rostock,1,1,D,0,1,A,DE,1997/1998
 D1,1997-09-27,M'gladbach,Karlsruhe,1,1,D,0,0,D,DE,1997/1998
 D1,1997-09-27,Wolfsburg,Stuttgart,1,0,H,0,0,D,DE,1997/1998
 D1,1997-09-28,Hertha,FC Koln,1,0,H,1,0,H,DE,1997/1998
-D1,1997-03-10,Munich 1860,Kaiserslautern,1,3,A,1,2,A,DE,1997/1998
-D1,1997-03-10,Werder Bremen,M'gladbach,1,0,H,0,0,D,DE,1997/1998
-D1,1997-04-10,Bielefeld,Dortmund,3,1,H,0,0,D,DE,1997/1998
-D1,1997-04-10,Bochum,Bayern Munich,2,3,A,1,2,A,DE,1997/1998
-D1,1997-04-10,Hansa Rostock,FC Koln,1,2,A,0,1,A,DE,1997/1998
-D1,1997-04-10,Karlsruhe,Wolfsburg,2,1,H,2,0,H,DE,1997/1998
-D1,1997-04-10,Leverkusen,Duisburg,2,1,H,2,1,H,DE,1997/1998
-D1,1997-04-10,Schalke 04,Hertha,1,0,H,0,0,D,DE,1997/1998
-D1,1997-05-10,Stuttgart,Hamburg,5,2,H,1,1,D,DE,1997/1998
+D1,1997-10-03,Munich 1860,Kaiserslautern,1,3,A,1,2,A,DE,1997/1998
+D1,1997-10-03,Werder Bremen,M'gladbach,1,0,H,0,0,D,DE,1997/1998
+D1,1997-10-04,Bielefeld,Dortmund,3,1,H,0,0,D,DE,1997/1998
+D1,1997-10-04,Bochum,Bayern Munich,2,3,A,1,2,A,DE,1997/1998
+D1,1997-10-04,Hansa Rostock,FC Koln,1,2,A,0,1,A,DE,1997/1998
+D1,1997-10-04,Karlsruhe,Wolfsburg,2,1,H,2,0,H,DE,1997/1998
+D1,1997-10-04,Leverkusen,Duisburg,2,1,H,2,1,H,DE,1997/1998
+D1,1997-10-04,Schalke 04,Hertha,1,0,H,0,0,D,DE,1997/1998
+D1,1997-10-05,Stuttgart,Hamburg,5,2,H,1,1,D,DE,1997/1998
 D1,1997-10-14,Dortmund,Leverkusen,0,1,A,0,0,D,DE,1997/1998
 D1,1997-10-14,FC Koln,Schalke 04,0,2,A,0,1,A,DE,1997/1998
 D1,1997-10-14,Hamburg,Karlsruhe,3,1,H,1,1,D,DE,1997/1998
@@ -110,21 +110,21 @@ D1,1997-10-26,FC Koln,Stuttgart,4,2,H,3,1,H,DE,1997/1998
 D1,1997-10-31,Dortmund,Kaiserslautern,2,2,D,2,1,H,DE,1997/1998
 D1,1997-10-31,Duisburg,M'gladbach,4,5,A,2,2,D,DE,1997/1998
 D1,1997-10-31,Leverkusen,Wolfsburg,2,1,H,1,0,H,DE,1997/1998
-D1,1997-01-11,Hansa Rostock,Bochum,2,2,D,1,0,H,DE,1997/1998
-D1,1997-01-11,Karlsruhe,FC Koln,3,1,H,0,1,A,DE,1997/1998
-D1,1997-01-11,Munich 1860,Bayern Munich,2,2,D,1,1,D,DE,1997/1998
-D1,1997-01-11,Stuttgart,Schalke 04,0,0,D,0,0,D,DE,1997/1998
-D1,1997-01-11,Werder Bremen,Hertha,0,2,A,0,1,A,DE,1997/1998
-D1,1997-02-11,Bielefeld,Hamburg,0,3,A,0,1,A,DE,1997/1998
-D1,1997-07-11,Kaiserslautern,Hansa Rostock,4,3,H,2,2,D,DE,1997/1998
-D1,1997-07-11,Wolfsburg,Duisburg,0,2,A,0,2,A,DE,1997/1998
-D1,1997-08-11,Bayern Munich,Bielefeld,1,0,H,1,0,H,DE,1997/1998
-D1,1997-08-11,FC Koln,Werder Bremen,2,0,H,0,0,D,DE,1997/1998
-D1,1997-08-11,Hamburg,Leverkusen,0,1,A,0,0,D,DE,1997/1998
-D1,1997-08-11,Hertha,Munich 1860,2,0,H,2,0,H,DE,1997/1998
-D1,1997-08-11,M'gladbach,Dortmund,1,1,D,1,1,D,DE,1997/1998
-D1,1997-08-11,Schalke 04,Karlsruhe,2,0,H,0,0,D,DE,1997/1998
-D1,1997-09-11,Bochum,Stuttgart,0,2,A,0,0,D,DE,1997/1998
+D1,1997-11-01,Hansa Rostock,Bochum,2,2,D,1,0,H,DE,1997/1998
+D1,1997-11-01,Karlsruhe,FC Koln,3,1,H,0,1,A,DE,1997/1998
+D1,1997-11-01,Munich 1860,Bayern Munich,2,2,D,1,1,D,DE,1997/1998
+D1,1997-11-01,Stuttgart,Schalke 04,0,0,D,0,0,D,DE,1997/1998
+D1,1997-11-01,Werder Bremen,Hertha,0,2,A,0,1,A,DE,1997/1998
+D1,1997-11-02,Bielefeld,Hamburg,0,3,A,0,1,A,DE,1997/1998
+D1,1997-11-07,Kaiserslautern,Hansa Rostock,4,3,H,2,2,D,DE,1997/1998
+D1,1997-11-07,Wolfsburg,Duisburg,0,2,A,0,2,A,DE,1997/1998
+D1,1997-11-08,Bayern Munich,Bielefeld,1,0,H,1,0,H,DE,1997/1998
+D1,1997-11-08,FC Koln,Werder Bremen,2,0,H,0,0,D,DE,1997/1998
+D1,1997-11-08,Hamburg,Leverkusen,0,1,A,0,0,D,DE,1997/1998
+D1,1997-11-08,Hertha,Munich 1860,2,0,H,2,0,H,DE,1997/1998
+D1,1997-11-08,M'gladbach,Dortmund,1,1,D,1,1,D,DE,1997/1998
+D1,1997-11-08,Schalke 04,Karlsruhe,2,0,H,0,0,D,DE,1997/1998
+D1,1997-11-09,Bochum,Stuttgart,0,2,A,0,0,D,DE,1997/1998
 D1,1997-11-11,Dortmund,Bayern Munich,0,2,A,0,2,A,DE,1997/1998
 D1,1997-11-11,Leverkusen,FC Koln,4,0,H,2,0,H,DE,1997/1998
 D1,1997-11-18,Dortmund,Wolfsburg,2,1,H,1,0,H,DE,1997/1998
@@ -152,14 +152,14 @@ D1,1997-11-29,M'gladbach,Wolfsburg,0,2,A,0,2,A,DE,1997/1998
 D1,1997-11-29,Munich 1860,Bochum,0,2,A,0,2,A,DE,1997/1998
 D1,1997-11-29,Werder Bremen,Stuttgart,2,2,D,0,0,D,DE,1997/1998
 D1,1997-11-30,Leverkusen,Bayern Munich,4,2,H,1,2,A,DE,1997/1998
-D1,1997-05-12,Kaiserslautern,Bayern Munich,2,0,H,1,0,H,DE,1997/1998
-D1,1997-06-12,Bielefeld,Bochum,0,2,A,0,0,D,DE,1997/1998
-D1,1997-06-12,Duisburg,FC Koln,2,2,D,1,1,D,DE,1997/1998
-D1,1997-06-12,Leverkusen,Schalke 04,0,0,D,0,0,D,DE,1997/1998
-D1,1997-06-12,M'gladbach,Hamburg,1,1,D,1,0,H,DE,1997/1998
-D1,1997-06-12,Munich 1860,Stuttgart,1,3,A,1,0,H,DE,1997/1998
-D1,1997-06-12,Werder Bremen,Karlsruhe,2,4,A,2,1,H,DE,1997/1998
-D1,1997-07-12,Wolfsburg,Hansa Rostock,1,1,D,0,0,D,DE,1997/1998
+D1,1997-12-05,Kaiserslautern,Bayern Munich,2,0,H,1,0,H,DE,1997/1998
+D1,1997-12-06,Bielefeld,Bochum,0,2,A,0,0,D,DE,1997/1998
+D1,1997-12-06,Duisburg,FC Koln,2,2,D,1,1,D,DE,1997/1998
+D1,1997-12-06,Leverkusen,Schalke 04,0,0,D,0,0,D,DE,1997/1998
+D1,1997-12-06,M'gladbach,Hamburg,1,1,D,1,0,H,DE,1997/1998
+D1,1997-12-06,Munich 1860,Stuttgart,1,3,A,1,0,H,DE,1997/1998
+D1,1997-12-06,Werder Bremen,Karlsruhe,2,4,A,2,1,H,DE,1997/1998
+D1,1997-12-07,Wolfsburg,Hansa Rostock,1,1,D,0,0,D,DE,1997/1998
 D1,1997-12-12,Hansa Rostock,Werder Bremen,1,2,A,1,1,D,DE,1997/1998
 D1,1997-12-12,Hertha,Kaiserslautern,2,0,H,1,0,H,DE,1997/1998
 D1,1997-12-13,Bayern Munich,M'gladbach,3,2,H,1,0,H,DE,1997/1998
@@ -187,16 +187,16 @@ D1,1998-01-31,Hansa Rostock,Munich 1860,3,0,H,0,0,D,DE,1997/1998
 D1,1998-01-31,Hertha,Wolfsburg,1,0,H,1,0,H,DE,1997/1998
 D1,1998-01-31,Schalke 04,Kaiserslautern,1,1,D,0,1,A,DE,1997/1998
 D1,1998-01-31,Werder Bremen,Bielefeld,2,1,H,1,1,D,DE,1997/1998
-D1,1998-01-02,Karlsruhe,Leverkusen,1,1,D,1,1,D,DE,1997/1998
-D1,1998-06-02,Duisburg,Karlsruhe,1,0,H,0,0,D,DE,1997/1998
-D1,1998-06-02,Kaiserslautern,Bochum,3,0,H,2,0,H,DE,1997/1998
-D1,1998-07-02,Bayern Munich,Hansa Rostock,2,0,H,2,0,H,DE,1997/1998
-D1,1998-07-02,Bielefeld,Munich 1860,1,1,D,0,0,D,DE,1997/1998
-D1,1998-07-02,Dortmund,Stuttgart,3,1,H,3,0,H,DE,1997/1998
-D1,1998-07-02,Hamburg,Hertha,1,1,D,1,1,D,DE,1997/1998
-D1,1998-07-02,Leverkusen,Werder Bremen,4,1,H,1,1,D,DE,1997/1998
-D1,1998-07-02,M'gladbach,Schalke 04,0,1,A,0,1,A,DE,1997/1998
-D1,1998-08-02,Wolfsburg,FC Koln,1,1,D,0,0,D,DE,1997/1998
+D1,1998-02-01,Karlsruhe,Leverkusen,1,1,D,1,1,D,DE,1997/1998
+D1,1998-02-06,Duisburg,Karlsruhe,1,0,H,0,0,D,DE,1997/1998
+D1,1998-02-06,Kaiserslautern,Bochum,3,0,H,2,0,H,DE,1997/1998
+D1,1998-02-07,Bayern Munich,Hansa Rostock,2,0,H,2,0,H,DE,1997/1998
+D1,1998-02-07,Bielefeld,Munich 1860,1,1,D,0,0,D,DE,1997/1998
+D1,1998-02-07,Dortmund,Stuttgart,3,1,H,3,0,H,DE,1997/1998
+D1,1998-02-07,Hamburg,Hertha,1,1,D,1,1,D,DE,1997/1998
+D1,1998-02-07,Leverkusen,Werder Bremen,4,1,H,1,1,D,DE,1997/1998
+D1,1998-02-07,M'gladbach,Schalke 04,0,1,A,0,1,A,DE,1997/1998
+D1,1998-02-08,Wolfsburg,FC Koln,1,1,D,0,0,D,DE,1997/1998
 D1,1998-02-13,FC Koln,Hamburg,1,2,A,0,0,D,DE,1997/1998
 D1,1998-02-13,Karlsruhe,Dortmund,0,1,A,0,1,A,DE,1997/1998
 D1,1998-02-13,Werder Bremen,Duisburg,2,2,D,1,0,H,DE,1997/1998
@@ -214,16 +214,16 @@ D1,1998-02-28,Hamburg,Schalke 04,1,1,D,0,1,A,DE,1997/1998
 D1,1998-02-28,Leverkusen,Bielefeld,0,0,D,0,0,D,DE,1997/1998
 D1,1998-02-28,M'gladbach,Stuttgart,0,0,D,0,0,D,DE,1997/1998
 D1,1998-02-28,Wolfsburg,Bochum,0,2,A,0,1,A,DE,1997/1998
-D1,1998-01-03,Hertha,Hansa Rostock,1,1,D,0,0,D,DE,1997/1998
-D1,1998-06-03,Bochum,Hamburg,0,0,D,0,0,D,DE,1997/1998
-D1,1998-06-03,Werder Bremen,Kaiserslautern,1,1,D,1,1,D,DE,1997/1998
-D1,1998-07-03,Bielefeld,Duisburg,3,3,D,1,0,H,DE,1997/1998
-D1,1998-07-03,FC Koln,Hertha,2,0,H,1,0,H,DE,1997/1998
-D1,1998-07-03,Hansa Rostock,Leverkusen,1,2,A,0,2,A,DE,1997/1998
-D1,1998-07-03,Karlsruhe,M'gladbach,2,5,A,1,1,D,DE,1997/1998
-D1,1998-07-03,Munich 1860,Dortmund,4,2,H,4,0,H,DE,1997/1998
-D1,1998-08-03,Schalke 04,Bayern Munich,1,0,H,1,0,H,DE,1997/1998
-D1,1998-08-03,Stuttgart,Wolfsburg,2,1,H,0,1,A,DE,1997/1998
+D1,1998-03-01,Hertha,Hansa Rostock,1,1,D,0,0,D,DE,1997/1998
+D1,1998-03-06,Bochum,Hamburg,0,0,D,0,0,D,DE,1997/1998
+D1,1998-03-06,Werder Bremen,Kaiserslautern,1,1,D,1,1,D,DE,1997/1998
+D1,1998-03-07,Bielefeld,Duisburg,3,3,D,1,0,H,DE,1997/1998
+D1,1998-03-07,FC Koln,Hertha,2,0,H,1,0,H,DE,1997/1998
+D1,1998-03-07,Hansa Rostock,Leverkusen,1,2,A,0,2,A,DE,1997/1998
+D1,1998-03-07,Karlsruhe,M'gladbach,2,5,A,1,1,D,DE,1997/1998
+D1,1998-03-07,Munich 1860,Dortmund,4,2,H,4,0,H,DE,1997/1998
+D1,1998-03-08,Schalke 04,Bayern Munich,1,0,H,1,0,H,DE,1997/1998
+D1,1998-03-08,Stuttgart,Wolfsburg,2,1,H,0,1,A,DE,1997/1998
 D1,1998-03-13,Duisburg,Leverkusen,1,1,D,1,1,D,DE,1997/1998
 D1,1998-03-13,Hertha,Schalke 04,1,4,A,0,1,A,DE,1997/1998
 D1,1998-03-14,Bayern Munich,Bochum,0,0,D,0,0,D,DE,1997/1998
@@ -247,24 +247,24 @@ D1,1998-03-28,Kaiserslautern,Leverkusen,0,3,A,0,0,D,DE,1997/1998
 D1,1998-03-28,M'gladbach,Bielefeld,0,0,D,0,0,D,DE,1997/1998
 D1,1998-03-28,Schalke 04,Hansa Rostock,0,0,D,0,0,D,DE,1997/1998
 D1,1998-03-29,FC Koln,Bochum,2,1,H,1,0,H,DE,1997/1998
-D1,1998-03-04,Duisburg,Kaiserslautern,1,1,D,0,1,A,DE,1997/1998
-D1,1998-03-04,Karlsruhe,Hertha,0,2,A,0,0,D,DE,1997/1998
+D1,1998-04-03,Duisburg,Kaiserslautern,1,1,D,0,1,A,DE,1997/1998
+D1,1998-04-03,Karlsruhe,Hertha,0,2,A,0,0,D,DE,1997/1998
 D1,1998-04-04,Bielefeld,Wolfsburg,0,1,A,0,0,D,DE,1997/1998
 D1,1998-04-04,Bochum,Schalke 04,3,0,H,1,0,H,DE,1997/1998
 D1,1998-04-04,Hansa Rostock,Dortmund,3,1,H,0,1,A,DE,1997/1998
 D1,1998-04-04,Leverkusen,M'gladbach,1,1,D,0,0,D,DE,1997/1998
 D1,1998-04-04,Munich 1860,Hamburg,1,1,D,0,1,A,DE,1997/1998
 D1,1998-04-04,Werder Bremen,Bayern Munich,0,3,A,0,1,A,DE,1997/1998
-D1,1998-05-04,Stuttgart,FC Koln,1,1,D,0,0,D,DE,1997/1998
-D1,1998-09-04,Bochum,Hansa Rostock,1,3,A,0,0,D,DE,1997/1998
-D1,1998-09-04,Kaiserslautern,Dortmund,1,1,D,0,0,D,DE,1997/1998
-D1,1998-11-04,Bayern Munich,Munich 1860,3,1,H,2,0,H,DE,1997/1998
-D1,1998-11-04,FC Koln,Karlsruhe,0,1,A,0,1,A,DE,1997/1998
-D1,1998-11-04,Hamburg,Bielefeld,2,0,H,1,0,H,DE,1997/1998
-D1,1998-11-04,Hertha,Werder Bremen,0,2,A,0,1,A,DE,1997/1998
-D1,1998-11-04,Schalke 04,Stuttgart,3,4,A,2,2,D,DE,1997/1998
-D1,1998-11-04,Wolfsburg,Leverkusen,1,0,H,1,0,H,DE,1997/1998
-D1,1998-12-04,M'gladbach,Duisburg,0,3,A,0,3,A,DE,1997/1998
+D1,1998-04-05,Stuttgart,FC Koln,1,1,D,0,0,D,DE,1997/1998
+D1,1998-04-09,Bochum,Hansa Rostock,1,3,A,0,0,D,DE,1997/1998
+D1,1998-04-09,Kaiserslautern,Dortmund,1,1,D,0,0,D,DE,1997/1998
+D1,1998-04-11,Bayern Munich,Munich 1860,3,1,H,2,0,H,DE,1997/1998
+D1,1998-04-11,FC Koln,Karlsruhe,0,1,A,0,1,A,DE,1997/1998
+D1,1998-04-11,Hamburg,Bielefeld,2,0,H,1,0,H,DE,1997/1998
+D1,1998-04-11,Hertha,Werder Bremen,0,2,A,0,1,A,DE,1997/1998
+D1,1998-04-11,Schalke 04,Stuttgart,3,4,A,2,2,D,DE,1997/1998
+D1,1998-04-11,Wolfsburg,Leverkusen,1,0,H,1,0,H,DE,1997/1998
+D1,1998-04-12,M'gladbach,Duisburg,0,3,A,0,3,A,DE,1997/1998
 D1,1998-04-17,Duisburg,Wolfsburg,2,2,D,0,0,D,DE,1997/1998
 D1,1998-04-17,Werder Bremen,FC Koln,3,0,H,1,0,H,DE,1997/1998
 D1,1998-04-18,Bielefeld,Bayern Munich,4,4,D,2,3,A,DE,1997/1998
@@ -287,21 +287,21 @@ D1,1998-04-29,Bielefeld,Kaiserslautern,2,2,D,1,1,D,DE,1997/1998
 D1,1998-04-29,Bochum,Hertha,2,1,H,1,0,H,DE,1997/1998
 D1,1998-04-29,Leverkusen,Dortmund,2,2,D,0,1,A,DE,1997/1998
 D1,1998-04-29,Schalke 04,FC Koln,1,0,H,0,0,D,DE,1997/1998
-D1,1998-02-05,Bielefeld,FC Koln,2,1,H,0,1,A,DE,1997/1998
-D1,1998-02-05,Dortmund,Hamburg,0,1,A,0,1,A,DE,1997/1998
-D1,1998-02-05,Duisburg,Bayern Munich,0,0,D,0,0,D,DE,1997/1998
-D1,1998-02-05,Kaiserslautern,Wolfsburg,4,0,H,1,0,H,DE,1997/1998
-D1,1998-02-05,Karlsruhe,Stuttgart,4,2,H,1,0,H,DE,1997/1998
-D1,1998-02-05,Leverkusen,Hertha,0,1,A,0,0,D,DE,1997/1998
-D1,1998-02-05,M'gladbach,Hansa Rostock,5,2,H,2,1,H,DE,1997/1998
-D1,1998-02-05,Munich 1860,Schalke 04,1,0,H,1,0,H,DE,1997/1998
-D1,1998-02-05,Werder Bremen,Bochum,1,0,H,0,0,D,DE,1997/1998
-D1,1998-09-05,Bayern Munich,Dortmund,4,0,H,0,0,D,DE,1997/1998
-D1,1998-09-05,Bochum,Munich 1860,1,0,H,1,0,H,DE,1997/1998
-D1,1998-09-05,FC Koln,Leverkusen,2,2,D,1,0,H,DE,1997/1998
-D1,1998-09-05,Hamburg,Kaiserslautern,1,1,D,0,0,D,DE,1997/1998
-D1,1998-09-05,Hansa Rostock,Karlsruhe,4,2,H,2,1,H,DE,1997/1998
-D1,1998-09-05,Hertha,Duisburg,1,3,A,0,1,A,DE,1997/1998
-D1,1998-09-05,Schalke 04,Bielefeld,2,1,H,1,1,D,DE,1997/1998
-D1,1998-09-05,Stuttgart,Werder Bremen,1,0,H,0,0,D,DE,1997/1998
-D1,1998-09-05,Wolfsburg,M'gladbach,0,2,A,0,2,A,DE,1997/1998
+D1,1998-05-02,Bielefeld,FC Koln,2,1,H,0,1,A,DE,1997/1998
+D1,1998-05-02,Dortmund,Hamburg,0,1,A,0,1,A,DE,1997/1998
+D1,1998-05-02,Duisburg,Bayern Munich,0,0,D,0,0,D,DE,1997/1998
+D1,1998-05-02,Kaiserslautern,Wolfsburg,4,0,H,1,0,H,DE,1997/1998
+D1,1998-05-02,Karlsruhe,Stuttgart,4,2,H,1,0,H,DE,1997/1998
+D1,1998-05-02,Leverkusen,Hertha,0,1,A,0,0,D,DE,1997/1998
+D1,1998-05-02,M'gladbach,Hansa Rostock,5,2,H,2,1,H,DE,1997/1998
+D1,1998-05-02,Munich 1860,Schalke 04,1,0,H,1,0,H,DE,1997/1998
+D1,1998-05-02,Werder Bremen,Bochum,1,0,H,0,0,D,DE,1997/1998
+D1,1998-05-09,Bayern Munich,Dortmund,4,0,H,0,0,D,DE,1997/1998
+D1,1998-05-09,Bochum,Munich 1860,1,0,H,1,0,H,DE,1997/1998
+D1,1998-05-09,FC Koln,Leverkusen,2,2,D,1,0,H,DE,1997/1998
+D1,1998-05-09,Hamburg,Kaiserslautern,1,1,D,0,0,D,DE,1997/1998
+D1,1998-05-09,Hansa Rostock,Karlsruhe,4,2,H,2,1,H,DE,1997/1998
+D1,1998-05-09,Hertha,Duisburg,1,3,A,0,1,A,DE,1997/1998
+D1,1998-05-09,Schalke 04,Bielefeld,2,1,H,1,1,D,DE,1997/1998
+D1,1998-05-09,Stuttgart,Werder Bremen,1,0,H,0,0,D,DE,1997/1998
+D1,1998-05-09,Wolfsburg,M'gladbach,0,2,A,0,2,A,DE,1997/1998

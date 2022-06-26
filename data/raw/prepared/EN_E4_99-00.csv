@@ -1,16 +1,16 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
-E4,1999-07-08,Brighton,Mansfield,6,0,H,EN,1999/2000
-E4,1999-07-08,Carlisle,Leyton Orient,2,1,H,EN,1999/2000
-E4,1999-07-08,Cheltenham,Rochdale,0,2,A,EN,1999/2000
-E4,1999-07-08,Chester,Barnet,0,2,A,EN,1999/2000
-E4,1999-07-08,Exeter,Hull,1,0,H,EN,1999/2000
-E4,1999-07-08,Halifax,Darlington,0,1,A,EN,1999/2000
-E4,1999-07-08,Lincoln,Rotherham,2,1,H,EN,1999/2000
-E4,1999-07-08,Macclesfield,Northampton,1,0,H,EN,1999/2000
-E4,1999-07-08,Peterboro,Hartlepool,2,1,H,EN,1999/2000
-E4,1999-07-08,Shrewsbury,Torquay,1,2,A,EN,1999/2000
-E4,1999-07-08,Southend,Plymouth,2,1,H,EN,1999/2000
-E4,1999-07-08,York,Swansea,1,0,H,EN,1999/2000
+E4,1999-08-07,Brighton,Mansfield,6,0,H,EN,1999/2000
+E4,1999-08-07,Carlisle,Leyton Orient,2,1,H,EN,1999/2000
+E4,1999-08-07,Cheltenham,Rochdale,0,2,A,EN,1999/2000
+E4,1999-08-07,Chester,Barnet,0,2,A,EN,1999/2000
+E4,1999-08-07,Exeter,Hull,1,0,H,EN,1999/2000
+E4,1999-08-07,Halifax,Darlington,0,1,A,EN,1999/2000
+E4,1999-08-07,Lincoln,Rotherham,2,1,H,EN,1999/2000
+E4,1999-08-07,Macclesfield,Northampton,1,0,H,EN,1999/2000
+E4,1999-08-07,Peterboro,Hartlepool,2,1,H,EN,1999/2000
+E4,1999-08-07,Shrewsbury,Torquay,1,2,A,EN,1999/2000
+E4,1999-08-07,Southend,Plymouth,2,1,H,EN,1999/2000
+E4,1999-08-07,York,Swansea,1,0,H,EN,1999/2000
 E4,1999-08-14,Barnet,Exeter,2,2,D,EN,1999/2000
 E4,1999-08-14,Darlington,Macclesfield,3,0,H,EN,1999/2000
 E4,1999-08-14,Hartlepool,Halifax,0,2,A,EN,1999/2000
@@ -59,29 +59,29 @@ E4,1999-08-30,York,Northampton,0,1,A,EN,1999/2000
 E4,1999-08-31,Brighton,Hull,3,0,H,EN,1999/2000
 E4,1999-08-31,Halifax,Torquay,2,0,H,EN,1999/2000
 E4,1999-08-31,Shrewsbury,Hartlepool,0,0,D,EN,1999/2000
-E4,1999-03-09,Hull,Chester,2,1,H,EN,1999/2000
-E4,1999-03-09,Leyton Orient,Shrewsbury,1,2,A,EN,1999/2000
-E4,1999-03-09,Mansfield,Peterboro,3,1,H,EN,1999/2000
-E4,1999-03-09,Rochdale,Halifax,0,1,A,EN,1999/2000
-E4,1999-04-09,Darlington,Exeter,1,0,H,EN,1999/2000
-E4,1999-04-09,Hartlepool,Southend,1,2,A,EN,1999/2000
-E4,1999-04-09,Northampton,Carlisle,0,0,D,EN,1999/2000
-E4,1999-04-09,Rotherham,York,1,0,H,EN,1999/2000
-E4,1999-04-09,Torquay,Lincoln,5,2,H,EN,1999/2000
-E4,1999-05-09,Barnet,Macclesfield,2,1,H,EN,1999/2000
-E4,1999-05-09,Plymouth,Brighton,3,3,D,EN,1999/2000
-E4,1999-11-09,Carlisle,Lincoln,1,0,H,EN,1999/2000
-E4,1999-11-09,Chester,Exeter,1,1,D,EN,1999/2000
-E4,1999-11-09,Halifax,Brighton,2,1,H,EN,1999/2000
-E4,1999-11-09,Macclesfield,Southend,1,2,A,EN,1999/2000
-E4,1999-11-09,Mansfield,Leyton Orient,1,1,D,EN,1999/2000
-E4,1999-11-09,Northampton,Hartlepool,2,1,H,EN,1999/2000
-E4,1999-11-09,Plymouth,Rotherham,1,1,D,EN,1999/2000
-E4,1999-11-09,Rochdale,Darlington,0,0,D,EN,1999/2000
-E4,1999-11-09,Swansea,Barnet,1,2,A,EN,1999/2000
-E4,1999-11-09,Torquay,Hull,0,1,A,EN,1999/2000
-E4,1999-11-09,York,Peterboro,0,0,D,EN,1999/2000
-E4,1999-12-09,Cheltenham,Shrewsbury,0,1,A,EN,1999/2000
+E4,1999-09-03,Hull,Chester,2,1,H,EN,1999/2000
+E4,1999-09-03,Leyton Orient,Shrewsbury,1,2,A,EN,1999/2000
+E4,1999-09-03,Mansfield,Peterboro,3,1,H,EN,1999/2000
+E4,1999-09-03,Rochdale,Halifax,0,1,A,EN,1999/2000
+E4,1999-09-04,Darlington,Exeter,1,0,H,EN,1999/2000
+E4,1999-09-04,Hartlepool,Southend,1,2,A,EN,1999/2000
+E4,1999-09-04,Northampton,Carlisle,0,0,D,EN,1999/2000
+E4,1999-09-04,Rotherham,York,1,0,H,EN,1999/2000
+E4,1999-09-04,Torquay,Lincoln,5,2,H,EN,1999/2000
+E4,1999-09-05,Barnet,Macclesfield,2,1,H,EN,1999/2000
+E4,1999-09-05,Plymouth,Brighton,3,3,D,EN,1999/2000
+E4,1999-09-11,Carlisle,Lincoln,1,0,H,EN,1999/2000
+E4,1999-09-11,Chester,Exeter,1,1,D,EN,1999/2000
+E4,1999-09-11,Halifax,Brighton,2,1,H,EN,1999/2000
+E4,1999-09-11,Macclesfield,Southend,1,2,A,EN,1999/2000
+E4,1999-09-11,Mansfield,Leyton Orient,1,1,D,EN,1999/2000
+E4,1999-09-11,Northampton,Hartlepool,2,1,H,EN,1999/2000
+E4,1999-09-11,Plymouth,Rotherham,1,1,D,EN,1999/2000
+E4,1999-09-11,Rochdale,Darlington,0,0,D,EN,1999/2000
+E4,1999-09-11,Swansea,Barnet,1,2,A,EN,1999/2000
+E4,1999-09-11,Torquay,Hull,0,1,A,EN,1999/2000
+E4,1999-09-11,York,Peterboro,0,0,D,EN,1999/2000
+E4,1999-09-12,Cheltenham,Shrewsbury,0,1,A,EN,1999/2000
 E4,1999-09-18,Barnet,Northampton,2,1,H,EN,1999/2000
 E4,1999-09-18,Brighton,Chester,2,3,A,EN,1999/2000
 E4,1999-09-18,Darlington,Mansfield,0,0,D,EN,1999/2000
@@ -106,30 +106,30 @@ E4,1999-09-25,Rochdale,Swansea,0,0,D,EN,1999/2000
 E4,1999-09-25,Rotherham,Northampton,3,0,H,EN,1999/2000
 E4,1999-09-25,Southend,Peterboro,0,1,A,EN,1999/2000
 E4,1999-09-25,Torquay,Barnet,0,1,A,EN,1999/2000
-E4,1999-02-10,Barnet,Hull,0,0,D,EN,1999/2000
-E4,1999-02-10,Carlisle,Southend,1,1,D,EN,1999/2000
-E4,1999-02-10,Cheltenham,Rotherham,0,2,A,EN,1999/2000
-E4,1999-02-10,Hartlepool,Darlington,2,0,H,EN,1999/2000
-E4,1999-02-10,Lincoln,Exeter,1,0,H,EN,1999/2000
-E4,1999-02-10,Macclesfield,Torquay,1,2,A,EN,1999/2000
-E4,1999-02-10,Northampton,Rochdale,0,1,A,EN,1999/2000
-E4,1999-02-10,Peterboro,Brighton,0,0,D,EN,1999/2000
-E4,1999-02-10,Plymouth,Leyton Orient,5,0,H,EN,1999/2000
-E4,1999-02-10,Shrewsbury,Halifax,0,0,D,EN,1999/2000
-E4,1999-02-10,Swansea,Mansfield,0,1,A,EN,1999/2000
-E4,1999-02-10,York,Chester,2,2,D,EN,1999/2000
-E4,1999-09-10,Barnet,Rochdale,1,0,H,EN,1999/2000
-E4,1999-09-10,Carlisle,Brighton,0,1,A,EN,1999/2000
-E4,1999-09-10,Cheltenham,Southend,2,1,H,EN,1999/2000
-E4,1999-09-10,Hartlepool,Hull,2,0,H,EN,1999/2000
-E4,1999-09-10,Lincoln,Darlington,1,0,H,EN,1999/2000
-E4,1999-09-10,Macclesfield,Halifax,0,2,A,EN,1999/2000
-E4,1999-09-10,Northampton,Torquay,3,0,H,EN,1999/2000
-E4,1999-09-10,Peterboro,Chester,2,1,H,EN,1999/2000
-E4,1999-09-10,Plymouth,Mansfield,2,1,H,EN,1999/2000
-E4,1999-09-10,Shrewsbury,Exeter,1,4,A,EN,1999/2000
-E4,1999-09-10,York,Leyton Orient,2,1,H,EN,1999/2000
-E4,1999-12-10,Swansea,Rotherham,2,0,H,EN,1999/2000
+E4,1999-10-02,Barnet,Hull,0,0,D,EN,1999/2000
+E4,1999-10-02,Carlisle,Southend,1,1,D,EN,1999/2000
+E4,1999-10-02,Cheltenham,Rotherham,0,2,A,EN,1999/2000
+E4,1999-10-02,Hartlepool,Darlington,2,0,H,EN,1999/2000
+E4,1999-10-02,Lincoln,Exeter,1,0,H,EN,1999/2000
+E4,1999-10-02,Macclesfield,Torquay,1,2,A,EN,1999/2000
+E4,1999-10-02,Northampton,Rochdale,0,1,A,EN,1999/2000
+E4,1999-10-02,Peterboro,Brighton,0,0,D,EN,1999/2000
+E4,1999-10-02,Plymouth,Leyton Orient,5,0,H,EN,1999/2000
+E4,1999-10-02,Shrewsbury,Halifax,0,0,D,EN,1999/2000
+E4,1999-10-02,Swansea,Mansfield,0,1,A,EN,1999/2000
+E4,1999-10-02,York,Chester,2,2,D,EN,1999/2000
+E4,1999-10-09,Barnet,Rochdale,1,0,H,EN,1999/2000
+E4,1999-10-09,Carlisle,Brighton,0,1,A,EN,1999/2000
+E4,1999-10-09,Cheltenham,Southend,2,1,H,EN,1999/2000
+E4,1999-10-09,Hartlepool,Hull,2,0,H,EN,1999/2000
+E4,1999-10-09,Lincoln,Darlington,1,0,H,EN,1999/2000
+E4,1999-10-09,Macclesfield,Halifax,0,2,A,EN,1999/2000
+E4,1999-10-09,Northampton,Torquay,3,0,H,EN,1999/2000
+E4,1999-10-09,Peterboro,Chester,2,1,H,EN,1999/2000
+E4,1999-10-09,Plymouth,Mansfield,2,1,H,EN,1999/2000
+E4,1999-10-09,Shrewsbury,Exeter,1,4,A,EN,1999/2000
+E4,1999-10-09,York,Leyton Orient,2,1,H,EN,1999/2000
+E4,1999-10-12,Swansea,Rotherham,2,0,H,EN,1999/2000
 E4,1999-10-16,Brighton,York,0,1,A,EN,1999/2000
 E4,1999-10-16,Chester,Macclesfield,1,2,A,EN,1999/2000
 E4,1999-10-16,Darlington,Cheltenham,1,0,H,EN,1999/2000
@@ -166,38 +166,38 @@ E4,1999-10-23,Peterboro,Southend,1,0,H,EN,1999/2000
 E4,1999-10-23,Plymouth,Darlington,0,0,D,EN,1999/2000
 E4,1999-10-23,Shrewsbury,Mansfield,1,2,A,EN,1999/2000
 E4,1999-10-23,York,Hull,1,1,D,EN,1999/2000
-E4,1999-02-11,Carlisle,York,0,1,A,EN,1999/2000
-E4,1999-02-11,Darlington,Leyton Orient,3,1,H,EN,1999/2000
-E4,1999-02-11,Halifax,Cheltenham,1,1,D,EN,1999/2000
-E4,1999-02-11,Hartlepool,Barnet,3,0,H,EN,1999/2000
-E4,1999-02-11,Lincoln,Peterboro,1,2,A,EN,1999/2000
-E4,1999-02-11,Macclesfield,Mansfield,5,2,H,EN,1999/2000
-E4,1999-02-11,Northampton,Swansea,2,1,H,EN,1999/2000
-E4,1999-02-11,Plymouth,Exeter,1,0,H,EN,1999/2000
-E4,1999-02-11,Rochdale,Hull,0,2,A,EN,1999/2000
-E4,1999-02-11,Rotherham,Torquay,1,0,H,EN,1999/2000
-E4,1999-02-11,Shrewsbury,Chester,0,1,A,EN,1999/2000
-E4,1999-02-11,Southend,Brighton,2,1,H,EN,1999/2000
-E4,1999-05-11,Swansea,Halifax,3,1,H,EN,1999/2000
-E4,1999-06-11,Barnet,Darlington,1,0,H,EN,1999/2000
-E4,1999-06-11,Brighton,Hartlepool,1,0,H,EN,1999/2000
-E4,1999-06-11,Cheltenham,Carlisle,3,1,H,EN,1999/2000
-E4,1999-06-11,Chester,Plymouth,0,1,A,EN,1999/2000
-E4,1999-06-11,Exeter,Southend,0,1,A,EN,1999/2000
-E4,1999-06-11,Hull,Rotherham,0,0,D,EN,1999/2000
-E4,1999-06-11,Leyton Orient,Northampton,0,0,D,EN,1999/2000
-E4,1999-06-11,Mansfield,Lincoln,5,2,H,EN,1999/2000
-E4,1999-06-11,Peterboro,Shrewsbury,4,1,H,EN,1999/2000
-E4,1999-06-11,Torquay,Rochdale,1,0,H,EN,1999/2000
-E4,1999-06-11,York,Macclesfield,0,2,A,EN,1999/2000
-E4,1999-12-11,Carlisle,Peterboro,1,1,D,EN,1999/2000
-E4,1999-12-11,Darlington,Torquay,1,1,D,EN,1999/2000
-E4,1999-12-11,Halifax,Exeter,1,0,H,EN,1999/2000
-E4,1999-12-11,Lincoln,York,4,2,H,EN,1999/2000
-E4,1999-12-11,Northampton,Cheltenham,3,2,H,EN,1999/2000
-E4,1999-12-11,Rotherham,Leyton Orient,0,1,A,EN,1999/2000
-E4,1999-12-11,Shrewsbury,Swansea,1,1,D,EN,1999/2000
-E4,1999-12-11,Southend,Hull,1,2,A,EN,1999/2000
+E4,1999-11-02,Carlisle,York,0,1,A,EN,1999/2000
+E4,1999-11-02,Darlington,Leyton Orient,3,1,H,EN,1999/2000
+E4,1999-11-02,Halifax,Cheltenham,1,1,D,EN,1999/2000
+E4,1999-11-02,Hartlepool,Barnet,3,0,H,EN,1999/2000
+E4,1999-11-02,Lincoln,Peterboro,1,2,A,EN,1999/2000
+E4,1999-11-02,Macclesfield,Mansfield,5,2,H,EN,1999/2000
+E4,1999-11-02,Northampton,Swansea,2,1,H,EN,1999/2000
+E4,1999-11-02,Plymouth,Exeter,1,0,H,EN,1999/2000
+E4,1999-11-02,Rochdale,Hull,0,2,A,EN,1999/2000
+E4,1999-11-02,Rotherham,Torquay,1,0,H,EN,1999/2000
+E4,1999-11-02,Shrewsbury,Chester,0,1,A,EN,1999/2000
+E4,1999-11-02,Southend,Brighton,2,1,H,EN,1999/2000
+E4,1999-11-05,Swansea,Halifax,3,1,H,EN,1999/2000
+E4,1999-11-06,Barnet,Darlington,1,0,H,EN,1999/2000
+E4,1999-11-06,Brighton,Hartlepool,1,0,H,EN,1999/2000
+E4,1999-11-06,Cheltenham,Carlisle,3,1,H,EN,1999/2000
+E4,1999-11-06,Chester,Plymouth,0,1,A,EN,1999/2000
+E4,1999-11-06,Exeter,Southend,0,1,A,EN,1999/2000
+E4,1999-11-06,Hull,Rotherham,0,0,D,EN,1999/2000
+E4,1999-11-06,Leyton Orient,Northampton,0,0,D,EN,1999/2000
+E4,1999-11-06,Mansfield,Lincoln,5,2,H,EN,1999/2000
+E4,1999-11-06,Peterboro,Shrewsbury,4,1,H,EN,1999/2000
+E4,1999-11-06,Torquay,Rochdale,1,0,H,EN,1999/2000
+E4,1999-11-06,York,Macclesfield,0,2,A,EN,1999/2000
+E4,1999-11-12,Carlisle,Peterboro,1,1,D,EN,1999/2000
+E4,1999-11-12,Darlington,Torquay,1,1,D,EN,1999/2000
+E4,1999-11-12,Halifax,Exeter,1,0,H,EN,1999/2000
+E4,1999-11-12,Lincoln,York,4,2,H,EN,1999/2000
+E4,1999-11-12,Northampton,Cheltenham,3,2,H,EN,1999/2000
+E4,1999-11-12,Rotherham,Leyton Orient,0,1,A,EN,1999/2000
+E4,1999-11-12,Shrewsbury,Swansea,1,1,D,EN,1999/2000
+E4,1999-11-12,Southend,Hull,1,2,A,EN,1999/2000
 E4,1999-11-13,Hartlepool,Chester,1,0,H,EN,1999/2000
 E4,1999-11-14,Macclesfield,Brighton,1,1,D,EN,1999/2000
 E4,1999-11-14,Plymouth,Barnet,4,1,H,EN,1999/2000
@@ -227,23 +227,23 @@ E4,1999-11-27,Peterboro,Barnet,1,2,A,EN,1999/2000
 E4,1999-11-27,Shrewsbury,Hull,3,0,H,EN,1999/2000
 E4,1999-11-27,Southend,Darlington,1,2,A,EN,1999/2000
 E4,1999-11-27,York,Plymouth,0,0,D,EN,1999/2000
-E4,1999-04-12,Barnet,Chester,2,0,H,EN,1999/2000
-E4,1999-04-12,Darlington,Halifax,4,0,H,EN,1999/2000
-E4,1999-04-12,Hartlepool,Peterboro,1,0,H,EN,1999/2000
-E4,1999-04-12,Hull,Exeter,4,0,H,EN,1999/2000
-E4,1999-04-12,Leyton Orient,Carlisle,0,1,A,EN,1999/2000
-E4,1999-04-12,Northampton,Macclesfield,2,0,H,EN,1999/2000
-E4,1999-04-12,Plymouth,Southend,3,1,H,EN,1999/2000
-E4,1999-04-12,Rochdale,Cheltenham,0,0,D,EN,1999/2000
-E4,1999-04-12,Rotherham,Lincoln,1,1,D,EN,1999/2000
-E4,1999-04-12,Swansea,York,1,0,H,EN,1999/2000
-E4,1999-04-12,Torquay,Shrewsbury,3,1,H,EN,1999/2000
-E4,1999-10-12,Brighton,Rochdale,3,4,A,EN,1999/2000
-E4,1999-10-12,Southend,Barnet,1,3,A,EN,1999/2000
-E4,1999-11-12,Cheltenham,Macclesfield,1,1,D,EN,1999/2000
-E4,1999-11-12,Halifax,Rotherham,0,0,D,EN,1999/2000
-E4,1999-11-12,Hartlepool,Swansea,0,1,A,EN,1999/2000
-E4,1999-11-12,Shrewsbury,Northampton,1,0,H,EN,1999/2000
+E4,1999-12-04,Barnet,Chester,2,0,H,EN,1999/2000
+E4,1999-12-04,Darlington,Halifax,4,0,H,EN,1999/2000
+E4,1999-12-04,Hartlepool,Peterboro,1,0,H,EN,1999/2000
+E4,1999-12-04,Hull,Exeter,4,0,H,EN,1999/2000
+E4,1999-12-04,Leyton Orient,Carlisle,0,1,A,EN,1999/2000
+E4,1999-12-04,Northampton,Macclesfield,2,0,H,EN,1999/2000
+E4,1999-12-04,Plymouth,Southend,3,1,H,EN,1999/2000
+E4,1999-12-04,Rochdale,Cheltenham,0,0,D,EN,1999/2000
+E4,1999-12-04,Rotherham,Lincoln,1,1,D,EN,1999/2000
+E4,1999-12-04,Swansea,York,1,0,H,EN,1999/2000
+E4,1999-12-04,Torquay,Shrewsbury,3,1,H,EN,1999/2000
+E4,1999-12-10,Brighton,Rochdale,3,4,A,EN,1999/2000
+E4,1999-12-10,Southend,Barnet,1,3,A,EN,1999/2000
+E4,1999-12-11,Cheltenham,Macclesfield,1,1,D,EN,1999/2000
+E4,1999-12-11,Halifax,Rotherham,0,0,D,EN,1999/2000
+E4,1999-12-11,Hartlepool,Swansea,0,1,A,EN,1999/2000
+E4,1999-12-11,Shrewsbury,Northampton,1,0,H,EN,1999/2000
 E4,1999-12-14,Carlisle,Torquay,0,0,D,EN,1999/2000
 E4,1999-12-15,Darlington,Chester,3,1,H,EN,1999/2000
 E4,1999-12-17,Northampton,Plymouth,1,1,D,EN,1999/2000
@@ -280,28 +280,28 @@ E4,1999-12-28,Rotherham,Brighton,1,3,A,EN,1999/2000
 E4,1999-12-28,Swansea,Plymouth,1,0,H,EN,1999/2000
 E4,1999-12-28,Torquay,Southend,0,1,A,EN,1999/2000
 E4,1999-12-28,York,Cheltenham,1,2,A,EN,1999/2000
-E4,2000-03-01,Brighton,Exeter,4,2,H,EN,1999/2000
-E4,2000-03-01,Carlisle,Chester,4,1,H,EN,1999/2000
-E4,2000-03-01,Cheltenham,Lincoln,0,2,A,EN,1999/2000
-E4,2000-03-01,Halifax,Northampton,2,2,D,EN,1999/2000
-E4,2000-03-01,Hartlepool,Rochdale,3,2,H,EN,1999/2000
-E4,2000-03-01,Leyton Orient,Hull,0,0,D,EN,1999/2000
-E4,2000-03-01,Mansfield,Torquay,4,3,H,EN,1999/2000
-E4,2000-03-01,Peterboro,Swansea,2,3,A,EN,1999/2000
-E4,2000-03-01,Plymouth,Macclesfield,3,2,H,EN,1999/2000
-E4,2000-03-01,Shrewsbury,Barnet,1,1,D,EN,1999/2000
-E4,2000-03-01,Southend,Rotherham,1,2,A,EN,1999/2000
-E4,2000-08-01,Barnet,Southend,2,1,H,EN,1999/2000
-E4,2000-08-01,Chester,Darlington,1,2,A,EN,1999/2000
-E4,2000-08-01,Exeter,Leyton Orient,1,3,A,EN,1999/2000
-E4,2000-08-01,Hull,Peterboro,2,3,A,EN,1999/2000
-E4,2000-08-01,Macclesfield,Cheltenham,1,2,A,EN,1999/2000
-E4,2000-08-01,Northampton,Shrewsbury,3,0,H,EN,1999/2000
-E4,2000-08-01,Rochdale,Brighton,1,0,H,EN,1999/2000
-E4,2000-08-01,Rotherham,Halifax,0,1,A,EN,1999/2000
-E4,2000-08-01,Swansea,Hartlepool,2,1,H,EN,1999/2000
-E4,2000-08-01,Torquay,Carlisle,4,1,H,EN,1999/2000
-E4,2000-08-01,York,Mansfield,0,1,A,EN,1999/2000
+E4,2000-01-03,Brighton,Exeter,4,2,H,EN,1999/2000
+E4,2000-01-03,Carlisle,Chester,4,1,H,EN,1999/2000
+E4,2000-01-03,Cheltenham,Lincoln,0,2,A,EN,1999/2000
+E4,2000-01-03,Halifax,Northampton,2,2,D,EN,1999/2000
+E4,2000-01-03,Hartlepool,Rochdale,3,2,H,EN,1999/2000
+E4,2000-01-03,Leyton Orient,Hull,0,0,D,EN,1999/2000
+E4,2000-01-03,Mansfield,Torquay,4,3,H,EN,1999/2000
+E4,2000-01-03,Peterboro,Swansea,2,3,A,EN,1999/2000
+E4,2000-01-03,Plymouth,Macclesfield,3,2,H,EN,1999/2000
+E4,2000-01-03,Shrewsbury,Barnet,1,1,D,EN,1999/2000
+E4,2000-01-03,Southend,Rotherham,1,2,A,EN,1999/2000
+E4,2000-01-08,Barnet,Southend,2,1,H,EN,1999/2000
+E4,2000-01-08,Chester,Darlington,1,2,A,EN,1999/2000
+E4,2000-01-08,Exeter,Leyton Orient,1,3,A,EN,1999/2000
+E4,2000-01-08,Hull,Peterboro,2,3,A,EN,1999/2000
+E4,2000-01-08,Macclesfield,Cheltenham,1,2,A,EN,1999/2000
+E4,2000-01-08,Northampton,Shrewsbury,3,0,H,EN,1999/2000
+E4,2000-01-08,Rochdale,Brighton,1,0,H,EN,1999/2000
+E4,2000-01-08,Rotherham,Halifax,0,1,A,EN,1999/2000
+E4,2000-01-08,Swansea,Hartlepool,2,1,H,EN,1999/2000
+E4,2000-01-08,Torquay,Carlisle,4,1,H,EN,1999/2000
+E4,2000-01-08,York,Mansfield,0,1,A,EN,1999/2000
 E4,2000-01-15,Brighton,Leyton Orient,0,1,A,EN,1999/2000
 E4,2000-01-15,Cheltenham,Mansfield,1,0,H,EN,1999/2000
 E4,2000-01-15,Chester,Rotherham,0,2,A,EN,1999/2000
@@ -337,31 +337,31 @@ E4,2000-01-29,Peterboro,Plymouth,2,0,H,EN,1999/2000
 E4,2000-01-29,Shrewsbury,Rotherham,0,0,D,EN,1999/2000
 E4,2000-01-29,Southend,Swansea,2,1,H,EN,1999/2000
 E4,2000-01-29,York,Barnet,1,0,H,EN,1999/2000
-E4,2000-01-02,Mansfield,Brighton,1,0,H,EN,1999/2000
-E4,2000-04-02,Mansfield,Exeter,1,1,D,EN,1999/2000
-E4,2000-04-02,Swansea,Lincoln,2,1,H,EN,1999/2000
-E4,2000-05-02,Barnet,Cheltenham,3,2,H,EN,1999/2000
-E4,2000-05-02,Hartlepool,Shrewsbury,1,0,H,EN,1999/2000
-E4,2000-05-02,Hull,Brighton,2,0,H,EN,1999/2000
-E4,2000-05-02,Leyton Orient,Southend,2,1,H,EN,1999/2000
-E4,2000-05-02,Northampton,York,3,0,H,EN,1999/2000
-E4,2000-05-02,Plymouth,Carlisle,2,0,H,EN,1999/2000
-E4,2000-05-02,Rochdale,Chester,2,1,H,EN,1999/2000
-E4,2000-05-02,Rotherham,Macclesfield,2,1,H,EN,1999/2000
-E4,2000-05-02,Torquay,Halifax,4,0,H,EN,1999/2000
-E4,2000-06-02,Darlington,Peterboro,2,0,H,EN,1999/2000
-E4,2000-08-02,Leyton Orient,Exeter,4,1,H,EN,1999/2000
-E4,2000-08-02,Mansfield,York,1,0,H,EN,1999/2000
-E4,2000-12-02,Brighton,Plymouth,1,1,D,EN,1999/2000
-E4,2000-12-02,Chester,Hull,0,0,D,EN,1999/2000
-E4,2000-12-02,Exeter,Darlington,1,4,A,EN,1999/2000
-E4,2000-12-02,Halifax,Rochdale,0,2,A,EN,1999/2000
-E4,2000-12-02,Lincoln,Torquay,2,1,H,EN,1999/2000
-E4,2000-12-02,Macclesfield,Barnet,2,0,H,EN,1999/2000
-E4,2000-12-02,Peterboro,Mansfield,1,0,H,EN,1999/2000
-E4,2000-12-02,Shrewsbury,Leyton Orient,1,0,H,EN,1999/2000
-E4,2000-12-02,Southend,Hartlepool,2,1,H,EN,1999/2000
-E4,2000-12-02,York,Rotherham,1,2,A,EN,1999/2000
+E4,2000-02-01,Mansfield,Brighton,1,0,H,EN,1999/2000
+E4,2000-02-04,Mansfield,Exeter,1,1,D,EN,1999/2000
+E4,2000-02-04,Swansea,Lincoln,2,1,H,EN,1999/2000
+E4,2000-02-05,Barnet,Cheltenham,3,2,H,EN,1999/2000
+E4,2000-02-05,Hartlepool,Shrewsbury,1,0,H,EN,1999/2000
+E4,2000-02-05,Hull,Brighton,2,0,H,EN,1999/2000
+E4,2000-02-05,Leyton Orient,Southend,2,1,H,EN,1999/2000
+E4,2000-02-05,Northampton,York,3,0,H,EN,1999/2000
+E4,2000-02-05,Plymouth,Carlisle,2,0,H,EN,1999/2000
+E4,2000-02-05,Rochdale,Chester,2,1,H,EN,1999/2000
+E4,2000-02-05,Rotherham,Macclesfield,2,1,H,EN,1999/2000
+E4,2000-02-05,Torquay,Halifax,4,0,H,EN,1999/2000
+E4,2000-02-06,Darlington,Peterboro,2,0,H,EN,1999/2000
+E4,2000-02-08,Leyton Orient,Exeter,4,1,H,EN,1999/2000
+E4,2000-02-08,Mansfield,York,1,0,H,EN,1999/2000
+E4,2000-02-12,Brighton,Plymouth,1,1,D,EN,1999/2000
+E4,2000-02-12,Chester,Hull,0,0,D,EN,1999/2000
+E4,2000-02-12,Exeter,Darlington,1,4,A,EN,1999/2000
+E4,2000-02-12,Halifax,Rochdale,0,2,A,EN,1999/2000
+E4,2000-02-12,Lincoln,Torquay,2,1,H,EN,1999/2000
+E4,2000-02-12,Macclesfield,Barnet,2,0,H,EN,1999/2000
+E4,2000-02-12,Peterboro,Mansfield,1,0,H,EN,1999/2000
+E4,2000-02-12,Shrewsbury,Leyton Orient,1,0,H,EN,1999/2000
+E4,2000-02-12,Southend,Hartlepool,2,1,H,EN,1999/2000
+E4,2000-02-12,York,Rotherham,1,2,A,EN,1999/2000
 E4,2000-02-13,Cheltenham,Swansea,0,0,D,EN,1999/2000
 E4,2000-02-18,Swansea,Chester,2,1,H,EN,1999/2000
 E4,2000-02-19,Barnet,Peterboro,0,2,A,EN,1999/2000
@@ -390,39 +390,39 @@ E4,2000-02-26,Swansea,Hull,0,0,D,EN,1999/2000
 E4,2000-02-26,Torquay,Leyton Orient,0,0,D,EN,1999/2000
 E4,2000-02-26,York,Exeter,0,0,D,EN,1999/2000
 E4,2000-03-03,Southend,Macclesfield,1,0,H,EN,1999/2000
-E4,2000-04-03,Barnet,Swansea,0,1,A,EN,1999/2000
-E4,2000-04-03,Brighton,Halifax,2,1,H,EN,1999/2000
-E4,2000-04-03,Darlington,Rochdale,4,1,H,EN,1999/2000
-E4,2000-04-03,Exeter,Chester,0,2,A,EN,1999/2000
-E4,2000-04-03,Hartlepool,Northampton,2,1,H,EN,1999/2000
-E4,2000-04-03,Hull,Torquay,0,0,D,EN,1999/2000
-E4,2000-04-03,Leyton Orient,Mansfield,1,3,A,EN,1999/2000
-E4,2000-04-03,Lincoln,Carlisle,5,0,H,EN,1999/2000
-E4,2000-04-03,Peterboro,York,2,0,H,EN,1999/2000
-E4,2000-04-03,Rotherham,Plymouth,1,1,D,EN,1999/2000
-E4,2000-04-03,Shrewsbury,Cheltenham,0,2,A,EN,1999/2000
-E4,2000-07-03,Darlington,Barnet,4,0,H,EN,1999/2000
-E4,2000-07-03,Halifax,Swansea,0,1,A,EN,1999/2000
-E4,2000-07-03,Hartlepool,Brighton,0,0,D,EN,1999/2000
-E4,2000-07-03,Lincoln,Mansfield,3,0,H,EN,1999/2000
-E4,2000-07-03,Macclesfield,York,1,1,D,EN,1999/2000
-E4,2000-07-03,Northampton,Leyton Orient,2,1,H,EN,1999/2000
-E4,2000-07-03,Plymouth,Chester,0,0,D,EN,1999/2000
-E4,2000-07-03,Rotherham,Hull,3,0,H,EN,1999/2000
-E4,2000-07-03,Shrewsbury,Peterboro,0,1,A,EN,1999/2000
-E4,2000-07-03,Southend,Exeter,1,2,A,EN,1999/2000
-E4,2000-10-03,Swansea,Northampton,4,1,H,EN,1999/2000
-E4,2000-11-03,Barnet,Hartlepool,1,1,D,EN,1999/2000
-E4,2000-11-03,Brighton,Southend,1,0,H,EN,1999/2000
-E4,2000-11-03,Cheltenham,Halifax,3,0,H,EN,1999/2000
-E4,2000-11-03,Chester,Shrewsbury,0,0,D,EN,1999/2000
-E4,2000-11-03,Exeter,Plymouth,1,1,D,EN,1999/2000
-E4,2000-11-03,Hull,Rochdale,2,2,D,EN,1999/2000
-E4,2000-11-03,Leyton Orient,Darlington,2,1,H,EN,1999/2000
-E4,2000-11-03,Mansfield,Macclesfield,1,0,H,EN,1999/2000
-E4,2000-11-03,Peterboro,Lincoln,2,2,D,EN,1999/2000
-E4,2000-11-03,Torquay,Rotherham,2,1,H,EN,1999/2000
-E4,2000-11-03,York,Carlisle,1,1,D,EN,1999/2000
+E4,2000-03-04,Barnet,Swansea,0,1,A,EN,1999/2000
+E4,2000-03-04,Brighton,Halifax,2,1,H,EN,1999/2000
+E4,2000-03-04,Darlington,Rochdale,4,1,H,EN,1999/2000
+E4,2000-03-04,Exeter,Chester,0,2,A,EN,1999/2000
+E4,2000-03-04,Hartlepool,Northampton,2,1,H,EN,1999/2000
+E4,2000-03-04,Hull,Torquay,0,0,D,EN,1999/2000
+E4,2000-03-04,Leyton Orient,Mansfield,1,3,A,EN,1999/2000
+E4,2000-03-04,Lincoln,Carlisle,5,0,H,EN,1999/2000
+E4,2000-03-04,Peterboro,York,2,0,H,EN,1999/2000
+E4,2000-03-04,Rotherham,Plymouth,1,1,D,EN,1999/2000
+E4,2000-03-04,Shrewsbury,Cheltenham,0,2,A,EN,1999/2000
+E4,2000-03-07,Darlington,Barnet,4,0,H,EN,1999/2000
+E4,2000-03-07,Halifax,Swansea,0,1,A,EN,1999/2000
+E4,2000-03-07,Hartlepool,Brighton,0,0,D,EN,1999/2000
+E4,2000-03-07,Lincoln,Mansfield,3,0,H,EN,1999/2000
+E4,2000-03-07,Macclesfield,York,1,1,D,EN,1999/2000
+E4,2000-03-07,Northampton,Leyton Orient,2,1,H,EN,1999/2000
+E4,2000-03-07,Plymouth,Chester,0,0,D,EN,1999/2000
+E4,2000-03-07,Rotherham,Hull,3,0,H,EN,1999/2000
+E4,2000-03-07,Shrewsbury,Peterboro,0,1,A,EN,1999/2000
+E4,2000-03-07,Southend,Exeter,1,2,A,EN,1999/2000
+E4,2000-03-10,Swansea,Northampton,4,1,H,EN,1999/2000
+E4,2000-03-11,Barnet,Hartlepool,1,1,D,EN,1999/2000
+E4,2000-03-11,Brighton,Southend,1,0,H,EN,1999/2000
+E4,2000-03-11,Cheltenham,Halifax,3,0,H,EN,1999/2000
+E4,2000-03-11,Chester,Shrewsbury,0,0,D,EN,1999/2000
+E4,2000-03-11,Exeter,Plymouth,1,1,D,EN,1999/2000
+E4,2000-03-11,Hull,Rochdale,2,2,D,EN,1999/2000
+E4,2000-03-11,Leyton Orient,Darlington,2,1,H,EN,1999/2000
+E4,2000-03-11,Mansfield,Macclesfield,1,0,H,EN,1999/2000
+E4,2000-03-11,Peterboro,Lincoln,2,2,D,EN,1999/2000
+E4,2000-03-11,Torquay,Rotherham,2,1,H,EN,1999/2000
+E4,2000-03-11,York,Carlisle,1,1,D,EN,1999/2000
 E4,2000-03-14,Plymouth,Lincoln,1,1,D,EN,1999/2000
 E4,2000-03-14,Torquay,Cheltenham,1,1,D,EN,1999/2000
 E4,2000-03-17,Rotherham,Mansfield,2,3,A,EN,1999/2000
@@ -462,34 +462,34 @@ E4,2000-03-25,Torquay,Plymouth,0,4,A,EN,1999/2000
 E4,2000-03-25,York,Hartlepool,2,1,H,EN,1999/2000
 E4,2000-03-28,Carlisle,Swansea,2,0,H,EN,1999/2000
 E4,2000-03-28,Mansfield,Rochdale,0,0,D,EN,1999/2000
-E4,2000-01-04,Brighton,Swansea,1,1,D,EN,1999/2000
-E4,2000-01-04,Carlisle,Hull,0,4,A,EN,1999/2000
-E4,2000-01-04,Cheltenham,Torquay,2,0,H,EN,1999/2000
-E4,2000-01-04,Darlington,Rotherham,2,2,D,EN,1999/2000
-E4,2000-01-04,Halifax,Chester,0,1,A,EN,1999/2000
-E4,2000-01-04,Hartlepool,Exeter,2,1,H,EN,1999/2000
-E4,2000-01-04,Leyton Orient,Macclesfield,0,0,D,EN,1999/2000
-E4,2000-01-04,Mansfield,Barnet,0,1,A,EN,1999/2000
-E4,2000-01-04,Peterboro,Rochdale,3,3,D,EN,1999/2000
-E4,2000-01-04,Plymouth,Northampton,2,1,H,EN,1999/2000
-E4,2000-01-04,Shrewsbury,Lincoln,1,2,A,EN,1999/2000
-E4,2000-01-04,Southend,York,0,0,D,EN,1999/2000
+E4,2000-04-01,Brighton,Swansea,1,1,D,EN,1999/2000
+E4,2000-04-01,Carlisle,Hull,0,4,A,EN,1999/2000
+E4,2000-04-01,Cheltenham,Torquay,2,0,H,EN,1999/2000
+E4,2000-04-01,Darlington,Rotherham,2,2,D,EN,1999/2000
+E4,2000-04-01,Halifax,Chester,0,1,A,EN,1999/2000
+E4,2000-04-01,Hartlepool,Exeter,2,1,H,EN,1999/2000
+E4,2000-04-01,Leyton Orient,Macclesfield,0,0,D,EN,1999/2000
+E4,2000-04-01,Mansfield,Barnet,0,1,A,EN,1999/2000
+E4,2000-04-01,Peterboro,Rochdale,3,3,D,EN,1999/2000
+E4,2000-04-01,Plymouth,Northampton,2,1,H,EN,1999/2000
+E4,2000-04-01,Shrewsbury,Lincoln,1,2,A,EN,1999/2000
+E4,2000-04-01,Southend,York,0,0,D,EN,1999/2000
 E4,2000-04-04,Carlisle,Cheltenham,1,1,D,EN,1999/2000
-E4,2000-05-04,Darlington,Shrewsbury,2,2,D,EN,1999/2000
-E4,2000-05-04,Rochdale,Torquay,1,1,D,EN,1999/2000
-E4,2000-08-04,Barnet,Shrewsbury,1,1,D,EN,1999/2000
-E4,2000-08-04,Chester,Carlisle,0,1,A,EN,1999/2000
-E4,2000-08-04,Exeter,Brighton,0,0,D,EN,1999/2000
-E4,2000-08-04,Hull,Leyton Orient,2,0,H,EN,1999/2000
-E4,2000-08-04,Lincoln,Cheltenham,1,2,A,EN,1999/2000
-E4,2000-08-04,Macclesfield,Plymouth,4,1,H,EN,1999/2000
-E4,2000-08-04,Northampton,Halifax,3,4,A,EN,1999/2000
-E4,2000-08-04,Rochdale,Hartlepool,0,0,D,EN,1999/2000
-E4,2000-08-04,Rotherham,Southend,0,0,D,EN,1999/2000
-E4,2000-08-04,Swansea,Peterboro,0,0,D,EN,1999/2000
-E4,2000-08-04,Torquay,Mansfield,4,0,H,EN,1999/2000
-E4,2000-08-04,York,Darlington,0,0,D,EN,1999/2000
-E4,2000-11-04,Carlisle,Northampton,0,1,A,EN,1999/2000
+E4,2000-04-05,Darlington,Shrewsbury,2,2,D,EN,1999/2000
+E4,2000-04-05,Rochdale,Torquay,1,1,D,EN,1999/2000
+E4,2000-04-08,Barnet,Shrewsbury,1,1,D,EN,1999/2000
+E4,2000-04-08,Chester,Carlisle,0,1,A,EN,1999/2000
+E4,2000-04-08,Exeter,Brighton,0,0,D,EN,1999/2000
+E4,2000-04-08,Hull,Leyton Orient,2,0,H,EN,1999/2000
+E4,2000-04-08,Lincoln,Cheltenham,1,2,A,EN,1999/2000
+E4,2000-04-08,Macclesfield,Plymouth,4,1,H,EN,1999/2000
+E4,2000-04-08,Northampton,Halifax,3,4,A,EN,1999/2000
+E4,2000-04-08,Rochdale,Hartlepool,0,0,D,EN,1999/2000
+E4,2000-04-08,Rotherham,Southend,0,0,D,EN,1999/2000
+E4,2000-04-08,Swansea,Peterboro,0,0,D,EN,1999/2000
+E4,2000-04-08,Torquay,Mansfield,4,0,H,EN,1999/2000
+E4,2000-04-08,York,Darlington,0,0,D,EN,1999/2000
+E4,2000-04-11,Carlisle,Northampton,0,1,A,EN,1999/2000
 E4,2000-04-15,Brighton,Rotherham,1,1,D,EN,1999/2000
 E4,2000-04-15,Carlisle,Macclesfield,0,1,A,EN,1999/2000
 E4,2000-04-15,Cheltenham,York,0,1,A,EN,1999/2000
@@ -538,16 +538,16 @@ E4,2000-04-29,Plymouth,Hull,0,1,A,EN,1999/2000
 E4,2000-04-29,Shrewsbury,Brighton,1,2,A,EN,1999/2000
 E4,2000-04-29,Swansea,Exeter,3,0,H,EN,1999/2000
 E4,2000-04-29,York,Halifax,2,0,H,EN,1999/2000
-E4,2000-02-05,Southend,Torquay,0,2,A,EN,1999/2000
-E4,2000-06-05,Brighton,Carlisle,1,0,H,EN,1999/2000
-E4,2000-06-05,Chester,Peterboro,0,1,A,EN,1999/2000
-E4,2000-06-05,Darlington,Lincoln,2,0,H,EN,1999/2000
-E4,2000-06-05,Exeter,Shrewsbury,1,2,A,EN,1999/2000
-E4,2000-06-05,Halifax,Macclesfield,0,1,A,EN,1999/2000
-E4,2000-06-05,Hull,Hartlepool,0,3,A,EN,1999/2000
-E4,2000-06-05,Leyton Orient,York,0,0,D,EN,1999/2000
-E4,2000-06-05,Mansfield,Plymouth,2,2,D,EN,1999/2000
-E4,2000-06-05,Rochdale,Barnet,1,1,D,EN,1999/2000
-E4,2000-06-05,Rotherham,Swansea,1,1,D,EN,1999/2000
-E4,2000-06-05,Southend,Cheltenham,2,1,H,EN,1999/2000
-E4,2000-06-05,Torquay,Northampton,1,2,A,EN,1999/2000
+E4,2000-05-02,Southend,Torquay,0,2,A,EN,1999/2000
+E4,2000-05-06,Brighton,Carlisle,1,0,H,EN,1999/2000
+E4,2000-05-06,Chester,Peterboro,0,1,A,EN,1999/2000
+E4,2000-05-06,Darlington,Lincoln,2,0,H,EN,1999/2000
+E4,2000-05-06,Exeter,Shrewsbury,1,2,A,EN,1999/2000
+E4,2000-05-06,Halifax,Macclesfield,0,1,A,EN,1999/2000
+E4,2000-05-06,Hull,Hartlepool,0,3,A,EN,1999/2000
+E4,2000-05-06,Leyton Orient,York,0,0,D,EN,1999/2000
+E4,2000-05-06,Mansfield,Plymouth,2,2,D,EN,1999/2000
+E4,2000-05-06,Rochdale,Barnet,1,1,D,EN,1999/2000
+E4,2000-05-06,Rotherham,Swansea,1,1,D,EN,1999/2000
+E4,2000-05-06,Southend,Cheltenham,2,1,H,EN,1999/2000
+E4,2000-05-06,Torquay,Northampton,1,2,A,EN,1999/2000

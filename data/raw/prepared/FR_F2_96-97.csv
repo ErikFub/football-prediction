@@ -1,15 +1,15 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Country,Season
-F2,1996-10-08,Amiens,Martigues,0.0,0.0,D,FR,1996/1997
-F2,1996-10-08,Charleville,Lorient,2.0,1.0,H,FR,1996/1997
-F2,1996-10-08,Le Mans,Chateauroux,1.0,1.0,D,FR,1996/1997
-F2,1996-10-08,Louhans-Cuis.,Niort,0.0,0.0,D,FR,1996/1997
-F2,1996-10-08,Mulhouse,Gueugnon,1.0,2.0,A,FR,1996/1997
-F2,1996-10-08,Red Star 93,Perpignan,0.0,2.0,A,FR,1996/1997
-F2,1996-10-08,Sochaux,Laval,2.0,0.0,H,FR,1996/1997
-F2,1996-10-08,St Brieuc,Toulon,1.0,2.0,A,FR,1996/1997
-F2,1996-10-08,Toulouse,Epinal,1.0,0.0,H,FR,1996/1997
-F2,1996-10-08,Valence,Beauvais,1.0,0.0,H,FR,1996/1997
-F2,1996-11-08,Troyes,St Etienne,0.0,2.0,A,FR,1996/1997
+F2,1996-08-10,Amiens,Martigues,0.0,0.0,D,FR,1996/1997
+F2,1996-08-10,Charleville,Lorient,2.0,1.0,H,FR,1996/1997
+F2,1996-08-10,Le Mans,Chateauroux,1.0,1.0,D,FR,1996/1997
+F2,1996-08-10,Louhans-Cuis.,Niort,0.0,0.0,D,FR,1996/1997
+F2,1996-08-10,Mulhouse,Gueugnon,1.0,2.0,A,FR,1996/1997
+F2,1996-08-10,Red Star 93,Perpignan,0.0,2.0,A,FR,1996/1997
+F2,1996-08-10,Sochaux,Laval,2.0,0.0,H,FR,1996/1997
+F2,1996-08-10,St Brieuc,Toulon,1.0,2.0,A,FR,1996/1997
+F2,1996-08-10,Toulouse,Epinal,1.0,0.0,H,FR,1996/1997
+F2,1996-08-10,Valence,Beauvais,1.0,0.0,H,FR,1996/1997
+F2,1996-08-11,Troyes,St Etienne,0.0,2.0,A,FR,1996/1997
 F2,1996-08-17,Beauvais,Troyes,1.0,0.0,H,FR,1996/1997
 F2,1996-08-17,Chateauroux,Toulouse,2.0,1.0,H,FR,1996/1997
 F2,1996-08-17,Epinal,Amiens,0.0,3.0,A,FR,1996/1997
@@ -54,28 +54,28 @@ F2,1996-08-27,St Brieuc,Le Mans,0.0,0.0,D,FR,1996/1997
 F2,1996-08-27,St Etienne,Lorient,2.0,2.0,D,FR,1996/1997
 F2,1996-08-27,Troyes,Perpignan,1.0,0.0,H,FR,1996/1997
 F2,1996-08-27,Valence,Gueugnon,0.0,2.0,A,FR,1996/1997
-F2,1996-04-09,Amiens,Sochaux,1.0,2.0,A,FR,1996/1997
-F2,1996-04-09,Chateauroux,Red Star 93,0.0,0.0,D,FR,1996/1997
-F2,1996-04-09,Epinal,Louhans-Cuis.,0.0,1.0,A,FR,1996/1997
-F2,1996-04-09,Gueugnon,Charleville,0.0,0.0,D,FR,1996/1997
-F2,1996-04-09,Le Mans,Mulhouse,2.0,0.0,H,FR,1996/1997
-F2,1996-04-09,Lorient,Beauvais,1.0,0.0,H,FR,1996/1997
-F2,1996-04-09,Martigues,Troyes,1.0,1.0,D,FR,1996/1997
-F2,1996-04-09,Niort,St Etienne,0.0,0.0,D,FR,1996/1997
-F2,1996-04-09,Perpignan,Laval,0.0,4.0,A,FR,1996/1997
-F2,1996-04-09,Toulon,Valence,1.0,1.0,D,FR,1996/1997
-F2,1996-04-09,Toulouse,St Brieuc,0.0,1.0,A,FR,1996/1997
-F2,1996-07-09,Beauvais,Niort,0.0,2.0,A,FR,1996/1997
-F2,1996-07-09,Charleville,Epinal,2.0,2.0,D,FR,1996/1997
-F2,1996-07-09,Laval,Gueugnon,3.0,0.0,H,FR,1996/1997
-F2,1996-07-09,Louhans-Cuis.,Chateauroux,0.0,1.0,A,FR,1996/1997
-F2,1996-07-09,Mulhouse,Toulouse,1.0,2.0,A,FR,1996/1997
-F2,1996-07-09,Red Star 93,Martigues,1.0,1.0,D,FR,1996/1997
-F2,1996-07-09,Sochaux,Lorient,0.0,1.0,A,FR,1996/1997
-F2,1996-07-09,St Brieuc,Amiens,1.0,0.0,H,FR,1996/1997
-F2,1996-07-09,St Etienne,Toulon,2.0,1.0,H,FR,1996/1997
-F2,1996-07-09,Troyes,Le Mans,1.0,1.0,D,FR,1996/1997
-F2,1996-07-09,Valence,Perpignan,2.0,1.0,H,FR,1996/1997
+F2,1996-09-04,Amiens,Sochaux,1.0,2.0,A,FR,1996/1997
+F2,1996-09-04,Chateauroux,Red Star 93,0.0,0.0,D,FR,1996/1997
+F2,1996-09-04,Epinal,Louhans-Cuis.,0.0,1.0,A,FR,1996/1997
+F2,1996-09-04,Gueugnon,Charleville,0.0,0.0,D,FR,1996/1997
+F2,1996-09-04,Le Mans,Mulhouse,2.0,0.0,H,FR,1996/1997
+F2,1996-09-04,Lorient,Beauvais,1.0,0.0,H,FR,1996/1997
+F2,1996-09-04,Martigues,Troyes,1.0,1.0,D,FR,1996/1997
+F2,1996-09-04,Niort,St Etienne,0.0,0.0,D,FR,1996/1997
+F2,1996-09-04,Perpignan,Laval,0.0,4.0,A,FR,1996/1997
+F2,1996-09-04,Toulon,Valence,1.0,1.0,D,FR,1996/1997
+F2,1996-09-04,Toulouse,St Brieuc,0.0,1.0,A,FR,1996/1997
+F2,1996-09-07,Beauvais,Niort,0.0,2.0,A,FR,1996/1997
+F2,1996-09-07,Charleville,Epinal,2.0,2.0,D,FR,1996/1997
+F2,1996-09-07,Laval,Gueugnon,3.0,0.0,H,FR,1996/1997
+F2,1996-09-07,Louhans-Cuis.,Chateauroux,0.0,1.0,A,FR,1996/1997
+F2,1996-09-07,Mulhouse,Toulouse,1.0,2.0,A,FR,1996/1997
+F2,1996-09-07,Red Star 93,Martigues,1.0,1.0,D,FR,1996/1997
+F2,1996-09-07,Sochaux,Lorient,0.0,1.0,A,FR,1996/1997
+F2,1996-09-07,St Brieuc,Amiens,1.0,0.0,H,FR,1996/1997
+F2,1996-09-07,St Etienne,Toulon,2.0,1.0,H,FR,1996/1997
+F2,1996-09-07,Troyes,Le Mans,1.0,1.0,D,FR,1996/1997
+F2,1996-09-07,Valence,Perpignan,2.0,1.0,H,FR,1996/1997
 F2,1996-09-13,Le Mans,Louhans-Cuis.,0.0,1.0,A,FR,1996/1997
 F2,1996-09-13,St Brieuc,Sochaux,1.0,2.0,A,FR,1996/1997
 F2,1996-09-14,Amiens,Mulhouse,1.0,0.0,H,FR,1996/1997
@@ -120,39 +120,39 @@ F2,1996-09-28,St Etienne,Chateauroux,2.0,0.0,H,FR,1996/1997
 F2,1996-09-28,Troyes,Epinal,2.0,0.0,H,FR,1996/1997
 F2,1996-09-29,Beauvais,Perpignan,1.0,0.0,H,FR,1996/1997
 F2,1996-09-29,Valence,Martigues,2.0,2.0,D,FR,1996/1997
-F2,1996-02-10,Amiens,Valence,2.0,2.0,D,FR,1996/1997
-F2,1996-02-10,Chateauroux,Laval,4.0,1.0,H,FR,1996/1997
-F2,1996-02-10,Epinal,Beauvais,2.0,0.0,H,FR,1996/1997
-F2,1996-02-10,Gueugnon,Perpignan,3.0,1.0,H,FR,1996/1997
-F2,1996-02-10,Le Mans,St Etienne,2.0,0.0,H,FR,1996/1997
-F2,1996-02-10,Martigues,Lorient,3.0,1.0,H,FR,1996/1997
-F2,1996-02-10,Mulhouse,Louhans-Cuis.,2.0,0.0,H,FR,1996/1997
-F2,1996-02-10,Red Star 93,Sochaux,7.0,2.0,H,FR,1996/1997
-F2,1996-02-10,St Brieuc,Charleville,4.0,1.0,H,FR,1996/1997
-F2,1996-02-10,Toulon,Niort,2.0,2.0,D,FR,1996/1997
-F2,1996-02-10,Toulouse,Troyes,0.0,1.0,A,FR,1996/1997
-F2,1996-05-10,Beauvais,Chateauroux,0.0,0.0,D,FR,1996/1997
-F2,1996-05-10,Charleville,Mulhouse,0.0,1.0,A,FR,1996/1997
-F2,1996-05-10,Laval,Toulouse,2.0,1.0,H,FR,1996/1997
-F2,1996-05-10,Lorient,Epinal,0.0,0.0,D,FR,1996/1997
-F2,1996-05-10,Louhans-Cuis.,Red Star 93,0.0,1.0,A,FR,1996/1997
-F2,1996-05-10,Perpignan,Toulon,1.0,1.0,D,FR,1996/1997
-F2,1996-05-10,Sochaux,Le Mans,1.0,1.0,D,FR,1996/1997
-F2,1996-05-10,St Etienne,Gueugnon,2.0,1.0,H,FR,1996/1997
-F2,1996-05-10,Troyes,Amiens,2.0,2.0,D,FR,1996/1997
-F2,1996-05-10,Valence,St Brieuc,0.0,1.0,A,FR,1996/1997
-F2,1996-06-10,Niort,Martigues,1.0,1.0,D,FR,1996/1997
-F2,1996-12-10,Amiens,Laval,1.0,0.0,H,FR,1996/1997
-F2,1996-12-10,Chateauroux,Sochaux,1.0,0.0,H,FR,1996/1997
-F2,1996-12-10,Epinal,Niort,1.0,3.0,A,FR,1996/1997
-F2,1996-12-10,Le Mans,Lorient,0.0,3.0,A,FR,1996/1997
-F2,1996-12-10,Louhans-Cuis.,Beauvais,2.0,1.0,H,FR,1996/1997
-F2,1996-12-10,Martigues,Perpignan,2.0,1.0,H,FR,1996/1997
-F2,1996-12-10,Mulhouse,Valence,1.0,2.0,A,FR,1996/1997
-F2,1996-12-10,Red Star 93,Charleville,0.0,0.0,D,FR,1996/1997
-F2,1996-12-10,St Brieuc,Troyes,1.0,1.0,D,FR,1996/1997
-F2,1996-12-10,Toulon,Gueugnon,2.0,0.0,H,FR,1996/1997
-F2,1996-12-10,Toulouse,St Etienne,3.0,1.0,H,FR,1996/1997
+F2,1996-10-02,Amiens,Valence,2.0,2.0,D,FR,1996/1997
+F2,1996-10-02,Chateauroux,Laval,4.0,1.0,H,FR,1996/1997
+F2,1996-10-02,Epinal,Beauvais,2.0,0.0,H,FR,1996/1997
+F2,1996-10-02,Gueugnon,Perpignan,3.0,1.0,H,FR,1996/1997
+F2,1996-10-02,Le Mans,St Etienne,2.0,0.0,H,FR,1996/1997
+F2,1996-10-02,Martigues,Lorient,3.0,1.0,H,FR,1996/1997
+F2,1996-10-02,Mulhouse,Louhans-Cuis.,2.0,0.0,H,FR,1996/1997
+F2,1996-10-02,Red Star 93,Sochaux,7.0,2.0,H,FR,1996/1997
+F2,1996-10-02,St Brieuc,Charleville,4.0,1.0,H,FR,1996/1997
+F2,1996-10-02,Toulon,Niort,2.0,2.0,D,FR,1996/1997
+F2,1996-10-02,Toulouse,Troyes,0.0,1.0,A,FR,1996/1997
+F2,1996-10-05,Beauvais,Chateauroux,0.0,0.0,D,FR,1996/1997
+F2,1996-10-05,Charleville,Mulhouse,0.0,1.0,A,FR,1996/1997
+F2,1996-10-05,Laval,Toulouse,2.0,1.0,H,FR,1996/1997
+F2,1996-10-05,Lorient,Epinal,0.0,0.0,D,FR,1996/1997
+F2,1996-10-05,Louhans-Cuis.,Red Star 93,0.0,1.0,A,FR,1996/1997
+F2,1996-10-05,Perpignan,Toulon,1.0,1.0,D,FR,1996/1997
+F2,1996-10-05,Sochaux,Le Mans,1.0,1.0,D,FR,1996/1997
+F2,1996-10-05,St Etienne,Gueugnon,2.0,1.0,H,FR,1996/1997
+F2,1996-10-05,Troyes,Amiens,2.0,2.0,D,FR,1996/1997
+F2,1996-10-05,Valence,St Brieuc,0.0,1.0,A,FR,1996/1997
+F2,1996-10-06,Niort,Martigues,1.0,1.0,D,FR,1996/1997
+F2,1996-10-12,Amiens,Laval,1.0,0.0,H,FR,1996/1997
+F2,1996-10-12,Chateauroux,Sochaux,1.0,0.0,H,FR,1996/1997
+F2,1996-10-12,Epinal,Niort,1.0,3.0,A,FR,1996/1997
+F2,1996-10-12,Le Mans,Lorient,0.0,3.0,A,FR,1996/1997
+F2,1996-10-12,Louhans-Cuis.,Beauvais,2.0,1.0,H,FR,1996/1997
+F2,1996-10-12,Martigues,Perpignan,2.0,1.0,H,FR,1996/1997
+F2,1996-10-12,Mulhouse,Valence,1.0,2.0,A,FR,1996/1997
+F2,1996-10-12,Red Star 93,Charleville,0.0,0.0,D,FR,1996/1997
+F2,1996-10-12,St Brieuc,Troyes,1.0,1.0,D,FR,1996/1997
+F2,1996-10-12,Toulon,Gueugnon,2.0,0.0,H,FR,1996/1997
+F2,1996-10-12,Toulouse,St Etienne,3.0,1.0,H,FR,1996/1997
 F2,1996-10-19,Beauvais,Le Mans,1.0,2.0,A,FR,1996/1997
 F2,1996-10-19,Charleville,Louhans-Cuis.,2.0,1.0,H,FR,1996/1997
 F2,1996-10-19,Gueugnon,Martigues,1.0,0.0,H,FR,1996/1997
@@ -175,28 +175,28 @@ F2,1996-10-26,Mulhouse,Laval,0.0,0.0,D,FR,1996/1997
 F2,1996-10-26,Red Star 93,Troyes,1.0,0.0,H,FR,1996/1997
 F2,1996-10-26,St Brieuc,St Etienne,2.0,2.0,D,FR,1996/1997
 F2,1996-10-26,Toulouse,Beauvais,0.0,1.0,A,FR,1996/1997
-F2,1996-02-11,Beauvais,Amiens,2.0,0.0,H,FR,1996/1997
-F2,1996-02-11,Gueugnon,Chateauroux,1.0,1.0,D,FR,1996/1997
-F2,1996-02-11,Laval,Red Star 93,3.0,1.0,H,FR,1996/1997
-F2,1996-02-11,Lorient,St Brieuc,1.0,1.0,D,FR,1996/1997
-F2,1996-02-11,Niort,Toulouse,1.0,2.0,A,FR,1996/1997
-F2,1996-02-11,Perpignan,Le Mans,0.0,0.0,D,FR,1996/1997
-F2,1996-02-11,Sochaux,Martigues,0.0,0.0,D,FR,1996/1997
-F2,1996-02-11,St Etienne,Mulhouse,2.0,0.0,H,FR,1996/1997
-F2,1996-02-11,Toulon,Epinal,3.0,1.0,H,FR,1996/1997
-F2,1996-02-11,Troyes,Louhans-Cuis.,1.0,0.0,H,FR,1996/1997
-F2,1996-02-11,Valence,Charleville,1.0,2.0,A,FR,1996/1997
-F2,1996-06-11,Amiens,Niort,2.0,1.0,H,FR,1996/1997
-F2,1996-06-11,Charleville,Troyes,2.0,2.0,D,FR,1996/1997
-F2,1996-06-11,Epinal,Martigues,3.0,3.0,D,FR,1996/1997
-F2,1996-06-11,Le Mans,Gueugnon,2.0,1.0,H,FR,1996/1997
-F2,1996-06-11,Louhans-Cuis.,Laval,1.0,1.0,D,FR,1996/1997
-F2,1996-06-11,Mulhouse,Lorient,2.0,1.0,H,FR,1996/1997
-F2,1996-06-11,Red Star 93,St Etienne,1.0,1.0,D,FR,1996/1997
-F2,1996-06-11,St Brieuc,Beauvais,4.0,0.0,H,FR,1996/1997
-F2,1996-06-11,Toulouse,Perpignan,0.0,0.0,D,FR,1996/1997
-F2,1996-06-11,Valence,Sochaux,3.0,0.0,H,FR,1996/1997
-F2,1996-07-11,Chateauroux,Toulon,1.0,0.0,H,FR,1996/1997
+F2,1996-11-02,Beauvais,Amiens,2.0,0.0,H,FR,1996/1997
+F2,1996-11-02,Gueugnon,Chateauroux,1.0,1.0,D,FR,1996/1997
+F2,1996-11-02,Laval,Red Star 93,3.0,1.0,H,FR,1996/1997
+F2,1996-11-02,Lorient,St Brieuc,1.0,1.0,D,FR,1996/1997
+F2,1996-11-02,Niort,Toulouse,1.0,2.0,A,FR,1996/1997
+F2,1996-11-02,Perpignan,Le Mans,0.0,0.0,D,FR,1996/1997
+F2,1996-11-02,Sochaux,Martigues,0.0,0.0,D,FR,1996/1997
+F2,1996-11-02,St Etienne,Mulhouse,2.0,0.0,H,FR,1996/1997
+F2,1996-11-02,Toulon,Epinal,3.0,1.0,H,FR,1996/1997
+F2,1996-11-02,Troyes,Louhans-Cuis.,1.0,0.0,H,FR,1996/1997
+F2,1996-11-02,Valence,Charleville,1.0,2.0,A,FR,1996/1997
+F2,1996-11-06,Amiens,Niort,2.0,1.0,H,FR,1996/1997
+F2,1996-11-06,Charleville,Troyes,2.0,2.0,D,FR,1996/1997
+F2,1996-11-06,Epinal,Martigues,3.0,3.0,D,FR,1996/1997
+F2,1996-11-06,Le Mans,Gueugnon,2.0,1.0,H,FR,1996/1997
+F2,1996-11-06,Louhans-Cuis.,Laval,1.0,1.0,D,FR,1996/1997
+F2,1996-11-06,Mulhouse,Lorient,2.0,1.0,H,FR,1996/1997
+F2,1996-11-06,Red Star 93,St Etienne,1.0,1.0,D,FR,1996/1997
+F2,1996-11-06,St Brieuc,Beauvais,4.0,0.0,H,FR,1996/1997
+F2,1996-11-06,Toulouse,Perpignan,0.0,0.0,D,FR,1996/1997
+F2,1996-11-06,Valence,Sochaux,3.0,0.0,H,FR,1996/1997
+F2,1996-11-07,Chateauroux,Toulon,1.0,0.0,H,FR,1996/1997
 F2,1996-11-13,Beauvais,Mulhouse,1.0,2.0,A,FR,1996/1997
 F2,1996-11-13,Gueugnon,Toulouse,0.0,1.0,A,FR,1996/1997
 F2,1996-11-13,Laval,Charleville,0.0,0.0,D,FR,1996/1997
@@ -230,16 +230,16 @@ F2,1996-11-23,Perpignan,Mulhouse,3.0,0.0,H,FR,1996/1997
 F2,1996-11-23,Sochaux,Louhans-Cuis.,2.0,1.0,H,FR,1996/1997
 F2,1996-11-23,Toulon,Amiens,1.0,3.0,A,FR,1996/1997
 F2,1996-11-27,St Etienne,Valence,1.0,0.0,H,FR,1996/1997
-F2,1996-06-12,Amiens,Epinal,6.0,1.0,H,FR,1996/1997
-F2,1996-06-12,Mulhouse,Toulon,2.0,1.0,H,FR,1996/1997
-F2,1996-07-12,Charleville,Niort,1.0,1.0,D,FR,1996/1997
-F2,1996-07-12,Laval,St Etienne,0.0,0.0,D,FR,1996/1997
-F2,1996-07-12,Red Star 93,Le Mans,0.0,0.0,D,FR,1996/1997
-F2,1996-07-12,Sochaux,Gueugnon,2.0,2.0,D,FR,1996/1997
-F2,1996-07-12,St Brieuc,Martigues,1.0,2.0,A,FR,1996/1997
-F2,1996-07-12,Troyes,Beauvais,1.0,1.0,D,FR,1996/1997
-F2,1996-08-12,Louhans-Cuis.,Perpignan,1.0,1.0,D,FR,1996/1997
-F2,1996-08-12,Toulouse,Chateauroux,2.0,0.0,H,FR,1996/1997
+F2,1996-12-06,Amiens,Epinal,6.0,1.0,H,FR,1996/1997
+F2,1996-12-06,Mulhouse,Toulon,2.0,1.0,H,FR,1996/1997
+F2,1996-12-07,Charleville,Niort,1.0,1.0,D,FR,1996/1997
+F2,1996-12-07,Laval,St Etienne,0.0,0.0,D,FR,1996/1997
+F2,1996-12-07,Red Star 93,Le Mans,0.0,0.0,D,FR,1996/1997
+F2,1996-12-07,Sochaux,Gueugnon,2.0,2.0,D,FR,1996/1997
+F2,1996-12-07,St Brieuc,Martigues,1.0,2.0,A,FR,1996/1997
+F2,1996-12-07,Troyes,Beauvais,1.0,1.0,D,FR,1996/1997
+F2,1996-12-08,Louhans-Cuis.,Perpignan,1.0,1.0,D,FR,1996/1997
+F2,1996-12-08,Toulouse,Chateauroux,2.0,0.0,H,FR,1996/1997
 F2,1996-12-14,Beauvais,Laval,1.0,1.0,D,FR,1996/1997
 F2,1996-12-14,Chateauroux,Amiens,3.0,1.0,H,FR,1996/1997
 F2,1996-12-14,Epinal,St Brieuc,1.0,1.0,D,FR,1996/1997
@@ -262,18 +262,18 @@ F2,1997-01-25,St Brieuc,Chateauroux,0.0,4.0,A,FR,1996/1997
 F2,1997-01-25,St Etienne,Beauvais,2.0,2.0,D,FR,1996/1997
 F2,1997-01-25,Troyes,Niort,0.0,0.0,D,FR,1996/1997
 F2,1997-01-25,Valence,Toulouse,0.0,0.0,D,FR,1996/1997
-F2,1997-01-02,Beauvais,Sochaux,1.0,0.0,H,FR,1996/1997
-F2,1997-01-02,Chateauroux,Mulhouse,1.0,1.0,D,FR,1996/1997
-F2,1997-01-02,Epinal,Red Star 93,1.0,1.0,D,FR,1996/1997
-F2,1997-01-02,Gueugnon,Valence,3.0,1.0,H,FR,1996/1997
-F2,1997-01-02,Le Mans,St Brieuc,1.0,0.0,H,FR,1996/1997
-F2,1997-01-02,Lorient,St Etienne,2.0,0.0,H,FR,1996/1997
-F2,1997-01-02,Martigues,Louhans-Cuis.,1.0,1.0,D,FR,1996/1997
-F2,1997-01-02,Niort,Laval,1.0,0.0,H,FR,1996/1997
-F2,1997-01-02,Perpignan,Troyes,0.0,0.0,D,FR,1996/1997
-F2,1997-01-02,Toulon,Charleville,1.0,1.0,D,FR,1996/1997
-F2,1997-01-02,Toulouse,Amiens,2.0,1.0,H,FR,1996/1997
-F2,1997-12-02,Charleville,Martigues,2.0,0.0,H,FR,1996/1997
+F2,1997-02-01,Beauvais,Sochaux,1.0,0.0,H,FR,1996/1997
+F2,1997-02-01,Chateauroux,Mulhouse,1.0,1.0,D,FR,1996/1997
+F2,1997-02-01,Epinal,Red Star 93,1.0,1.0,D,FR,1996/1997
+F2,1997-02-01,Gueugnon,Valence,3.0,1.0,H,FR,1996/1997
+F2,1997-02-01,Le Mans,St Brieuc,1.0,0.0,H,FR,1996/1997
+F2,1997-02-01,Lorient,St Etienne,2.0,0.0,H,FR,1996/1997
+F2,1997-02-01,Martigues,Louhans-Cuis.,1.0,1.0,D,FR,1996/1997
+F2,1997-02-01,Niort,Laval,1.0,0.0,H,FR,1996/1997
+F2,1997-02-01,Perpignan,Troyes,0.0,0.0,D,FR,1996/1997
+F2,1997-02-01,Toulon,Charleville,1.0,1.0,D,FR,1996/1997
+F2,1997-02-01,Toulouse,Amiens,2.0,1.0,H,FR,1996/1997
+F2,1997-02-12,Charleville,Martigues,2.0,0.0,H,FR,1996/1997
 F2,1997-02-15,Beauvais,Lorient,1.0,1.0,D,FR,1996/1997
 F2,1997-02-15,Charleville,Gueugnon,1.0,2.0,A,FR,1996/1997
 F2,1997-02-15,Laval,Perpignan,1.0,0.0,H,FR,1996/1997
@@ -296,28 +296,28 @@ F2,1997-02-22,Niort,Beauvais,1.0,1.0,D,FR,1996/1997
 F2,1997-02-22,Perpignan,Valence,1.0,3.0,A,FR,1996/1997
 F2,1997-02-22,Toulon,St Etienne,1.0,0.0,H,FR,1996/1997
 F2,1997-02-22,Toulouse,Mulhouse,0.0,0.0,D,FR,1996/1997
-F2,1997-08-03,Beauvais,Martigues,1.0,1.0,D,FR,1996/1997
-F2,1997-08-03,Charleville,Chateauroux,1.0,1.0,D,FR,1996/1997
-F2,1997-08-03,Laval,Toulon,0.0,0.0,D,FR,1996/1997
-F2,1997-08-03,Lorient,Niort,1.0,1.0,D,FR,1996/1997
-F2,1997-08-03,Louhans-Cuis.,Le Mans,2.0,0.0,H,FR,1996/1997
-F2,1997-08-03,Mulhouse,Amiens,3.0,0.0,H,FR,1996/1997
-F2,1997-08-03,Red Star 93,Toulouse,1.0,1.0,D,FR,1996/1997
-F2,1997-08-03,Sochaux,St Brieuc,1.0,1.0,D,FR,1996/1997
-F2,1997-08-03,St Etienne,Perpignan,2.0,1.0,H,FR,1996/1997
-F2,1997-08-03,Troyes,Gueugnon,0.0,0.0,D,FR,1996/1997
-F2,1997-08-03,Valence,Epinal,0.0,0.0,D,FR,1996/1997
-F2,1997-12-03,Amiens,Red Star 93,1.0,0.0,H,FR,1996/1997
-F2,1997-12-03,Chateauroux,Valence,2.0,1.0,H,FR,1996/1997
-F2,1997-12-03,Epinal,St Etienne,2.0,1.0,H,FR,1996/1997
-F2,1997-12-03,Gueugnon,Beauvais,2.0,2.0,D,FR,1996/1997
-F2,1997-12-03,Le Mans,Charleville,2.0,2.0,D,FR,1996/1997
-F2,1997-12-03,Martigues,Laval,0.0,0.0,D,FR,1996/1997
-F2,1997-12-03,Niort,Sochaux,2.0,1.0,H,FR,1996/1997
-F2,1997-12-03,Perpignan,Lorient,2.0,1.0,H,FR,1996/1997
-F2,1997-12-03,St Brieuc,Mulhouse,0.0,0.0,D,FR,1996/1997
-F2,1997-12-03,Toulon,Troyes,3.0,0.0,H,FR,1996/1997
-F2,1997-12-03,Toulouse,Louhans-Cuis.,7.0,0.0,H,FR,1996/1997
+F2,1997-03-08,Beauvais,Martigues,1.0,1.0,D,FR,1996/1997
+F2,1997-03-08,Charleville,Chateauroux,1.0,1.0,D,FR,1996/1997
+F2,1997-03-08,Laval,Toulon,0.0,0.0,D,FR,1996/1997
+F2,1997-03-08,Lorient,Niort,1.0,1.0,D,FR,1996/1997
+F2,1997-03-08,Louhans-Cuis.,Le Mans,2.0,0.0,H,FR,1996/1997
+F2,1997-03-08,Mulhouse,Amiens,3.0,0.0,H,FR,1996/1997
+F2,1997-03-08,Red Star 93,Toulouse,1.0,1.0,D,FR,1996/1997
+F2,1997-03-08,Sochaux,St Brieuc,1.0,1.0,D,FR,1996/1997
+F2,1997-03-08,St Etienne,Perpignan,2.0,1.0,H,FR,1996/1997
+F2,1997-03-08,Troyes,Gueugnon,0.0,0.0,D,FR,1996/1997
+F2,1997-03-08,Valence,Epinal,0.0,0.0,D,FR,1996/1997
+F2,1997-03-12,Amiens,Red Star 93,1.0,0.0,H,FR,1996/1997
+F2,1997-03-12,Chateauroux,Valence,2.0,1.0,H,FR,1996/1997
+F2,1997-03-12,Epinal,St Etienne,2.0,1.0,H,FR,1996/1997
+F2,1997-03-12,Gueugnon,Beauvais,2.0,2.0,D,FR,1996/1997
+F2,1997-03-12,Le Mans,Charleville,2.0,2.0,D,FR,1996/1997
+F2,1997-03-12,Martigues,Laval,0.0,0.0,D,FR,1996/1997
+F2,1997-03-12,Niort,Sochaux,2.0,1.0,H,FR,1996/1997
+F2,1997-03-12,Perpignan,Lorient,2.0,1.0,H,FR,1996/1997
+F2,1997-03-12,St Brieuc,Mulhouse,0.0,0.0,D,FR,1996/1997
+F2,1997-03-12,Toulon,Troyes,3.0,0.0,H,FR,1996/1997
+F2,1997-03-12,Toulouse,Louhans-Cuis.,7.0,0.0,H,FR,1996/1997
 F2,1997-03-15,Beauvais,Toulon,2.0,0.0,H,FR,1996/1997
 F2,1997-03-15,Charleville,Toulouse,1.0,0.0,H,FR,1996/1997
 F2,1997-03-15,Laval,Epinal,4.0,0.0,H,FR,1996/1997
@@ -351,38 +351,38 @@ F2,1997-03-26,Sochaux,Red Star 93,1.0,1.0,D,FR,1996/1997
 F2,1997-03-26,St Etienne,Le Mans,2.0,0.0,H,FR,1996/1997
 F2,1997-03-26,Troyes,Toulouse,0.0,4.0,A,FR,1996/1997
 F2,1997-03-26,Valence,Amiens,1.0,1.0,D,FR,1996/1997
-F2,1997-01-04,Amiens,Troyes,0.0,0.0,D,FR,1996/1997
-F2,1997-01-04,Chateauroux,Beauvais,1.0,1.0,D,FR,1996/1997
-F2,1997-01-04,Epinal,Lorient,2.0,0.0,H,FR,1996/1997
-F2,1997-01-04,Le Mans,Sochaux,2.0,1.0,H,FR,1996/1997
-F2,1997-01-04,Martigues,Niort,1.0,2.0,A,FR,1996/1997
-F2,1997-01-04,Mulhouse,Charleville,2.0,2.0,D,FR,1996/1997
-F2,1997-01-04,Red Star 93,Louhans-Cuis.,1.0,4.0,A,FR,1996/1997
-F2,1997-01-04,St Brieuc,Valence,0.0,1.0,A,FR,1996/1997
-F2,1997-01-04,Toulon,Perpignan,1.0,1.0,D,FR,1996/1997
-F2,1997-01-04,Toulouse,Laval,1.0,1.0,D,FR,1996/1997
-F2,1997-05-04,Beauvais,Louhans-Cuis.,2.0,0.0,H,FR,1996/1997
-F2,1997-05-04,Charleville,Red Star 93,1.0,1.0,D,FR,1996/1997
-F2,1997-05-04,Gueugnon,Toulon,2.0,1.0,H,FR,1996/1997
-F2,1997-05-04,Laval,Amiens,1.0,0.0,H,FR,1996/1997
-F2,1997-05-04,Lorient,Le Mans,4.0,1.0,H,FR,1996/1997
-F2,1997-05-04,Niort,Epinal,2.0,1.0,H,FR,1996/1997
-F2,1997-05-04,Perpignan,Martigues,2.0,1.0,H,FR,1996/1997
-F2,1997-05-04,Sochaux,Chateauroux,1.0,1.0,D,FR,1996/1997
-F2,1997-05-04,St Etienne,Toulouse,1.0,1.0,D,FR,1996/1997
-F2,1997-05-04,Troyes,St Brieuc,1.0,0.0,H,FR,1996/1997
-F2,1997-05-04,Valence,Mulhouse,2.0,1.0,H,FR,1996/1997
-F2,1997-11-04,Amiens,St Etienne,2.0,0.0,H,FR,1996/1997
-F2,1997-11-04,Chateauroux,Niort,2.0,0.0,H,FR,1996/1997
-F2,1997-11-04,Epinal,Perpignan,0.0,1.0,A,FR,1996/1997
-F2,1997-11-04,Le Mans,Beauvais,0.0,0.0,D,FR,1996/1997
-F2,1997-11-04,Louhans-Cuis.,Charleville,0.0,2.0,A,FR,1996/1997
-F2,1997-11-04,Martigues,Gueugnon,4.0,1.0,H,FR,1996/1997
-F2,1997-11-04,Mulhouse,Troyes,2.0,1.0,H,FR,1996/1997
-F2,1997-11-04,Red Star 93,Valence,2.0,0.0,H,FR,1996/1997
-F2,1997-11-04,St Brieuc,Laval,0.0,1.0,A,FR,1996/1997
-F2,1997-11-04,Toulon,Sochaux,2.0,1.0,H,FR,1996/1997
-F2,1997-11-04,Toulouse,Lorient,0.0,1.0,A,FR,1996/1997
+F2,1997-04-01,Amiens,Troyes,0.0,0.0,D,FR,1996/1997
+F2,1997-04-01,Chateauroux,Beauvais,1.0,1.0,D,FR,1996/1997
+F2,1997-04-01,Epinal,Lorient,2.0,0.0,H,FR,1996/1997
+F2,1997-04-01,Le Mans,Sochaux,2.0,1.0,H,FR,1996/1997
+F2,1997-04-01,Martigues,Niort,1.0,2.0,A,FR,1996/1997
+F2,1997-04-01,Mulhouse,Charleville,2.0,2.0,D,FR,1996/1997
+F2,1997-04-01,Red Star 93,Louhans-Cuis.,1.0,4.0,A,FR,1996/1997
+F2,1997-04-01,St Brieuc,Valence,0.0,1.0,A,FR,1996/1997
+F2,1997-04-01,Toulon,Perpignan,1.0,1.0,D,FR,1996/1997
+F2,1997-04-01,Toulouse,Laval,1.0,1.0,D,FR,1996/1997
+F2,1997-04-05,Beauvais,Louhans-Cuis.,2.0,0.0,H,FR,1996/1997
+F2,1997-04-05,Charleville,Red Star 93,1.0,1.0,D,FR,1996/1997
+F2,1997-04-05,Gueugnon,Toulon,2.0,1.0,H,FR,1996/1997
+F2,1997-04-05,Laval,Amiens,1.0,0.0,H,FR,1996/1997
+F2,1997-04-05,Lorient,Le Mans,4.0,1.0,H,FR,1996/1997
+F2,1997-04-05,Niort,Epinal,2.0,1.0,H,FR,1996/1997
+F2,1997-04-05,Perpignan,Martigues,2.0,1.0,H,FR,1996/1997
+F2,1997-04-05,Sochaux,Chateauroux,1.0,1.0,D,FR,1996/1997
+F2,1997-04-05,St Etienne,Toulouse,1.0,1.0,D,FR,1996/1997
+F2,1997-04-05,Troyes,St Brieuc,1.0,0.0,H,FR,1996/1997
+F2,1997-04-05,Valence,Mulhouse,2.0,1.0,H,FR,1996/1997
+F2,1997-04-11,Amiens,St Etienne,2.0,0.0,H,FR,1996/1997
+F2,1997-04-11,Chateauroux,Niort,2.0,0.0,H,FR,1996/1997
+F2,1997-04-11,Epinal,Perpignan,0.0,1.0,A,FR,1996/1997
+F2,1997-04-11,Le Mans,Beauvais,0.0,0.0,D,FR,1996/1997
+F2,1997-04-11,Louhans-Cuis.,Charleville,0.0,2.0,A,FR,1996/1997
+F2,1997-04-11,Martigues,Gueugnon,4.0,1.0,H,FR,1996/1997
+F2,1997-04-11,Mulhouse,Troyes,2.0,1.0,H,FR,1996/1997
+F2,1997-04-11,Red Star 93,Valence,2.0,0.0,H,FR,1996/1997
+F2,1997-04-11,St Brieuc,Laval,0.0,1.0,A,FR,1996/1997
+F2,1997-04-11,Toulon,Sochaux,2.0,1.0,H,FR,1996/1997
+F2,1997-04-11,Toulouse,Lorient,0.0,1.0,A,FR,1996/1997
 F2,1997-04-16,Beauvais,Toulouse,3.0,0.0,H,FR,1996/1997
 F2,1997-04-16,Gueugnon,Epinal,3.0,0.0,H,FR,1996/1997
 F2,1997-04-16,Laval,Mulhouse,0.0,0.0,D,FR,1996/1997
@@ -417,28 +417,28 @@ F2,1997-04-30,Sochaux,Valence,0.0,1.0,A,FR,1996/1997
 F2,1997-04-30,St Etienne,Red Star 93,3.0,3.0,D,FR,1996/1997
 F2,1997-04-30,Toulon,Chateauroux,0.0,1.0,A,FR,1996/1997
 F2,1997-04-30,Troyes,Charleville,1.0,1.0,D,FR,1996/1997
-F2,1997-03-05,Amiens,Perpignan,2.0,2.0,D,FR,1996/1997
-F2,1997-03-05,Charleville,Laval,0.0,1.0,A,FR,1996/1997
-F2,1997-03-05,Chateauroux,Martigues,1.0,0.0,H,FR,1996/1997
-F2,1997-03-05,Epinal,Sochaux,0.0,1.0,A,FR,1996/1997
-F2,1997-03-05,Le Mans,Toulon,1.0,1.0,D,FR,1996/1997
-F2,1997-03-05,Louhans-Cuis.,St Etienne,3.0,0.0,H,FR,1996/1997
-F2,1997-03-05,Mulhouse,Beauvais,1.0,2.0,A,FR,1996/1997
-F2,1997-03-05,Red Star 93,Lorient,2.0,1.0,H,FR,1996/1997
-F2,1997-03-05,St Brieuc,Niort,0.0,1.0,A,FR,1996/1997
-F2,1997-03-05,Toulouse,Gueugnon,4.0,1.0,H,FR,1996/1997
-F2,1997-03-05,Valence,Troyes,3.0,1.0,H,FR,1996/1997
-F2,1997-08-05,Toulon,Toulouse,1.0,3.0,A,FR,1996/1997
-F2,1997-09-05,Beauvais,Red Star 93,3.0,2.0,H,FR,1996/1997
-F2,1997-09-05,Epinal,Chateauroux,0.0,3.0,A,FR,1996/1997
-F2,1997-09-05,Gueugnon,Amiens,4.0,2.0,H,FR,1996/1997
-F2,1997-09-05,Laval,Valence,4.0,1.0,H,FR,1996/1997
-F2,1997-09-05,Lorient,Louhans-Cuis.,4.0,0.0,H,FR,1996/1997
-F2,1997-09-05,Martigues,Le Mans,1.0,3.0,A,FR,1996/1997
-F2,1997-09-05,Niort,Mulhouse,1.0,1.0,D,FR,1996/1997
-F2,1997-09-05,Perpignan,St Brieuc,1.0,0.0,H,FR,1996/1997
-F2,1997-09-05,Sochaux,Troyes,2.0,1.0,H,FR,1996/1997
-F2,1997-09-05,St Etienne,Charleville,1.0,1.0,D,FR,1996/1997
+F2,1997-05-03,Amiens,Perpignan,2.0,2.0,D,FR,1996/1997
+F2,1997-05-03,Charleville,Laval,0.0,1.0,A,FR,1996/1997
+F2,1997-05-03,Chateauroux,Martigues,1.0,0.0,H,FR,1996/1997
+F2,1997-05-03,Epinal,Sochaux,0.0,1.0,A,FR,1996/1997
+F2,1997-05-03,Le Mans,Toulon,1.0,1.0,D,FR,1996/1997
+F2,1997-05-03,Louhans-Cuis.,St Etienne,3.0,0.0,H,FR,1996/1997
+F2,1997-05-03,Mulhouse,Beauvais,1.0,2.0,A,FR,1996/1997
+F2,1997-05-03,Red Star 93,Lorient,2.0,1.0,H,FR,1996/1997
+F2,1997-05-03,St Brieuc,Niort,0.0,1.0,A,FR,1996/1997
+F2,1997-05-03,Toulouse,Gueugnon,4.0,1.0,H,FR,1996/1997
+F2,1997-05-03,Valence,Troyes,3.0,1.0,H,FR,1996/1997
+F2,1997-05-08,Toulon,Toulouse,1.0,3.0,A,FR,1996/1997
+F2,1997-05-09,Beauvais,Red Star 93,3.0,2.0,H,FR,1996/1997
+F2,1997-05-09,Epinal,Chateauroux,0.0,3.0,A,FR,1996/1997
+F2,1997-05-09,Gueugnon,Amiens,4.0,2.0,H,FR,1996/1997
+F2,1997-05-09,Laval,Valence,4.0,1.0,H,FR,1996/1997
+F2,1997-05-09,Lorient,Louhans-Cuis.,4.0,0.0,H,FR,1996/1997
+F2,1997-05-09,Martigues,Le Mans,1.0,3.0,A,FR,1996/1997
+F2,1997-05-09,Niort,Mulhouse,1.0,1.0,D,FR,1996/1997
+F2,1997-05-09,Perpignan,St Brieuc,1.0,0.0,H,FR,1996/1997
+F2,1997-05-09,Sochaux,Troyes,2.0,1.0,H,FR,1996/1997
+F2,1997-05-09,St Etienne,Charleville,1.0,1.0,D,FR,1996/1997
 F2,1997-05-17,Amiens,Toulon,1.0,0.0,H,FR,1996/1997
 F2,1997-05-17,Charleville,Beauvais,2.0,2.0,D,FR,1996/1997
 F2,1997-05-17,Chateauroux,Lorient,4.0,0.0,H,FR,1996/1997

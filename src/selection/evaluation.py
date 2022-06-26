@@ -6,10 +6,12 @@ from sklearn.model_selection import TimeSeriesSplit, cross_validate, cross_val_p
 from sklearn.metrics import accuracy_score
 from src.selection.visualization import plot_timeseries_cv, plot_estimator_comparison, plot_bet_return_comparison
 from typing import List, Union, Dict
+from src.features.pipeline import construct_full_pipeline
 
 
 # Time series splitter that is reused throughout the validation
-_ts_splitter = TimeSeriesSplit(n_splits=7, test_size=70, max_train_size=400)
+#_ts_splitter = TimeSeriesSplit(n_splits=7, test_size=500, max_train_size=1500)
+_ts_splitter = TimeSeriesSplit(n_splits=7, test_size=1500)#, max_train_size=6000)
 
 
 def create_train_test(df_in: pd.DataFrame, split_date: Union[str, datetime], start_date: Union[str, datetime] = None,
@@ -53,10 +55,11 @@ def create_train_test(df_in: pd.DataFrame, split_date: Union[str, datetime], sta
     return X_train, X_test, y_train, y_test
 
 
-def temp_cross_validate(model, X, y, visualize: bool = False, dates: pd.Series = None) -> float:
+def temp_cross_validate(estimator, X, y, visualize: bool = False, dates: pd.Series = None) -> float:
     """Cross validates a given model over several time series splits and returns the average accuracy over all splits.
     """
-    cv = cross_validate(model, X, y, scoring=['accuracy'], cv=_ts_splitter)
+    full_pipeline = construct_full_pipeline(estimator)
+    cv = cross_validate(full_pipeline, X, y, scoring=['accuracy'], cv=_ts_splitter, n_jobs=6)
     avg_accuracy = cv['test_accuracy'].mean()
     if visualize:
         metrics = {'avg_rmse': avg_accuracy, 'splits_rmse': cv['test_accuracy']}
@@ -104,8 +107,9 @@ def compare_betting_return(estimators: list, X: pd.DataFrame, y: pd.Series, matc
         for train_index, test_index in _ts_splitter.split(X):
             X_train, X_test = X.iloc[train_index], X.iloc[test_index]
             y_train, y_test = y.iloc[train_index], y.iloc[test_index]
-            estimator.fit(X_train, y_train)
-            y_pred_proba_split = estimator.predict_proba(X_test)
+            full_pipeline = construct_full_pipeline(estimator)
+            full_pipeline.fit(X_train, y_train)
+            y_pred_proba_split = full_pipeline.predict_proba(X_test)
 
             # Save predicted probabilities
             if y_pred_proba is None:

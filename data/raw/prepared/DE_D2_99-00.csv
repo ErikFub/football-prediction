@@ -26,14 +26,14 @@ D2,1999-08-29,Nurnberg,F Koln,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
 D2,1999-08-29,Oberhausen,Greuther Furth,3.0,4.0,A,3.0,1.0,H,DE,1999/2000
 D2,1999-08-29,St Pauli,Bochum,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,1999-08-30,Karlsruhe,M'gladbach,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,1999-10-09,Mannheim,Karlsruhe,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D2,1999-10-09,Offenbach,Hannover,0.0,2.0,A,0.0,1.0,A,DE,1999/2000
-D2,1999-10-09,TB Berlin,St Pauli,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,1999-11-09,M'gladbach,Aachen,1.0,2.0,A,1.0,2.0,A,DE,1999/2000
-D2,1999-12-09,F Koln,Chemnitz,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,1999-12-09,Greuther Furth,Cottbus,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,1999-12-09,Mainz,Nurnberg,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D2,1999-12-09,Stuttgarter K,Oberhausen,2.0,2.0,D,0.0,2.0,A,DE,1999/2000
+D2,1999-09-10,Mannheim,Karlsruhe,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D2,1999-09-10,Offenbach,Hannover,0.0,2.0,A,0.0,1.0,A,DE,1999/2000
+D2,1999-09-10,TB Berlin,St Pauli,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,1999-09-11,M'gladbach,Aachen,1.0,2.0,A,1.0,2.0,A,DE,1999/2000
+D2,1999-09-12,F Koln,Chemnitz,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D2,1999-09-12,Greuther Furth,Cottbus,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,1999-09-12,Mainz,Nurnberg,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D2,1999-09-12,Stuttgarter K,Oberhausen,2.0,2.0,D,0.0,2.0,A,DE,1999/2000
 D2,1999-09-13,Bochum,FC Koln,2.0,3.0,A,1.0,1.0,D,DE,1999/2000
 D2,1999-09-17,Karlsruhe,Offenbach,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
 D2,1999-09-17,Oberhausen,Bochum,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
@@ -53,15 +53,15 @@ D2,1999-09-26,Offenbach,Aachen,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
 D2,1999-09-26,Stuttgarter K,Cottbus,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
 D2,1999-09-26,TB Berlin,Oberhausen,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D2,1999-09-27,M'gladbach,FC Koln,3.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D2,1999-01-10,Aachen,F Koln,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-01-10,FC Koln,Mannheim,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D2,1999-01-10,St Pauli,Offenbach,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,1999-02-10,Karlsruhe,Mainz,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D2,1999-03-10,Cottbus,Chemnitz,2.0,4.0,A,1.0,1.0,D,DE,1999/2000
-D2,1999-03-10,Greuther Furth,TB Berlin,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D2,1999-03-10,Oberhausen,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-03-10,Stuttgarter K,Bochum,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-04-10,Hannover,Nurnberg,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,1999-10-01,Aachen,F Koln,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-10-01,FC Koln,Mannheim,3.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D2,1999-10-01,St Pauli,Offenbach,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,1999-10-02,Karlsruhe,Mainz,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D2,1999-10-03,Cottbus,Chemnitz,2.0,4.0,A,1.0,1.0,D,DE,1999/2000
+D2,1999-10-03,Greuther Furth,TB Berlin,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D2,1999-10-03,Oberhausen,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-10-03,Stuttgarter K,Bochum,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-10-04,Hannover,Nurnberg,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
 D2,1999-10-15,F Koln,St Pauli,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
 D2,1999-10-15,M'gladbach,Greuther Furth,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
 D2,1999-10-15,Offenbach,FC Koln,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
@@ -88,16 +88,16 @@ D2,1999-10-31,Chemnitz,Aachen,2.0,2.0,D,1.0,2.0,A,DE,1999/2000
 D2,1999-10-31,F Koln,Oberhausen,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,1999-10-31,Hannover,Karlsruhe,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
 D2,1999-10-31,Offenbach,Greuther Furth,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,1999-01-11,M'gladbach,Bochum,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
-D2,1999-05-11,Aachen,Hannover,1.0,2.0,A,1.0,0.0,H,DE,1999/2000
-D2,1999-05-11,Bochum,Mannheim,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,1999-05-11,St Pauli,Chemnitz,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-06-11,Cottbus,Karlsruhe,3.0,2.0,H,3.0,2.0,H,DE,1999/2000
-D2,1999-07-11,FC Koln,Nurnberg,6.0,1.0,H,3.0,0.0,H,DE,1999/2000
-D2,1999-07-11,Greuther Furth,F Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-07-11,Oberhausen,Mainz,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-07-11,Stuttgarter K,Offenbach,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
-D2,1999-08-11,TB Berlin,M'gladbach,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
+D2,1999-11-01,M'gladbach,Bochum,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
+D2,1999-11-05,Aachen,Hannover,1.0,2.0,A,1.0,0.0,H,DE,1999/2000
+D2,1999-11-05,Bochum,Mannheim,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D2,1999-11-05,St Pauli,Chemnitz,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-11-06,Cottbus,Karlsruhe,3.0,2.0,H,3.0,2.0,H,DE,1999/2000
+D2,1999-11-07,FC Koln,Nurnberg,6.0,1.0,H,3.0,0.0,H,DE,1999/2000
+D2,1999-11-07,Greuther Furth,F Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-11-07,Oberhausen,Mainz,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-11-07,Stuttgarter K,Offenbach,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
+D2,1999-11-08,TB Berlin,M'gladbach,2.0,2.0,D,1.0,1.0,D,DE,1999/2000
 D2,1999-11-19,F Koln,Stuttgarter K,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
 D2,1999-11-19,Hannover,St Pauli,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
 D2,1999-11-19,Mannheim,TB Berlin,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
@@ -116,20 +116,20 @@ D2,1999-11-28,Oberhausen,Chemnitz,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D2,1999-11-28,St Pauli,Karlsruhe,3.0,1.0,H,1.0,0.0,H,DE,1999/2000
 D2,1999-11-28,TB Berlin,Offenbach,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,1999-11-29,Greuther Furth,Nurnberg,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D2,1999-03-12,Chemnitz,Greuther Furth,5.0,0.0,H,3.0,0.0,H,DE,1999/2000
-D2,1999-03-12,Hannover,Oberhausen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D2,1999-03-12,Offenbach,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-04-12,Mannheim,Cottbus,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,1999-05-12,Aachen,St Pauli,3.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D2,1999-05-12,F Koln,TB Berlin,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-05-12,Mainz,Bochum,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
-D2,1999-05-12,Nurnberg,Stuttgarter K,3.0,2.0,H,2.0,0.0,H,DE,1999/2000
-D2,1999-06-12,Karlsruhe,FC Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-10-12,FC Koln,Aachen,4.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D2,1999-10-12,Greuther Furth,Hannover,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,1999-10-12,Stuttgarter K,Chemnitz,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
-D2,1999-10-12,TB Berlin,Mainz,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,1999-11-12,Bochum,Nurnberg,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
+D2,1999-12-03,Chemnitz,Greuther Furth,5.0,0.0,H,3.0,0.0,H,DE,1999/2000
+D2,1999-12-03,Hannover,Oberhausen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D2,1999-12-03,Offenbach,M'gladbach,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-12-04,Mannheim,Cottbus,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,1999-12-05,Aachen,St Pauli,3.0,1.0,H,2.0,0.0,H,DE,1999/2000
+D2,1999-12-05,F Koln,TB Berlin,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-12-05,Mainz,Bochum,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
+D2,1999-12-05,Nurnberg,Stuttgarter K,3.0,2.0,H,2.0,0.0,H,DE,1999/2000
+D2,1999-12-06,Karlsruhe,FC Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-12-10,FC Koln,Aachen,4.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D2,1999-12-10,Greuther Furth,Hannover,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,1999-12-10,Stuttgarter K,Chemnitz,2.0,2.0,D,1.0,0.0,H,DE,1999/2000
+D2,1999-12-10,TB Berlin,Mainz,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,1999-12-11,Bochum,Nurnberg,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D2,1999-12-12,M'gladbach,F Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,1999-12-12,Offenbach,Mannheim,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
 D2,1999-12-12,St Pauli,Cottbus,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
@@ -148,13 +148,13 @@ D2,1999-12-18,Mannheim,Mainz,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
 D2,1999-12-19,Oberhausen,St Pauli,2.0,2.0,D,0.0,1.0,A,DE,1999/2000
 D2,1999-12-19,Offenbach,F Koln,4.0,3.0,H,2.0,2.0,D,DE,1999/2000
 D2,1999-12-20,M'gladbach,Nurnberg,4.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D2,2000-07-02,Greuther Furth,Aachen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D2,2000-09-02,Bochum,Hannover,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-09-02,Oberhausen,Karlsruhe,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-11-02,Mannheim,Nurnberg,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D2,2000-11-02,M'gladbach,Chemnitz,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-11-02,Stuttgarter K,Aachen,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
-D2,2000-12-02,Offenbach,Mainz,2.0,2.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-02-07,Greuther Furth,Aachen,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D2,2000-02-09,Bochum,Hannover,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-02-09,Oberhausen,Karlsruhe,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,2000-02-11,Mannheim,Nurnberg,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
+D2,2000-02-11,M'gladbach,Chemnitz,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-02-11,Stuttgarter K,Aachen,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
+D2,2000-02-12,Offenbach,Mainz,2.0,2.0,D,0.0,1.0,A,DE,1999/2000
 D2,2000-02-13,F Koln,Cottbus,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-02-13,Greuther Furth,St Pauli,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,2000-02-13,Oberhausen,FC Koln,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
@@ -178,24 +178,24 @@ D2,2000-02-27,Greuther Furth,Oberhausen,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
 D2,2000-02-27,Mannheim,Hannover,2.0,2.0,D,0.0,2.0,A,DE,1999/2000
 D2,2000-02-27,Stuttgarter K,FC Koln,1.0,2.0,A,0.0,0.0,D,DE,1999/2000
 D2,2000-02-28,M'gladbach,Karlsruhe,4.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D2,2000-02-03,Stuttgarter K,Karlsruhe,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-03-02,Stuttgarter K,Karlsruhe,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-03-03,Aachen,M'gladbach,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
 D2,2000-03-03,Chemnitz,F Koln,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
 D2,2000-03-03,Cottbus,Greuther Furth,4.0,2.0,H,1.0,2.0,A,DE,1999/2000
 D2,2000-03-03,FC Koln,Bochum,3.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-04-03,Nurnberg,Mainz,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-05-03,Hannover,Offenbach,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D2,2000-05-03,Oberhausen,Stuttgarter K,2.0,2.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-05-03,St Pauli,TB Berlin,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,2000-06-03,Karlsruhe,Mannheim,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-10-03,Mainz,Chemnitz,5.0,0.0,H,2.0,0.0,H,DE,1999/2000
-D2,2000-10-03,M'gladbach,St Pauli,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-10-03,Nurnberg,Cottbus,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D2,2000-11-03,Offenbach,Karlsruhe,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-12-03,Bochum,Oberhausen,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-12-03,F Koln,Hannover,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,2000-12-03,Mannheim,Aachen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D2,2000-12-03,Stuttgarter K,Greuther Furth,1.0,5.0,A,1.0,3.0,A,DE,1999/2000
+D2,2000-03-04,Nurnberg,Mainz,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-03-05,Hannover,Offenbach,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D2,2000-03-05,Oberhausen,Stuttgarter K,2.0,2.0,D,0.0,0.0,D,DE,1999/2000
+D2,2000-03-05,St Pauli,TB Berlin,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-03-06,Karlsruhe,Mannheim,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D2,2000-03-10,Mainz,Chemnitz,5.0,0.0,H,2.0,0.0,H,DE,1999/2000
+D2,2000-03-10,M'gladbach,St Pauli,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-03-10,Nurnberg,Cottbus,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D2,2000-03-11,Offenbach,Karlsruhe,1.0,0.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-03-12,Bochum,Oberhausen,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,2000-03-12,F Koln,Hannover,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-03-12,Mannheim,Aachen,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D2,2000-03-12,Stuttgarter K,Greuther Furth,1.0,5.0,A,1.0,3.0,A,DE,1999/2000
 D2,2000-03-13,TB Berlin,FC Koln,2.0,0.0,H,2.0,0.0,H,DE,1999/2000
 D2,2000-03-17,Hannover,Mainz,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-03-17,St Pauli,Mannheim,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
@@ -217,21 +217,21 @@ D2,2000-03-27,Chemnitz,Cottbus,1.0,2.0,A,1.0,0.0,H,DE,1999/2000
 D2,2000-03-31,Hannover,Chemnitz,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-03-31,Oberhausen,Mannheim,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
 D2,2000-03-31,Stuttgarter K,TB Berlin,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-01-04,FC Koln,Offenbach,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,2000-02-04,Aachen,Mainz,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-02-04,Greuther Furth,M'gladbach,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
-D2,2000-02-04,Karlsruhe,Nurnberg,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
-D2,2000-02-04,St Pauli,F Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-03-04,Cottbus,Bochum,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,2000-07-04,Hannover,Cottbus,3.0,2.0,H,2.0,0.0,H,DE,1999/2000
-D2,2000-07-04,Mainz,St Pauli,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
-D2,2000-07-04,Nurnberg,Aachen,3.0,1.0,H,2.0,1.0,H,DE,1999/2000
-D2,2000-08-04,M'gladbach,Stuttgarter K,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
-D2,2000-09-04,Chemnitz,Karlsruhe,3.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-09-04,F Koln,FC Koln,4.0,1.0,H,2.0,0.0,H,DE,1999/2000
-D2,2000-09-04,Mannheim,Greuther Furth,3.0,3.0,D,2.0,0.0,H,DE,1999/2000
-D2,2000-09-04,Offenbach,Oberhausen,2.0,1.0,H,2.0,1.0,H,DE,1999/2000
-D2,2000-10-04,TB Berlin,Bochum,0.0,4.0,A,0.0,0.0,D,DE,1999/2000
+D2,2000-04-01,FC Koln,Offenbach,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-04-02,Aachen,Mainz,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,2000-04-02,Greuther Furth,M'gladbach,1.0,1.0,D,1.0,0.0,H,DE,1999/2000
+D2,2000-04-02,Karlsruhe,Nurnberg,0.0,1.0,A,0.0,1.0,A,DE,1999/2000
+D2,2000-04-02,St Pauli,F Koln,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
+D2,2000-04-03,Cottbus,Bochum,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-04-07,Hannover,Cottbus,3.0,2.0,H,2.0,0.0,H,DE,1999/2000
+D2,2000-04-07,Mainz,St Pauli,1.0,1.0,D,1.0,1.0,D,DE,1999/2000
+D2,2000-04-07,Nurnberg,Aachen,3.0,1.0,H,2.0,1.0,H,DE,1999/2000
+D2,2000-04-08,M'gladbach,Stuttgarter K,1.0,1.0,D,0.0,1.0,A,DE,1999/2000
+D2,2000-04-09,Chemnitz,Karlsruhe,3.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-04-09,F Koln,FC Koln,4.0,1.0,H,2.0,0.0,H,DE,1999/2000
+D2,2000-04-09,Mannheim,Greuther Furth,3.0,3.0,D,2.0,0.0,H,DE,1999/2000
+D2,2000-04-09,Offenbach,Oberhausen,2.0,1.0,H,2.0,1.0,H,DE,1999/2000
+D2,2000-04-10,TB Berlin,Bochum,0.0,4.0,A,0.0,0.0,D,DE,1999/2000
 D2,2000-04-14,Aachen,Chemnitz,0.0,1.0,A,0.0,0.0,D,DE,1999/2000
 D2,2000-04-14,St Pauli,Nurnberg,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
 D2,2000-04-14,Stuttgarter K,Mannheim,3.0,0.0,H,0.0,0.0,D,DE,1999/2000
@@ -259,19 +259,19 @@ D2,2000-04-30,Aachen,Karlsruhe,4.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D2,2000-04-30,FC Koln,Chemnitz,2.0,1.0,H,1.0,1.0,D,DE,1999/2000
 D2,2000-04-30,Greuther Furth,Mainz,2.0,0.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-04-30,Stuttgarter K,F Koln,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D2,2000-01-05,Cottbus,M'gladbach,2.0,2.0,D,1.0,2.0,A,DE,1999/2000
+D2,2000-05-01,Cottbus,M'gladbach,2.0,2.0,D,1.0,2.0,A,DE,1999/2000
 D2,2000-05-05,Aachen,Cottbus,1.0,0.0,H,0.0,0.0,D,DE,1999/2000
 D2,2000-05-05,Karlsruhe,St Pauli,0.0,0.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-06-05,F Koln,Bochum,2.0,3.0,A,0.0,1.0,A,DE,1999/2000
-D2,2000-07-05,Chemnitz,Oberhausen,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
-D2,2000-07-05,Mainz,Stuttgarter K,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-07-05,Nurnberg,Greuther Furth,2.0,2.0,D,2.0,2.0,D,DE,1999/2000
-D2,2000-07-05,Offenbach,TB Berlin,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
-D2,2000-08-05,Hannover,FC Koln,3.0,5.0,A,2.0,1.0,H,DE,1999/2000
-D2,2000-10-05,Mannheim,M'gladbach,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-12-05,Oberhausen,Hannover,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
-D2,2000-12-05,St Pauli,Aachen,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
-D2,2000-12-05,TB Berlin,F Koln,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
+D2,2000-05-06,F Koln,Bochum,2.0,3.0,A,0.0,1.0,A,DE,1999/2000
+D2,2000-05-07,Chemnitz,Oberhausen,1.0,1.0,D,0.0,0.0,D,DE,1999/2000
+D2,2000-05-07,Mainz,Stuttgarter K,2.0,0.0,H,0.0,0.0,D,DE,1999/2000
+D2,2000-05-07,Nurnberg,Greuther Furth,2.0,2.0,D,2.0,2.0,D,DE,1999/2000
+D2,2000-05-07,Offenbach,TB Berlin,2.0,1.0,H,1.0,0.0,H,DE,1999/2000
+D2,2000-05-08,Hannover,FC Koln,3.0,5.0,A,2.0,1.0,H,DE,1999/2000
+D2,2000-05-10,Mannheim,M'gladbach,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
+D2,2000-05-12,Oberhausen,Hannover,2.0,1.0,H,0.0,0.0,D,DE,1999/2000
+D2,2000-05-12,St Pauli,Aachen,2.0,1.0,H,0.0,1.0,A,DE,1999/2000
+D2,2000-05-12,TB Berlin,F Koln,1.0,2.0,A,0.0,1.0,A,DE,1999/2000
 D2,2000-05-13,Stuttgarter K,Nurnberg,0.0,3.0,A,0.0,1.0,A,DE,1999/2000
 D2,2000-05-14,Cottbus,Mannheim,3.0,2.0,H,1.0,0.0,H,DE,1999/2000
 D2,2000-05-14,FC Koln,Karlsruhe,1.0,2.0,A,1.0,1.0,D,DE,1999/2000
