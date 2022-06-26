@@ -153,7 +153,7 @@ class Scraper:
                                table.find_all("tr")[0].get('class', '') == ["table-grosse-schrift"]]
                     matches_information = [self._get_match_information(match) for match in matches]
                     matches_df = pd.DataFrame(matches_information)
-                    matches_df['season'] = f"{str(season)[-2:]}/{int(str(season)[-2:])+1}"
+                    matches_df['season'] = f"{str(season)[-2:]}/{str(int(str(season)[-2:])+1).rjust(2, '0')}"
                     matches_df['league_id'] = league
                     matches_df['matchday'] = matchday
                     self._db_access.save_matches(matches_df)
