@@ -55,6 +55,10 @@ class DbAccessLayer:
             VALUES ({values});
         """, self._conn)
 
+    def update_col_val(self, table, col, condition_col, condition_val, new_val):
+        sql.execute(f"""UPDATE {table} SET {col} = '{new_val}' WHERE {condition_col} = '{condition_val}'""",
+                    con=self._conn)
+
     def save_matches(self, matches: Union[pd.Series, pd.DataFrame]):
         if isinstance(matches, pd.Series):
             self._update_insert_entry(matches, 'Match')
