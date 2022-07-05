@@ -94,6 +94,22 @@ class DbAccessLayer:
             db_entry['b365_A'] = row['B365A']
             self._update_insert_entry(db_entry, 'Odds')
 
+    def update_feature(self, feature_vals: pd.Series):
+        for match_id, val in feature_vals.iteritems():
+            self.update_col_val(table="Features", col=feature_vals.name, condition_col='match_id',
+                                condition_val=match_id, new_val=val)
+
+    def get_features_labels(self):
+        features_df = self.load_table('Features')
+        match_df = self.load_table('Match')
+        labels = features_df.merge(match_df, on='match_id', how='left')[['id', 'result']]
+        features = features_df.drop(columns=['match_id'])
+        if len(labels) != len(features):
+            raise Exception("Internal error: features and labels do not have the same length.")
+        labels.index = match_df['date']
+        features.index = match_df['date']
+        return features, labels
+
 
 class ExternalDataAccessLayer:
     """Class to access and save external data saved in/to folder data/external."""
