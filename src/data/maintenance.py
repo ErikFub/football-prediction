@@ -59,6 +59,7 @@ class Database:
         self.db_access = DbAccessLayer()
 
     def create_matches_table(self):
+        """Creates secondary match table with match data from other websites."""
         all_matches = RawDataAccessLayer().load_all_prepared()
         self.db_access.overwrite_table_from_df(all_matches, 'MatchSecondary')
 
