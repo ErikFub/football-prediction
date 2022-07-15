@@ -22,9 +22,9 @@ class NeuralNetworkClassifier(KerasClassifier):
 
     def _build_model_experimental(self):
         # create model
-        print("Experimental")
+        print("Warning: Using experimental version of Neural Network.")
         model = Sequential()
-        model.add(Dense(512, input_dim=10, kernel_initializer=self.initializer, activation='relu'))
+        model.add(Dense(512, input_dim=6, kernel_initializer=self.initializer, activation='relu'))
         model.add(Dense(256, kernel_initializer=self.initializer, activation='relu'))
         model.add(Dense(128, kernel_initializer=self.initializer, activation='relu'))
         model.add(Dense(64, kernel_initializer=self.initializer, activation='relu'))
