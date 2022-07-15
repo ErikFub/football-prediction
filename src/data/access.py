@@ -95,6 +95,8 @@ class DbAccessLayer:
             self._update_insert_entry(db_entry, 'Odds')
 
     def update_feature(self, feature_vals: pd.Series):
+        """Update vales in features table. Index of series must be match id and the name must correspond to the feature
+         name."""
         for match_id, val in feature_vals.iteritems():
             self.update_col_val(table="Features", col=feature_vals.name, condition_col='match_id',
                                 condition_val=match_id, new_val=val)
