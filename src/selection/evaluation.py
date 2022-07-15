@@ -19,6 +19,9 @@ def create_train_test(df_in: pd.DataFrame, split_date: Union[str, datetime], sta
     """Splits a given dataframe into train and test around a specified split date. The target variable passed must be
     named 'result'."""
     df = df_in.copy()
+    if 'date' not in df.columns:
+        df['date'] = df.index
+        df.index.name = None
     df['date'] = pd.to_datetime(df['date'])
     df = df.sort_values('date')
 
